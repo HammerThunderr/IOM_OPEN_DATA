@@ -9,20 +9,7 @@
     "chosen": "100"
   },
   "total_reported": null,
-  "pages_scraped": 148,
-  "last_pagination_diag": [
-    {
-      "text": "Previous",
-      "aria": null,
-      "wire": "previousPage('page')",
-      "disabled": false
-    },
-    {
-      "text": "Next",
-      "aria": null,
-      "wire": "nextPage('page')",
-      "disabled": false
-    }
-  ],
-  "stop_reason": "clicked next (next-button) but table did not change within timeout"
+  "pages_scraped": 203,
+  "last_pagination_diag": null,
+  "stop_reason": "reached last page (page None of None, hasNext=False)"
 }
