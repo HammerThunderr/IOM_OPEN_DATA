@@ -1,7 +1,129 @@
 {
   "source": "https://propertyprices.im/",
-  "scraped_at": null,
-  "record_count": 0,
-  "records": [],
-  "note": "Placeholder. Populated on the first GitHub Actions run (or local run)."
+  "source_note": "Data from the Isle of Man Land Registry, refreshed monthly.",
+  "extraction_strategy": "table",
+  "scraped_at": "2026-05-30T15:12:14.503321+00:00",
+  "record_count": 15,
+  "records": [
+    {
+      "Name / Number, Street": "Phildraw Farm, Phildraw Road",
+      "Town": "Ballasalla",
+      "Postcode": "IM9 3EG",
+      "Latest Sale Price": "£650,000.00",
+      "Records": "1",
+      "": "Details"
+    },
+    {
+      "Name / Number, Street": "Ardane, Ballamenagh Road",
+      "Town": "Lonan",
+      "Postcode": "IM4 6AQ",
+      "Latest Sale Price": "£960,000.00",
+      "Records": "2",
+      "": "Details"
+    },
+    {
+      "Name / Number, Street": "48, Lakeside Road, Governors Hill",
+      "Town": "Douglas",
+      "Postcode": "IM2 7BA",
+      "Latest Sale Price": "£280,000.00",
+      "Records": "2",
+      "": "Details"
+    },
+    {
+      "Name / Number, Street": "8, Kingswood Grove",
+      "Town": "Douglas",
+      "Postcode": "IM1 3LX",
+      "Latest Sale Price": "£265,000.00",
+      "Records": "2",
+      "": "Details"
+    },
+    {
+      "Name / Number, Street": "43, Faragher Road, Reayrt Mie",
+      "Town": "Ballasalla",
+      "Postcode": "IM9 2BN",
+      "Latest Sale Price": "£175,000.00",
+      "Records": "1",
+      "": "Details"
+    },
+    {
+      "Name / Number, Street": "5, Links Close",
+      "Town": "Port Erin",
+      "Postcode": "IM9 6LT",
+      "Latest Sale Price": "£337,000.00",
+      "Records": "6",
+      "": "Details"
+    },
+    {
+      "Name / Number, Street": "10, St Marys Glebe",
+      "Town": "Port St Mary",
+      "Postcode": "IM9 5PF",
+      "Latest Sale Price": "£275,000.00",
+      "Records": "6",
+      "": "Details"
+    },
+    {
+      "Name / Number, Street": "3, Queens Drive",
+      "Town": "Peel",
+      "Postcode": "IM5 1BH",
+      "Latest Sale Price": "£433,000.00",
+      "Records": "2",
+      "": "Details"
+    },
+    {
+      "Name / Number, Street": "Phoenix Cottage, Ballacorey Road",
+      "Town": "Bride",
+      "Postcode": "IM7 4AW",
+      "Latest Sale Price": "£740,000.00",
+      "Records": "1",
+      "": "Details"
+    },
+    {
+      "Name / Number, Street": "17, Silverdene, Devonshire Road",
+      "Town": "Douglas",
+      "Postcode": "IM2 3QY",
+      "Latest Sale Price": "£490,000.00",
+      "Records": "1",
+      "": "Details"
+    },
+    {
+      "Name / Number, Street": "Greystones, Hilary Road",
+      "Town": "Douglas",
+      "Postcode": "IM2 3EQ",
+      "Latest Sale Price": "£460,000.00",
+      "Records": "1",
+      "": "Details"
+    },
+    {
+      "Name / Number, Street": "Unit 108, Balthane Park Industrial Estate, Balthane",
+      "Town": "Malew",
+      "Postcode": "",
+      "Latest Sale Price": "£250,000.00",
+      "Records": "1",
+      "": "Details"
+    },
+    {
+      "Name / Number, Street": "47, Droghadfayle Road",
+      "Town": "Port Erin",
+      "Postcode": "IM9 6EN",
+      "Latest Sale Price": "£344,950.00",
+      "Records": "1",
+      "": "Details"
+    },
+    {
+      "Name / Number, Street": "Port E Chee, Lheaney Road",
+      "Town": "Ramsey",
+      "Postcode": "IM8 2JF",
+      "Latest Sale Price": "£825,000.00",
+      "Records": "2",
+      "": "Details"
+    },
+    {
+      "Name / Number, Street": "42, Cronk Y Berry",
+      "Town": "Douglas",
+      "Postcode": "IM2 6ET",
+      "Latest Sale Price": "£335,000.00",
+      "Records": "2",
+      "": "Details"
+    }
+  ]
 }
