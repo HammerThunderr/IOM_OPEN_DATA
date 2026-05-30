@@ -39,7 +39,27 @@ DEBUG_FILE = OUT_DIR / "_debug_property_prices_captures.json"
 
 MAX_PAGES = int(os.getenv("MAX_PAGES", "0"))   # 0 == unlimited
 PAGE_DELAY = float(os.getenv("PAGE_DELAY", "0.5"))
+# FULL_SCRAPE=1 ignores any existing data file and re-scrapes everything.
+# Use it for the first/baseline run, or to rebuild from scratch.
+FULL_SCRAPE = os.getenv("FULL_SCRAPE", "0") == "1"
 NAV_TIMEOUT = 60_000
+
+
+def rowkey(record):
+    """Stable identity for a record (used to detect already-seen rows)."""
+    return tuple(sorted((str(k), str(v)) for k, v in record.items()))
+
+
+def load_existing():
+    """Return (records, keyset) from the existing output file, or ([], set())."""
+    if FULL_SCRAPE or not OUT_FILE.exists():
+        return [], set()
+    try:
+        data = json.loads(OUT_FILE.read_text())
+        recs = data.get("records", [])
+        return recs, {rowkey(r) for r in recs}
+    except (json.JSONDecodeError, OSError):
+        return [], set()
 
 
 def trigger_lazy_load(page):
@@ -129,28 +149,88 @@ def first_row_signature(page):
 
 
 def go_next(page):
-    """Click the pagination 'Next' control. Returns True if a click happened."""
-    clicked = page.evaluate("""
+    """Advance to the next page of the table.
+
+    Strategy, in order:
+      1. An explicit "Next" control (text/aria-label/rel/class contains 'next',
+         or a Livewire wire:click of nextPage(...)).
+      2. Numbered pagination: find the current page and click current+1
+         (matches Livewire setPage(N,...) buttons).
+
+    Returns a dict: {clicked: bool, reason: str, diag: {...}} so the caller can
+    log exactly why pagination stopped.
+    """
+    result = page.evaluate("""
     () => {
-      const cands = Array.from(document.querySelectorAll('button, a')).filter(el => {
+      const isUsable = el =>
+        !el.disabled && el.getAttribute('aria-disabled') !== 'true'
+        && el.offsetParent !== null;
+
+      const all = Array.from(document.querySelectorAll('button, a'));
+
+      // --- diagnostics: every control that smells like pagination ---
+      const diag = all
+        .filter(el => {
+          const wc = (el.getAttribute('wire:click') || '').toLowerCase();
+          const al = (el.getAttribute('aria-label') || '').toLowerCase();
+          const t  = (el.innerText || '').trim().toLowerCase();
+          return wc.includes('page') || al.includes('next') || al.includes('previous')
+                 || /^\\d+$/.test(t) || t === 'next' || t === 'previous';
+        })
+        .map(el => ({
+          text: (el.innerText || '').trim().slice(0, 20),
+          aria: el.getAttribute('aria-label'),
+          wire: el.getAttribute('wire:click'),
+          disabled: !isUsable(el),
+        }));
+
+      // --- 1. explicit Next ---
+      const nextBtn = all.find(el => {
         const t  = (el.innerText || '').trim().toLowerCase();
         const al = (el.getAttribute('aria-label') || '').toLowerCase();
         const cn = (el.className || '').toString().toLowerCase();
-        return t === 'next' || al === 'next' || el.rel === 'next' || cn.includes('next');
+        const wc = (el.getAttribute('wire:click') || '').toLowerCase();
+        const isNext = t === 'next' || al.includes('next') || el.rel === 'next'
+                       || cn.includes('next') || wc.includes('nextpage');
+        return isNext && isUsable(el);
       });
-      const btn = cands.find(el =>
-        !el.disabled && el.getAttribute('aria-disabled') !== 'true');
-      if (btn) { btn.scrollIntoView({block: 'center'}); btn.click(); return true; }
-      return false;
+      if (nextBtn) {
+        nextBtn.scrollIntoView({block: 'center'});
+        nextBtn.click();
+        return { clicked: true, reason: 'next-button', diag };
+      }
+
+      // --- 2. numbered pagination fallback ---
+      const current = all.find(el =>
+        el.getAttribute('aria-current') === 'page'
+        || (el.className || '').toString().toLowerCase().includes('current'));
+      if (current) {
+        const cur = parseInt((current.innerText || '').trim());
+        if (!isNaN(cur)) {
+          const target = all.find(el =>
+            parseInt((el.innerText || '').trim()) === cur + 1 && isUsable(el));
+          if (target) {
+            target.scrollIntoView({block: 'center'});
+            target.click();
+            return { clicked: true, reason: 'numbered-' + (cur + 1), diag };
+          }
+        }
+      }
+
+      return { clicked: false, reason: 'no-usable-next-control', diag };
     }
     """)
-    return clicked
+    return result
 
 
 def scrape():
     debug = {"per_page_select": None, "total_reported": None, "pages_scraped": 0}
-    seen = set()
-    records = []
+
+    existing_records, existing_keys = load_existing()
+    print(f"Existing records on file: {len(existing_records)}.", flush=True)
+
+    new_records = []
+    new_keys = set()
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -167,64 +247,127 @@ def scrape():
         if total is not None:
             print(f"Site reports {total} total records.", flush=True)
 
+        # --- Decide mode (now that we know the site total) ---
+        # Incremental only when we have a baseline that looks COMPLETE. If the
+        # file is missing/empty, or clearly behind the site total (>10% short),
+        # the baseline is unusable -> do a full scrape and re-build it. This is
+        # what makes the scraper self-healing: you never pass a flag.
+        baseline_incomplete = bool(
+            existing_keys and total and len(existing_records) < total * 0.9)
+        incremental = bool(existing_keys) and not FULL_SCRAPE and not baseline_incomplete
+
+        if incremental:
+            mode = "INCREMENTAL (new records only)"
+            scan_keys = existing_keys      # stop when we reach saved records
+        else:
+            if FULL_SCRAPE:
+                mode = "FULL (forced by FULL_SCRAPE)"
+            elif baseline_incomplete:
+                mode = (f"FULL (baseline incomplete: have {len(existing_records)}, "
+                        f"site has {total} - rebuilding)")
+            else:
+                mode = "FULL (first run, no baseline)"
+            scan_keys = set()              # treat everything as fresh; no early stop
+        print(f"Mode: {mode}.", flush=True)
+
         page_num = 0
         while True:
             page_num += 1
             page_rows = scrape_current_page(page)
-            new = 0
+            new_this_page = 0
+            hit_known = False
             for r in page_rows:
-                key = tuple(sorted(r.items()))
-                if key not in seen:
-                    seen.add(key)
-                    records.append(r)
-                    new += 1
-            print(f"Page {page_num}: {len(page_rows)} rows ({new} new), "
-                  f"total collected {len(records)}.", flush=True)
+                key = rowkey(r)
+                if key in scan_keys:
+                    hit_known = True            # reached our baseline boundary
+                    continue
+                if key in new_keys:
+                    continue                    # page overlap within this run
+                new_keys.add(key)
+                new_records.append(r)
+                new_this_page += 1
+            print(f"Page {page_num}: {len(page_rows)} rows, "
+                  f"{new_this_page} collected this page "
+                  f"(run total {len(new_records)}).", flush=True)
 
-            if MAX_PAGES and page_num >= MAX_PAGES:
-                print(f"Hit MAX_PAGES={MAX_PAGES}; stopping.", flush=True)
+            # Incremental: once we touch records already saved, everything older
+            # is already on file -> stop.
+            if incremental and hit_known:
+                debug["stop_reason"] = "incremental: reached previously-saved records"
+                print(f"STOP: {debug['stop_reason']} on page {page_num}.", flush=True)
                 break
-            if new == 0:
-                # No new rows -> either last page or pagination didn't advance.
+            if MAX_PAGES and page_num >= MAX_PAGES:
+                debug["stop_reason"] = f"hit MAX_PAGES={MAX_PAGES}"
+                print(f"STOP: {debug['stop_reason']}.", flush=True)
+                break
+            if new_this_page == 0:
+                debug["stop_reason"] = "page produced no new rows"
+                print(f"STOP: {debug['stop_reason']} (page {page_num}).", flush=True)
                 break
 
             sig_before = first_row_signature(page)
-            if not go_next(page):
-                break  # no Next control -> last page
-            # wait for the first row to change (table reloaded)
+            nav = go_next(page)
+            debug["last_pagination_diag"] = nav.get("diag")
+            if not nav["clicked"]:
+                debug["stop_reason"] = f"no next control ({nav['reason']})"
+                print(f"STOP: {debug['stop_reason']} after page {page_num}. "
+                      f"Pagination controls seen: {nav.get('diag')}", flush=True)
+                break
+
             changed = False
-            for _ in range(40):
+            for _ in range(60):
                 page.wait_for_timeout(250)
                 if first_row_signature(page) != sig_before:
                     changed = True
                     break
             if not changed:
+                debug["stop_reason"] = (f"clicked next ({nav['reason']}) but table "
+                                        f"did not change within timeout")
+                print(f"STOP: {debug['stop_reason']} after page {page_num}.",
+                      flush=True)
                 break
             time.sleep(PAGE_DELAY)
 
         debug["pages_scraped"] = page_num
         browser.close()
 
+    # Merge: newest (this run) first, then everything we already had.
+    merged = []
+    merged_keys = set()
+    for r in new_records + existing_records:
+        key = rowkey(r)
+        if key not in merged_keys:
+            merged_keys.add(key)
+            merged.append(r)
+
+    # Records we collected that were NOT already on file (the real additions).
+    added = sum(1 for r in new_records if rowkey(r) not in existing_keys)
+
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     DEBUG_FILE.write_text(json.dumps(debug, indent=2, ensure_ascii=False))
 
-    if not records:
-        print("No records scraped. See debug file.", file=sys.stderr)
+    if not merged:
+        print("No records collected and none on file. See debug file.",
+              file=sys.stderr)
         sys.exit(1)
 
     payload = {
         "source": SITE_URL,
         "source_note": "Data from the Isle of Man Land Registry, refreshed monthly.",
         "scraped_at": datetime.now(timezone.utc).isoformat(),
+        "scrape_mode": mode,
         "total_reported_by_site": total,
-        "record_count": len(records),
-        "records": records,
+        "added_this_run": added,
+        "record_count": len(merged),
+        "records": merged,
     }
     OUT_FILE.write_text(json.dumps(payload, indent=2, ensure_ascii=False))
-    print(f"Wrote {len(records)} records -> {OUT_FILE}", flush=True)
-    if total and len(records) < total:
-        print(f"NOTE: collected {len(records)} of {total} reported. "
-              f"Raise MAX_PAGES or check pagination.", flush=True)
+    print(f"Done. {added} new record(s) added this run; "
+          f"{len(merged)} records total -> {OUT_FILE}", flush=True)
+    if not incremental and total and len(merged) < total:
+        print(f"NOTE: collected {len(merged)} of {total} reported. "
+              f"Pagination stopped early - check the STOP reason above.",
+              flush=True)
 
 
 if __name__ == "__main__":
