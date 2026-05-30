@@ -1,15 +1,23 @@
 {
-  "per_page_select": {
-    "options": [
-      "15",
-      "25",
-      "50",
-      "100"
-    ],
-    "chosen": "100"
-  },
+  "per_page_select": null,
   "total_reported": null,
   "pages_scraped": 203,
+  "filter_panel_opened": true,
+  "filters_cleared": [
+    {
+      "tag": "SELECT",
+      "model": "mountedActions.0.data.min_price",
+      "set": "",
+      "why": "clear->all"
+    },
+    {
+      "tag": "SELECT",
+      "model": "mountedActions.0.data.max_price",
+      "set": "",
+      "why": "clear->all"
+    }
+  ],
+  "page_size_set": "100",
   "last_pagination_diag": null,
   "stop_reason": "reached last page (page None of None, hasNext=False)"
 }
