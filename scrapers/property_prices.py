@@ -239,6 +239,74 @@ def go_next(page):
     return result
 
 
+def pagination_state(page):
+    """Read the current page number, the max page number, and whether a usable
+    Next control exists. Lets us stop only when provably on the last page."""
+    return page.evaluate(r"""
+    () => {
+      const items = Array.from(document.querySelectorAll('button, a'));
+      const nums = [];
+      let current = null;
+      for (const el of items) {
+        const t = (el.innerText || '').trim();
+        const wc = (el.getAttribute('wire:click') || '');
+        if (/^\d+$/.test(t)) {
+          const n = parseInt(t);
+          nums.push(n);
+          const cn = (el.className || '').toString().toLowerCase();
+          if (el.getAttribute('aria-current') === 'page'
+              || el.getAttribute('aria-current') === 'true'
+              || cn.includes('current') || cn.includes('active')) {
+            current = n;
+          }
+        }
+        const m = wc.match(/(?:setPage|gotoPage)\((\d+)/);
+        if (m) nums.push(parseInt(m[1]));
+      }
+      const max = nums.length ? Math.max(...nums) : null;
+      const hasNext = items.some(el => {
+        const t  = (el.innerText || '').trim().toLowerCase();
+        const al = (el.getAttribute('aria-label') || '').toLowerCase();
+        const cn = (el.className || '').toString().toLowerCase();
+        const wc = (el.getAttribute('wire:click') || '').toLowerCase();
+        const isNext = t === 'next' || al.includes('next') || el.rel === 'next'
+                       || cn.includes('next') || wc.includes('nextpage');
+        return isNext && !el.disabled
+               && el.getAttribute('aria-disabled') !== 'true'
+               && el.offsetParent !== null;
+      });
+      return { current, max, hasNext };
+    }
+    """)
+
+
+def robust_advance(page):
+    """Click Next and wait (generously) for the table to actually change.
+    Returns {ok: bool, reason: str, diag: ...}. Waits up to ~45s per attempt and
+    retries once, so a slow Livewire round-trip is never mistaken for the end."""
+    prev_sig = first_row_signature(page)
+    prev_state = pagination_state(page)
+
+    for attempt in range(2):
+        nav = go_next(page)
+        if not nav["clicked"]:
+            return {"ok": False, "reason": f"no next control ({nav['reason']})",
+                    "diag": nav.get("diag")}
+        for _ in range(180):                      # 180 * 250ms = 45s
+            page.wait_for_timeout(250)
+            if first_row_signature(page) != prev_sig:
+                return {"ok": True, "reason": nav["reason"]}
+            st = pagination_state(page)
+            if (st["current"] and prev_state["current"]
+                    and st["current"] > prev_state["current"]):
+                return {"ok": True, "reason": nav["reason"]}
+        page.wait_for_timeout(1500)               # let things settle, then retry
+
+    return {"ok": False,
+            "reason": "clicked next but table did not change after retries",
+            "diag": nav.get("diag")}
+
+
 def scrape():
     debug = {"per_page_select": None, "total_reported": None, "pages_scraped": 0}
 
@@ -292,8 +360,13 @@ def scrape():
         print(f"Mode: {mode}.", flush=True)
 
         page_num = 0
+        SAFETY_CAP = 5000      # absurdly high; just prevents an infinite loop
         while True:
             page_num += 1
+            if page_num > SAFETY_CAP:
+                debug["stop_reason"] = f"hit safety cap of {SAFETY_CAP} pages"
+                print(f"STOP: {debug['stop_reason']}.", flush=True)
+                break
             page_rows = scrape_current_page(page)
             new_this_page = 0
             hit_known = False
@@ -307,45 +380,45 @@ def scrape():
                 new_keys.add(key)
                 new_records.append(r)
                 new_this_page += 1
-            print(f"Page {page_num}: {len(page_rows)} rows, "
-                  f"{new_this_page} collected this page "
-                  f"(run total {len(new_records)}).", flush=True)
+
+            st = pagination_state(page)
+            here = st["current"] or page_num
+            print(f"Page {here}"
+                  + (f"/{st['max']}" if st["max"] else "")
+                  + f": {len(page_rows)} rows, {new_this_page} collected "
+                    f"(run total {len(new_records)}).", flush=True)
 
             # Incremental: once we touch records already saved, everything older
             # is already on file -> stop.
             if incremental and hit_known:
                 debug["stop_reason"] = "incremental: reached previously-saved records"
-                print(f"STOP: {debug['stop_reason']} on page {page_num}.", flush=True)
+                print(f"STOP: {debug['stop_reason']} on page {here}.", flush=True)
                 break
             if MAX_PAGES and page_num >= MAX_PAGES:
                 debug["stop_reason"] = f"hit MAX_PAGES={MAX_PAGES}"
                 print(f"STOP: {debug['stop_reason']}.", flush=True)
                 break
-            if new_this_page == 0:
-                debug["stop_reason"] = "page produced no new rows"
-                print(f"STOP: {debug['stop_reason']} (page {page_num}).", flush=True)
+
+            # Provably on the last page? Only then is it safe to finish.
+            on_last_page = (
+                (st["max"] is not None and st["current"] is not None
+                 and st["current"] >= st["max"])
+                or not st["hasNext"]
+            )
+            if on_last_page:
+                debug["stop_reason"] = (f"reached last page "
+                                        f"(page {st['current']} of {st['max']}, "
+                                        f"hasNext={st['hasNext']})")
+                print(f"STOP: {debug['stop_reason']}.", flush=True)
                 break
 
-            sig_before = first_row_signature(page)
-            nav = go_next(page)
+            # Not on the last page -> force an advance, with long waits + retry.
+            nav = robust_advance(page)
             debug["last_pagination_diag"] = nav.get("diag")
-            if not nav["clicked"]:
-                debug["stop_reason"] = f"no next control ({nav['reason']})"
-                print(f"STOP: {debug['stop_reason']} after page {page_num}. "
+            if not nav["ok"]:
+                debug["stop_reason"] = nav["reason"]
+                print(f"STOP: {debug['stop_reason']} after page {here}. "
                       f"Pagination controls seen: {nav.get('diag')}", flush=True)
-                break
-
-            changed = False
-            for _ in range(60):
-                page.wait_for_timeout(250)
-                if first_row_signature(page) != sig_before:
-                    changed = True
-                    break
-            if not changed:
-                debug["stop_reason"] = (f"clicked next ({nav['reason']}) but table "
-                                        f"did not change within timeout")
-                print(f"STOP: {debug['stop_reason']} after page {page_num}.",
-                      flush=True)
                 break
             time.sleep(PAGE_DELAY)
 
