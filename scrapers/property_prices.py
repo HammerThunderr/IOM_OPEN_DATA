@@ -74,43 +74,135 @@ def trigger_lazy_load(page):
     page.wait_for_selector("table tbody tr", timeout=NAV_TIMEOUT)
 
 
-def set_max_page_size(page, debug):
-    """Choose the largest 'per page' option. Filament hides the native <select>
-    behind a styled control, so we set the value and dispatch input/change
-    events directly (Livewire's wire:model.live listens for these)."""
-    info = page.evaluate(r"""
+def prepare_table(page, debug):
+    """Configure the table to show the FULL dataset (target ~40k records):
+      1. Open the Filter panel so all filter controls are in the DOM.
+      2. Clear every filter: dropdowns -> 'All'/empty; 'minimum'-type bounds ->
+         lowest option; 'maximum'-type bounds -> highest option; filter text/
+         number inputs -> emptied. (We avoid touching ambiguous controls so we
+         never accidentally narrow the results.)
+      3. Apply, then maximise the records-per-page control.
+    Filament hides native inputs, so we set value + dispatch input/change, which
+    is what Livewire's wire:model.live listens for."""
+
+    # 1. Open the filter panel (funnel button -> mountAction('filters')).
+    opened = page.evaluate(r"""
     () => {
-      const selects = Array.from(document.querySelectorAll('select'));
-      for (const s of selects) {
-        const opts = Array.from(s.options).map(o => o.value);
-        const numericish = opts.filter(v => /^\d+$/.test(v) || v.toLowerCase() === 'all');
-        if (numericish.length) {
-          let best = null, bestVal = -1;
-          for (const o of s.options) {
-            const v = o.value.toLowerCase() === 'all' ? Infinity : parseInt(o.value);
-            if (!isNaN(v) && v > bestVal) { bestVal = v; best = o.value; }
-          }
-          s.value = best;
-          s.dispatchEvent(new Event('input',  { bubbles: true }));
-          s.dispatchEvent(new Event('change', { bubbles: true }));
-          return { options: opts, chosen: best };
-        }
-      }
-      return null;
+      const els = Array.from(document.querySelectorAll('button, a'));
+      const b = els.find(el =>
+        (el.getAttribute('wire:click') || '').includes("mountAction('filters')")
+        || (el.innerText || '').trim().toLowerCase() === 'filter');
+      if (b) { b.click(); return true; }
+      return false;
     }
     """)
-    debug["per_page_select"] = info
-    if info:
-        try:
-            page.wait_for_timeout(1500)
-            page.wait_for_selector("table tbody tr", timeout=NAV_TIMEOUT)
-            print(f"Set page size to '{info['chosen']}' "
-                  f"(options: {info['options']}).", flush=True)
-        except Exception as e:
-            print(f"Page size change may not have applied: {e}", flush=True)
-    else:
-        print("No page-size <select> found; staying at default page size.",
-              flush=True)
+    debug["filter_panel_opened"] = bool(opened)
+    if opened:
+        page.wait_for_timeout(1500)
+
+    # 2. Clear all filter controls.
+    cleared = page.evaluate(r"""
+    () => {
+      const log = [];
+      const fire = (el, val, why) => {
+        el.value = val;
+        el.dispatchEvent(new Event('input',  { bubbles: true }));
+        el.dispatchEvent(new Event('change', { bubbles: true }));
+        log.push({ tag: el.tagName,
+                   model: el.getAttribute('wire:model.live') || el.getAttribute('wire:model'),
+                   set: val, why });
+      };
+      const idOf = el => [
+        el.getAttribute('wire:model.live'), el.getAttribute('wire:model'),
+        el.getAttribute('name'), el.getAttribute('aria-label'),
+        el.getAttribute('placeholder'), el.id
+      ].filter(Boolean).join(' ').toLowerCase();
+
+      // SELECT filters
+      document.querySelectorAll('select').forEach(s => {
+        const id = idOf(s);
+        if (id.includes('recordsperpage') || id.includes('perpage')) return; // later
+        const clearOpt = Array.from(s.options).find(o =>
+          o.value === '' || /\b(all|any)\b/i.test(o.textContent || ''));
+        if (clearOpt) { fire(s, clearOpt.value, 'clear->all'); return; }
+        const nums = Array.from(s.options)
+          .map(o => ({ v: parseInt(o.value), raw: o.value }))
+          .filter(x => !isNaN(x.v));
+        if (!nums.length) return;
+        if (/min|from|lower|start|gte|greater|low/.test(id)) {
+          const lo = nums.reduce((a, b) => b.v < a.v ? b : a);
+          fire(s, lo.raw, 'min->lowest');
+        } else if (/max|to\b|upper|end|lte|less|high/.test(id)) {
+          const hi = nums.reduce((a, b) => b.v > a.v ? b : a);
+          fire(s, hi.raw, 'max->highest');
+        }
+        // ambiguous -> leave alone (don't risk narrowing)
+      });
+
+      // INPUT filters (number/text) -> empty = no bound
+      document.querySelectorAll('input').forEach(inp => {
+        const t = (inp.type || '').toLowerCase();
+        if (['checkbox', 'radio', 'hidden', 'submit', 'button'].includes(t)) return;
+        const id = idOf(inp);
+        const looksFilter = /filter|price|min|max|from|to|value|amount/.test(id);
+        if (looksFilter && inp.value) fire(inp, '', 'clear-input');
+      });
+
+      return log;
+    }
+    """)
+    debug["filters_cleared"] = cleared
+
+    # Some filter forms need an explicit Apply; harmless if they're live.
+    page.evaluate(r"""
+    () => {
+      const b = Array.from(document.querySelectorAll('button')).find(el => {
+        const t = (el.innerText || '').trim().toLowerCase();
+        return ['apply', 'apply filters', 'filter', 'save', 'done'].includes(t)
+               && el.offsetParent !== null;
+      });
+      if (b) b.click();
+    }
+    """)
+    page.wait_for_timeout(1500)
+    # Close the panel if it's still open, so it doesn't cover the table.
+    try:
+        page.keyboard.press("Escape")
+    except Exception:
+        pass
+    page.wait_for_timeout(500)
+
+    # 3. Maximise records-per-page.
+    pp = page.evaluate(r"""
+    () => {
+      const s = Array.from(document.querySelectorAll('select')).find(el => {
+        const m = (el.getAttribute('wire:model.live')
+                   || el.getAttribute('wire:model') || '').toLowerCase();
+        return m.includes('recordsperpage') || m.includes('perpage');
+      });
+      if (!s) return null;
+      let best = null, bestVal = -1;
+      for (const o of s.options) {
+        const v = o.value.toLowerCase() === 'all' ? Infinity : parseInt(o.value);
+        if (!isNaN(v) && v > bestVal) { bestVal = v; best = o.value; }
+      }
+      if (best === null) return null;
+      s.value = best;
+      s.dispatchEvent(new Event('input',  { bubbles: true }));
+      s.dispatchEvent(new Event('change', { bubbles: true }));
+      return best;
+    }
+    """)
+    debug["page_size_set"] = pp
+
+    try:
+        page.wait_for_timeout(2000)
+        page.wait_for_selector("table tbody tr", timeout=NAV_TIMEOUT)
+    except Exception as e:
+        print(f"Table prepare may not have fully applied: {e}", flush=True)
+
+    print(f"Prepared table | panel_opened={bool(opened)} | "
+          f"filters_cleared={cleared} | page_size={pp}", flush=True)
 
 
 def read_total(page):
@@ -325,7 +417,7 @@ def scrape():
         page.goto(SITE_URL, wait_until="networkidle", timeout=NAV_TIMEOUT)
         trigger_lazy_load(page)
 
-        set_max_page_size(page, debug)
+        prepare_table(page, debug)
 
         total = read_total(page)
         debug["total_reported"] = total
@@ -446,7 +538,8 @@ def scrape():
     if incremental:
         baseline_complete = True
     else:
-        clean_end = stop_reason.startswith("no next control")
+        clean_end = (stop_reason.startswith("no next control")
+                     or stop_reason.startswith("reached last page"))
         enough = bool(total and len(merged) >= total * 0.9)
         baseline_complete = bool(clean_end or enough)
 
