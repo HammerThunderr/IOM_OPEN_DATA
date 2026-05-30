@@ -10,5 +10,6 @@
     "chosen": "100"
   },
   "total_reported": null,
-  "pages_scraped": 28
+  "pages_scraped": 1,
+  "stop_reason": "incremental: reached previously-saved records"
 }
