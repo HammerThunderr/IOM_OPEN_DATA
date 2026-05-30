@@ -1,6 +1,5 @@
 {
   "per_page_select": {
-    "index": 0,
     "options": [
       "15",
       "25",
@@ -10,6 +9,20 @@
     "chosen": "100"
   },
   "total_reported": null,
-  "pages_scraped": 1,
-  "stop_reason": "incremental: reached previously-saved records"
+  "pages_scraped": 148,
+  "last_pagination_diag": [
+    {
+      "text": "Previous",
+      "aria": null,
+      "wire": "previousPage('page')",
+      "disabled": false
+    },
+    {
+      "text": "Next",
+      "aria": null,
+      "wire": "nextPage('page')",
+      "disabled": false
+    }
+  ],
+  "stop_reason": "clicked next (next-button) but table did not change within timeout"
 }
