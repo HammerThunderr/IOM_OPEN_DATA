@@ -51,15 +51,18 @@ def rowkey(record):
 
 
 def load_existing():
-    """Return (records, keyset) from the existing output file, or ([], set())."""
+    """Return (records, keyset, baseline_complete) from the existing output
+    file. A file is only trusted for incremental updates if it was written by a
+    full scrape that reached the end (baseline_complete == true)."""
     if FULL_SCRAPE or not OUT_FILE.exists():
-        return [], set()
+        return [], set(), False
     try:
         data = json.loads(OUT_FILE.read_text())
         recs = data.get("records", [])
-        return recs, {rowkey(r) for r in recs}
+        complete = bool(data.get("baseline_complete", False))
+        return recs, {rowkey(r) for r in recs}, complete
     except (json.JSONDecodeError, OSError):
-        return [], set()
+        return [], set(), False
 
 
 def trigger_lazy_load(page):
@@ -72,43 +75,56 @@ def trigger_lazy_load(page):
 
 
 def set_max_page_size(page, debug):
-    """Find the table's 'per page' <select> and choose its largest option."""
-    info = page.evaluate("""
+    """Choose the largest 'per page' option. Filament hides the native <select>
+    behind a styled control, so we set the value and dispatch input/change
+    events directly (Livewire's wire:model.live listens for these)."""
+    info = page.evaluate(r"""
     () => {
       const selects = Array.from(document.querySelectorAll('select'));
-      for (let i = 0; i < selects.length; i++) {
-        const opts = Array.from(selects[i].options).map(o => o.value);
-        const numericish = opts.filter(v => /^\\d+$/.test(v) || v.toLowerCase() === 'all');
+      for (const s of selects) {
+        const opts = Array.from(s.options).map(o => o.value);
+        const numericish = opts.filter(v => /^\d+$/.test(v) || v.toLowerCase() === 'all');
         if (numericish.length) {
           let best = null, bestVal = -1;
-          for (const o of selects[i].options) {
+          for (const o of s.options) {
             const v = o.value.toLowerCase() === 'all' ? Infinity : parseInt(o.value);
             if (!isNaN(v) && v > bestVal) { bestVal = v; best = o.value; }
           }
-          return { index: i, options: opts, chosen: best };
+          s.value = best;
+          s.dispatchEvent(new Event('input',  { bubbles: true }));
+          s.dispatchEvent(new Event('change', { bubbles: true }));
+          return { options: opts, chosen: best };
         }
       }
       return null;
     }
     """)
     debug["per_page_select"] = info
-    if info and info["chosen"] is not None:
+    if info:
         try:
-            page.locator("select").nth(info["index"]).select_option(info["chosen"])
             page.wait_for_timeout(1500)
             page.wait_for_selector("table tbody tr", timeout=NAV_TIMEOUT)
             print(f"Set page size to '{info['chosen']}' "
                   f"(options: {info['options']}).", flush=True)
         except Exception as e:
-            print(f"Could not set page size: {e}", flush=True)
+            print(f"Page size change may not have applied: {e}", flush=True)
+    else:
+        print("No page-size <select> found; staying at default page size.",
+              flush=True)
 
 
 def read_total(page):
-    """Parse the 'Showing x to y of N results' summary, if present."""
+    """Parse the pagination summary total, if the site shows one. Tolerates a
+    few phrasings ('of N results/records/entries'). Returns None if absent."""
     txt = page.evaluate("() => document.body.innerText")
-    m = re.search(r"of\s+([\d,]+)\s+result", txt, re.I)
-    if m:
-        return int(m.group(1).replace(",", ""))
+    txt = txt.replace("\xa0", " ")
+    for pat in (r"of\s+([\d,]+)\s+result",
+                r"of\s+([\d,]+)\s+record",
+                r"of\s+([\d,]+)\s+entr",
+                r"of\s+([\d,]+)\s+row"):
+        m = re.search(pat, txt, re.I)
+        if m:
+            return int(m.group(1).replace(",", ""))
     return None
 
 
@@ -226,8 +242,9 @@ def go_next(page):
 def scrape():
     debug = {"per_page_select": None, "total_reported": None, "pages_scraped": 0}
 
-    existing_records, existing_keys = load_existing()
-    print(f"Existing records on file: {len(existing_records)}.", flush=True)
+    existing_records, existing_keys, baseline_complete_flag = load_existing()
+    print(f"Existing records on file: {len(existing_records)} "
+          f"(baseline_complete={baseline_complete_flag}).", flush=True)
 
     new_records = []
     new_keys = set()
@@ -248,13 +265,14 @@ def scrape():
             print(f"Site reports {total} total records.", flush=True)
 
         # --- Decide mode (now that we know the site total) ---
-        # Incremental only when we have a baseline that looks COMPLETE. If the
-        # file is missing/empty, or clearly behind the site total (>10% short),
-        # the baseline is unusable -> do a full scrape and re-build it. This is
-        # what makes the scraper self-healing: you never pass a flag.
-        baseline_incomplete = bool(
-            existing_keys and total and len(existing_records) < total * 0.9)
-        incremental = bool(existing_keys) and not FULL_SCRAPE and not baseline_incomplete
+        # Incremental ONLY when the file carries a trusted complete baseline
+        # (and isn't clearly behind the site total). Otherwise full scrape and
+        # rebuild. This is what makes it self-healing with no flags: a stale or
+        # unstamped file (like an old partial scrape) is rebuilt automatically.
+        behind_total = bool(total and len(existing_records) < total * 0.9)
+        baseline_trustworthy = (existing_keys and baseline_complete_flag
+                                and not behind_total)
+        incremental = baseline_trustworthy and not FULL_SCRAPE
 
         if incremental:
             mode = "INCREMENTAL (new records only)"
@@ -262,8 +280,11 @@ def scrape():
         else:
             if FULL_SCRAPE:
                 mode = "FULL (forced by FULL_SCRAPE)"
-            elif baseline_incomplete:
-                mode = (f"FULL (baseline incomplete: have {len(existing_records)}, "
+            elif existing_keys and not baseline_complete_flag:
+                mode = (f"FULL (file not marked complete - rebuilding from "
+                        f"{len(existing_records)} records)")
+            elif behind_total:
+                mode = (f"FULL (baseline behind: have {len(existing_records)}, "
                         f"site has {total} - rebuilding)")
             else:
                 mode = "FULL (first run, no baseline)"
@@ -343,6 +364,19 @@ def scrape():
     # Records we collected that were NOT already on file (the real additions).
     added = sum(1 for r in new_records if rowkey(r) not in existing_keys)
 
+    # Decide whether the result is a trustworthy complete baseline:
+    #  - incremental run: the baseline was already complete; we only prepended
+    #    newer records, so it stays complete.
+    #  - full run: complete if pagination reached its natural end ("no next
+    #    control"), or we collected >=90% of the site's reported total.
+    stop_reason = debug.get("stop_reason", "")
+    if incremental:
+        baseline_complete = True
+    else:
+        clean_end = stop_reason.startswith("no next control")
+        enough = bool(total and len(merged) >= total * 0.9)
+        baseline_complete = bool(clean_end or enough)
+
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     DEBUG_FILE.write_text(json.dumps(debug, indent=2, ensure_ascii=False))
 
@@ -356,6 +390,7 @@ def scrape():
         "source_note": "Data from the Isle of Man Land Registry, refreshed monthly.",
         "scraped_at": datetime.now(timezone.utc).isoformat(),
         "scrape_mode": mode,
+        "baseline_complete": baseline_complete,
         "total_reported_by_site": total,
         "added_this_run": added,
         "record_count": len(merged),
