@@ -54,6 +54,32 @@ UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 
 
+def _error_snippet(text):
+    """Pull a readable message out of a Symfony/Livewire HTML error response."""
+    if not text:
+        return "(empty body)"
+    # JSON error?
+    try:
+        j = json.loads(text)
+        return json.dumps(j)[:400]
+    except (json.JSONDecodeError, ValueError):
+        pass
+    # Symfony "ignition"/whoops pages put the message in <title> or a known tag.
+    for pat in (r'<title>(.*?)</title>',
+                r'"message"\s*:\s*"([^"]+)"',
+                r'<span[^>]*class="[^"]*exception_message[^"]*"[^>]*>(.*?)</span>'):
+        m = re.search(pat, text, re.S | re.I)
+        if m:
+            msg = re.sub(r"<[^>]+>", " ", m.group(1))
+            msg = re.sub(r"\s+", " ", unescape(msg)).strip()
+            if msg:
+                return msg[:400]
+    # Fallback: first non-empty text-ish line.
+    plain = re.sub(r"<[^>]+>", " ", text)
+    plain = re.sub(r"\s+", " ", plain).strip()
+    return plain[:400] if plain else "(unparseable body)"
+
+
 def rowkey(rec):
     if rec.get("record_key"):
         return ("k", str(rec["record_key"]))
@@ -109,11 +135,19 @@ class Livewire:
 
     def _post(self, components):
         body = {"_token": self.csrf, "components": components}
+        # Headers must match the browser's real request (from HAR) closely:
+        # X-Livewire is present but EMPTY; Accept is */*.
         headers = {"Content-Type": "application/json", "X-Livewire": "",
-                   "Origin": BASE, "Referer": HOME}
+                   "Accept": "*/*", "Origin": BASE, "Referer": HOME,
+                   "Sec-Fetch-Dest": "empty", "Sec-Fetch-Mode": "cors",
+                   "Sec-Fetch-Site": "same-origin",
+                   "X-Requested-With": "XMLHttpRequest"}
         r = self.s.post(UPDATE, data=json.dumps(body), headers=headers,
                         timeout=TIMEOUT)
-        r.raise_for_status()
+        if not r.ok:
+            snippet = _error_snippet(r.text)
+            raise RuntimeError(f"/livewire/update returned {r.status_code}. "
+                               f"Server said: {snippet}")
         return r.json()
 
     def _absorb(self, resp):
