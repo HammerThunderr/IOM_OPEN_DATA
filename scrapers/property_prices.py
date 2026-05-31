@@ -117,7 +117,54 @@ class Livewire:
             raise RuntimeError("CSRF token not found")
         self.csrf = m.group(1)
         snap_raw, token = self._find_table_component(html)
-        self._lazy_load(snap_raw, token)
+        self.snapshot_raw = snap_raw
+        self.snapshot = json.loads(snap_raw)
+        self._hydrate(token)
+
+    def _hydrate(self, token):
+        """Hydrate the deferred table component. The initial snapshot is a lazy
+        placeholder (lazyLoaded:false). We try several strategies, freshly using
+        THIS session's token, and keep the first that yields table HTML."""
+        errors = []
+
+        # Strategy 1: the browser's __lazyLoad with our freshly-harvested token.
+        if token:
+            try:
+                self._absorb(self._post([{
+                    "snapshot": self.snapshot_raw, "updates": {},
+                    "calls": [{"path": "", "method": "__lazyLoad",
+                               "params": [token]}]}]))
+                if "viewHistory" in self.last_html:
+                    print("Hydrated via __lazyLoad.", flush=True)
+                    return
+            except Exception as e:
+                errors.append(f"__lazyLoad: {e}")
+
+        # Strategy 2: Filament's loadTable() method on the placeholder snapshot.
+        for method in ("loadTable", "$refresh"):
+            try:
+                self._absorb(self._post([{
+                    "snapshot": self.snapshot_raw, "updates": {},
+                    "calls": [{"path": "", "method": method, "params": []}]}]))
+                if "viewHistory" in self.last_html:
+                    print(f"Hydrated via {method}().", flush=True)
+                    return
+            except Exception as e:
+                errors.append(f"{method}: {e}")
+
+        # Strategy 3: flip isTableLoaded via an updates call (forces a render).
+        try:
+            self._absorb(self._post([{
+                "snapshot": self.snapshot_raw,
+                "updates": {"isTableLoaded": True}, "calls": []}]))
+            if "viewHistory" in self.last_html:
+                print("Hydrated via isTableLoaded update.", flush=True)
+                return
+        except Exception as e:
+            errors.append(f"isTableLoaded: {e}")
+
+        raise RuntimeError("Could not hydrate table. Attempts: "
+                           + " | ".join(errors))
 
     def _find_table_component(self, html):
         name = "app.filament.public.widgets.property-search-table"
@@ -158,11 +205,6 @@ class Livewire:
         if html:
             self.last_html = html
         return comp
-
-    def _lazy_load(self, snap_raw, token):
-        comp = {"snapshot": snap_raw, "updates": {},
-                "calls": [{"path": "", "method": "__lazyLoad", "params": [token]}]}
-        self._absorb(self._post([comp]))
 
     def _payload(self, updates=None, calls=None):
         return {"snapshot": self.snapshot_raw, "updates": updates or {},
