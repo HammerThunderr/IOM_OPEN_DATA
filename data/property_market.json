@@ -1,0 +1,1127 @@
+{
+  "source": "Isle of Man Government open data - Property Transactions",
+  "source_file": "property-transactions-261125.xlsx",
+  "generated_at": "2026-06-02T18:28:47.593909+00:00",
+  "notes": {
+    "house_market": "Quarterly. Prices in GBP. Sales are counts in the rolling period.",
+    "lending": "Monthly total residential mortgage lending, GBP '000.",
+    "affordability_ratios": "Yearly ratios of house price to earnings."
+  },
+  "house_market": [
+    {
+      "date": "2010-12-01",
+      "property_price": 253175.74,
+      "average_house_price": 282924.5,
+      "median_house_price": 250000,
+      "average_flat_price": 162385.58,
+      "median_flat_price": 151950,
+      "house_sales": 1092,
+      "flat_sales": 359
+    },
+    {
+      "date": "2011-03-01",
+      "property_price": 255939.86,
+      "average_house_price": 285628.82,
+      "median_house_price": 250000,
+      "average_flat_price": 165332.18,
+      "median_flat_price": 155000,
+      "house_sales": 1067,
+      "flat_sales": 329
+    },
+    {
+      "date": "2011-06-01",
+      "property_price": 256139.91,
+      "average_house_price": 284140.33,
+      "median_house_price": 250000,
+      "average_flat_price": 170685.51,
+      "median_flat_price": 157500,
+      "house_sales": 844,
+      "flat_sales": 327
+    },
+    {
+      "date": "2011-09-01",
+      "property_price": 252466.19,
+      "average_house_price": 275588.01,
+      "median_house_price": 250000,
+      "average_flat_price": 181900.74,
+      "median_flat_price": 155000,
+      "house_sales": 937,
+      "flat_sales": 276
+    },
+    {
+      "date": "2011-12-01",
+      "property_price": 253959.05,
+      "average_house_price": 280017.93,
+      "median_house_price": 250000,
+      "average_flat_price": 170196.72,
+      "median_flat_price": 155000,
+      "house_sales": 871,
+      "flat_sales": 225
+    },
+    {
+      "date": "2012-03-01",
+      "property_price": 251291.36,
+      "average_house_price": 276327.67,
+      "median_house_price": 247750,
+      "average_flat_price": 167054.36,
+      "median_flat_price": 150000,
+      "house_sales": 864,
+      "flat_sales": 217
+    },
+    {
+      "date": "2012-06-01",
+      "property_price": 254750.6,
+      "average_house_price": 278045.96,
+      "median_house_price": 246500,
+      "average_flat_price": 166383.7,
+      "median_flat_price": 150000,
+      "house_sales": 852,
+      "flat_sales": 211
+    },
+    {
+      "date": "2012-09-01",
+      "property_price": 255495.41,
+      "average_house_price": 277992.69,
+      "median_house_price": 242950,
+      "average_flat_price": 166352.25,
+      "median_flat_price": 145000,
+      "house_sales": 785,
+      "flat_sales": 198
+    },
+    {
+      "date": "2012-12-01",
+      "property_price": 253409.96,
+      "average_house_price": 274299.31,
+      "median_house_price": 240000,
+      "average_flat_price": 170405.56,
+      "median_flat_price": 145000,
+      "house_sales": 801,
+      "flat_sales": 205
+    },
+    {
+      "date": "2013-03-01",
+      "property_price": 250666.13,
+      "average_house_price": 271772.67,
+      "median_house_price": 240000,
+      "average_flat_price": 166525.88,
+      "median_flat_price": 150000,
+      "house_sales": 799,
+      "flat_sales": 198
+    },
+    {
+      "date": "2013-06-01",
+      "property_price": 249029.29,
+      "average_house_price": 271419.55,
+      "median_house_price": 240000,
+      "average_flat_price": 158988.25,
+      "median_flat_price": 138500,
+      "house_sales": 804,
+      "flat_sales": 192
+    },
+    {
+      "date": "2013-09-01",
+      "property_price": 242982.62,
+      "average_house_price": 264580.06,
+      "median_house_price": 238000,
+      "average_flat_price": 156619.39,
+      "median_flat_price": 136500,
+      "house_sales": 851,
+      "flat_sales": 219
+    },
+    {
+      "date": "2013-12-01",
+      "property_price": 243711.05,
+      "average_house_price": 267283.12,
+      "median_house_price": 240000,
+      "average_flat_price": 149872.83,
+      "median_flat_price": 135000,
+      "house_sales": 882,
+      "flat_sales": 229
+    },
+    {
+      "date": "2014-03-01",
+      "property_price": 241273.7,
+      "average_house_price": 263147.16,
+      "median_house_price": 238000,
+      "average_flat_price": 152068.25,
+      "median_flat_price": 135000,
+      "house_sales": 1007,
+      "flat_sales": 229
+    },
+    {
+      "date": "2014-06-01",
+      "property_price": 240290.08,
+      "average_house_price": 263047.22,
+      "median_house_price": 240000,
+      "average_flat_price": 148401.77,
+      "median_flat_price": 135000,
+      "house_sales": 894,
+      "flat_sales": 223
+    },
+    {
+      "date": "2014-09-01",
+      "property_price": 243130.68,
+      "average_house_price": 265725.65,
+      "median_house_price": 242500,
+      "average_flat_price": 149562.06,
+      "median_flat_price": 135000,
+      "house_sales": 973,
+      "flat_sales": 226
+    },
+    {
+      "date": "2014-12-01",
+      "property_price": 246957.34,
+      "average_house_price": 270303.2,
+      "median_house_price": 249000,
+      "average_flat_price": 148533.93,
+      "median_flat_price": 140000,
+      "house_sales": 895,
+      "flat_sales": 216
+    },
+    {
+      "date": "2015-03-01",
+      "property_price": 244407.54,
+      "average_house_price": 268384.3,
+      "median_house_price": 248500,
+      "average_flat_price": 145535.91,
+      "median_flat_price": 135000,
+      "house_sales": 1040,
+      "flat_sales": 257
+    },
+    {
+      "date": "2015-06-01",
+      "property_price": 245792.84,
+      "average_house_price": 268962.26,
+      "median_house_price": 249950,
+      "average_flat_price": 148746.35,
+      "median_flat_price": 140000,
+      "house_sales": 1046,
+      "flat_sales": 245
+    },
+    {
+      "date": "2015-09-01",
+      "property_price": 247966.62,
+      "average_house_price": 269488.03,
+      "median_house_price": 250000,
+      "average_flat_price": 155774.18,
+      "median_flat_price": 140000,
+      "house_sales": 1080,
+      "flat_sales": 230
+    },
+    {
+      "date": "2015-12-01",
+      "property_price": 248461.09,
+      "average_house_price": 268539.7,
+      "median_house_price": 249000,
+      "average_flat_price": 160873.29,
+      "median_flat_price": 137750,
+      "house_sales": 1109,
+      "flat_sales": 248
+    },
+    {
+      "date": "2016-03-01",
+      "property_price": 250887.84,
+      "average_house_price": 271758.47,
+      "median_house_price": 250000,
+      "average_flat_price": 157444.36,
+      "median_flat_price": 137500,
+      "house_sales": 1099,
+      "flat_sales": 245
+    },
+    {
+      "date": "2016-06-01",
+      "property_price": 248891.95,
+      "average_house_price": 270208.83,
+      "median_house_price": 246000,
+      "average_flat_price": 150520,
+      "median_flat_price": 135000,
+      "house_sales": 1156,
+      "flat_sales": 240
+    },
+    {
+      "date": "2016-09-01",
+      "property_price": 247044.69,
+      "average_house_price": 270141.58,
+      "median_house_price": 246500,
+      "average_flat_price": 141761,
+      "median_flat_price": 125000,
+      "house_sales": 1167,
+      "flat_sales": 261
+    },
+    {
+      "date": "2016-12-01",
+      "property_price": 247372.72,
+      "average_house_price": 269432.45,
+      "median_house_price": 245999.5,
+      "average_flat_price": 145343.67,
+      "median_flat_price": 128000,
+      "house_sales": 1180,
+      "flat_sales": 249
+    },
+    {
+      "date": "2017-03-01",
+      "property_price": 248031.08,
+      "average_house_price": 269478,
+      "median_house_price": 248000,
+      "average_flat_price": 146483,
+      "median_flat_price": 129950,
+      "house_sales": 1265,
+      "flat_sales": 257
+    },
+    {
+      "date": "2017-06-01",
+      "property_price": 247356.63,
+      "average_house_price": 268428.36,
+      "median_house_price": 249725,
+      "average_flat_price": 147245.58,
+      "median_flat_price": 129808,
+      "house_sales": 1310,
+      "flat_sales": 269
+    },
+    {
+      "date": "2017-09-01",
+      "property_price": 249159.71,
+      "average_house_price": 267600.43,
+      "median_house_price": 249000,
+      "average_flat_price": 157513.83,
+      "median_flat_price": 131750,
+      "house_sales": 1339,
+      "flat_sales": 250
+    },
+    {
+      "date": "2017-12-01",
+      "property_price": 250218.79,
+      "average_house_price": 269315.23,
+      "median_house_price": 250000,
+      "average_flat_price": 152917.85,
+      "median_flat_price": 132000,
+      "house_sales": 1329,
+      "flat_sales": 253
+    },
+    {
+      "date": "2018-03-01",
+      "property_price": 253947.67,
+      "average_house_price": 273378.12,
+      "median_house_price": 253749.5,
+      "average_flat_price": 154944.9,
+      "median_flat_price": 132500,
+      "house_sales": 1386,
+      "flat_sales": 248
+    },
+    {
+      "date": "2018-06-01",
+      "property_price": 256758.71,
+      "average_house_price": 274911,
+      "median_house_price": 253000,
+      "average_flat_price": 161299,
+      "median_flat_price": 140875,
+      "house_sales": 1341,
+      "flat_sales": 253
+    },
+    {
+      "date": "2018-09-01",
+      "property_price": 259479.34,
+      "average_house_price": 279862,
+      "median_house_price": 255000,
+      "average_flat_price": 149953,
+      "median_flat_price": 135250,
+      "house_sales": 1352,
+      "flat_sales": 257
+    },
+    {
+      "date": "2018-12-01",
+      "property_price": 258530.35,
+      "average_house_price": 279355,
+      "median_house_price": 250000,
+      "average_flat_price": 147136,
+      "median_flat_price": 133000,
+      "house_sales": 1404,
+      "flat_sales": 288
+    },
+    {
+      "date": "2019-03-01",
+      "property_price": 260850.26,
+      "average_house_price": 282524.05,
+      "median_house_price": 252500,
+      "average_flat_price": 147238.97,
+      "median_flat_price": 135000,
+      "house_sales": 1396,
+      "flat_sales": 325
+    },
+    {
+      "date": "2019-06-01",
+      "property_price": 265897.97,
+      "average_house_price": 290532.27,
+      "median_house_price": 260000,
+      "average_flat_price": 145402.67,
+      "median_flat_price": 130000,
+      "house_sales": 1389,
+      "flat_sales": 342
+    },
+    {
+      "date": "2019-09-01",
+      "property_price": 263355.49,
+      "average_house_price": 288640.18,
+      "median_house_price": 263000,
+      "average_flat_price": 147759.37,
+      "median_flat_price": 135000,
+      "house_sales": 1435,
+      "flat_sales": 322
+    },
+    {
+      "date": "2019-12-01",
+      "property_price": 265843.27,
+      "average_house_price": 291597,
+      "median_house_price": 264950,
+      "average_flat_price": 152422,
+      "median_flat_price": 137500,
+      "house_sales": 1467,
+      "flat_sales": 315
+    },
+    {
+      "date": "2020-03-01",
+      "property_price": 266648,
+      "average_house_price": 293521,
+      "median_house_price": 266975,
+      "average_flat_price": 149448,
+      "median_flat_price": 136500,
+      "house_sales": 1462,
+      "flat_sales": 306
+    },
+    {
+      "date": "2020-06-01",
+      "property_price": 266869,
+      "average_house_price": 293411,
+      "median_house_price": 265000,
+      "average_flat_price": 148042,
+      "median_flat_price": 136500,
+      "house_sales": 1356,
+      "flat_sales": 287
+    },
+    {
+      "date": "2020-09-01",
+      "property_price": 273007,
+      "average_house_price": 299394,
+      "median_house_price": 275000,
+      "average_flat_price": 150295,
+      "median_flat_price": 142000,
+      "house_sales": 1314,
+      "flat_sales": 283
+    },
+    {
+      "date": "2020-12-01",
+      "property_price": 285064,
+      "average_house_price": 313036,
+      "median_house_price": 283250,
+      "average_flat_price": 153563,
+      "median_flat_price": 147000,
+      "house_sales": 1356,
+      "flat_sales": 273
+    },
+    {
+      "date": "2021-03-01",
+      "property_price": 294125.87,
+      "average_house_price": 323313.95,
+      "median_house_price": 284950,
+      "average_flat_price": 155016.19,
+      "median_flat_price": 149475,
+      "house_sales": 1445,
+      "flat_sales": 305
+    },
+    {
+      "date": "2021-06-01",
+      "property_price": 302988.58,
+      "average_house_price": 332823.46,
+      "median_house_price": 290000,
+      "average_flat_price": 161111.76,
+      "median_flat_price": 155000,
+      "house_sales": 1624,
+      "flat_sales": 348
+    },
+    {
+      "date": "2021-09-01",
+      "property_price": 315154.72,
+      "average_house_price": 346377.21,
+      "median_house_price": 302000,
+      "average_flat_price": 167245.22,
+      "median_flat_price": 156500,
+      "house_sales": 1635,
+      "flat_sales": 303
+    },
+    {
+      "date": "2021-12-01",
+      "property_price": 328747.0,
+      "average_house_price": 361825.89,
+      "median_house_price": 321000,
+      "average_flat_price": 166761.66,
+      "median_flat_price": 155000,
+      "house_sales": 1604,
+      "flat_sales": 351
+    },
+    {
+      "date": "2022-03-01",
+      "property_price": 334239.27,
+      "average_house_price": 368296,
+      "median_house_price": 330000,
+      "average_flat_price": 170497,
+      "median_flat_price": 156000,
+      "house_sales": 1735,
+      "flat_sales": 394
+    },
+    {
+      "date": "2022-06-01",
+      "property_price": 339392.06,
+      "average_house_price": 374371,
+      "median_house_price": 337975,
+      "average_flat_price": 174659,
+      "median_flat_price": 165000,
+      "house_sales": 1676,
+      "flat_sales": 432
+    },
+    {
+      "date": "2022-09-01",
+      "property_price": 347183.58,
+      "average_house_price": 384986,
+      "median_house_price": 345500,
+      "average_flat_price": 177900,
+      "median_flat_price": 168500,
+      "house_sales": 1593,
+      "flat_sales": 469
+    },
+    {
+      "date": "2022-12-01",
+      "property_price": 347905.13,
+      "average_house_price": 387934,
+      "median_house_price": 350000,
+      "average_flat_price": 187206,
+      "median_flat_price": 175000,
+      "house_sales": 1541,
+      "flat_sales": 424
+    },
+    {
+      "date": "2023-03-01",
+      "property_price": 347729.06,
+      "average_house_price": 387950,
+      "median_house_price": 352000,
+      "average_flat_price": 194590,
+      "median_flat_price": 180000,
+      "house_sales": 1394,
+      "flat_sales": 409
+    },
+    {
+      "date": "2023-06-01",
+      "property_price": 348995,
+      "average_house_price": 392548,
+      "median_house_price": 352500,
+      "average_flat_price": 193168,
+      "median_flat_price": 178000,
+      "house_sales": 1297,
+      "flat_sales": 351
+    },
+    {
+      "date": "2023-09-01",
+      "property_price": 341626,
+      "average_house_price": 382975,
+      "median_house_price": 350000,
+      "average_flat_price": 195907,
+      "median_flat_price": 182250,
+      "house_sales": 1239,
+      "flat_sales": 314
+    },
+    {
+      "date": "2023-12-01",
+      "property_price": 337957,
+      "average_house_price": 377798,
+      "median_house_price": 345000,
+      "average_flat_price": 192448,
+      "median_flat_price": 180000,
+      "house_sales": 1105,
+      "flat_sales": 321
+    },
+    {
+      "date": "2024-03-01",
+      "property_price": 335854,
+      "average_house_price": 376177,
+      "median_house_price": 343975,
+      "average_flat_price": 190315,
+      "median_flat_price": 180000,
+      "house_sales": 1088,
+      "flat_sales": 299
+    },
+    {
+      "date": "2024-06-01",
+      "property_price": 336574,
+      "average_house_price": 375738,
+      "median_house_price": 345000,
+      "average_flat_price": 192479,
+      "median_flat_price": 180000,
+      "house_sales": 1109,
+      "flat_sales": 275
+    },
+    {
+      "date": "2024-09-01",
+      "property_price": 338506,
+      "average_house_price": 376527,
+      "median_house_price": 349000,
+      "average_flat_price": 195699,
+      "median_flat_price": 180000,
+      "house_sales": 1147,
+      "flat_sales": 265
+    },
+    {
+      "date": "2024-12-01",
+      "property_price": 342575,
+      "average_house_price": 379601,
+      "median_house_price": 350000,
+      "average_flat_price": 200567,
+      "median_flat_price": 185000,
+      "house_sales": 1132,
+      "flat_sales": 245
+    }
+  ],
+  "lending": [
+    {
+      "date": "2013-01-01",
+      "total_lending_gbp_000": 2189305.124
+    },
+    {
+      "date": "2013-02-01",
+      "total_lending_gbp_000": 2177542.217
+    },
+    {
+      "date": "2013-03-01",
+      "total_lending_gbp_000": 2177185.592
+    },
+    {
+      "date": "2013-04-01",
+      "total_lending_gbp_000": 2167079.745
+    },
+    {
+      "date": "2013-05-01",
+      "total_lending_gbp_000": 2153207.292
+    },
+    {
+      "date": "2013-06-01",
+      "total_lending_gbp_000": 2159899.212
+    },
+    {
+      "date": "2013-07-01",
+      "total_lending_gbp_000": 2133750.849
+    },
+    {
+      "date": "2013-08-01",
+      "total_lending_gbp_000": 2133856.418
+    },
+    {
+      "date": "2013-09-01",
+      "total_lending_gbp_000": 2116124.495
+    },
+    {
+      "date": "2013-10-01",
+      "total_lending_gbp_000": 2097112.357
+    },
+    {
+      "date": "2013-11-01",
+      "total_lending_gbp_000": 2093280.456
+    },
+    {
+      "date": "2013-12-01",
+      "total_lending_gbp_000": 2087963.823
+    },
+    {
+      "date": "2014-01-01",
+      "total_lending_gbp_000": 2109008.742
+    },
+    {
+      "date": "2014-02-01",
+      "total_lending_gbp_000": 2086327.385
+    },
+    {
+      "date": "2014-03-01",
+      "total_lending_gbp_000": 2092682.397
+    },
+    {
+      "date": "2014-04-01",
+      "total_lending_gbp_000": 2050032.283
+    },
+    {
+      "date": "2014-05-01",
+      "total_lending_gbp_000": 2037310.197
+    },
+    {
+      "date": "2014-06-01",
+      "total_lending_gbp_000": 2041154.782
+    },
+    {
+      "date": "2014-07-01",
+      "total_lending_gbp_000": 2021275.127
+    },
+    {
+      "date": "2014-08-01",
+      "total_lending_gbp_000": 1997519.039
+    },
+    {
+      "date": "2014-09-01",
+      "total_lending_gbp_000": 1955663.807
+    },
+    {
+      "date": "2014-10-01",
+      "total_lending_gbp_000": 1928895.275
+    },
+    {
+      "date": "2014-11-01",
+      "total_lending_gbp_000": 1922634.051
+    },
+    {
+      "date": "2014-12-01",
+      "total_lending_gbp_000": 1907202.97
+    },
+    {
+      "date": "2015-01-01",
+      "total_lending_gbp_000": 1892168.186
+    },
+    {
+      "date": "2015-02-01",
+      "total_lending_gbp_000": 1868772.822
+    },
+    {
+      "date": "2015-03-01",
+      "total_lending_gbp_000": 1904684.85
+    },
+    {
+      "date": "2015-04-01",
+      "total_lending_gbp_000": 1904684.85
+    },
+    {
+      "date": "2015-05-01",
+      "total_lending_gbp_000": 1904684.85
+    },
+    {
+      "date": "2015-06-01",
+      "total_lending_gbp_000": 1904684.85
+    },
+    {
+      "date": "2015-07-01",
+      "total_lending_gbp_000": 1904684.85
+    },
+    {
+      "date": "2015-08-01",
+      "total_lending_gbp_000": 1904684.85
+    },
+    {
+      "date": "2015-09-01",
+      "total_lending_gbp_000": 1904684.85
+    },
+    {
+      "date": "2015-10-01",
+      "total_lending_gbp_000": 1857603.977
+    },
+    {
+      "date": "2015-11-01",
+      "total_lending_gbp_000": 1829286.632
+    },
+    {
+      "date": "2015-12-01",
+      "total_lending_gbp_000": 1816614.588
+    },
+    {
+      "date": "2016-01-01",
+      "total_lending_gbp_000": 1805417.978
+    },
+    {
+      "date": "2016-02-01",
+      "total_lending_gbp_000": 1789853.746
+    },
+    {
+      "date": "2016-03-01",
+      "total_lending_gbp_000": 1772217
+    },
+    {
+      "date": "2016-04-01",
+      "total_lending_gbp_000": 1770840.675
+    },
+    {
+      "date": "2016-05-01",
+      "total_lending_gbp_000": 1759928.873
+    },
+    {
+      "date": "2016-06-01",
+      "total_lending_gbp_000": 1762054.502
+    },
+    {
+      "date": "2016-07-01",
+      "total_lending_gbp_000": 1752358.0
+    },
+    {
+      "date": "2016-08-01",
+      "total_lending_gbp_000": 1741655.0
+    },
+    {
+      "date": "2016-09-01",
+      "total_lending_gbp_000": 1725590
+    },
+    {
+      "date": "2016-10-01",
+      "total_lending_gbp_000": 1726876
+    },
+    {
+      "date": "2016-11-01",
+      "total_lending_gbp_000": 1727802
+    },
+    {
+      "date": "2016-12-01",
+      "total_lending_gbp_000": 1711874
+    },
+    {
+      "date": "2017-01-01",
+      "total_lending_gbp_000": 1706811
+    },
+    {
+      "date": "2017-02-01",
+      "total_lending_gbp_000": 1756061
+    },
+    {
+      "date": "2017-03-01",
+      "total_lending_gbp_000": 1750695
+    },
+    {
+      "date": "2017-04-01",
+      "total_lending_gbp_000": 1754700
+    },
+    {
+      "date": "2017-05-01",
+      "total_lending_gbp_000": 1746245
+    },
+    {
+      "date": "2017-06-01",
+      "total_lending_gbp_000": 1748086.015
+    },
+    {
+      "date": "2017-07-01",
+      "total_lending_gbp_000": 1734064
+    },
+    {
+      "date": "2017-08-01",
+      "total_lending_gbp_000": 1721051.044
+    },
+    {
+      "date": "2017-09-01",
+      "total_lending_gbp_000": 1745716
+    },
+    {
+      "date": "2017-10-01",
+      "total_lending_gbp_000": 1730605
+    },
+    {
+      "date": "2017-11-01",
+      "total_lending_gbp_000": 1698288
+    },
+    {
+      "date": "2017-12-01",
+      "total_lending_gbp_000": 1718420
+    },
+    {
+      "date": "2018-01-01",
+      "total_lending_gbp_000": 1691945
+    },
+    {
+      "date": "2018-02-01",
+      "total_lending_gbp_000": 1674399
+    },
+    {
+      "date": "2018-03-01",
+      "total_lending_gbp_000": 1664182
+    },
+    {
+      "date": "2018-04-01",
+      "total_lending_gbp_000": 1598067.842
+    },
+    {
+      "date": "2018-05-01",
+      "total_lending_gbp_000": 1582099
+    },
+    {
+      "date": "2018-06-01",
+      "total_lending_gbp_000": 1567827
+    },
+    {
+      "date": "2018-07-01",
+      "total_lending_gbp_000": 1560979
+    },
+    {
+      "date": "2018-08-01",
+      "total_lending_gbp_000": 1560158
+    },
+    {
+      "date": "2018-09-01",
+      "total_lending_gbp_000": 1556216
+    },
+    {
+      "date": "2018-10-01",
+      "total_lending_gbp_000": 1526122
+    },
+    {
+      "date": "2018-11-01",
+      "total_lending_gbp_000": 1524133
+    },
+    {
+      "date": "2018-12-01",
+      "total_lending_gbp_000": 1532327
+    },
+    {
+      "date": "2019-01-01",
+      "total_lending_gbp_000": 1529949
+    },
+    {
+      "date": "2019-02-01",
+      "total_lending_gbp_000": 1527642
+    },
+    {
+      "date": "2019-03-01",
+      "total_lending_gbp_000": 1532065
+    },
+    {
+      "date": "2019-04-01",
+      "total_lending_gbp_000": 1532424
+    },
+    {
+      "date": "2019-05-01",
+      "total_lending_gbp_000": 1459649
+    },
+    {
+      "date": "2019-06-01",
+      "total_lending_gbp_000": 1460283
+    },
+    {
+      "date": "2019-07-01",
+      "total_lending_gbp_000": 1459636
+    },
+    {
+      "date": "2019-08-01",
+      "total_lending_gbp_000": 1469198
+    },
+    {
+      "date": "2019-09-01",
+      "total_lending_gbp_000": 1472616
+    },
+    {
+      "date": "2019-10-01",
+      "total_lending_gbp_000": 1487348
+    },
+    {
+      "date": "2019-11-01",
+      "total_lending_gbp_000": 1486946
+    },
+    {
+      "date": "2019-12-01",
+      "total_lending_gbp_000": 1479171
+    },
+    {
+      "date": "2020-12-01",
+      "total_lending_gbp_000": 1578982
+    },
+    {
+      "date": "2021-12-01",
+      "total_lending_gbp_000": 1617876
+    },
+    {
+      "date": "2022-12-01",
+      "total_lending_gbp_000": 1723182
+    },
+    {
+      "date": "2023-12-01",
+      "total_lending_gbp_000": 1674556
+    },
+    {
+      "date": "2024-12-01",
+      "total_lending_gbp_000": 1684378
+    }
+  ],
+  "affordability_ratios": [
+    {
+      "year": 1988,
+      "avg_house_to_avg_salary": 6.6,
+      "median_house_to_median_earnings": 6.1
+    },
+    {
+      "year": 1989,
+      "avg_house_to_avg_salary": 7.24,
+      "median_house_to_median_earnings": 7.02
+    },
+    {
+      "year": 1990,
+      "avg_house_to_avg_salary": 6.6,
+      "median_house_to_median_earnings": 6.07
+    },
+    {
+      "year": 1991,
+      "avg_house_to_avg_salary": 6.05,
+      "median_house_to_median_earnings": 5.55
+    },
+    {
+      "year": 1992,
+      "avg_house_to_avg_salary": 5.46,
+      "median_house_to_median_earnings": 5.26
+    },
+    {
+      "year": 1993,
+      "avg_house_to_avg_salary": 5.2,
+      "median_house_to_median_earnings": 4.7
+    },
+    {
+      "year": 1994,
+      "avg_house_to_avg_salary": 5.23,
+      "median_house_to_median_earnings": 5.04
+    },
+    {
+      "year": 1995,
+      "avg_house_to_avg_salary": 5.1,
+      "median_house_to_median_earnings": 4.9
+    },
+    {
+      "year": 1996,
+      "avg_house_to_avg_salary": 5.08,
+      "median_house_to_median_earnings": 4.68
+    },
+    {
+      "year": 1997,
+      "avg_house_to_avg_salary": 5.24,
+      "median_house_to_median_earnings": 4.87
+    },
+    {
+      "year": 1998,
+      "avg_house_to_avg_salary": 5.44,
+      "median_house_to_median_earnings": 5.11
+    },
+    {
+      "year": 1999,
+      "avg_house_to_avg_salary": 5.99,
+      "median_house_to_median_earnings": 5.67
+    },
+    {
+      "year": 2000,
+      "avg_house_to_avg_salary": 7,
+      "median_house_to_median_earnings": 5.44
+    },
+    {
+      "year": 2001,
+      "avg_house_to_avg_salary": 7.25,
+      "median_house_to_median_earnings": 5.97
+    },
+    {
+      "year": 2002,
+      "avg_house_to_avg_salary": 7.7,
+      "median_house_to_median_earnings": 6.4
+    },
+    {
+      "year": 2003,
+      "avg_house_to_avg_salary": 8.13,
+      "median_house_to_median_earnings": 7.32
+    },
+    {
+      "year": 2004,
+      "avg_house_to_avg_salary": 8.62,
+      "median_house_to_median_earnings": 8.94
+    },
+    {
+      "year": 2005,
+      "avg_house_to_avg_salary": 9.17,
+      "median_house_to_median_earnings": 9.45
+    },
+    {
+      "year": 2006,
+      "avg_house_to_avg_salary": 8.52,
+      "median_house_to_median_earnings": 9.0
+    },
+    {
+      "year": 2007,
+      "avg_house_to_avg_salary": 9.41,
+      "median_house_to_median_earnings": 9.68
+    },
+    {
+      "year": 2008,
+      "avg_house_to_avg_salary": 9.72,
+      "median_house_to_median_earnings": 10.38
+    },
+    {
+      "year": 2009,
+      "avg_house_to_avg_salary": 9.3,
+      "median_house_to_median_earnings": 9.69
+    },
+    {
+      "year": 2010,
+      "avg_house_to_avg_salary": 9.21,
+      "median_house_to_median_earnings": 9.75
+    },
+    {
+      "year": 2011,
+      "avg_house_to_avg_salary": 8.96,
+      "median_house_to_median_earnings": 9.66
+    },
+    {
+      "year": 2012,
+      "avg_house_to_avg_salary": 8.24,
+      "median_house_to_median_earnings": 9.0
+    },
+    {
+      "year": 2013,
+      "avg_house_to_avg_salary": 7.97,
+      "median_house_to_median_earnings": 9.12
+    },
+    {
+      "year": 2014,
+      "avg_house_to_avg_salary": 7.89,
+      "median_house_to_median_earnings": 8.72
+    },
+    {
+      "year": 2015,
+      "avg_house_to_avg_salary": 7.54,
+      "median_house_to_median_earnings": 8.93
+    },
+    {
+      "year": 2016,
+      "avg_house_to_avg_salary": 7.54,
+      "median_house_to_median_earnings": 8.78
+    },
+    {
+      "year": 2017,
+      "avg_house_to_avg_salary": 7.14,
+      "median_house_to_median_earnings": 8.59
+    },
+    {
+      "year": 2018,
+      "avg_house_to_avg_salary": 7.4,
+      "median_house_to_median_earnings": 8.37
+    },
+    {
+      "year": 2019,
+      "avg_house_to_avg_salary": 7.37,
+      "median_house_to_median_earnings": 8.57
+    },
+    {
+      "year": 2020,
+      "avg_house_to_avg_salary": 7.62,
+      "median_house_to_median_earnings": 8.89
+    },
+    {
+      "year": 2021,
+      "avg_house_to_avg_salary": 9.02,
+      "median_house_to_median_earnings": 10.04
+    },
+    {
+      "year": 2022,
+      "avg_house_to_avg_salary": 8.55,
+      "median_house_to_median_earnings": 9.97
+    },
+    {
+      "year": 2023,
+      "avg_house_to_avg_salary": 8.1,
+      "median_house_to_median_earnings": 9.09
+    },
+    {
+      "year": 2024,
+      "avg_house_to_avg_salary": 7.88,
+      "median_house_to_median_earnings": 8.83
+    }
+  ]
+}
