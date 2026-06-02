@@ -2,9 +2,9 @@
   "steps": [
     "bootstrapped"
   ],
-  "stop_reason": "no rows parsed",
+  "stop_reason": "incremental: reached known records",
   "page_size": 100,
-  "total_seen": 20252,
+  "total_seen": 100,
   "history_fetched": 0,
-  "history_failed": 8289
+  "history_failed": 35
 }
