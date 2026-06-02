@@ -32,6 +32,9 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run property prices scraper
+        env:
+          FULL_SCRAPE: "1"
+          MAX_PAGES: "1"
         run: python scrapers/property_prices.py
 
       - name: Commit & push if data changed
