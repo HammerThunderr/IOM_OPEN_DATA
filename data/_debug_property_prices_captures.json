@@ -2,9 +2,9 @@
   "steps": [
     "bootstrapped"
   ],
-  "stop_reason": "incremental: reached known records",
+  "stop_reason": "hit MAX_PAGES=1",
   "page_size": 100,
   "total_seen": 100,
   "history_fetched": 0,
-  "history_failed": 35
+  "history_failed": 66
 }
