@@ -1,0 +1,813 @@
+{
+  "source": "Isle of Man Government / Douglas Civil Registry - Marriages and Civil Partnerships",
+  "source_file": "marriages-and-civil-partnerships-uploaded-230426.pdf",
+  "as_at": "2026-03-31",
+  "generated_at": "2026-06-03T17:46:53.457762+00:00",
+  "notes": "Civil marriages are split into Registry Office (Douglas, Peel, Ramsey) and Approved Place (approved venues). The summary's civil_marriages combines both. Church marriages are submitted quarterly, so the most recent quarters are provisional and may be revised upward. Latest year is partial (partial=true).",
+  "series": {
+    "civil_marriages_registry_office": [
+      {
+        "year": 2017,
+        "months": {
+          "Jan": 0,
+          "Feb": 8,
+          "Mar": 13,
+          "Apr": 14,
+          "May": 9,
+          "Jun": 15,
+          "Jul": 13,
+          "Aug": 26,
+          "Sep": 19,
+          "Oct": 10,
+          "Nov": 7,
+          "Dec": 12
+        },
+        "total": 146,
+        "partial": false
+      },
+      {
+        "year": 2018,
+        "months": {
+          "Jan": 4,
+          "Feb": 7,
+          "Mar": 8,
+          "Apr": 14,
+          "May": 11,
+          "Jun": 17,
+          "Jul": 8,
+          "Aug": 20,
+          "Sep": 19,
+          "Oct": 5,
+          "Nov": 1,
+          "Dec": 9
+        },
+        "total": 123,
+        "partial": false
+      },
+      {
+        "year": 2019,
+        "months": {
+          "Jan": 10,
+          "Feb": 8,
+          "Mar": 7,
+          "Apr": 6,
+          "May": 6,
+          "Jun": 12,
+          "Jul": 12,
+          "Aug": 23,
+          "Sep": 16,
+          "Oct": 7,
+          "Nov": 8,
+          "Dec": 13
+        },
+        "total": 128,
+        "partial": false
+      },
+      {
+        "year": 2020,
+        "months": {
+          "Jan": 5,
+          "Feb": 5,
+          "Mar": 11,
+          "Apr": 0,
+          "May": 0,
+          "Jun": 5,
+          "Jul": 14,
+          "Aug": 14,
+          "Sep": 13,
+          "Oct": 12,
+          "Nov": 10,
+          "Dec": 9
+        },
+        "total": 98,
+        "partial": false
+      },
+      {
+        "year": 2021,
+        "months": {
+          "Jan": 1,
+          "Feb": 11,
+          "Mar": 0,
+          "Apr": 3,
+          "May": 16,
+          "Jun": 7,
+          "Jul": 18,
+          "Aug": 21,
+          "Sep": 12,
+          "Oct": 7,
+          "Nov": 7,
+          "Dec": 8
+        },
+        "total": 111,
+        "partial": false
+      },
+      {
+        "year": 2022,
+        "months": {
+          "Jan": 6,
+          "Feb": 5,
+          "Mar": 4,
+          "Apr": 17,
+          "May": 11,
+          "Jun": 16,
+          "Jul": 22,
+          "Aug": 19,
+          "Sep": 7,
+          "Oct": 8,
+          "Nov": 5,
+          "Dec": 13
+        },
+        "total": 133,
+        "partial": false
+      },
+      {
+        "year": 2023,
+        "months": {
+          "Jan": 3,
+          "Feb": 4,
+          "Mar": 10,
+          "Apr": 12,
+          "May": 3,
+          "Jun": 19,
+          "Jul": 27,
+          "Aug": 23,
+          "Sep": 10,
+          "Oct": 7,
+          "Nov": 5,
+          "Dec": 6
+        },
+        "total": 129,
+        "partial": false
+      },
+      {
+        "year": 2024,
+        "months": {
+          "Jan": 3,
+          "Feb": 7,
+          "Mar": 3,
+          "Apr": 13,
+          "May": 11,
+          "Jun": 7,
+          "Jul": 12,
+          "Aug": 18,
+          "Sep": 14,
+          "Oct": 14,
+          "Nov": 9,
+          "Dec": 14
+        },
+        "total": 125,
+        "partial": false
+      },
+      {
+        "year": 2025,
+        "months": {
+          "Jan": 5,
+          "Feb": 9,
+          "Mar": 12,
+          "Apr": 6,
+          "May": 14,
+          "Jun": 15,
+          "Jul": 22,
+          "Aug": 19,
+          "Sep": 12,
+          "Oct": 9,
+          "Nov": 7,
+          "Dec": 11
+        },
+        "total": 141,
+        "partial": false
+      },
+      {
+        "year": 2026,
+        "months": {
+          "Jan": 8,
+          "Feb": 6,
+          "Mar": 8
+        },
+        "total": 22,
+        "partial": true
+      }
+    ],
+    "civil_marriages_approved_place": [
+      {
+        "year": 2017,
+        "months": {
+          "Jan": 0,
+          "Feb": 2,
+          "Mar": 3,
+          "Apr": 11,
+          "May": 12,
+          "Jun": 7,
+          "Jul": 20,
+          "Aug": 26,
+          "Sep": 4,
+          "Oct": 3,
+          "Nov": 0,
+          "Dec": 5
+        },
+        "total": 93,
+        "partial": false
+      },
+      {
+        "year": 2018,
+        "months": {
+          "Jan": 3,
+          "Feb": 1,
+          "Mar": 9,
+          "Apr": 10,
+          "May": 13,
+          "Jun": 9,
+          "Jul": 18,
+          "Aug": 20,
+          "Sep": 13,
+          "Oct": 8,
+          "Nov": 3,
+          "Dec": 4
+        },
+        "total": 111,
+        "partial": false
+      },
+      {
+        "year": 2019,
+        "months": {
+          "Jan": 2,
+          "Feb": 2,
+          "Mar": 2,
+          "Apr": 7,
+          "May": 12,
+          "Jun": 11,
+          "Jul": 17,
+          "Aug": 16,
+          "Sep": 16,
+          "Oct": 4,
+          "Nov": 5,
+          "Dec": 1
+        },
+        "total": 95,
+        "partial": false
+      },
+      {
+        "year": 2020,
+        "months": {
+          "Jan": 1,
+          "Feb": 4,
+          "Mar": 2,
+          "Apr": 0,
+          "May": 0,
+          "Jun": 0,
+          "Jul": 3,
+          "Aug": 12,
+          "Sep": 3,
+          "Oct": 7,
+          "Nov": 5,
+          "Dec": 5
+        },
+        "total": 42,
+        "partial": false
+      },
+      {
+        "year": 2021,
+        "months": {
+          "Jan": 0,
+          "Feb": 3,
+          "Mar": 0,
+          "Apr": 6,
+          "May": 17,
+          "Jun": 5,
+          "Jul": 21,
+          "Aug": 15,
+          "Sep": 19,
+          "Oct": 14,
+          "Nov": 4,
+          "Dec": 5
+        },
+        "total": 109,
+        "partial": false
+      },
+      {
+        "year": 2022,
+        "months": {
+          "Jan": 1,
+          "Feb": 4,
+          "Mar": 6,
+          "Apr": 9,
+          "May": 7,
+          "Jun": 14,
+          "Jul": 35,
+          "Aug": 23,
+          "Sep": 11,
+          "Oct": 5,
+          "Nov": 4,
+          "Dec": 7
+        },
+        "total": 126,
+        "partial": false
+      },
+      {
+        "year": 2023,
+        "months": {
+          "Jan": 0,
+          "Feb": 2,
+          "Mar": 1,
+          "Apr": 9,
+          "May": 8,
+          "Jun": 9,
+          "Jul": 29,
+          "Aug": 26,
+          "Sep": 9,
+          "Oct": 3,
+          "Nov": 4,
+          "Dec": 3
+        },
+        "total": 103,
+        "partial": false
+      },
+      {
+        "year": 2024,
+        "months": {
+          "Jan": 3,
+          "Feb": 1,
+          "Mar": 3,
+          "Apr": 10,
+          "May": 15,
+          "Jun": 19,
+          "Jul": 15,
+          "Aug": 30,
+          "Sep": 19,
+          "Oct": 4,
+          "Nov": 4,
+          "Dec": 4
+        },
+        "total": 127,
+        "partial": false
+      },
+      {
+        "year": 2025,
+        "months": {
+          "Jan": 0,
+          "Feb": 5,
+          "Mar": 1,
+          "Apr": 4,
+          "May": 12,
+          "Jun": 12,
+          "Jul": 22,
+          "Aug": 17,
+          "Sep": 10,
+          "Oct": 4,
+          "Nov": 5,
+          "Dec": 2
+        },
+        "total": 94,
+        "partial": false
+      },
+      {
+        "year": 2026,
+        "months": {
+          "Jan": 0,
+          "Feb": 3,
+          "Mar": 5
+        },
+        "total": 8,
+        "partial": true
+      }
+    ],
+    "church_marriages": [
+      {
+        "year": 2017,
+        "months": {
+          "Jan": 2,
+          "Feb": 4,
+          "Mar": 0,
+          "Apr": 9,
+          "May": 6,
+          "Jun": 11,
+          "Jul": 31,
+          "Aug": 30,
+          "Sep": 23,
+          "Oct": 6,
+          "Nov": 2,
+          "Dec": 10
+        },
+        "total": 134,
+        "partial": false
+      },
+      {
+        "year": 2018,
+        "months": {
+          "Jan": 0,
+          "Feb": 1,
+          "Mar": 2,
+          "Apr": 6,
+          "May": 12,
+          "Jun": 12,
+          "Jul": 27,
+          "Aug": 26,
+          "Sep": 15,
+          "Oct": 7,
+          "Nov": 1,
+          "Dec": 8
+        },
+        "total": 117,
+        "partial": false
+      },
+      {
+        "year": 2019,
+        "months": {
+          "Jan": 1,
+          "Feb": 2,
+          "Mar": 3,
+          "Apr": 4,
+          "May": 9,
+          "Jun": 11,
+          "Jul": 18,
+          "Aug": 19,
+          "Sep": 10,
+          "Oct": 10,
+          "Nov": 2,
+          "Dec": 3
+        },
+        "total": 92,
+        "partial": false
+      },
+      {
+        "year": 2020,
+        "months": {
+          "Jan": 2,
+          "Feb": 4,
+          "Mar": 2,
+          "Apr": 0,
+          "May": 1,
+          "Jun": 1,
+          "Jul": 1,
+          "Aug": 3,
+          "Sep": 7,
+          "Oct": 4,
+          "Nov": 4,
+          "Dec": 4
+        },
+        "total": 33,
+        "partial": false
+      },
+      {
+        "year": 2021,
+        "months": {
+          "Jan": 0,
+          "Feb": 0,
+          "Mar": 0,
+          "Apr": 0,
+          "May": 9,
+          "Jun": 12,
+          "Jul": 15,
+          "Aug": 13,
+          "Sep": 7,
+          "Oct": 10,
+          "Nov": 6,
+          "Dec": 4
+        },
+        "total": 76,
+        "partial": false
+      },
+      {
+        "year": 2022,
+        "months": {
+          "Jan": 0,
+          "Feb": 0,
+          "Mar": 0,
+          "Apr": 16,
+          "May": 11,
+          "Jun": 7,
+          "Jul": 32,
+          "Aug": 18,
+          "Sep": 11,
+          "Oct": 8,
+          "Nov": 1,
+          "Dec": 2
+        },
+        "total": 106,
+        "partial": false
+      },
+      {
+        "year": 2023,
+        "months": {
+          "Jan": 1,
+          "Feb": 0,
+          "Mar": 6,
+          "Apr": 7,
+          "May": 3,
+          "Jun": 7,
+          "Jul": 17,
+          "Aug": 19,
+          "Sep": 11,
+          "Oct": 3,
+          "Nov": 1,
+          "Dec": 1
+        },
+        "total": 76,
+        "partial": false
+      },
+      {
+        "year": 2024,
+        "months": {
+          "Jan": 0,
+          "Feb": 2,
+          "Mar": 2,
+          "Apr": 5,
+          "May": 8,
+          "Jun": 13,
+          "Jul": 10,
+          "Aug": 14,
+          "Sep": 6,
+          "Oct": 6,
+          "Nov": 2,
+          "Dec": 4
+        },
+        "total": 72,
+        "partial": false
+      },
+      {
+        "year": 2025,
+        "months": {
+          "Jan": 1,
+          "Feb": 1,
+          "Mar": 0,
+          "Apr": 2,
+          "May": 8,
+          "Jun": 2,
+          "Jul": 14,
+          "Aug": 10,
+          "Sep": 2,
+          "Oct": 6,
+          "Nov": 0,
+          "Dec": 4
+        },
+        "total": 50,
+        "partial": false
+      },
+      {
+        "year": 2026,
+        "months": {
+          "Jan": 0,
+          "Feb": 0,
+          "Mar": 2
+        },
+        "total": 2,
+        "partial": true
+      }
+    ],
+    "civil_partnerships": [
+      {
+        "year": 2017,
+        "months": {
+          "Jan": 0,
+          "Feb": 0,
+          "Mar": 2,
+          "Apr": 1,
+          "May": 0,
+          "Jun": 1,
+          "Jul": 1,
+          "Aug": 1,
+          "Sep": 1,
+          "Oct": 0,
+          "Nov": 1,
+          "Dec": 0
+        },
+        "total": 8,
+        "partial": false
+      },
+      {
+        "year": 2018,
+        "months": {
+          "Jan": 0,
+          "Feb": 0,
+          "Mar": 1,
+          "Apr": 1,
+          "May": 3,
+          "Jun": 1,
+          "Jul": 0,
+          "Aug": 1,
+          "Sep": 1,
+          "Oct": 0,
+          "Nov": 1,
+          "Dec": 3
+        },
+        "total": 12,
+        "partial": false
+      },
+      {
+        "year": 2019,
+        "months": {
+          "Jan": 2,
+          "Feb": 2,
+          "Mar": 2,
+          "Apr": 2,
+          "May": 2,
+          "Jun": 0,
+          "Jul": 2,
+          "Aug": 2,
+          "Sep": 2,
+          "Oct": 1,
+          "Nov": 0,
+          "Dec": 1
+        },
+        "total": 18,
+        "partial": false
+      },
+      {
+        "year": 2020,
+        "months": {
+          "Jan": 0,
+          "Feb": 1,
+          "Mar": 0,
+          "Apr": 0,
+          "May": 0,
+          "Jun": 1,
+          "Jul": 1,
+          "Aug": 0,
+          "Sep": 0,
+          "Oct": 1,
+          "Nov": 0,
+          "Dec": 2
+        },
+        "total": 6,
+        "partial": false
+      },
+      {
+        "year": 2021,
+        "months": {
+          "Jan": 0,
+          "Feb": 2,
+          "Mar": 0,
+          "Apr": 0,
+          "May": 0,
+          "Jun": 0,
+          "Jul": 1,
+          "Aug": 0,
+          "Sep": 0,
+          "Oct": 0,
+          "Nov": 0,
+          "Dec": 0
+        },
+        "total": 3,
+        "partial": false
+      },
+      {
+        "year": 2022,
+        "months": {
+          "Jan": 0,
+          "Feb": 1,
+          "Mar": 1,
+          "Apr": 1,
+          "May": 0,
+          "Jun": 1,
+          "Jul": 1,
+          "Aug": 1,
+          "Sep": 0,
+          "Oct": 2,
+          "Nov": 1,
+          "Dec": 0
+        },
+        "total": 9,
+        "partial": false
+      },
+      {
+        "year": 2023,
+        "months": {
+          "Jan": 0,
+          "Feb": 1,
+          "Mar": 1,
+          "Apr": 0,
+          "May": 0,
+          "Jun": 0,
+          "Jul": 0,
+          "Aug": 1,
+          "Sep": 0,
+          "Oct": 1,
+          "Nov": 0,
+          "Dec": 1
+        },
+        "total": 5,
+        "partial": false
+      },
+      {
+        "year": 2024,
+        "months": {
+          "Jan": 0,
+          "Feb": 3,
+          "Mar": 0,
+          "Apr": 1,
+          "May": 0,
+          "Jun": 1,
+          "Jul": 1,
+          "Aug": 1,
+          "Sep": 1,
+          "Oct": 1,
+          "Nov": 1,
+          "Dec": 3
+        },
+        "total": 13,
+        "partial": false
+      },
+      {
+        "year": 2025,
+        "months": {
+          "Jan": 0,
+          "Feb": 0,
+          "Mar": 0,
+          "Apr": 1,
+          "May": 0,
+          "Jun": 0,
+          "Jul": 1,
+          "Aug": 2,
+          "Sep": 0,
+          "Oct": 1,
+          "Nov": 1,
+          "Dec": 0
+        },
+        "total": 6,
+        "partial": false
+      },
+      {
+        "year": 2026,
+        "months": {
+          "Jan": 1,
+          "Feb": 1,
+          "Mar": 1
+        },
+        "total": 3,
+        "partial": true
+      }
+    ]
+  },
+  "summary": [
+    {
+      "year": 2017,
+      "civil_marriages": 239,
+      "church_marriages": 134,
+      "civil_partnerships": 8,
+      "total_marriages": 373
+    },
+    {
+      "year": 2018,
+      "civil_marriages": 234,
+      "church_marriages": 117,
+      "civil_partnerships": 12,
+      "total_marriages": 351
+    },
+    {
+      "year": 2019,
+      "civil_marriages": 223,
+      "church_marriages": 92,
+      "civil_partnerships": 18,
+      "total_marriages": 315
+    },
+    {
+      "year": 2020,
+      "civil_marriages": 140,
+      "church_marriages": 33,
+      "civil_partnerships": 6,
+      "total_marriages": 173
+    },
+    {
+      "year": 2021,
+      "civil_marriages": 220,
+      "church_marriages": 76,
+      "civil_partnerships": 3,
+      "total_marriages": 296
+    },
+    {
+      "year": 2022,
+      "civil_marriages": 259,
+      "church_marriages": 106,
+      "civil_partnerships": 9,
+      "total_marriages": 365
+    },
+    {
+      "year": 2023,
+      "civil_marriages": 232,
+      "church_marriages": 76,
+      "civil_partnerships": 5,
+      "total_marriages": 308
+    },
+    {
+      "year": 2024,
+      "civil_marriages": 252,
+      "church_marriages": 72,
+      "civil_partnerships": 13,
+      "total_marriages": 324
+    },
+    {
+      "year": 2025,
+      "civil_marriages": 235,
+      "church_marriages": 50,
+      "civil_partnerships": 6,
+      "total_marriages": 285
+    },
+    {
+      "year": 2026,
+      "civil_marriages": 30,
+      "church_marriages": 2,
+      "civil_partnerships": 3,
+      "total_marriages": 32
+    }
+  ]
+}
