@@ -1,0 +1,43 @@
+name: Update IoM news feed
+
+on:
+  schedule:
+    # Every day at 06:00 and 18:00 UTC. Adjust as you like.
+    - cron: "0 6 * * *"
+    - cron: "0 18 * * *"
+  workflow_dispatch: {}        # allow manual "Run workflow"
+
+permissions:
+  contents: write              # needed to commit the refreshed JSON
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser
+
+      - name: Aggregate news
+        run: python scrapers/aggregate_news.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          if git diff --staged --quiet; then
+            echo "No news changes."
+          else
+            git commit -m "Update IoM news feed ($(date -u +%Y-%m-%dT%H:%MZ))"
+            git push
+          fi
