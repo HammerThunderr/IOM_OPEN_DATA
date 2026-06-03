@@ -1,0 +1,1259 @@
+{
+  "source": "Isle of Man Department of Education, Sport & Culture - School Roll Data (September census)",
+  "source_files": [
+    "school-roll-data-september-2020.pdf",
+    "school-roll-data-september-2021.pdf",
+    "school-roll-data-september-2022.pdf",
+    "school-roll-data-september-2024.pdf",
+    "september-2025-school-roll-data-updated.pdf"
+  ],
+  "generated_at": "2026-06-03T17:53:43.645707+00:00",
+  "notes": "Numbers on roll at the September census. Figures are per-school totals (Roll/Male/Female); validated so male+female=roll and schools sum to the island total. September 2023 omitted (source PDF lacked clean per-school totals).",
+  "years": [
+    2020,
+    2021,
+    2022,
+    2024,
+    2025
+  ],
+  "primary": {
+    "Anagh Coar": [
+      {
+        "year": 2020,
+        "roll": 112,
+        "male": 60,
+        "female": 52
+      },
+      {
+        "year": 2021,
+        "roll": 106,
+        "male": 56,
+        "female": 50
+      },
+      {
+        "year": 2022,
+        "roll": 102,
+        "male": 58,
+        "female": 44
+      },
+      {
+        "year": 2024,
+        "roll": 104,
+        "male": 47,
+        "female": 57
+      },
+      {
+        "year": 2025,
+        "roll": 100,
+        "male": 47,
+        "female": 53
+      }
+    ],
+    "Andreas": [
+      {
+        "year": 2020,
+        "roll": 88,
+        "male": 42,
+        "female": 46
+      },
+      {
+        "year": 2021,
+        "roll": 75,
+        "male": 35,
+        "female": 40
+      },
+      {
+        "year": 2022,
+        "roll": 79,
+        "male": 45,
+        "female": 34
+      },
+      {
+        "year": 2024,
+        "roll": 80,
+        "male": 43,
+        "female": 37
+      },
+      {
+        "year": 2025,
+        "roll": 79,
+        "male": 43,
+        "female": 36
+      }
+    ],
+    "Arbory": [
+      {
+        "year": 2020,
+        "roll": 171,
+        "male": 95,
+        "female": 76
+      },
+      {
+        "year": 2021,
+        "roll": 175,
+        "male": 94,
+        "female": 81
+      },
+      {
+        "year": 2022,
+        "roll": 172,
+        "male": 87,
+        "female": 85
+      },
+      {
+        "year": 2024,
+        "roll": 161,
+        "male": 78,
+        "female": 83
+      },
+      {
+        "year": 2025,
+        "roll": 165,
+        "male": 82,
+        "female": 83
+      }
+    ],
+    "Ashley Hill": [
+      {
+        "year": 2020,
+        "roll": 246,
+        "male": 125,
+        "female": 121
+      },
+      {
+        "year": 2021,
+        "roll": 237,
+        "male": 129,
+        "female": 108
+      },
+      {
+        "year": 2022,
+        "roll": 251,
+        "male": 138,
+        "female": 113
+      },
+      {
+        "year": 2024,
+        "roll": 237,
+        "male": 128,
+        "female": 109
+      },
+      {
+        "year": 2025,
+        "roll": 237,
+        "male": 120,
+        "female": 117
+      }
+    ],
+    "Ballacottier": [
+      {
+        "year": 2020,
+        "roll": 240,
+        "male": 129,
+        "female": 111
+      },
+      {
+        "year": 2021,
+        "roll": 231,
+        "male": 123,
+        "female": 108
+      },
+      {
+        "year": 2022,
+        "roll": 208,
+        "male": 115,
+        "female": 93
+      },
+      {
+        "year": 2024,
+        "roll": 195,
+        "male": 108,
+        "female": 87
+      },
+      {
+        "year": 2025,
+        "roll": 193,
+        "male": 101,
+        "female": 92
+      }
+    ],
+    "Ballasalla": [
+      {
+        "year": 2020,
+        "roll": 101,
+        "male": 55,
+        "female": 46
+      },
+      {
+        "year": 2021,
+        "roll": 115,
+        "male": 63,
+        "female": 52
+      },
+      {
+        "year": 2022,
+        "roll": 137,
+        "male": 76,
+        "female": 61
+      },
+      {
+        "year": 2024,
+        "roll": 167,
+        "male": 94,
+        "female": 73
+      },
+      {
+        "year": 2025,
+        "roll": 163,
+        "male": 83,
+        "female": 80
+      }
+    ],
+    "Ballaugh": [
+      {
+        "year": 2020,
+        "roll": 62,
+        "male": 37,
+        "female": 25
+      },
+      {
+        "year": 2021,
+        "roll": 54,
+        "male": 30,
+        "female": 24
+      },
+      {
+        "year": 2022,
+        "roll": 58,
+        "male": 30,
+        "female": 28
+      },
+      {
+        "year": 2024,
+        "roll": 57,
+        "male": 25,
+        "female": 32
+      },
+      {
+        "year": 2025,
+        "roll": 53,
+        "male": 24,
+        "female": 29
+      }
+    ],
+    "Braddan": [
+      {
+        "year": 2020,
+        "roll": 131,
+        "male": 74,
+        "female": 57
+      },
+      {
+        "year": 2021,
+        "roll": 130,
+        "male": 72,
+        "female": 58
+      },
+      {
+        "year": 2022,
+        "roll": 128,
+        "male": 68,
+        "female": 60
+      },
+      {
+        "year": 2024,
+        "roll": 124,
+        "male": 63,
+        "female": 61
+      },
+      {
+        "year": 2025,
+        "roll": 110,
+        "male": 52,
+        "female": 58
+      }
+    ],
+    "Bunscoill Ghaelgagh": [
+      {
+        "year": 2020,
+        "roll": 55,
+        "male": 26,
+        "female": 29
+      },
+      {
+        "year": 2021,
+        "roll": 54,
+        "male": 26,
+        "female": 28
+      },
+      {
+        "year": 2022,
+        "roll": 53,
+        "male": 25,
+        "female": 28
+      },
+      {
+        "year": 2024,
+        "roll": 64,
+        "male": 30,
+        "female": 34
+      },
+      {
+        "year": 2025,
+        "roll": 60,
+        "male": 28,
+        "female": 32
+      }
+    ],
+    "Bunscoill Rhumsaa": [
+      {
+        "year": 2020,
+        "roll": 478,
+        "male": 249,
+        "female": 229
+      },
+      {
+        "year": 2021,
+        "roll": 482,
+        "male": 253,
+        "female": 229
+      },
+      {
+        "year": 2022,
+        "roll": 481,
+        "male": 246,
+        "female": 235
+      },
+      {
+        "year": 2024,
+        "roll": 452,
+        "male": 229,
+        "female": 223
+      },
+      {
+        "year": 2025,
+        "roll": 447,
+        "male": 225,
+        "female": 222
+      }
+    ],
+    "Cronk-Y-Berry": [
+      {
+        "year": 2020,
+        "roll": 318,
+        "male": 164,
+        "female": 154
+      },
+      {
+        "year": 2021,
+        "roll": 300,
+        "male": 161,
+        "female": 139
+      },
+      {
+        "year": 2022,
+        "roll": 309,
+        "male": 161,
+        "female": 148
+      },
+      {
+        "year": 2024,
+        "roll": 287,
+        "male": 141,
+        "female": 146
+      },
+      {
+        "year": 2025,
+        "roll": 295,
+        "male": 148,
+        "female": 147
+      }
+    ],
+    "Dhoon": [
+      {
+        "year": 2020,
+        "roll": 73,
+        "male": 35,
+        "female": 38
+      },
+      {
+        "year": 2021,
+        "roll": 75,
+        "male": 36,
+        "female": 39
+      },
+      {
+        "year": 2022,
+        "roll": 69,
+        "male": 30,
+        "female": 39
+      },
+      {
+        "year": 2024,
+        "roll": 79,
+        "male": 38,
+        "female": 41
+      },
+      {
+        "year": 2025,
+        "roll": 70,
+        "male": 31,
+        "female": 39
+      }
+    ],
+    "Foxdale": [
+      {
+        "year": 2020,
+        "roll": 83,
+        "male": 40,
+        "female": 43
+      },
+      {
+        "year": 2021,
+        "roll": 83,
+        "male": 40,
+        "female": 43
+      },
+      {
+        "year": 2022,
+        "roll": 80,
+        "male": 42,
+        "female": 38
+      },
+      {
+        "year": 2024,
+        "roll": 75,
+        "male": 37,
+        "female": 38
+      },
+      {
+        "year": 2025,
+        "roll": 79,
+        "male": 45,
+        "female": 34
+      }
+    ],
+    "Henry Bloom Noble": [
+      {
+        "year": 2020,
+        "roll": 409,
+        "male": 211,
+        "female": 198
+      },
+      {
+        "year": 2021,
+        "roll": 393,
+        "male": 205,
+        "female": 188
+      },
+      {
+        "year": 2022,
+        "roll": 391,
+        "male": 202,
+        "female": 189
+      },
+      {
+        "year": 2024,
+        "roll": 383,
+        "male": 192,
+        "female": 191
+      },
+      {
+        "year": 2025,
+        "roll": 385,
+        "male": 196,
+        "female": 189
+      }
+    ],
+    "Jurby": [
+      {
+        "year": 2020,
+        "roll": 59,
+        "male": 25,
+        "female": 34
+      },
+      {
+        "year": 2021,
+        "roll": 57,
+        "male": 21,
+        "female": 36
+      },
+      {
+        "year": 2022,
+        "roll": 59,
+        "male": 23,
+        "female": 36
+      },
+      {
+        "year": 2024,
+        "roll": 42,
+        "male": 19,
+        "female": 23
+      },
+      {
+        "year": 2025,
+        "roll": 45,
+        "male": 23,
+        "female": 22
+      }
+    ],
+    "Kewaigue": [
+      {
+        "year": 2020,
+        "roll": 99,
+        "male": 49,
+        "female": 50
+      },
+      {
+        "year": 2021,
+        "roll": 105,
+        "male": 51,
+        "female": 54
+      },
+      {
+        "year": 2022,
+        "roll": 106,
+        "male": 49,
+        "female": 57
+      },
+      {
+        "year": 2024,
+        "roll": 98,
+        "male": 38,
+        "female": 60
+      },
+      {
+        "year": 2025,
+        "roll": 102,
+        "male": 43,
+        "female": 59
+      }
+    ],
+    "Laxey": [
+      {
+        "year": 2020,
+        "roll": 199,
+        "male": 115,
+        "female": 84
+      },
+      {
+        "year": 2021,
+        "roll": 214,
+        "male": 115,
+        "female": 99
+      },
+      {
+        "year": 2022,
+        "roll": 191,
+        "male": 102,
+        "female": 89
+      },
+      {
+        "year": 2024,
+        "roll": 190,
+        "male": 100,
+        "female": 90
+      },
+      {
+        "year": 2025,
+        "roll": 190,
+        "male": 95,
+        "female": 95
+      }
+    ],
+    "Manor Park": [
+      {
+        "year": 2020,
+        "roll": 93,
+        "male": 44,
+        "female": 49
+      },
+      {
+        "year": 2021,
+        "roll": 72,
+        "male": 32,
+        "female": 40
+      },
+      {
+        "year": 2022,
+        "roll": 78,
+        "male": 33,
+        "female": 45
+      },
+      {
+        "year": 2024,
+        "roll": 75,
+        "male": 37,
+        "female": 38
+      },
+      {
+        "year": 2025,
+        "roll": 71,
+        "male": 32,
+        "female": 39
+      }
+    ],
+    "Marown": [
+      {
+        "year": 2020,
+        "roll": 168,
+        "male": 84,
+        "female": 84
+      },
+      {
+        "year": 2021,
+        "roll": 161,
+        "male": 82,
+        "female": 79
+      },
+      {
+        "year": 2022,
+        "roll": 160,
+        "male": 83,
+        "female": 77
+      },
+      {
+        "year": 2024,
+        "roll": 161,
+        "male": 97,
+        "female": 64
+      },
+      {
+        "year": 2025,
+        "roll": 159,
+        "male": 93,
+        "female": 66
+      }
+    ],
+    "Michael": [
+      {
+        "year": 2020,
+        "roll": 109,
+        "male": 54,
+        "female": 55
+      },
+      {
+        "year": 2021,
+        "roll": 106,
+        "male": 57,
+        "female": 49
+      },
+      {
+        "year": 2022,
+        "roll": 98,
+        "male": 52,
+        "female": 46
+      },
+      {
+        "year": 2024,
+        "roll": 77,
+        "male": 38,
+        "female": 39
+      },
+      {
+        "year": 2025,
+        "roll": 83,
+        "male": 37,
+        "female": 46
+      }
+    ],
+    "Onchan": [
+      {
+        "year": 2020,
+        "roll": 380,
+        "male": 193,
+        "female": 187
+      },
+      {
+        "year": 2021,
+        "roll": 372,
+        "male": 201,
+        "female": 171
+      },
+      {
+        "year": 2022,
+        "roll": 361,
+        "male": 192,
+        "female": 169
+      },
+      {
+        "year": 2024,
+        "roll": 326,
+        "male": 170,
+        "female": 156
+      },
+      {
+        "year": 2025,
+        "roll": 326,
+        "male": 165,
+        "female": 161
+      }
+    ],
+    "Peel Clothworkers": [
+      {
+        "year": 2020,
+        "roll": 454,
+        "male": 242,
+        "female": 212
+      },
+      {
+        "year": 2021,
+        "roll": 428,
+        "male": 223,
+        "female": 205
+      },
+      {
+        "year": 2022,
+        "roll": 416,
+        "male": 210,
+        "female": 206
+      },
+      {
+        "year": 2024,
+        "roll": 385,
+        "male": 195,
+        "female": 190
+      },
+      {
+        "year": 2025,
+        "roll": 371,
+        "male": 189,
+        "female": 182
+      }
+    ],
+    "Rushen": [
+      {
+        "year": 2020,
+        "roll": 290,
+        "male": 145,
+        "female": 145
+      },
+      {
+        "year": 2021,
+        "roll": 271,
+        "male": 140,
+        "female": 131
+      },
+      {
+        "year": 2022,
+        "roll": 252,
+        "male": 134,
+        "female": 118
+      },
+      {
+        "year": 2024,
+        "roll": 232,
+        "male": 117,
+        "female": 115
+      },
+      {
+        "year": 2025,
+        "roll": 217,
+        "male": 118,
+        "female": 99
+      }
+    ],
+    "Scoill Phurt Le Moirrey": [
+      {
+        "year": 2020,
+        "roll": 147,
+        "male": 75,
+        "female": 72
+      },
+      {
+        "year": 2021,
+        "roll": 146,
+        "male": 75,
+        "female": 71
+      },
+      {
+        "year": 2022,
+        "roll": 169,
+        "male": 87,
+        "female": 82
+      },
+      {
+        "year": 2024,
+        "roll": 164,
+        "male": 84,
+        "female": 80
+      },
+      {
+        "year": 2025,
+        "roll": 156,
+        "male": 79,
+        "female": 77
+      }
+    ],
+    "Scoill Vallajeelt": [
+      {
+        "year": 2020,
+        "roll": 190,
+        "male": 112,
+        "female": 78
+      },
+      {
+        "year": 2021,
+        "roll": 185,
+        "male": 103,
+        "female": 82
+      },
+      {
+        "year": 2022,
+        "roll": 170,
+        "male": 93,
+        "female": 77
+      },
+      {
+        "year": 2024,
+        "roll": 155,
+        "male": 76,
+        "female": 79
+      },
+      {
+        "year": 2025,
+        "roll": 157,
+        "male": 79,
+        "female": 78
+      }
+    ],
+    "Scoill yn Jubilee": [
+      {
+        "year": 2020,
+        "roll": 375,
+        "male": 181,
+        "female": 194
+      },
+      {
+        "year": 2021,
+        "roll": 362,
+        "male": 179,
+        "female": 183
+      },
+      {
+        "year": 2022,
+        "roll": 352,
+        "male": 176,
+        "female": 176
+      },
+      {
+        "year": 2024,
+        "roll": 313,
+        "male": 152,
+        "female": 161
+      },
+      {
+        "year": 2025,
+        "roll": 298,
+        "male": 146,
+        "female": 152
+      }
+    ],
+    "St John's": [
+      {
+        "year": 2020,
+        "roll": 117,
+        "male": 58,
+        "female": 59
+      },
+      {
+        "year": 2021,
+        "roll": 105,
+        "male": 55,
+        "female": 50
+      },
+      {
+        "year": 2022,
+        "roll": 96,
+        "male": 55,
+        "female": 41
+      },
+      {
+        "year": 2024,
+        "roll": 106,
+        "male": 64,
+        "female": 42
+      },
+      {
+        "year": 2025,
+        "roll": 103,
+        "male": 66,
+        "female": 37
+      }
+    ],
+    "St Mary's RC": [
+      {
+        "year": 2020,
+        "roll": 229,
+        "male": 112,
+        "female": 117
+      },
+      {
+        "year": 2021,
+        "roll": 230,
+        "male": 120,
+        "female": 110
+      },
+      {
+        "year": 2022,
+        "roll": 225,
+        "male": 118,
+        "female": 107
+      },
+      {
+        "year": 2024,
+        "roll": 266,
+        "male": 142,
+        "female": 124
+      },
+      {
+        "year": 2025,
+        "roll": 283,
+        "male": 143,
+        "female": 140
+      }
+    ],
+    "St Thomas's C of E": [
+      {
+        "year": 2020,
+        "roll": 63,
+        "male": 38,
+        "female": 25
+      },
+      {
+        "year": 2021,
+        "roll": 59,
+        "male": 35,
+        "female": 24
+      },
+      {
+        "year": 2022,
+        "roll": 73,
+        "male": 41,
+        "female": 32
+      },
+      {
+        "year": 2024,
+        "roll": 74,
+        "male": 37,
+        "female": 37
+      },
+      {
+        "year": 2025,
+        "roll": 71,
+        "male": 38,
+        "female": 33
+      }
+    ],
+    "Sulby": [
+      {
+        "year": 2020,
+        "roll": 131,
+        "male": 65,
+        "female": 66
+      },
+      {
+        "year": 2021,
+        "roll": 145,
+        "male": 70,
+        "female": 75
+      },
+      {
+        "year": 2022,
+        "roll": 152,
+        "male": 72,
+        "female": 80
+      },
+      {
+        "year": 2024,
+        "roll": 136,
+        "male": 69,
+        "female": 67
+      },
+      {
+        "year": 2025,
+        "roll": 130,
+        "male": 67,
+        "female": 63
+      }
+    ],
+    "Victoria Road": [
+      {
+        "year": 2020,
+        "roll": 230,
+        "male": 120,
+        "female": 110
+      },
+      {
+        "year": 2021,
+        "roll": 231,
+        "male": 116,
+        "female": 115
+      },
+      {
+        "year": 2022,
+        "roll": 215,
+        "male": 113,
+        "female": 102
+      },
+      {
+        "year": 2024,
+        "roll": 164,
+        "male": 88,
+        "female": 76
+      },
+      {
+        "year": 2025,
+        "roll": 160,
+        "male": 86,
+        "female": 74
+      }
+    ],
+    "Willaston": [
+      {
+        "year": 2020,
+        "roll": 179,
+        "male": 92,
+        "female": 87
+      },
+      {
+        "year": 2021,
+        "roll": 162,
+        "male": 77,
+        "female": 85
+      },
+      {
+        "year": 2022,
+        "roll": 161,
+        "male": 78,
+        "female": 83
+      },
+      {
+        "year": 2024,
+        "roll": 130,
+        "male": 54,
+        "female": 76
+      },
+      {
+        "year": 2025,
+        "roll": 134,
+        "male": 63,
+        "female": 71
+      }
+    ]
+  },
+  "secondary": {
+    "Ballakermeen High School": [
+      {
+        "year": 2020,
+        "roll": 1715,
+        "male": 833,
+        "female": 882
+      },
+      {
+        "year": 2021,
+        "roll": 1728,
+        "male": 842,
+        "female": 886
+      },
+      {
+        "year": 2022,
+        "roll": 1669,
+        "male": 803,
+        "female": 866
+      },
+      {
+        "year": 2024,
+        "roll": 1478,
+        "male": 728,
+        "female": 750
+      },
+      {
+        "year": 2025,
+        "roll": 1524,
+        "male": 755,
+        "female": 769
+      }
+    ],
+    "Castle Rushen High School": [
+      {
+        "year": 2020,
+        "roll": 860,
+        "male": 441,
+        "female": 419
+      },
+      {
+        "year": 2021,
+        "roll": 853,
+        "male": 426,
+        "female": 427
+      },
+      {
+        "year": 2022,
+        "roll": 968,
+        "male": 477,
+        "female": 491
+      },
+      {
+        "year": 2024,
+        "roll": 998,
+        "male": 497,
+        "female": 501
+      },
+      {
+        "year": 2025,
+        "roll": 940,
+        "male": 486,
+        "female": 454
+      }
+    ],
+    "Queen Elizabeth II High School": [
+      {
+        "year": 2020,
+        "roll": 766,
+        "male": 390,
+        "female": 376
+      },
+      {
+        "year": 2021,
+        "roll": 823,
+        "male": 424,
+        "female": 399
+      },
+      {
+        "year": 2022,
+        "roll": 862,
+        "male": 440,
+        "female": 422
+      },
+      {
+        "year": 2024,
+        "roll": 927,
+        "male": 482,
+        "female": 445
+      },
+      {
+        "year": 2025,
+        "roll": 926,
+        "male": 478,
+        "female": 448
+      }
+    ],
+    "Ramsey Grammar School": [
+      {
+        "year": 2020,
+        "roll": 939,
+        "male": 489,
+        "female": 450
+      },
+      {
+        "year": 2021,
+        "roll": 960,
+        "male": 512,
+        "female": 448
+      },
+      {
+        "year": 2022,
+        "roll": 1085,
+        "male": 616,
+        "female": 469
+      },
+      {
+        "year": 2024,
+        "roll": 1011,
+        "male": 536,
+        "female": 475
+      },
+      {
+        "year": 2025,
+        "roll": 987,
+        "male": 514,
+        "female": 473
+      }
+    ],
+    "St Ninian's High School": [
+      {
+        "year": 2020,
+        "roll": 1210,
+        "male": 643,
+        "female": 567
+      },
+      {
+        "year": 2021,
+        "roll": 1229,
+        "male": 626,
+        "female": 603
+      },
+      {
+        "year": 2022,
+        "roll": 1248,
+        "male": 642,
+        "female": 606
+      },
+      {
+        "year": 2024,
+        "roll": 1303,
+        "male": 676,
+        "female": 627
+      },
+      {
+        "year": 2025,
+        "roll": 1210,
+        "male": 636,
+        "female": 574
+      }
+    ]
+  },
+  "totals": [
+    {
+      "year": 2020,
+      "primary": 6079,
+      "secondary": 5490,
+      "total": 11569,
+      "primary_male": 3146,
+      "primary_female": 2933,
+      "secondary_male": 2796,
+      "secondary_female": 2694
+    },
+    {
+      "year": 2021,
+      "primary": 5921,
+      "secondary": 5593,
+      "total": 11514,
+      "primary_male": 3075,
+      "primary_female": 2846,
+      "secondary_male": 2830,
+      "secondary_female": 2763
+    },
+    {
+      "year": 2022,
+      "primary": 5852,
+      "secondary": 5832,
+      "total": 11684,
+      "primary_male": 3034,
+      "primary_female": 2818,
+      "secondary_male": 2978,
+      "secondary_female": 2854
+    },
+    {
+      "year": 2024,
+      "primary": 5559,
+      "secondary": 5717,
+      "total": 11276,
+      "primary_male": 2830,
+      "primary_female": 2729,
+      "secondary_male": 2919,
+      "secondary_female": 2798
+    },
+    {
+      "year": 2025,
+      "primary": 5492,
+      "secondary": 5587,
+      "total": 11079,
+      "primary_male": 2787,
+      "primary_female": 2705,
+      "secondary_male": 2869,
+      "secondary_female": 2718
+    }
+  ]
+}
