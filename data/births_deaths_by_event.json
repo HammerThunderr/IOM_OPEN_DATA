@@ -1,0 +1,1195 @@
+{
+  "source": "Isle of Man Government / Douglas Civil Registry - Births and deaths by date of event",
+  "source_file": "births-and-deaths-by-date-of-event-uploaded-230426.pdf",
+  "as_at": "2026-03-31",
+  "generated_at": "2026-06-03T17:44:22.038043+00:00",
+  "notes": "Counts by calendar month in which the event OCCURRED (not when registered). Due to the 42-day birth registration window, the most recent months are not yet fully populated; recent years are partial=true. Annual figures are reviewed each April for late registrations (April 2026 review complete).",
+  "births": {
+    "total": [
+      {
+        "year": 2017,
+        "months": {
+          "Jan": 62,
+          "Feb": 47,
+          "Mar": 72,
+          "Apr": 56,
+          "May": 59,
+          "Jun": 65,
+          "Jul": 66,
+          "Aug": 67,
+          "Sep": 74,
+          "Oct": 62,
+          "Nov": 57,
+          "Dec": 42
+        },
+        "total": 729,
+        "partial": false
+      },
+      {
+        "year": 2018,
+        "months": {
+          "Jan": 72,
+          "Feb": 37,
+          "Mar": 62,
+          "Apr": 60,
+          "May": 62,
+          "Jun": 57,
+          "Jul": 72,
+          "Aug": 52,
+          "Sep": 71,
+          "Oct": 66,
+          "Nov": 47,
+          "Dec": 61
+        },
+        "total": 719,
+        "partial": false
+      },
+      {
+        "year": 2019,
+        "months": {
+          "Jan": 57,
+          "Feb": 51,
+          "Mar": 52,
+          "Apr": 65,
+          "May": 67,
+          "Jun": 47,
+          "Jul": 59,
+          "Aug": 50,
+          "Sep": 64,
+          "Oct": 59,
+          "Nov": 61,
+          "Dec": 64
+        },
+        "total": 696,
+        "partial": false
+      },
+      {
+        "year": 2020,
+        "months": {
+          "Jan": 48,
+          "Feb": 48,
+          "Mar": 60,
+          "Apr": 55,
+          "May": 61,
+          "Jun": 65,
+          "Jul": 63,
+          "Aug": 47,
+          "Sep": 52,
+          "Oct": 55,
+          "Nov": 44,
+          "Dec": 50
+        },
+        "total": 648,
+        "partial": false
+      },
+      {
+        "year": 2021,
+        "months": {
+          "Jan": 46,
+          "Feb": 55,
+          "Mar": 58,
+          "Apr": 62,
+          "May": 66,
+          "Jun": 45,
+          "Jul": 51,
+          "Aug": 61,
+          "Sep": 66,
+          "Oct": 67,
+          "Nov": 46,
+          "Dec": 56
+        },
+        "total": 679,
+        "partial": false
+      },
+      {
+        "year": 2022,
+        "months": {
+          "Jan": 41,
+          "Feb": 47,
+          "Mar": 67,
+          "Apr": 42,
+          "May": 48,
+          "Jun": 49,
+          "Jul": 50,
+          "Aug": 45,
+          "Sep": 50,
+          "Oct": 42,
+          "Nov": 61,
+          "Dec": 38
+        },
+        "total": 580,
+        "partial": false
+      },
+      {
+        "year": 2023,
+        "months": {
+          "Jan": 60,
+          "Feb": 47,
+          "Mar": 52,
+          "Apr": 54,
+          "May": 47,
+          "Jun": 41,
+          "Jul": 46,
+          "Aug": 46,
+          "Sep": 56,
+          "Oct": 56,
+          "Nov": 44,
+          "Dec": 60
+        },
+        "total": 609,
+        "partial": false
+      },
+      {
+        "year": 2024,
+        "months": {
+          "Jan": 50,
+          "Feb": 44,
+          "Mar": 42,
+          "Apr": 47,
+          "May": 46,
+          "Jun": 49,
+          "Jul": 51,
+          "Aug": 37,
+          "Sep": 60,
+          "Oct": 59,
+          "Nov": 40,
+          "Dec": 49
+        },
+        "total": 574,
+        "partial": false
+      },
+      {
+        "year": 2025,
+        "months": {
+          "Jan": 45,
+          "Feb": 42,
+          "Mar": 39,
+          "Apr": 60,
+          "May": 56,
+          "Jun": 49,
+          "Jul": 50,
+          "Aug": 40,
+          "Sep": 48,
+          "Oct": 46,
+          "Nov": 42,
+          "Dec": 50
+        },
+        "total": 567,
+        "partial": false
+      },
+      {
+        "year": 2026,
+        "months": {
+          "Jan": 50
+        },
+        "total": 50,
+        "partial": true
+      }
+    ],
+    "male": [
+      {
+        "year": 2017,
+        "months": {
+          "Jan": 30,
+          "Feb": 21,
+          "Mar": 38,
+          "Apr": 29,
+          "May": 34,
+          "Jun": 33,
+          "Jul": 28,
+          "Aug": 32,
+          "Sep": 43,
+          "Oct": 28,
+          "Nov": 28,
+          "Dec": 21
+        },
+        "total": 365,
+        "partial": false
+      },
+      {
+        "year": 2018,
+        "months": {
+          "Jan": 33,
+          "Feb": 19,
+          "Mar": 32,
+          "Apr": 37,
+          "May": 32,
+          "Jun": 29,
+          "Jul": 28,
+          "Aug": 33,
+          "Sep": 34,
+          "Oct": 32,
+          "Nov": 30,
+          "Dec": 31
+        },
+        "total": 370,
+        "partial": false
+      },
+      {
+        "year": 2019,
+        "months": {
+          "Jan": 34,
+          "Feb": 22,
+          "Mar": 21,
+          "Apr": 35,
+          "May": 33,
+          "Jun": 23,
+          "Jul": 34,
+          "Aug": 27,
+          "Sep": 29,
+          "Oct": 28,
+          "Nov": 37,
+          "Dec": 32
+        },
+        "total": 355,
+        "partial": false
+      },
+      {
+        "year": 2020,
+        "months": {
+          "Jan": 21,
+          "Feb": 21,
+          "Mar": 27,
+          "Apr": 20,
+          "May": 25,
+          "Jun": 24,
+          "Jul": 34,
+          "Aug": 25,
+          "Sep": 23,
+          "Oct": 26,
+          "Nov": 14,
+          "Dec": 33
+        },
+        "total": 293,
+        "partial": false
+      },
+      {
+        "year": 2021,
+        "months": {
+          "Jan": 23,
+          "Feb": 28,
+          "Mar": 27,
+          "Apr": 41,
+          "May": 32,
+          "Jun": 20,
+          "Jul": 22,
+          "Aug": 37,
+          "Sep": 31,
+          "Oct": 37,
+          "Nov": 25,
+          "Dec": 29
+        },
+        "total": 352,
+        "partial": false
+      },
+      {
+        "year": 2022,
+        "months": {
+          "Jan": 24,
+          "Feb": 22,
+          "Mar": 33,
+          "Apr": 26,
+          "May": 18,
+          "Jun": 21,
+          "Jul": 25,
+          "Aug": 22,
+          "Sep": 28,
+          "Oct": 21,
+          "Nov": 25,
+          "Dec": 23
+        },
+        "total": 288,
+        "partial": false
+      },
+      {
+        "year": 2023,
+        "months": {
+          "Jan": 35,
+          "Feb": 26,
+          "Mar": 30,
+          "Apr": 25,
+          "May": 28,
+          "Jun": 25,
+          "Jul": 24,
+          "Aug": 29,
+          "Sep": 30,
+          "Oct": 27,
+          "Nov": 24,
+          "Dec": 29
+        },
+        "total": 332,
+        "partial": false
+      },
+      {
+        "year": 2024,
+        "months": {
+          "Jan": 25,
+          "Feb": 20,
+          "Mar": 25,
+          "Apr": 24,
+          "May": 24,
+          "Jun": 22,
+          "Jul": 26,
+          "Aug": 17,
+          "Sep": 32,
+          "Oct": 38,
+          "Nov": 19,
+          "Dec": 22
+        },
+        "total": 294,
+        "partial": false
+      },
+      {
+        "year": 2025,
+        "months": {
+          "Jan": 19,
+          "Feb": 19,
+          "Mar": 28,
+          "Apr": 33,
+          "May": 30,
+          "Jun": 15,
+          "Jul": 31,
+          "Aug": 20,
+          "Sep": 20,
+          "Oct": 27,
+          "Nov": 23,
+          "Dec": 24
+        },
+        "total": 289,
+        "partial": false
+      },
+      {
+        "year": 2026,
+        "months": {
+          "Jan": 21
+        },
+        "total": 21,
+        "partial": true
+      }
+    ],
+    "female": [
+      {
+        "year": 2017,
+        "months": {
+          "Jan": 32,
+          "Feb": 26,
+          "Mar": 34,
+          "Apr": 27,
+          "May": 25,
+          "Jun": 32,
+          "Jul": 38,
+          "Aug": 35,
+          "Sep": 31,
+          "Oct": 34,
+          "Nov": 29,
+          "Dec": 21
+        },
+        "total": 364,
+        "partial": false
+      },
+      {
+        "year": 2018,
+        "months": {
+          "Jan": 39,
+          "Feb": 18,
+          "Mar": 30,
+          "Apr": 23,
+          "May": 30,
+          "Jun": 28,
+          "Jul": 44,
+          "Aug": 19,
+          "Sep": 37,
+          "Oct": 34,
+          "Nov": 17,
+          "Dec": 30
+        },
+        "total": 349,
+        "partial": false
+      },
+      {
+        "year": 2019,
+        "months": {
+          "Jan": 23,
+          "Feb": 29,
+          "Mar": 31,
+          "Apr": 30,
+          "May": 34,
+          "Jun": 24,
+          "Jul": 25,
+          "Aug": 23,
+          "Sep": 35,
+          "Oct": 31,
+          "Nov": 24,
+          "Dec": 32
+        },
+        "total": 341,
+        "partial": false
+      },
+      {
+        "year": 2020,
+        "months": {
+          "Jan": 27,
+          "Feb": 27,
+          "Mar": 33,
+          "Apr": 35,
+          "May": 36,
+          "Jun": 41,
+          "Jul": 29,
+          "Aug": 22,
+          "Sep": 29,
+          "Oct": 29,
+          "Nov": 30,
+          "Dec": 17
+        },
+        "total": 355,
+        "partial": false
+      },
+      {
+        "year": 2021,
+        "months": {
+          "Jan": 23,
+          "Feb": 27,
+          "Mar": 31,
+          "Apr": 21,
+          "May": 34,
+          "Jun": 25,
+          "Jul": 29,
+          "Aug": 24,
+          "Sep": 35,
+          "Oct": 30,
+          "Nov": 21,
+          "Dec": 27
+        },
+        "total": 327,
+        "partial": false
+      },
+      {
+        "year": 2022,
+        "months": {
+          "Jan": 17,
+          "Feb": 25,
+          "Mar": 34,
+          "Apr": 16,
+          "May": 30,
+          "Jun": 28,
+          "Jul": 25,
+          "Aug": 23,
+          "Sep": 22,
+          "Oct": 21,
+          "Nov": 36,
+          "Dec": 15
+        },
+        "total": 292,
+        "partial": false
+      },
+      {
+        "year": 2023,
+        "months": {
+          "Jan": 25,
+          "Feb": 21,
+          "Mar": 22,
+          "Apr": 29,
+          "May": 19,
+          "Jun": 16,
+          "Jul": 22,
+          "Aug": 17,
+          "Sep": 26,
+          "Oct": 29,
+          "Nov": 20,
+          "Dec": 31
+        },
+        "total": 277,
+        "partial": false
+      },
+      {
+        "year": 2024,
+        "months": {
+          "Jan": 25,
+          "Feb": 24,
+          "Mar": 17,
+          "Apr": 23,
+          "May": 22,
+          "Jun": 27,
+          "Jul": 25,
+          "Aug": 20,
+          "Sep": 28,
+          "Oct": 21,
+          "Nov": 21,
+          "Dec": 27
+        },
+        "total": 280,
+        "partial": false
+      },
+      {
+        "year": 2025,
+        "months": {
+          "Jan": 26,
+          "Feb": 23,
+          "Mar": 11,
+          "Apr": 27,
+          "May": 26,
+          "Jun": 34,
+          "Jul": 19,
+          "Aug": 20,
+          "Sep": 28,
+          "Oct": 19,
+          "Nov": 19,
+          "Dec": 26
+        },
+        "total": 278,
+        "partial": false
+      },
+      {
+        "year": 2026,
+        "months": {
+          "Jan": 29
+        },
+        "total": 29,
+        "partial": true
+      }
+    ]
+  },
+  "deaths": {
+    "total": [
+      {
+        "year": 2017,
+        "months": {
+          "Jan": 84,
+          "Feb": 66,
+          "Mar": 73,
+          "Apr": 67,
+          "May": 49,
+          "Jun": 68,
+          "Jul": 80,
+          "Aug": 72,
+          "Sep": 54,
+          "Oct": 66,
+          "Nov": 72,
+          "Dec": 99
+        },
+        "total": 850,
+        "average_age_at_death": 79,
+        "partial": false
+      },
+      {
+        "year": 2018,
+        "months": {
+          "Jan": 88,
+          "Feb": 83,
+          "Mar": 109,
+          "Apr": 58,
+          "May": 69,
+          "Jun": 87,
+          "Jul": 70,
+          "Aug": 73,
+          "Sep": 68,
+          "Oct": 63,
+          "Nov": 69,
+          "Dec": 80
+        },
+        "total": 917,
+        "average_age_at_death": 78,
+        "partial": false
+      },
+      {
+        "year": 2019,
+        "months": {
+          "Jan": 76,
+          "Feb": 51,
+          "Mar": 58,
+          "Apr": 75,
+          "May": 85,
+          "Jun": 78,
+          "Jul": 85,
+          "Aug": 65,
+          "Sep": 67,
+          "Oct": 56,
+          "Nov": 74,
+          "Dec": 86
+        },
+        "total": 856,
+        "average_age_at_death": 79,
+        "partial": false
+      },
+      {
+        "year": 2020,
+        "months": {
+          "Jan": 101,
+          "Feb": 73,
+          "Mar": 64,
+          "Apr": 104,
+          "May": 75,
+          "Jun": 68,
+          "Jul": 77,
+          "Aug": 80,
+          "Sep": 51,
+          "Oct": 76,
+          "Nov": 83,
+          "Dec": 73
+        },
+        "total": 925,
+        "average_age_at_death": 79,
+        "partial": false
+      },
+      {
+        "year": 2021,
+        "months": {
+          "Jan": 71,
+          "Feb": 65,
+          "Mar": 73,
+          "Apr": 67,
+          "May": 61,
+          "Jun": 61,
+          "Jul": 83,
+          "Aug": 80,
+          "Sep": 80,
+          "Oct": 89,
+          "Nov": 72,
+          "Dec": 85
+        },
+        "total": 887,
+        "average_age_at_death": 78,
+        "partial": false
+      },
+      {
+        "year": 2022,
+        "months": {
+          "Jan": 89,
+          "Feb": 87,
+          "Mar": 76,
+          "Apr": 76,
+          "May": 73,
+          "Jun": 71,
+          "Jul": 56,
+          "Aug": 75,
+          "Sep": 57,
+          "Oct": 72,
+          "Nov": 93,
+          "Dec": 94
+        },
+        "total": 919,
+        "average_age_at_death": 78,
+        "partial": false
+      },
+      {
+        "year": 2023,
+        "months": {
+          "Jan": 79,
+          "Feb": 74,
+          "Mar": 75,
+          "Apr": 70,
+          "May": 59,
+          "Jun": 54,
+          "Jul": 73,
+          "Aug": 80,
+          "Sep": 67,
+          "Oct": 79,
+          "Nov": 86,
+          "Dec": 80
+        },
+        "total": 876,
+        "average_age_at_death": 79,
+        "partial": false
+      },
+      {
+        "year": 2024,
+        "months": {
+          "Jan": 96,
+          "Feb": 87,
+          "Mar": 75,
+          "Apr": 69,
+          "May": 77,
+          "Jun": 82,
+          "Jul": 64,
+          "Aug": 88,
+          "Sep": 56,
+          "Oct": 72,
+          "Nov": 73,
+          "Dec": 86
+        },
+        "total": 925,
+        "average_age_at_death": 80,
+        "partial": false
+      },
+      {
+        "year": 2025,
+        "months": {
+          "Jan": 84,
+          "Feb": 62,
+          "Mar": 75,
+          "Apr": 78,
+          "May": 73,
+          "Jun": 77,
+          "Jul": 64,
+          "Aug": 66,
+          "Sep": 82,
+          "Oct": 80,
+          "Nov": 73,
+          "Dec": 90
+        },
+        "total": 904,
+        "average_age_at_death": 81,
+        "partial": false
+      },
+      {
+        "year": 2026,
+        "months": {
+          "Jan": 68,
+          "Feb": 70,
+          "Mar": 70
+        },
+        "total": 208,
+        "average_age_at_death": null,
+        "partial": true
+      }
+    ],
+    "male": [
+      {
+        "year": 2017,
+        "months": {
+          "Jan": 44,
+          "Feb": 30,
+          "Mar": 37,
+          "Apr": 38,
+          "May": 20,
+          "Jun": 38,
+          "Jul": 36,
+          "Aug": 37,
+          "Sep": 26,
+          "Oct": 34,
+          "Nov": 30,
+          "Dec": 51
+        },
+        "total": 421,
+        "average_age_at_death": 76,
+        "partial": false
+      },
+      {
+        "year": 2018,
+        "months": {
+          "Jan": 40,
+          "Feb": 56,
+          "Mar": 64,
+          "Apr": 23,
+          "May": 41,
+          "Jun": 39,
+          "Jul": 33,
+          "Aug": 36,
+          "Sep": 29,
+          "Oct": 33,
+          "Nov": 29,
+          "Dec": 37
+        },
+        "total": 460,
+        "average_age_at_death": 75,
+        "partial": false
+      },
+      {
+        "year": 2019,
+        "months": {
+          "Jan": 32,
+          "Feb": 31,
+          "Mar": 21,
+          "Apr": 38,
+          "May": 47,
+          "Jun": 40,
+          "Jul": 47,
+          "Aug": 32,
+          "Sep": 33,
+          "Oct": 29,
+          "Nov": 36,
+          "Dec": 41
+        },
+        "total": 427,
+        "average_age_at_death": 76,
+        "partial": false
+      },
+      {
+        "year": 2020,
+        "months": {
+          "Jan": 51,
+          "Feb": 34,
+          "Mar": 39,
+          "Apr": 56,
+          "May": 41,
+          "Jun": 27,
+          "Jul": 46,
+          "Aug": 35,
+          "Sep": 29,
+          "Oct": 41,
+          "Nov": 43,
+          "Dec": 43
+        },
+        "total": 485,
+        "average_age_at_death": 76,
+        "partial": false
+      },
+      {
+        "year": 2021,
+        "months": {
+          "Jan": 37,
+          "Feb": 36,
+          "Mar": 39,
+          "Apr": 32,
+          "May": 40,
+          "Jun": 33,
+          "Jul": 45,
+          "Aug": 41,
+          "Sep": 45,
+          "Oct": 44,
+          "Nov": 37,
+          "Dec": 40
+        },
+        "total": 469,
+        "average_age_at_death": 76,
+        "partial": false
+      },
+      {
+        "year": 2022,
+        "months": {
+          "Jan": 43,
+          "Feb": 50,
+          "Mar": 40,
+          "Apr": 36,
+          "May": 45,
+          "Jun": 44,
+          "Jul": 36,
+          "Aug": 40,
+          "Sep": 28,
+          "Oct": 35,
+          "Nov": 46,
+          "Dec": 53
+        },
+        "total": 496,
+        "average_age_at_death": 76,
+        "partial": false
+      },
+      {
+        "year": 2023,
+        "months": {
+          "Jan": 38,
+          "Feb": 39,
+          "Mar": 36,
+          "Apr": 37,
+          "May": 30,
+          "Jun": 21,
+          "Jul": 36,
+          "Aug": 44,
+          "Sep": 41,
+          "Oct": 42,
+          "Nov": 44,
+          "Dec": 46
+        },
+        "total": 454,
+        "average_age_at_death": 76,
+        "partial": false
+      },
+      {
+        "year": 2024,
+        "months": {
+          "Jan": 47,
+          "Feb": 46,
+          "Mar": 36,
+          "Apr": 38,
+          "May": 39,
+          "Jun": 45,
+          "Jul": 32,
+          "Aug": 48,
+          "Sep": 30,
+          "Oct": 34,
+          "Nov": 34,
+          "Dec": 45
+        },
+        "total": 474,
+        "average_age_at_death": 78,
+        "partial": false
+      },
+      {
+        "year": 2025,
+        "months": {
+          "Jan": 39,
+          "Feb": 36,
+          "Mar": 37,
+          "Apr": 36,
+          "May": 48,
+          "Jun": 38,
+          "Jul": 27,
+          "Aug": 29,
+          "Sep": 41,
+          "Oct": 48,
+          "Nov": 30,
+          "Dec": 41
+        },
+        "total": 450,
+        "average_age_at_death": 80,
+        "partial": false
+      },
+      {
+        "year": 2026,
+        "months": {
+          "Jan": 39,
+          "Feb": 32,
+          "Mar": 31
+        },
+        "total": 102,
+        "average_age_at_death": null,
+        "partial": true
+      }
+    ],
+    "female": [
+      {
+        "year": 2017,
+        "months": {
+          "Jan": 40,
+          "Feb": 36,
+          "Mar": 36,
+          "Apr": 29,
+          "May": 29,
+          "Jun": 30,
+          "Jul": 44,
+          "Aug": 35,
+          "Sep": 28,
+          "Oct": 32,
+          "Nov": 42,
+          "Dec": 48
+        },
+        "total": 429,
+        "average_age_at_death": 81,
+        "partial": false
+      },
+      {
+        "year": 2018,
+        "months": {
+          "Jan": 48,
+          "Feb": 27,
+          "Mar": 45,
+          "Apr": 35,
+          "May": 28,
+          "Jun": 48,
+          "Jul": 37,
+          "Aug": 37,
+          "Sep": 39,
+          "Oct": 30,
+          "Nov": 40,
+          "Dec": 43
+        },
+        "total": 457,
+        "average_age_at_death": 81,
+        "partial": false
+      },
+      {
+        "year": 2019,
+        "months": {
+          "Jan": 44,
+          "Feb": 20,
+          "Mar": 37,
+          "Apr": 37,
+          "May": 38,
+          "Jun": 38,
+          "Jul": 38,
+          "Aug": 33,
+          "Sep": 34,
+          "Oct": 27,
+          "Nov": 38,
+          "Dec": 45
+        },
+        "total": 429,
+        "average_age_at_death": 81,
+        "partial": false
+      },
+      {
+        "year": 2020,
+        "months": {
+          "Jan": 50,
+          "Feb": 39,
+          "Mar": 25,
+          "Apr": 48,
+          "May": 34,
+          "Jun": 41,
+          "Jul": 31,
+          "Aug": 45,
+          "Sep": 22,
+          "Oct": 35,
+          "Nov": 40,
+          "Dec": 30
+        },
+        "total": 440,
+        "average_age_at_death": 81,
+        "partial": false
+      },
+      {
+        "year": 2021,
+        "months": {
+          "Jan": 34,
+          "Feb": 29,
+          "Mar": 34,
+          "Apr": 35,
+          "May": 21,
+          "Jun": 28,
+          "Jul": 38,
+          "Aug": 39,
+          "Sep": 35,
+          "Oct": 45,
+          "Nov": 35,
+          "Dec": 45
+        },
+        "total": 418,
+        "average_age_at_death": 81,
+        "partial": false
+      },
+      {
+        "year": 2022,
+        "months": {
+          "Jan": 46,
+          "Feb": 37,
+          "Mar": 36,
+          "Apr": 40,
+          "May": 28,
+          "Jun": 27,
+          "Jul": 20,
+          "Aug": 35,
+          "Sep": 29,
+          "Oct": 37,
+          "Nov": 47,
+          "Dec": 41
+        },
+        "total": 423,
+        "average_age_at_death": 81,
+        "partial": false
+      },
+      {
+        "year": 2023,
+        "months": {
+          "Jan": 41,
+          "Feb": 35,
+          "Mar": 39,
+          "Apr": 33,
+          "May": 29,
+          "Jun": 33,
+          "Jul": 37,
+          "Aug": 36,
+          "Sep": 26,
+          "Oct": 37,
+          "Nov": 42,
+          "Dec": 34
+        },
+        "total": 422,
+        "average_age_at_death": 82,
+        "partial": false
+      },
+      {
+        "year": 2024,
+        "months": {
+          "Jan": 49,
+          "Feb": 41,
+          "Mar": 39,
+          "Apr": 31,
+          "May": 38,
+          "Jun": 37,
+          "Jul": 32,
+          "Aug": 40,
+          "Sep": 26,
+          "Oct": 38,
+          "Nov": 39,
+          "Dec": 41
+        },
+        "total": 451,
+        "average_age_at_death": 81,
+        "partial": false
+      },
+      {
+        "year": 2025,
+        "months": {
+          "Jan": 45,
+          "Feb": 26,
+          "Mar": 38,
+          "Apr": 42,
+          "May": 25,
+          "Jun": 39,
+          "Jul": 37,
+          "Aug": 37,
+          "Sep": 41,
+          "Oct": 32,
+          "Nov": 43,
+          "Dec": 49
+        },
+        "total": 454,
+        "average_age_at_death": 82,
+        "partial": false
+      },
+      {
+        "year": 2026,
+        "months": {
+          "Jan": 29,
+          "Feb": 38,
+          "Mar": 39
+        },
+        "total": 106,
+        "average_age_at_death": null,
+        "partial": true
+      }
+    ]
+  },
+  "summary": [
+    {
+      "year": 2017,
+      "births": 729,
+      "deaths": 850,
+      "natural_change": -121
+    },
+    {
+      "year": 2018,
+      "births": 719,
+      "deaths": 917,
+      "natural_change": -198
+    },
+    {
+      "year": 2019,
+      "births": 696,
+      "deaths": 856,
+      "natural_change": -160
+    },
+    {
+      "year": 2020,
+      "births": 648,
+      "deaths": 925,
+      "natural_change": -277
+    },
+    {
+      "year": 2021,
+      "births": 679,
+      "deaths": 887,
+      "natural_change": -208
+    },
+    {
+      "year": 2022,
+      "births": 580,
+      "deaths": 919,
+      "natural_change": -339
+    },
+    {
+      "year": 2023,
+      "births": 609,
+      "deaths": 876,
+      "natural_change": -267
+    },
+    {
+      "year": 2024,
+      "births": 574,
+      "deaths": 925,
+      "natural_change": -351
+    },
+    {
+      "year": 2025,
+      "births": 567,
+      "deaths": 904,
+      "natural_change": -337
+    },
+    {
+      "year": 2026,
+      "births": 0,
+      "deaths": 0,
+      "natural_change": 0
+    }
+  ]
+}
