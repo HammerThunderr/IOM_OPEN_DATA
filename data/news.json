@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-06-08T10:23:54.961337+00:00",
+  "generated_at": "2026-06-08T20:22:21.807882+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -26,10 +26,108 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/search?svnum=10&as_scoring=r&ie=UTF-8&oe=utf8&hl=en-US&as_drrb=q&as_qdr=d&as_mind=7&as_minm=6&as_maxd=7&as_maxm=7&q=isle+of+man&gl=US&ceid=US:en",
       "ok": true,
-      "item_count": 99
+      "item_count": 10
     }
   ],
   "items": [
+    {
+      "title": "Crash closes Onchan road",
+      "link": "https://www.three.fm/news/isle-of-man-news/crash-closes-onchan-road/",
+      "published": "2026-06-08T17:39:25+00:00",
+      "summary": "Police say a road in Onchan is likely to be shut for hours after a crash.",
+      "source": "Three FM"
+    },
+    {
+      "title": "TT rider 'suffered chest injuries in fatal crash'",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/tt-rider-suffered-chest-injuries-in-fatal-crash/",
+      "published": "2026-06-08T15:58:50+00:00",
+      "summary": "Inquest into death of Daniel Ingham opens",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "EV charging points undergoing repairs this week",
+      "link": "https://www.three.fm/news/isle-of-man-news/ev-charging-points-undergoing-repairs-this-week/",
+      "published": "2026-06-08T15:40:04+00:00",
+      "summary": "Electric vehicle drivers are being warned about work on public chargers this week.",
+      "source": "Three FM"
+    },
+    {
+      "title": "How do satnavs know about speed limits, asks MHK",
+      "link": "https://www.three.fm/news/isle-of-man-news/how-do-satnavs-know-about-speed-limits-asks-mhk/",
+      "published": "2026-06-08T15:13:38+00:00",
+      "summary": "How do satnavs know the speed limit?",
+      "source": "Three FM"
+    },
+    {
+      "title": "Do you know this man?",
+      "link": "https://www.three.fm/news/isle-of-man-news/do-you-know-this-man6/",
+      "published": "2026-06-08T14:32:01+00:00",
+      "summary": "Can you help police find this man?",
+      "source": "Three FM"
+    },
+    {
+      "title": "TT rider 'suffered chest injuries in fatal crash' - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WcWg5QndwZnZVa1ZJNnNvVWVtZ2JwejdoN3VGMnJkRUI5aDlFWG50VjFYQWtoaUZLR214TU5PQW1mcGN0TVVLNFpIZFk2NWFjNVp2bnFyd1k2Zw?oc=5",
+      "published": "2026-06-08T14:18:23+00:00",
+      "summary": "TT rider 'suffered chest injuries in fatal crash' BBC",
+      "source": "Google News"
+    },
+    {
+      "title": "Go card problems sorted tomorrow, says Bus Vannin",
+      "link": "https://www.three.fm/news/isle-of-man-news/go-card-problems-sorted-tomorrow-says-bus-vannin/",
+      "published": "2026-06-08T14:04:51+00:00",
+      "summary": "Bus Vannin's apologised if you're having trouble using its website to put money on Go cards.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Onchan commissioner to stand for election in Garff",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/onchan-commissioner-to-stand-for-election-in-garff/",
+      "published": "2026-06-08T13:50:23+00:00",
+      "summary": "Anthony Allen has sat on the board for 10 years",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Offshore wind farm goes back out to tender",
+      "link": "https://www.three.fm/news/isle-of-man-news/offshore-wind-farm-goes-back-out-to-tender/",
+      "published": "2026-06-08T13:31:11+00:00",
+      "summary": "A huge offshore windfarm site off the Island's southeast coast will go back out to competitive tender next month.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Community on Island 'praying' as 7.8 earthquake hits Philippines",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/community-on-island-praying-as-7-8-earthquake-hits-philippines/",
+      "published": "2026-06-08T13:06:14+00:00",
+      "summary": "Volunteer group took to social media",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Workforce size and pay awards make health budget 'difficult to predict'",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/workforce-size-and-pay-awards-make-health-budget-difficult-to-predict/",
+      "published": "2026-06-08T12:49:21+00:00",
+      "summary": "Health minister will ask for funds to cover overspend at this month's Tynwald",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "No response to request asking if UK nationals are immigrants",
+      "link": "https://www.three.fm/news/isle-of-man-news/no-response-to-request-asking-if-uk-nationals-are-immigrants/",
+      "published": "2026-06-08T12:05:33+00:00",
+      "summary": "A second attempt to find out if UK nationals who move to the Isle of Man are immigrants or not has been thrown out by the Cabinet Office.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Crowe brothers thank fans for support after 'massive' crash",
+      "link": "https://www.three.fm/news/isle-of-man-news/crowe-brothers-thank-fans-for-support-after-massive-crash/",
+      "published": "2026-06-08T11:18:42+00:00",
+      "summary": "The Crowe brothers have thanked fans for the support after their serious crash during TT qualifying.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Council considers return to weekly bin collections",
+      "link": "https://www.three.fm/news/isle-of-man-news/council-considers-return-to-weekly-bin-collections/",
+      "published": "2026-06-08T11:00:00+00:00",
+      "summary": "Could Douglas Council move back to weekly bin collections?",
+      "source": "Three FM"
+    },
     {
       "title": "Expert examined impact of planned solar panels on drinking water",
       "link": "https://www.three.fm/news/isle-of-man-news/expert-examined-impact-of-planned-solar-panels-on-drinking-water/",
@@ -73,13 +171,6 @@
       "source": "Three FM"
     },
     {
-      "title": "Dean Harrison’s prize money for winning Senior Isle of Man TT race revealed - Visordown",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSjQyT3d5LVo1NnB4VlNjWEd2NUJxV2I5XzB4QXFvS3dDSDM4SkRrZmZqRXcxS055VXdTXzU1NHhOQlFPYjhuZlNBMEk1eGJ2RWdmbUY5dExzaVZ4MGhBZU9Ybl8xeVNLVjgwalJ0SmFyV1ZBRG9yQnVQblB2eUN2RWM5ekh2N2d0TFlxNWh5U2IxUmlCVXlqZ2tmeF9pRHM?oc=5",
-      "published": "2026-06-08T08:27:08+00:00",
-      "summary": "Dean Harrison’s prize money for winning Senior Isle of Man TT race revealed Visordown",
-      "source": "Google News"
-    },
-    {
       "title": "Prison officer to run in general election",
       "link": "https://www.three.fm/news/isle-of-man-news/prison-officer-to-run-in-general-election/",
       "published": "2026-06-08T08:24:00+00:00",
@@ -91,13 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMlRpRlVodmdMcmtYbmE3SVRwbXoybHBwNlhLNVlXT2pJUWd4Z0dHLVozOVJwSFctTHROanUxZ240OFo5bTdpTkN2VjZkWks1dDVYQkVBd3ZXSnQtcUhzUHVJajBiSkVTbDVwajVlbTdJM3lEeUVPYy1hdW52Nmk4TTNCR1V1QVFhSmtSV2VENzVXc0Ezd0IwNDhn?oc=5",
       "published": "2026-06-08T08:20:48+00:00",
       "summary": "‘It shook us’ - Isle of Man TT Sidecar duo open up on “massive crash” Crash.net",
-      "source": "Google News"
-    },
-    {
-      "title": "19 promoted across Deloitte in the Isle of Man - channeleye.media",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XanktQThLTXZxalYzb2hDeFpmWVJ4RHZ0Z0NzSGdlTW5zZEZCdS0wY1dFRHdQcEYzeTdVLTk2a1BwbDhJWGh5V0haOUM4eGd0TEtyZWpOME5xX3pILXEyc3c5cU1DakwtV2QwempoeVBXY2JqSUVpaTczOVU?oc=5",
-      "published": "2026-06-08T08:00:01+00:00",
-      "summary": "19 promoted across Deloitte in the Isle of Man channeleye.media",
       "source": "Google News"
     },
     {
@@ -120,13 +204,6 @@
       "published": "2026-06-08T07:23:34+00:00",
       "summary": "Jason Moore to stand in September's election",
       "source": "Manx Radio"
-    },
-    {
-      "title": "Actor mocked over ‘cringe’ detail in pic - News.com.au",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMDhBLXFiMmRDaEpKS2k5WlZSa19NTVViUUs4czFUS1AyRXktR05vN1EyOUlrb2xSYjZJV000b3hLMmdsY3VCTnh4M3ROMDNMQ1NtdnNqT25HWVhIMV9pZ2hESXk3OTZrWl9kZE5uYllxWWI5MTJsX1NmWGxjWTFya0ZSUEQtNmFxSmZZbmpsUDc5V3Y5UUltRTZDYzBCR0RpTDZ1NWVzLXdxTGRrR2R2QVdGUllvd0psZEdsMThTRVBjSDBfaEN4UkM4dFdNYXFia1BpajJrZEY0VUxJNlNQU1c0bDhhX09wUXNQRUNTRllzMEQ4VlhBaWJTLWNDOGlTdExz0gGIAkFVX3lxTE5aeGlUSmN0cFlKdWhCZ1pRTGd0NXB6X1RjZHBFR3dPWDdKeDhPSkxIZlA2NjA2Y3ktN2I2VVFrRFgwLWp2ZFZGSG12cWNhUTRJNHVfUHdzVU5lejFycWFNamNFVEVtVjNFNFdCbkVLVGNSV3VINElGQjFMVWVydlJMcjMtZFBVOXhhaDNwWnVJNmpXQ1RJQlpQam9WcXlISGVFalM0bHdiR0JUSU5iUmhpVFI4bjRKWHlVRlNOYThJUTQ1YjE0VmdNN3pkeDQ5TzRfRWJUazVQNXhSOTdMOV9VM2p5cTlCMUNDRjFYZS1GVVVDUXg3aC03QjZFTkY1RmtTLU5lRGxxdA?oc=5",
-      "published": "2026-06-08T07:17:13+00:00",
-      "summary": "Actor mocked over ‘cringe’ detail in pic News.com.au",
-      "source": "Google News"
     },
     {
       "title": "Tree works to get underway at popular park today",
@@ -213,34 +290,6 @@
       "source": "Manx Radio"
     },
     {
-      "title": "2026 Isle of Man TT Review: Harrison Triumphs, Dunlop Dominates And Rees Steps Up - Bike Rider Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KUUxYR1JFaXY0OWcxeVFlVWdZSkF1TGtBZXJJU2lfNFdfdDhYdVhmYWlhX3dra2lKUWkwaHNBbE9TMVgtMmlLc2tfU3dBQmFBOE4yMmJfY2RZOGxCQlE?oc=5",
-      "published": "2026-06-07T23:16:28+00:00",
-      "summary": "2026 Isle of Man TT Review: Harrison Triumphs, Dunlop Dominates And Rees Steps Up Bike Rider Magazine",
-      "source": "Google News"
-    },
-    {
-      "title": "Isle of Man TT 2026: How to watch today, schedule, timings, dates, entry list, lap records, Michael Dunlop records - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaFhDZmlsaVBuRi1FMllOclZCdHpEUmlORWsxcUdyMGFNVEcxN0dqR2lnaENVdFZiN05XTjVDdE1teHo4SzE1eHVQNTM5TlVvclVqMy1sOEptcEVGbG9oZ0VudWpNcHpTUW1kdUxTVmZBQWJsWG05UDVxdnpqYkZYVTBOZGJmdnVGUkpVc29zWndFOVBzQXc1ZWVSV3lOXzlxbGR1cExibzhvZVdfSlpwdl84c2FrdUFzelptWFltMHRrVnQtcjhpbFptaUhjUQ?oc=5",
-      "published": "2026-06-07T21:43:57+00:00",
-      "summary": "Isle of Man TT 2026: How to watch today, schedule, timings, dates, entry list, lap records, Michael Dunlop records ESPN",
-      "source": "Google News"
-    },
-    {
-      "title": "Isle of Man TT 2026: James Chawke named Monster Energy Peoples’ Challenger winner - Motorcycle News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXdQQko2QmpaSlpQUF9CUGhTdjBXNnd0dmJHUm4xcURRUlNXa1cxSmEzMkVpQ3F6Q2JubDVYZC04cjVra1c2bF8xMFoyUVhwVjgxbk9Sakc3Nmp4YjdKVmdrMkdTNF93Mk53QWJENnpFRXgtWGtVVFlBRDBaWndYRjc0aGNFUXMwclFFNm9RbzR5MkxkU3N0eG1nT2VXQ09WS2JVc2RwLVVCRUZxTE9yTFhpcmsydw?oc=5",
-      "published": "2026-06-07T21:38:34+00:00",
-      "summary": "Isle of Man TT 2026: James Chawke named Monster Energy Peoples’ Challenger winner Motorcycle News",
-      "source": "Google News"
-    },
-    {
-      "title": "Honda rider claims Senior TT victory as final day is abandoned - Motorcycle News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaktfSE95VnZTS0g3Y3RpbWlzd3R3MW56RnNPZ3dTdnljTEV1NEdjVTNhUUduUGV5S194UWlqU1ZFWG54V1liai1VWTRrSXphRlRXMmEwdG5scTVfakF2U2d5UFEzTWhlbGUxZV9hUlkybVBVYmJrdlYyYjRGeUZ3Y2xQRW9ZdW5HQS1Fdy1JdEpEczJ1?oc=5",
-      "published": "2026-06-07T20:18:36+00:00",
-      "summary": "Honda rider claims Senior TT victory as final day is abandoned Motorcycle News",
-      "source": "Google News"
-    },
-    {
       "title": "Fundraiser for badly injured Manx TT rider hits £28k",
       "link": "https://www.three.fm/news/isle-of-man-news/fundraiser-for-badly-injured-manx-tt-rider-hits-28k/",
       "published": "2026-06-07T16:22:41+00:00",
@@ -297,13 +346,6 @@
       "source": "Three FM"
     },
     {
-      "title": "Sena secures three-year agreement to support Isle of Man TT - Visordown",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU05oS1h6dWI1MlJXdWtCQ3dJYUVHN3FvSEI3OUhSdFczMlRGWWhtUzBSZGtBendGcXFLTzhrTWtjd0UwS0thWUgxdjl3SjVyUVJWQUdDT01mV1YwSEVTWGV2N2pxTkZGczNhQTF3Wi04SVJyUmtxMFpZMVVuSk0xZkVMY056TjNfMHd4bw?oc=5",
-      "published": "2026-06-07T07:30:00+00:00",
-      "summary": "Sena secures three-year agreement to support Isle of Man TT Visordown",
-      "source": "Google News"
-    },
-    {
       "title": "Police appeal after two motorcycles involved in collision",
       "link": "https://www.manxradio.com/news/isle-of-man-news/police-appeal-after-two-motorcycles-involved-in-collision/",
       "published": "2026-06-07T07:08:08+00:00",
@@ -316,13 +358,6 @@
       "published": "2026-06-07T06:54:04+00:00",
       "summary": "It follows news in the UK this week relating to a study published in 2024",
       "source": "Manx Radio"
-    },
-    {
-      "title": "Isle of Man's cultural heritage got TT race fan 'hooked' - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83dl9LOHBBZFU1MGJENmNpWWEySmlQV1dwVEZNX0tPZUk3c05MbUtvUmZfSWhHX0FfVE96NVEtODVJS29zT0o5X2laQ2kxa0J4SmJUcWpVaXNwUQ?oc=5",
-      "published": "2026-06-07T06:19:21+00:00",
-      "summary": "Isle of Man's cultural heritage got TT race fan 'hooked' BBC",
-      "source": "Google News"
     },
     {
       "title": "Health minister welcomes reduction to dental waiting list",
@@ -339,52 +374,10 @@
       "source": "Manx Radio"
     },
     {
-      "title": "Isle of Man TT: Races come to an anti-climactic end due to ‘unsettled weather’ - The Irish News",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZE9HSUJaZms2SmFBX09yZDY0a3VzbEppMUd6dDBaYzhCbmZDcTlBTGg1Wk0yb0NJY2RSbXQzQVFHbksySU1UOEh6WDg2YkplUDRiSkNnZTZMOGtXeTZpZEhNTDU3dUNFNGlLLVNvNmZGeHJKZWVETk9Ga0NYSzhLZHcyZkdELWtHQ1RhNWxPUWU3azQzRy1UdGJ0VTN3QkRRcU55UDk1dWI0Z1lGOFpxRVN3ckktRVdsd2hlbnNBZEcwZVZWaXNIbnFZR1lyd2Q5dHE0NmZuN0hOMEZHTXIw?oc=5",
-      "published": "2026-06-06T20:10:44+00:00",
-      "summary": "Isle of Man TT: Races come to an anti-climactic end due to ‘unsettled weather’ The Irish News",
-      "source": "Google News"
-    },
-    {
-      "title": "2026 Isle of Man TT Results, 5 June: Senior TT - BikeSport News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FVThxRlFNYkhFbGRFeFVnc3VXWlpuNjVRRG9ROTlFRFFRVXhqSWNwakxOTG9nTE5rVHotNnVWZEN0dDRpMWdtcGNqa1JoUkxCN1EtSnNfNWJDXzcyZHZfQjA4NnZIamxUZFEyS3ZraHZCbjZ2Sm04dFJyWjlndjA?oc=5",
-      "published": "2026-06-06T16:10:34+00:00",
-      "summary": "2026 Isle of Man TT Results, 5 June: Senior TT BikeSport News",
-      "source": "Google News"
-    },
-    {
-      "title": "Isle of Man TT: Dunlop claims more wins and podiums than any other tire manufacturer - news.goodyear.eu",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZGEzUEtiVTVwQ3BMQ2c1aGZyZVJBTEM0OFMwWTRJeS1IMHMxZ1djb3d0Uk1TWXVINkw2NmNFU1pCYmdjX3JZNFQwZTlsbkRZdmM4SEhWUXUzV05mS29EU0ptS3NyS0Rnc2ZUYUJOcmVfdHphSlVYYVJZak8yZ2ZGVjVKUjhfTlMzVUhLWFN6Mlh6MnlOVE0zWEVNOFRhTTM5a2hCNVgwVUFnWTd2Y0E?oc=5",
-      "published": "2026-06-06T15:55:16+00:00",
-      "summary": "Isle of Man TT: Dunlop claims more wins and podiums than any other tire manufacturer news.goodyear.eu",
-      "source": "Google News"
-    },
-    {
-      "title": "Rest of TT 2026 abandoned, Harrison declared Senior winner - The Race",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaEZYWnRnWmVGeTZ3alVrczI5OUc3cGJOVFYzUzRXM2xseHpXM1N1TzlHakdZbnJiVUhMSXFXQnlEejlpMEREMGxGSGtmbDZwb1VEeEtnQWtpbGI2ZjRuQmJYeWlDcWlNRkZKSzM3OHJVY0ViWUlkaHNVSTZFX1oybXBDU0JCWGwyYkdvRUc2WQ?oc=5",
-      "published": "2026-06-06T15:22:44+00:00",
-      "summary": "Rest of TT 2026 abandoned, Harrison declared Senior winner The Race",
-      "source": "Google News"
-    },
-    {
-      "title": "Weather forces Isle of Man TT abandonment - Yahoo Sports Canada",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WUFh1TFdZdHZlbkx2cllEWXg5Y2JsbDVBQ1Z3Umg4eDlRNEtFUWsxV2RtbTZ3SEExNDRmemx6WThvZEE3emFqcnJKNWNsVlV1U2gxdUd1amFFcC1hVDljMTFhYzhBQTVNMm9tMFJnaVcwQ1VaT2VUeWNJcUw0VkE?oc=5",
-      "published": "2026-06-06T14:45:25+00:00",
-      "summary": "Weather forces Isle of Man TT abandonment Yahoo Sports Canada",
-      "source": "Google News"
-    },
-    {
-      "title": "Remainder of Isle of Man TT cancelled after bad weather halts racing | ITV News - ITVX",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcWo4T0hCc2VMTjczbEpEWGlHeWZqTG51MnBVVE44RGt3ZmdVT1FnYkJqY29CcE5qY1RpbU43Q25Ib2I5dGNaODNmRTAyVTJUZ3k1M25pU2ZGdG1uamJDZ3d5RVRxb2Jrd0xvWlllNWdkVVcyX2w4RTlWWXZxX09JaGJzbnNkOEQwOXJSRFdOQ2tQeVFkOEtvV28yWjdlMy1jZXpvRThnZEx1eUljb25XWjhR?oc=5",
-      "published": "2026-06-06T14:36:17+00:00",
-      "summary": "Remainder of Isle of Man TT cancelled after bad weather halts racing | ITV News ITVX",
-      "source": "Google News"
-    },
-    {
       "title": "Isle of Man TT 2026: Remaining races cancelled because of weather concerns - BBC",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xUktwTHNlaWswUWlrQVh3X2dqWmFLTlg2emdadV84b3VWZlJ2RERmUG5OVklLRkxoZHJ0ZUNkT1daRU5fRUI4Nkt5QnAzY2pVX09MNkNXYUxtdVQxWm1wNmE5N1puVXdyS1E?oc=5",
       "published": "2026-06-06T14:18:25+00:00",
-      "summary": "Isle of Man TT 2026: Remaining races cancelled because of weather concerns BBC Medical update provided for three Isle of Man TT riders injured in Friday crashes Motorsport.com Senior TT red-flagged and postponed The Race",
+      "summary": "Isle of Man TT 2026: Remaining races cancelled because of weather concerns BBC Medical update provided for three Isle of Man TT riders injured in Friday crashes Motorsport.com Injured Isle of Man TT rider had “two major surgeries” on his legs after crash Crash.net",
       "source": "Google News"
     },
     {
@@ -395,55 +388,6 @@
       "source": "Three FM"
     },
     {
-      "title": "Isle of Man TT announces Senior race winner after Saturday schedule abandoned - Visordown",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQmFpRkN1N2FPMVlpc3BGN1VyYlViQUkteUdib0duajdTNmNSVi1HeDdMN1RPcjRadkxaSmcxVkxhMlUtblZhMUZ2dlk0Wmo4Wm1BM2F5TjBaTERsZEJRZ0JCMzhSNDE5NnJyYVNsaERRN0diSTJscExlTVp3M1QxUzdFZXh1MWcyMVhhOExMWWFZSU5QbWF1bFJhRndpaGctZVVtZFNxR1U?oc=5",
-      "published": "2026-06-06T13:48:41+00:00",
-      "summary": "Isle of Man TT announces Senior race winner after Saturday schedule abandoned Visordown",
-      "source": "Google News"
-    },
-    {
-      "title": "Senior TT declared official after one lap, 2026 Isle of Man TT concludes early - Motorsport.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeFBjb2haaUV5WFlHbi1Ienktbjk4bldDaFFaaFd5YnRId1BNdmxkOXYxNXFiV2lFNnhodGJ1anduUHl4WnZCNDlOTFdDNGdvSjFqY2dFa2ZlX3YyRGZpSUd2RGpxWjRYb19rU1hSMVdlSHRyemJjNEdVVjk0NGN4cWVMNllOcnZ0dzJET29QVm9NRkJ3d29TUVl4UzM1UFhMLTRMbHN1S3N0Tk0tU2owSUVoQlJGa3V4eGRSaXRxOVptbm5hYzdxVEJR?oc=5",
-      "published": "2026-06-06T13:43:44+00:00",
-      "summary": "Senior TT declared official after one lap, 2026 Isle of Man TT concludes early Motorsport.com",
-      "source": "Google News"
-    },
-    {
-      "title": "2026 Isle of Man TT: Result for every race - Crash.net",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQUlSNlNrSXVGYTZJTUJWYVdlaVViMm8tWlo4R19QQWlHRU5DNk9qenI1T1RiQnFBaWNDREZKOWFXcHVBaEtTcWlTZnAxeG03Nm0ycjRYWG1fRU1nbjJUYXdESzhRTGw2ZzlrS0Qwc1JYR0dmLWxzdFBlcmdTc2ZMX3FuLW9aWF9STGNINUFR?oc=5",
-      "published": "2026-06-06T13:40:00+00:00",
-      "summary": "2026 Isle of Man TT: Result for every race Crash.net",
-      "source": "Google News"
-    },
-    {
-      "title": "Isle of Man TT 2026: Michael Dunlop extends all-time record to 36 with Sportbike win - Motorsport.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWUxVTVRUZ0xYN1dVMlFYODVQNERQOHZDWXRFYnBKUmVNbXF4dm42c0szQXhKNTl1X0I2MmdfejdmdGVYUE5YQ0RQaWR3eWFhT1JrWGZnbEhWQWRDd0x6TjZzekR4amRqZzVKakp1LW5nRnFYbm5QdjduOTQ5d1VIQ1ZnT09pV0dnUzBtckhzNl93QWpoWDBiYWVGNHNuSFRDWkxUbUpQekNqdWt2MlNGcnRocDJuVWtnZmw1THdPMWsxSndKbEh0aWE2aFVZUVpQVXQwZw?oc=5",
-      "published": "2026-06-06T13:39:27+00:00",
-      "summary": "Isle of Man TT 2026: Michael Dunlop extends all-time record to 36 with Sportbike win Motorsport.com",
-      "source": "Google News"
-    },
-    {
-      "title": "Isle of Man TT 2026: Senior TT halted, postponed after accident - Motorsport.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPclRlUld4Y0dKVHRjYUZFYkdkVzRGczhEWXc5RUxRZjRjR0JnckpyRklfSWw4aDRRRnlIZkJhVk5CQVRQYTlvUC1aVnhZQVpnZW9ORW1TdkNJYW1EeXpxejNkUG55ZDVvTmJqd0lwWmswbzNaY3ozMm9TdUZ4NnljSTZUeWE2Q1RhUHVoU3dnbFNlcVJac0RN?oc=5",
-      "published": "2026-06-06T13:39:03+00:00",
-      "summary": "Isle of Man TT 2026: Senior TT halted, postponed after accident Motorsport.com",
-      "source": "Google News"
-    },
-    {
-      "title": "Isle of Man TT 2026 race cancelled as three in hospital a week after rider killed - Wales Online",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IaVBPeFF0UE1uQ0IyMHdWM0h6THE5ZXgzVkRPd0FKOEhnZW9ienlJd0o3V3YzQTE2N0o4Q1FQMWJxdXloNktJZUpKQW5PRmphc1RScmsyY2NiZXNvM2lTWWZLM1VsU3djY1ZiSktBc0hOdVpo0gF6QVVfeXFMT2huQ09GZWFERkUyRUdmSDVqU2dJNnNacTFFcS1DeFdOZEtUS3E4VkI0S3VjN0xsNm5idlk5RWR4Z2hZMWhHaW1hOEJuS3UzOVVxeEZCYUZsRHJYWE9leGZ1Z2lMMWMtVHBiX0JwZEpBNnNXRXdpRVZBaVE?oc=5",
-      "published": "2026-06-06T13:23:00+00:00",
-      "summary": "Isle of Man TT 2026 race cancelled as three in hospital a week after rider killed Wales Online",
-      "source": "Google News"
-    },
-    {
-      "title": "2026 Isle of Man TT: Final race day abandoned, Dean Harrison declared Senior winner - Crash.net",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMFJXNnBlQ3ExLWZNSUk3bC1uM0VTa3VMVEJUOC1YcmJFeXg4NWlYR2N4Z3ZSeFFDWDN2Umc3MVRPcVkyT1hhVWVseWRWMkhMQ2pPLUxYOWhUNnp3VGJxY2V3ZWpqUlM4VlM3T1hNdXlMNTZmLVd1bVJSMFUxY0h3RnhpdlpqV1hHTUNtWXZ5NGtjV1loZXQ4bHpjalZwN0tFVGxkUmVKWmJRU0IxY0JpTklhaw?oc=5",
-      "published": "2026-06-06T13:12:19+00:00",
-      "summary": "2026 Isle of Man TT: Final race day abandoned, Dean Harrison declared Senior winner Crash.net",
-      "source": "Google News"
-    },
-    {
       "title": "Remainder of TT 2026 cancelled",
       "link": "https://www.manxradio.com/news/isle-of-man-news/remainder-of-tt-2026-cancelled/",
       "published": "2026-06-06T13:11:35+00:00",
@@ -451,25 +395,11 @@
       "source": "Manx Radio"
     },
     {
-      "title": "Isle of Man TT names rider involved in red flag crash in Senior race - Crash.net",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN2htRDBYOHEzaGhUbUFONnBpVWlHR1FLb0hSbzZxN0JjWWh6bkxZVm5sOGtlSzhBYzlZZVVHczYwTzc5cm5wYzEyYkhaUW4zNjNmSUk2V3BCSS1CYl9uc0V1UVRnUjJmM3VyYnljWk5BOWlVWGQ1b0FZbFVXSko4T2VKbVJCTHFSRDJLY05RQmFHNFlSSzBMaHY1alBOZmFVTHh6eQ?oc=5",
-      "published": "2026-06-06T12:41:35+00:00",
-      "summary": "Isle of Man TT names rider involved in red flag crash in Senior race Crash.net",
-      "source": "Google News"
-    },
-    {
       "title": "Condition updates on three riders after Friday crashes",
       "link": "https://www.three.fm/news/isle-of-man-news/condition-updates-on-three-riders-after-friday-crashes/",
       "published": "2026-06-06T12:32:49+00:00",
       "summary": "TT organisers have provided condition updates on three riders after their crashes on Friday, June 5.",
       "source": "Three FM"
-    },
-    {
-      "title": "TT issues update on injured riders' conditions - The Race",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoQ29GLXlkWlZNMXBpejRmbkwybVhkcHV5UmJ2SEhTSWFvNzZyeTFCV1lTTTJBZWVfeFB4eGdhME9wcklzX1JLNWJTY2xXLURMZkR3c3hIS1BORHowbk1CZUlIS1o2c2VZdWhsN0IwV0otVGY3MXRYSlZJZWJGaTQ?oc=5",
-      "published": "2026-06-06T12:32:44+00:00",
-      "summary": "TT issues update on injured riders' conditions The Race",
-      "source": "Google News"
     },
     {
       "title": "£10k raised by popular charity walk",
@@ -514,13 +444,6 @@
       "source": "Manx Radio"
     },
     {
-      "title": "Final 2026 Isle of Man TT race day hit with severe delay - Crash.net",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTk0MWlFSFN5LVpwc010UkpWOUxHeVdsMkFhdDJUUmFRZWFZLTgzX0R1a09FSG1Uby1qTDlPeVJudlpMTXRhbXJ5MHdFVHdOZmdWV3dGc2RYYkhXSXFmYk1RR1g4SVBYMmJhTmNPNzNESWNFRTJpWUE1NklWXzlIeXVqc1QxUWlfLTVxdlgtTThkdw?oc=5",
-      "published": "2026-06-06T10:48:00+00:00",
-      "summary": "Final 2026 Isle of Man TT race day hit with severe delay Crash.net",
-      "source": "Google News"
-    },
-    {
       "title": "Mountain Road closed 'with immediate effect'",
       "link": "https://www.manxradio.com/news/isle-of-man-news/mountain-road-closed-with-immediate-effect/",
       "published": "2026-06-06T10:32:08+00:00",
@@ -563,13 +486,6 @@
       "source": "Three FM"
     },
     {
-      "title": "Isle of Man TT: Dunlop Continues Dominance of Supersport Class - Roadracing World",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVHRHVXp2dkRzNlFBT2ZzRmVHUUVtMGl5NWxVYVQ0SFNaRHRHYmR6VXZ4N191X1ljeWFSc0M3dTBPaDdwbEV2NVFmSFhhQ3lLU0ctN2E1X3NNUFZfczhzNE1na1o2MURDOHNhejlwR2VpU1VMMGJ3TmlEdEQ2R2xYNmRETTVMemtTeF9rRDdzOXBiM1FhaUttUDViVHlpd0pa?oc=5",
-      "published": "2026-06-06T08:01:43+00:00",
-      "summary": "Isle of Man TT: Dunlop Continues Dominance of Supersport Class Roadracing World",
-      "source": "Google News"
-    },
-    {
       "title": "Drivers left confused as Telecabs seemingly ceases trading overnight",
       "link": "https://www.manxradio.com/news/isle-of-man-news/drivers-left-confused-as-telecabs-seemingly-ceases-trading-overnight/",
       "published": "2026-06-06T07:46:11+00:00",
@@ -584,25 +500,11 @@
       "source": "Three FM"
     },
     {
-      "title": "2026 Isle of Man TT Results - Cycle News",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vc1JQbDF4OXJKSHJ6NE1lZWxKSnI1ckU2aHNmdlJPVndNNjhMU3I2bE12SjdNUEVhYkczeExvSmlRYWExU1dVZ0tSYWxDWUMyS0NoUkR3dlJQa0ZsUmIwZEZsWHg3Z2dWUVpwYWQwalRPOFhiQ1Bwd3Rn?oc=5",
-      "published": "2026-06-06T07:00:00+00:00",
-      "summary": "2026 Isle of Man TT Results Cycle News",
-      "source": "Google News"
-    },
-    {
       "title": "New laws would mean less regulation for small charities",
       "link": "https://www.three.fm/news/isle-of-man-news/new-laws-would-mean-less-regulation-for-small-charities/",
       "published": "2026-06-06T06:54:02+00:00",
       "summary": "Should smaller charities face less rigorous regulation?",
       "source": "Three FM"
-    },
-    {
-      "title": "Isle of Man TT fireworks set to provide 'spectacular' display - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBacHZPN1dyM1NPN25hWFdVWk8yWjkzZFNRSHRHN0ExanVlNEtmT2RJNVlWQkR2TTNfLWs2RVNwbzN3RVhQWTQ5Mk9lcXhDOW43QkRHMkdaZjM2Zw?oc=5",
-      "published": "2026-06-06T06:53:25+00:00",
-      "summary": "Isle of Man TT fireworks set to provide 'spectacular' display BBC",
-      "source": "Google News"
     },
     {
       "title": "Several arrested for entering closed roads, including cyclists",
@@ -654,25 +556,11 @@
       "source": "Google News"
     },
     {
-      "title": "Isle of Man TT rider hospitalised after Senior TT incident - Visordown",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOENtck4yYkRUNVF6Yl9idk1fMEh3M2VxeEIwX1RIY1VqcnNldGY1WUM4VkhEZWRWalNFM2pvYjhpTEU3dWZsMFQ3ZXg4MXVDd1o2NmlhT0J0TXJFR0tQM2ZQRjlSdTE2VWJSMHlFQy1vUURyVjNzWG8xSkcxam1nN1JnQ2ZEN2x4RFFMbnZZOA?oc=5",
-      "published": "2026-06-05T22:08:33+00:00",
-      "summary": "Isle of Man TT rider hospitalised after Senior TT incident Visordown",
-      "source": "Google News"
-    },
-    {
       "title": "Roads in the process of opening",
       "link": "https://www.three.fm/news/isle-of-man-news/roads-in-the-process-of-opening/",
       "published": "2026-06-05T20:09:49+00:00",
       "summary": "Race officials say the roads open car is making its way around the course.",
       "source": "Three FM"
-    },
-    {
-      "title": "Isle of Man TT announces new Saturday schedule, but one class cancelled - Crash.net",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTHdCZU5DWDlsNE9uWFVyUGwtZl9mNWdWN18xdW5jd3pkNUEwMEcza3Fxd01iT3hzcEcwLU9NeTE4eWtOMlZZV0luNDhqZHZab0JXZUkwTTczdnBnb1FGa2xwdWVSbWEzNC1qRVE1aGJrNEkwaU81TURIajJWR2lUOG9sYVJHWUpRYl9vcW81cVpiQXlvTnVranllb0Z4U1BuelBNRWVB?oc=5",
-      "published": "2026-06-05T19:29:04+00:00",
-      "summary": "Isle of Man TT announces new Saturday schedule, but one class cancelled Crash.net",
-      "source": "Google News"
     },
     {
       "title": "TT organisers announce revised Saturday race schedule",
@@ -687,6 +575,13 @@
       "published": "2026-06-05T19:22:52+00:00",
       "summary": "More Hollywood royalty has been photographed at this year's TT.",
       "source": "Three FM"
+    },
+    {
+      "title": "Red flag incident halts Senior Isle of Man TT race - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nUDM5NDZiM2FZY2xwTlBSUTZtX09vYVVJeHltUE5HR09rMFh1U1FONE94NUhUMWVFZEZJMmI5SVI1ZlN1LS01MGx2dlR6N0RMSmlEOTF4bkpiZw?oc=5",
+      "published": "2026-06-05T19:17:28+00:00",
+      "summary": "Red flag incident halts Senior Isle of Man TT race BBC",
+      "source": "Google News"
     },
     {
       "title": "Senior TT rescheduled to Saturday after red flag",
@@ -710,13 +605,6 @@
       "source": "Manx Radio"
     },
     {
-      "title": "2026 Isle of Man TT: Rider hospitalised after incident in Senior TT - Crash.net",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUXF5RDZUVUZDQ1dYYy16M2M2ZTVLWXcwRmRtYUtuc2lKVmUxeEdNTnQwaUhMV3UybUtmV053QXZkUEtuOV9McUhGaXdoWVFxM3JZeTJCUGo5dXZoLWJTMDdnNlFSYWJaY3c1R0NIdlkxcGQyMzBZVnVuZTJkSlYtNDdmMEpMWGdnQmxQSmhrVXl3SkhQemRUa01MVUdWSWYyanc?oc=5",
-      "published": "2026-06-05T18:23:32+00:00",
-      "summary": "2026 Isle of Man TT: Rider hospitalised after incident in Senior TT Crash.net",
-      "source": "Google News"
-    },
-    {
       "title": "Senior TT red flagged",
       "link": "https://www.three.fm/news/isle-of-man-news/senior-tt-red-flagged/",
       "published": "2026-06-05T18:03:56+00:00",
@@ -729,13 +617,6 @@
       "published": "2026-06-05T17:55:34+00:00",
       "summary": "Race halted during second lap",
       "source": "Manx Radio"
-    },
-    {
-      "title": "Isle of Man TT 2026: Michael Dunlop secures tenth consecutive Supersport win - Motorsport.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUdQZTVKTVlZa0RIM01RaFBZYTlEaFpvdHc2blJaVF8xMDU0d3UxS2ZHaklhcDMybWtJLTJoeWhqY1FHbzhPT1c5TlNnNDdnZkFHalJIRVhiTUFHM1d4VDJxaVRFV082Z3YwVTU4bnJPa0pydlNQZDg4Y3Z5ZGE3S2hjMGd3anl0b0dUTlptQWVHZXI4el85SHhUUVZPN3Z1cGFmekJHZk5pazEtVDJ4ZlZIX1Z3bVR1LUstZ1dTSW8?oc=5",
-      "published": "2026-06-05T15:56:50+00:00",
-      "summary": "Isle of Man TT 2026: Michael Dunlop secures tenth consecutive Supersport win Motorsport.com",
-      "source": "Google News"
     },
     {
       "title": "Dunlop celebrates second win of the day",
@@ -752,13 +633,6 @@
       "source": "Three FM"
     },
     {
-      "title": "Isle of Man TT 2026: Michael Dunlop further extends all-time record with Sportbike win - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16Z1lZdHhhWnhEMVJVeF9xaU5MZGJKNWh5Wk8zUGdlQklnd2lrbHluenMxQUo0bGZPM3VlZ0R5RUd3UVg3Qk1UbnZqaC04Y3N1NEJMYmlwNm1JaXhJQXlZMHBzMTRDSkFzNTMxZlk4NWFtemxGSWNuMjI4Nkt0QQ?oc=5",
-      "published": "2026-06-05T15:51:40+00:00",
-      "summary": "Isle of Man TT 2026: Michael Dunlop further extends all-time record with Sportbike win Yahoo Sports",
-      "source": "Google News"
-    },
-    {
       "title": "Brad Pitt Brings Hollywood Back To Racing With Channing Tatum’s Isle Of Man TT Movie - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSUhKSElxVjVDTFNhTWxmOFJsY2JZVFJXMlNGeUE5cm1sd1VxYzlPNkx0WGZvRjBnQ3hlSmVhLVBuMnh2QlV3N2F0bl9tWDh1QkpKSi1Fd0NQTHRHY0hRZzdVVHZuVkkxSUgxLTVCWURoWjFTd3M4V0lHXzliWXRxSjhtUThKNHVyemJ5UnJ4dnBkd216MG0yUldPTEdkcWc?oc=5",
       "published": "2026-06-05T15:30:00+00:00",
@@ -773,32 +647,11 @@
       "source": "Google News"
     },
     {
-      "title": "\"Non-racing operational matter\" furthers list of 2026 Isle of Man TT delays - Crash.net",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcUlJUkwyRnNQbFZYSDFfdHhtUExSU1dxbXhNTDA5Y1c5dWU5YTJCOHc3NUJUcUZDbzdCeGg5TzFFSVFJQUZRLVRPUzVqWkRkNDNwdjhSZzZocmEwNlAxZ0FYci1nbHFsVlRUZTZjS1o0U1NDM0hVUVRMWGtuUGNzdjFXTTVVcm95WTVnemtjZ0JaVTVmdU43WFpCMmY?oc=5",
-      "published": "2026-06-05T14:30:00+00:00",
-      "summary": "\"Non-racing operational matter\" furthers list of 2026 Isle of Man TT delays Crash.net",
-      "source": "Google News"
-    },
-    {
       "title": "Further delay to TT schedule due to 'non-racing operational matter'",
       "link": "https://www.manxradio.com/news/isle-of-man-news/further-delay-to-tt-schedule-due-to-non-racing-operational-matter/",
       "published": "2026-06-05T14:22:51+00:00",
       "summary": "Clerk of the Course confirms change to proceedings",
       "source": "Manx Radio"
-    },
-    {
-      "title": "Isle of Man TT 2026: Michael Dunlop earns ninth consecutive Supersport win - Motorsport.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWUIwV2dYeFZIUEdFMjlzUE9YcUFZTThkMGE0eUlkbWZndXR2b3paZUJvRHBuQ2ZYdC1PdlAtUGVkNjBYWk4zQk5DaHc3Uy1JRWJrVjFFNGZSaE82RXhKVUpVNk1YczlaYThlZGd3MVZIcXpKdEJYLVhpVFpkRFNjdnNuaXhPaEhDMm5nTEJTUXJQOXlVdFVKTU5pQ1ZWalpCLUVVMWswTF9TamZGRGtJRGlrcHJLdw?oc=5",
-      "published": "2026-06-05T13:49:24+00:00",
-      "summary": "Isle of Man TT 2026: Michael Dunlop earns ninth consecutive Supersport win Motorsport.com",
-      "source": "Google News"
-    },
-    {
-      "title": "No Limits on the Isle of Man - Hagerty",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OeFVJVkoyRU5Ta09tZF8xaWozMGZxYWRzU25aN1d4amhZSnVxRTVHN0NFVDdiUkFYTjAwSDdYejdIcXlNNmY1ZGotdlBEalFHeTNJdlRkNWEyNlVGcUFxMm0tME5qdVh3a0Y4TDJkSGg5VlRramc?oc=5",
-      "published": "2026-06-05T13:08:31+00:00",
-      "summary": "No Limits on the Isle of Man Hagerty",
-      "source": "Google News"
     },
     {
       "title": "Isle of Man TT: Dunlop takes Supersport and Sportbike wins to extend record wins tally - BBC",
@@ -857,25 +710,11 @@
       "source": "Manx Radio"
     },
     {
-      "title": "Red flag incident halts Senior Isle of Man TT race - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92dmZxaDJqeXZKSWRyZ21ZZDlkMzlYWktOODFZMjVoTC1sVlBpQmJqVThKQzYwZ0FQNTVvcXFJSFlIRjk0U2pYX3NKTW1JOUhveEVvWEZmbU56dENm?oc=5",
-      "published": "2026-06-05T09:26:18+00:00",
-      "summary": "Red flag incident halts Senior Isle of Man TT race BBC",
-      "source": "Google News"
-    },
-    {
       "title": "Influencers told 'get your facts right' about Island's speed limits",
       "link": "https://www.manxradio.com/news/isle-of-man-news/influencers-told-get-your-facts-right-about-islands-speed-limits/",
       "published": "2026-06-05T09:24:15+00:00",
       "summary": "Police warn of misinformation being spread on social media",
       "source": "Manx Radio"
-    },
-    {
-      "title": "Isle of Man TT hit with further delays after road traffic incident - Visordown",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMWlLTkItclJnLXAwNFM4amJuTmUzaU4wZk41VjdBZGtzMERpWlBjdmJLUEZYVVVZWFFoX1pKYVNSOE5CNjZ1UnhpTFg3RkhtLW5hUXRKbi1SZGYxbUE0bkt5Tm15blBCQmFIZkRoalZUTGxUUjhYdzhOVGl0SFRNLU1JNmNWd01BaXhVZFhxdzJESlU?oc=5",
-      "published": "2026-06-05T09:13:22+00:00",
-      "summary": "Isle of Man TT hit with further delays after road traffic incident Visordown",
-      "source": "Google News"
     },
     {
       "title": "Increase in number of patients transferred to UK",
@@ -906,27 +745,6 @@
       "source": "Three FM"
     },
     {
-      "title": "Maria Costello: Injured Isle of Man TT rider 'a true trailblazer', says Alanna Maher - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1aDd0dnNHWmM5WXM5V29aclVVOVdmVlNEV3lGUm5mZXl3WnlZUnM5TThfU1p3aGtvUW1ub3hRZnd1X2xEVEhUd0dkeUQ0NUhLVWFyQVNTam9kbmE2SURJRGpqYUJrRFgyaFE?oc=5",
-      "published": "2026-06-05T08:03:46+00:00",
-      "summary": "Maria Costello: Injured Isle of Man TT rider 'a true trailblazer', says Alanna Maher BBC",
-      "source": "Google News"
-    },
-    {
-      "title": "2026 Isle of Man TT: How to watch, full schedule after Sidecar class axed - Crash.net",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONE5MQ0lJNHR6eTJRVmRVU3FXOGFsZnExRTE1bFVpc1ZkckgwNVJnUnBYNmU4QjlDVWpjbGNDcG9ZdEVtTU5yNmhTS2d3c2ZHSGI5aXNPQi15TjhqNTZPTWM4RktEVW9BZUVkNmI5d0xIQXR2OFRYdVRiV01rT2hjRGVTeGFmY3IwLTZMLWQzODBUTDBIMklWaDBubUhoTjAzM0E?oc=5",
-      "published": "2026-06-05T08:00:00+00:00",
-      "summary": "2026 Isle of Man TT: How to watch, full schedule after Sidecar class axed Crash.net",
-      "source": "Google News"
-    },
-    {
-      "title": "Police issue warnings after motorcyclist reportedly hits 188mph at Isle of Man TT - Visordown",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZW9BQUZZd3lRSHVvRE5Yd284aHFUX1Fxa3huMHFJcFNsUGFDWlZBZXA4SW1Lblp2M2hzc2tKX1JyaVd1ZTFQVGN3UzEzU0dNTGtMQ1hyZ1FPbWJoLXpyYUlmd2hYdVU4Tm5ma3Z6dWZiUEp3U0lyZktXX3BkdHJWX1JhX2Nkc2RHam9lRFlWVG5leVdhZHhSRjcxQnZxU1JBdnJGclhsWXJJdw?oc=5",
-      "published": "2026-06-05T07:54:05+00:00",
-      "summary": "Police issue warnings after motorcyclist reportedly hits 188mph at Isle of Man TT Visordown",
-      "source": "Google News"
-    },
-    {
       "title": "Mountain Road closed due to road traffic collision",
       "link": "https://www.manxradio.com/news/isle-of-man-news/mountain-road-closed-due-to-road-traffic-collision3/",
       "published": "2026-06-05T07:26:33+00:00",
@@ -953,13 +771,6 @@
       "published": "2026-06-05T07:00:00+00:00",
       "summary": "An MHK will quiz Health and Social Care Minister Claire Christian about waiting times on the Island.",
       "source": "Three FM"
-    },
-    {
-      "title": "Dunlop takes another two dominant wins as TT resumes - The Race",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE52b2RGbnVVNFQ1SnUxTldCLXk2NWNab2ZCbzd5M3FPbEFFRWhudnN2bVRnRkNWZmJDZWVrNmxjNXliYjJ2TER0X25EOElUZmpxdTUxdUpwZHNrelMtdlhKeFlxcUx3ajVEd2pyRlVFU0xrZw?oc=5",
-      "published": "2026-06-05T07:00:00+00:00",
-      "summary": "Dunlop takes another two dominant wins as TT resumes The Race",
-      "source": "Google News"
     },
     {
       "title": "Bus Vannin reminds TT fans to check bank holiday timetable",
@@ -1009,13 +820,6 @@
       "published": "2026-06-05T05:23:59+00:00",
       "summary": "Follows cancellation of class at TT 2026",
       "source": "Manx Radio"
-    },
-    {
-      "title": "This New BMW Motorcycle Celebrates the Isle of Man TT Races - Car and Driver",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX1lHWGVKNTBndXZ0NXlreFhwWjVnVVF4aTM4ZXNFUk5VbTJpVlRPSy05MHFZS3dxV2hoY296Tzh0MzlKbER1WHNwS1Vib3lNNWZZRnVJaTVoenVuME9QcThYWmx1UEpGNWxBYWxCdlIxeEZ4SVFBWkJpUEw5VWlacjIza01COEhxenBVUEQzNzlfLXlFMnc?oc=5",
-      "published": "2026-06-04T18:42:58+00:00",
-      "summary": "This New BMW Motorcycle Celebrates the Isle of Man TT Races Car and Driver",
-      "source": "Google News"
     },
     {
       "title": "New plan to keep sidecars in 2026 Southern 100",
@@ -1078,6 +882,202 @@
       "link": "https://www.manxradio.com/news/isle-of-man-news/manx-air-quality-significantly-better-than-uk-average/",
       "published": "2026-06-04T14:16:48+00:00",
       "summary": "Study held over two years monitors air pollution near schools",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Annual TT display \"special\" for the Red Arrows",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/annual-tt-display-special-for-the-red-arrows/",
+      "published": "2026-06-04T13:04:15+00:00",
+      "summary": "RAF aerobatic team display still set to go ahead despite poor weather",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Northern lights to illuminate TT skies tonight?",
+      "link": "https://www.three.fm/news/isle-of-man-news/northern-lights-to-illuminate-tt-skies-tonight/",
+      "published": "2026-06-04T12:50:41+00:00",
+      "summary": "TT fans could be up for a special treat tonight - with a good chance of seeing the northern lights!",
+      "source": "Three FM"
+    },
+    {
+      "title": "TT Fan Park to reopen at 3pm",
+      "link": "https://www.three.fm/news/isle-of-man-news/tt-fan-park-to-reopen-at-3pm/",
+      "published": "2026-06-04T12:25:30+00:00",
+      "summary": "TT organisers say the Fan Park will reopen later.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Visitors told \"take extra care\" as TT Fan Park to reopen",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/visitors-told-take-extra-care-as-tt-fan-park-to-reopen/",
+      "published": "2026-06-04T12:17:26+00:00",
+      "summary": "Access via Grandstand only as areas remain 'soft underfoot'",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Who's leaving Manx Care next, asks MHK",
+      "link": "https://www.three.fm/news/isle-of-man-news/whos-leaving-manx-care-next-asks-mhk/",
+      "published": "2026-06-04T11:56:03+00:00",
+      "summary": "Who'll be the next senior figure in Manx Care to quit the organisation?",
+      "source": "Three FM"
+    },
+    {
+      "title": "Glover - Southern 100 sidecar suspension felt 'completely inevitable'",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/glover-southern-100-sidecar-suspension-felt-completely-inevitable/",
+      "published": "2026-06-04T11:30:00+00:00",
+      "summary": "Former commentator believes work to help class needs to start soon",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Road conditions 'atrocious' say police",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/road-conditions-atrocious-say-police/",
+      "published": "2026-06-04T11:21:01+00:00",
+      "summary": "Officers urging motorists to ride and drive safely",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "One-hour closure planned for Mountain Road this lunchtime",
+      "link": "https://www.three.fm/news/isle-of-man-news/one-hour-closure-planned-for-mountain-road-this-lunchtime/",
+      "published": "2026-06-04T11:08:36+00:00",
+      "summary": "The Department of Infrastructure says the Mountain Road will be closed for an hour this afternoon.",
+      "source": "Three FM"
+    },
+    {
+      "title": "TT liver scans postponed",
+      "link": "https://www.three.fm/news/isle-of-man-news/tt-liver-scans-postponed/",
+      "published": "2026-06-04T10:40:21+00:00",
+      "summary": "If you were planning on seeing how your liver had coped with the TT, there's some bad news.",
+      "source": "Three FM"
+    },
+    {
+      "title": "MHK to quiz ministers about \"forever chemical\" PFAs",
+      "link": "https://www.three.fm/news/isle-of-man-news/mhk-to-quiz-ministers-about-forever-chemical-pfas/",
+      "published": "2026-06-04T09:34:43+00:00",
+      "summary": "Rushen MHK Michelle Haywood has tabled questions for written reply to ministers over dangerous \"forever chemicals\" that can take up to 1,000 years to break down.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Sidecars have 'been my life' says Lambert",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/sidecars-have-been-my-life-competitor/",
+      "published": "2026-06-04T09:21:08+00:00",
+      "summary": "Greg Lambert says the news has been 'severe' for the sidecar community",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Rain and mud closes TT Fan Park again",
+      "link": "https://www.three.fm/news/isle-of-man-news/rain-and-mud-closes-tt-fan-park-again/",
+      "published": "2026-06-04T09:00:00+00:00",
+      "summary": "The fan park at the TT Grandstand will be closed this morning.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Thomas the Ramsey cat needs calendar photos",
+      "link": "https://www.three.fm/news/isle-of-man-news/thomas-the-ramsey-cat-needs-calendar-photos/",
+      "published": "2026-06-04T08:46:14+00:00",
+      "summary": "A fundraising calendar's looking for your photos of Ramsey's most famous cat!",
+      "source": "Three FM"
+    },
+    {
+      "title": "TT fan park closed after 'deterioration in ground conditions'",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/tt-fan-park-closed-after-deterioration-in-ground-conditions/",
+      "published": "2026-06-04T08:43:08+00:00",
+      "summary": "Facility to be assessed again later this morning",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Charity appeals for help with ducklings' bills",
+      "link": "https://www.three.fm/news/isle-of-man-news/charity-appeals-for-help-with-ducklings-bills/",
+      "published": "2026-06-04T08:23:35+00:00",
+      "summary": "Can you help feed a crowd of hungry ducklings?",
+      "source": "Three FM"
+    },
+    {
+      "title": "More Steam Packet sailings disrupted today",
+      "link": "https://www.three.fm/news/isle-of-man-news/more-steam-packet-sailings-disrupted-today/",
+      "published": "2026-06-04T07:54:28+00:00",
+      "summary": "The Steam Packet Company says more of its sailings will be running late today.",
+      "source": "Three FM"
+    },
+    {
+      "title": "MHK has series of pole questions for minister",
+      "link": "https://www.three.fm/news/isle-of-man-news/mhk-has-series-of-pole-questions-for-minister/",
+      "published": "2026-06-04T07:50:00+00:00",
+      "summary": "Planning permission for nine telegraph poles in Peel will be the subject of five questions in the House of Keys next week.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Red Arrows arrive over Douglas this evening",
+      "link": "https://www.three.fm/news/isle-of-man-news/red-arrows-arrive-over-douglas-this-evening/",
+      "published": "2026-06-04T07:34:02+00:00",
+      "summary": "One of the traditional TT highlights takes place tonight.",
+      "source": "Three FM"
+    },
+    {
+      "title": "MHK wants information about government wood",
+      "link": "https://www.three.fm/news/isle-of-man-news/mhk-wants-information-about-government-wood/",
+      "published": "2026-06-04T07:08:19+00:00",
+      "summary": "How much does the Island make from selling its wood?",
+      "source": "Three FM"
+    },
+    {
+      "title": "Planners to consider car firm's showroom plans for Ramsey Bakery",
+      "link": "https://www.three.fm/news/isle-of-man-news/planners-to-consider-car-firms-showroom-plans-for-ramsey-bakery/",
+      "published": "2026-06-04T06:50:46+00:00",
+      "summary": "Planners will consider proposals to turn part of a huge site in Ramsey into a car showroom next week.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Two ferry sailings delayed today",
+      "link": "https://www.three.fm/news/isle-of-man-news/two-ferry-sailings-delayed-today/",
+      "published": "2026-06-04T06:36:38+00:00",
+      "summary": "The Steam Packet Company says it's seeing delays with two of its ferries this morning.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Mann Made festival \"fantastic success\"",
+      "link": "https://www.three.fm/news/isle-of-man-news/mann-made-festival-fantastic-success/",
+      "published": "2026-06-04T06:15:13+00:00",
+      "summary": "The organiser of the Mann Made festival says the event's been a fantastic success this year, with lots of support from locals and TT visitors alike.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Rain and low cloud cancels today's planned TT race",
+      "link": "https://www.three.fm/news/isle-of-man-news/rain-and-low-cloud-cancels-todays-planned-tt-race/",
+      "published": "2026-06-04T05:47:13+00:00",
+      "summary": "More bad weather means more TT action's been cancelled today.",
+      "source": "Three FM"
+    },
+    {
+      "title": "No racing to take place today",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/no-racing-to-take-place-today/",
+      "published": "2026-06-04T05:38:06+00:00",
+      "summary": "Clerk of the Course confirms Superstock 1 race has been cancelled for 2026",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Southern 100 sidecar exclusion 'absolutely devastating'",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/southern-100-sidecar-exclusion-absolutely-devastating/",
+      "published": "2026-06-04T05:24:58+00:00",
+      "summary": "Competitors react to class's removal from Billown Course for 2026",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "TT schedule update due at 7am",
+      "link": "https://www.three.fm/news/isle-of-man-news/tt-schedule-update-due-at-7am/",
+      "published": "2026-06-04T05:24:06+00:00",
+      "summary": "TT organisers are due to issue a schedule update shortly.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Vicar: \"Everybody goes through compromise when it comes to the races\"",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/vicar-everybody-goes-through-compromise-when-it-comes-to-the-races/",
+      "published": "2026-06-04T05:20:58+00:00",
+      "summary": "Kirk Braddan Church prepares for contingency days on Sundays",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Paralysed sidecar racer's team appeal for support to continue post-TT",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/paralysed-sidecar-racers-team-appeal-for-support-to-continue-post-tt/",
+      "published": "2026-06-04T05:20:00+00:00",
+      "summary": "Maria Costello will need support 'six months down the line when TT vibe is gone'",
       "source": "Manx Radio"
     }
   ]
