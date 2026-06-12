@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-06-12T10:00:26.974493+00:00",
+  "generated_at": "2026-06-12T20:14:20.774292+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -26,10 +26,143 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/search?svnum=10&as_scoring=r&ie=UTF-8&oe=utf8&hl=en-US&as_drrb=q&as_qdr=d&as_mind=7&as_minm=6&as_maxd=7&as_maxm=7&q=isle+of+man&gl=US&ceid=US:en",
       "ok": true,
-      "item_count": 102
+      "item_count": 100
     }
   ],
   "items": [
+    {
+      "title": "Police issue statement after reports female 'grabbed by her arm'",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/police-issue-statement-after-reports-female-grabbed-by-her-arm/",
+      "published": "2026-06-12T17:16:15+00:00",
+      "summary": "Officers issue appeal for information following incident",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Local authority to ban feeding wild birds",
+      "link": "https://www.three.fm/news/isle-of-man-news/local-authority-to-ban-feeding-wild-birds/",
+      "published": "2026-06-12T16:18:30+00:00",
+      "summary": "Feeding the birds in the south of the Island could be about to get very expensive - as commissioners consider bringing in new byelaws.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Loose cock causes consternation in Port Erin",
+      "link": "https://www.three.fm/news/isle-of-man-news/loose-cock-causes-consternation-in-port-erin/",
+      "published": "2026-06-12T15:25:11+00:00",
+      "summary": "Residents in the south of the Island are being reassured over a wandering peacock.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Hot Copy: What happened to the Isle of Man? - NEXT.io",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLaXNCY3M5WVRWM3JKUWl1RlRNTFZmYmVpRVpxUmtLMW4ybkE0VjJDRHp0eEQyejlLdGxodkkwSjNRN2c2dXBXSGJzTnIxeWxERUYzWE9qZ0RyOGM?oc=5",
+      "published": "2026-06-12T15:24:58+00:00",
+      "summary": "Hot Copy: What happened to the Isle of Man? NEXT.io",
+      "source": "Google News"
+    },
+    {
+      "title": "Ramsey cafe hoping to reopen after flood",
+      "link": "https://www.three.fm/news/isle-of-man-news/ramsey-cafe-hoping-to-reopen-after-flood/",
+      "published": "2026-06-12T15:13:36+00:00",
+      "summary": "A café in Ramsey is hoping to reopen tomorrow after closing because of a flood in TT.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Scammers are revolut-ing, says cyber security centre",
+      "link": "https://www.three.fm/news/isle-of-man-news/scammers-are-revolut-ing-says-cyber-security-centre/",
+      "published": "2026-06-12T14:51:09+00:00",
+      "summary": "Don't fall for scam callers pretending to be from online bank Revolut!",
+      "source": "Three FM"
+    },
+    {
+      "title": "Is port security tighter after Belfast riots?",
+      "link": "https://www.three.fm/news/isle-of-man-news/is-port-security-tighter-after-belfast-riots/",
+      "published": "2026-06-12T14:06:11+00:00",
+      "summary": "Onchan MHK Julie Edge will raise the issue of port security in an urgent Tynwald question next week.",
+      "source": "Three FM"
+    },
+    {
+      "title": "'Multitude of late boat arrivals' impacting customer numbers, says business",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/multitude-of-late-boat-arrivals-impacting-customer-numbers-says-business/",
+      "published": "2026-06-12T14:04:17+00:00",
+      "summary": "Technical issues on the ferry resulted in papers arriving late on the Island yesterday",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Option to relocate dementia patients no longer being considered by Manx Care",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/option-to-relocate-dementia-patients-no-longer-being-considered-by-manx-care/",
+      "published": "2026-06-12T13:33:48+00:00",
+      "summary": "Body issues further update on reinstatement of rehab service to north",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Ramsey rehab ward move ruled out, says Manx Care",
+      "link": "https://www.three.fm/news/isle-of-man-news/ramsey-rehab-ward-move-ruled-out-says-manx-care/",
+      "published": "2026-06-12T13:28:55+00:00",
+      "summary": "Manx Care says it won't move a rehabilitation ward from Ramsey Cottage Hospital to a day centre more than half a mile away.",
+      "source": "Three FM"
+    },
+    {
+      "title": "50 acres of land in St Johns for sale",
+      "link": "https://www.three.fm/news/isle-of-man-news/50-acres-of-land-in-st-johns-for-sale/",
+      "published": "2026-06-12T12:56:13+00:00",
+      "summary": "Around 50 acres of farmland in the west of the Island is up for sale.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Tynwald Day event to be held in London",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/tynwald-day-event-to-be-held-in-london/",
+      "published": "2026-06-12T12:48:37+00:00",
+      "summary": "'Reception' to be held in the Palace of Westminster on 1 July",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Manx Care names new interim chief executive",
+      "link": "https://www.three.fm/news/isle-of-man-news/manx-care-names-new-interim-chief-executive/",
+      "published": "2026-06-12T12:37:31+00:00",
+      "summary": "A new interim chief executive of Manx Care has been named.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Dr Chris Stockport to stand in as interim Manx Care CEO",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/dr-chris-stockport-to-stand-in-as-interim-manx-care-ceo/",
+      "published": "2026-06-12T12:24:33+00:00",
+      "summary": "Six month appointment follows Teresa Cope's resignation",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Roadworks for a week on key Ramsey road",
+      "link": "https://www.three.fm/news/isle-of-man-news/roadworks-for-a-week-on-key-ramsey-road/",
+      "published": "2026-06-12T12:06:16+00:00",
+      "summary": "A series of roadworks will be taking place along a key road in Ramsey from today.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Questions about unemployed 'NEETs' to be raised in Tynwald",
+      "link": "https://www.three.fm/news/isle-of-man-news/questions-about-unemployed-neets-to-be-raised-in-tynwald/",
+      "published": "2026-06-12T11:37:09+00:00",
+      "summary": "An MHK is to quiz a minister about young people on the Island who are facing bleak futures.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Ferry ID checks may require new laws, says regulator",
+      "link": "https://www.three.fm/news/isle-of-man-news/ferry-id-checks-may-require-new-laws-says-regulator/",
+      "published": "2026-06-12T11:05:04+00:00",
+      "summary": "Forcing ferry passengers to carry ID and keeping their details on file may need new laws, according to the Island's information commissioner.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Farmer declares intention to stand for election in Garff",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/farmer-declares-intention-to-stand-for-election-in-garff/",
+      "published": "2026-06-12T10:46:16+00:00",
+      "summary": "Peter Kermeen hoping to secure HoK seat in September",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Seriously injured TT rider to return home",
+      "link": "https://www.three.fm/news/isle-of-man-news/seriously-injured-tt-rider-to-return-home/",
+      "published": "2026-06-12T10:37:36+00:00",
+      "summary": "A rider who was seriously injured in the TT will soon be returning home to Finland.",
+      "source": "Three FM"
+    },
     {
       "title": "Future of sidecars to be raised in Tynwald",
       "link": "https://www.three.fm/news/isle-of-man-news/future-of-sidecars-to-be-raised-in-tynwald/",
@@ -151,7 +284,7 @@
     },
     {
       "title": "Review to examine future of sidecar racing at Isle of Man TT - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43dXBfRWF1U1VELVhGWTU1OUc2VW9GQjR6bWxEOWljZnFEcjhxX0M1M3ZHTm01VmUzODdTT2lXSE5PNVRjTDVjWjlmbWVvTXRZdXM5ZTBqR0tWQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQY1NXbFFFWmlzcFJqOTlhMmtvaERXV0xXRTRoMHhuU0FiMnNjWUliRE43eE1Zc1JramthSWk3TTZxeDIxdXpmUzNIeEpsa1M4S1o5THR5R3RUbnhE?oc=5",
       "published": "2026-06-12T05:11:12+00:00",
       "summary": "Review to examine future of sidecar racing at Isle of Man TT BBC",
       "source": "Google News"
@@ -472,6 +605,20 @@
       "source": "Manx Radio"
     },
     {
+      "title": "Northern tip's reuse area to reopen next month - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95aEc2YmFRTVlTR2t6SVp0eW9xN19TQnZIT09qbHNWNWFVT0ZxaVQtVDJGVDZlRnE2OFhLZmJmVVI3d1drTU9GdWZuUTd5UkFvcE5Eank2X3VLQQ?oc=5",
+      "published": "2026-06-11T05:11:02+00:00",
+      "summary": "Northern tip's reuse area to reopen next month BBC",
+      "source": "Google News"
+    },
+    {
+      "title": "First Time Seeing The World's Deadliest Motorcycle Race | The Isle Of Man | TIME | THE WOLF HUNTERZ José Soriano (GfHX1VL19z) - Mshale",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xcHMzNmhGMEp5QmduUER6UW9mU3gtVmNZcUpLZmlYN05LZTEzUjBaWTZLcTRLY1gycDR6bHVVaWs4M1lYYkdjQWZQaGdqei1pRW45S3lCM0EyVzQ?oc=5",
+      "published": "2026-06-10T20:59:21+00:00",
+      "summary": "First Time Seeing The World's Deadliest Motorcycle Race | The Isle Of Man | TIME | THE WOLF HUNTERZ José Soriano (GfHX1VL19z) Mshale",
+      "source": "Google News"
+    },
+    {
       "title": "Restaurant worker in £85k incapacity benefit fraud",
       "link": "https://www.manxradio.com/news/isle-of-man-news/restaurant-worker-in-85k-incapacity-benefit-fraud/",
       "published": "2026-06-10T16:17:01+00:00",
@@ -738,6 +885,13 @@
       "source": "Manx Radio"
     },
     {
+      "title": "Brad Pitt spotted at the Isle of Man TT as road racing movie filming begins - Visordown",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNlF2RV83ZEZBcEtjanl5MW9JeHg2Sms2bDN1WmRsaEJPVWM1S0t4RkxhMU1nY1RDMUtHQW9pdE9obkxhQ3lNNXpTTHlSRENMNko4LVVMdU9hZkhEQ3VoY1Y4V1E4Mko1ai1qTWtMSGlXb1oyY0RqQkYwcmdYeHlUZGsyclpHUHAtT3lWbzZXZTkzaE5TdkxuaQ?oc=5",
+      "published": "2026-06-10T04:34:57+00:00",
+      "summary": "Brad Pitt spotted at the Isle of Man TT as road racing movie filming begins Visordown",
+      "source": "Google News"
+    },
+    {
       "title": "Sharp rise in capital's outstanding rates",
       "link": "https://www.three.fm/news/isle-of-man-news/sharp-rise-in-capitals-outstanding-rates/",
       "published": "2026-06-09T15:54:50+00:00",
@@ -812,6 +966,13 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnR0WExqYmlXVnZwblB3SjdpanFxdzdhQ0JfdlhjeXZ6dk5jU1BIbkxFSFZENkhhTmdEQWVvT1NJS2stWjNKbGhEdm1CSnU5V0piR1N6cjdKM3o3MU85RnpQS3lEWTVZTkRRMnpGeWV3VEhyelFwWjZTeUVqWFlaTmNiTnowSk1NWEE?oc=5",
       "published": "2026-06-09T12:17:00+00:00",
       "summary": "Isle of Man TT's Senior Race Concludes After Just One Lap. Here's Who Won, And What Happened RideApart.com",
+      "source": "Google News"
+    },
+    {
+      "title": "Hicky is back: Two podium finishes with the BMW M 1000 RR at the Isle of Man TT. - BMW Group",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOT3dLdUU5ZEVMcDFUWjhnZi1GNlRXNGJKY2hTS2lXRGYzR3VMb24zVWw5M0JqQVNLMjcxX1FwLTcxM2dmTi1yd0JnS0pScGk4ODhiMWVMZzBYbG96WWM4ZkhyTmd3V3BMVDlGa1ZOZ0lMVEFadHdESkJMT1BOR3RWM1hvaXkzZ3p4LVl3TmZZM1Y3SXUxcW03ZkpwYVlDZHJEY3RpcFV4OEZ2cVZOOEVfd1pFcm5wOTJRaTNMTXhCM2c2eDJxQjBONDlFQTdCbHhEdkhVQWp4c18tb3lDMnE4dnQ1bjhTRVMyYWtz?oc=5",
+      "published": "2026-06-09T12:15:00+00:00",
+      "summary": "Hicky is back: Two podium finishes with the BMW M 1000 RR at the Isle of Man TT. BMW Group",
       "source": "Google News"
     },
     {
@@ -899,13 +1060,6 @@
       "source": "Three FM"
     },
     {
-      "title": "Isle of Man TT 2026: Three Awards Beyond the Race Wins - motorcycles.news",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56MW9qVzdaUzU1cWZJNjBxanljV2Q2WFlNUVVjRnQ5bEdwd0xqdFRwV2Vual9oMHExWUUtUFpRY1p0UDFiOUQzdHItRnpJZUVlTHMzYnhyREQ4eTA2M1JVZnNCUmlMR3pjbm1ZY3BlQ29CMHRySW54c1o3ejltUQ?oc=5",
-      "published": "2026-06-09T08:17:00+00:00",
-      "summary": "Isle of Man TT 2026: Three Awards Beyond the Race Wins motorcycles.news",
-      "source": "Google News"
-    },
-    {
       "title": "Sidecar TT winners reveal extent of Isle of Man TT injuries - Visordown",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNkZnbmUwLUlUTVBIdzRad3MwanZXc1pKQUxlOGlZVEw5QkNDT0k1OUFLbHpQZjBoNXRuc3RQajYxNVd1V3F6SzUyOV9WNF9IMEt6NFhKWmVRNEpXRFFTa0NrenFSMlJ1cEo0djN2WDRWTUhCemNyejRRS01tX3d2YTZ6RzJzNFNXYWlBVQ?oc=5",
       "published": "2026-06-09T08:09:42+00:00",
@@ -925,160 +1079,6 @@
       "published": "2026-06-09T06:59:17+00:00",
       "summary": "Tim Glover says he'd be seeking a ministerial position under the right leadership",
       "source": "Manx Radio"
-    },
-    {
-      "title": "Over £25k raised for TT rider's bereaved family",
-      "link": "https://www.three.fm/news/isle-of-man-news/over-25k-raised-for-tt-riders-bereaved-family/",
-      "published": "2026-06-09T06:55:47+00:00",
-      "summary": "A fundraiser to help the family of a rider who died in the TT has passed £25,000.",
-      "source": "Three FM"
-    },
-    {
-      "title": "Top UK judge being appointed for high profile corporate case",
-      "link": "https://www.three.fm/news/isle-of-man-news/top-uk-judge-being-appointed-for-high-profile-corporate-case/",
-      "published": "2026-06-09T06:25:29+00:00",
-      "summary": "The Island's General Registry says it's having to bring in a top UK judge to handle a high profile court case, after a deemster resigned over serious health problems.",
-      "source": "Three FM"
-    },
-    {
-      "title": "Push to keep former church open as community space",
-      "link": "https://www.three.fm/news/isle-of-man-news/push-to-keep-former-church-open-as-community-space/",
-      "published": "2026-06-09T06:05:00+00:00",
-      "summary": "People in the South are being encouraged to get behind plans to keep Ballafesson Hall open as a community space.",
-      "source": "Three FM"
-    },
-    {
-      "title": "House of Keys to sit today",
-      "link": "https://www.three.fm/news/isle-of-man-news/house-of-keys-to-sit-today/",
-      "published": "2026-06-09T06:00:00+00:00",
-      "summary": "The House of Keys sits later, with a variety of topics on the minds of MHKs.",
-      "source": "Three FM"
-    },
-    {
-      "title": "'Unprecedented' situation after deemster in Island's first group litigation case resigns",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/unprecedented-situation-after-deemster-in-islands-first-group-litigation-case-resigns/",
-      "published": "2026-06-09T06:00:00+00:00",
-      "summary": "Acting Deemster became 'significantly unwell' after hearing evidence",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Chartered accountant to stand for House of Keys in Rushen",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/chartered-accountant-to-stand-for-house-of-keys-in-rushen/",
-      "published": "2026-06-09T05:51:42+00:00",
-      "summary": "Michael Crowe is a former Chamber of Commerce president and Finance Isle of Man chief exec",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Mountain Road to close for removal of one-way system",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/mountain-road-to-close-for-removal-of-one-way-system/",
-      "published": "2026-06-09T05:47:10+00:00",
-      "summary": "Route will shut at 9.30am this morning",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Mountain Road to close this morning",
-      "link": "https://www.three.fm/news/isle-of-man-news/mountain-road-to-close-this-morning1/",
-      "published": "2026-06-09T05:45:00+00:00",
-      "summary": "The Mountain Road is due to close again this morning, as the Department of Infrastructure gets rid of the last reminders of TT.",
-      "source": "Three FM"
-    },
-    {
-      "title": "Council's environment campaign to focus on dog waste",
-      "link": "https://www.three.fm/news/isle-of-man-news/councils-environment-campaign-to-focus-on-dog-waste/",
-      "published": "2026-06-09T05:38:42+00:00",
-      "summary": "Douglas Council says its annual environmental campaign next year will concentrate on dog fouling.",
-      "source": "Three FM"
-    },
-    {
-      "title": "Plantation wood, telegraph poles and Satnav to be discussed in the House of Keys",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/plantation-wood-telegraph-poles-and-satnav-to-be-discussed-in-the-house-of-keys/",
-      "published": "2026-06-09T05:37:45+00:00",
-      "summary": "13 questions tabled for oral answer at this week's sitting",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Immigration changes designed to stop exploitation by 'bad eggs'",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/immigration-changes-designed-to-stop-exploitation-by-bad-eggs/",
-      "published": "2026-06-09T05:19:23+00:00",
-      "summary": "Minister admits government has been 'overly enthusiastic' in attracting new people",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Contingency budget for horse tram tracks 'significantly increased'",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/contingency-budget-for-horse-tram-tracks-significantly-increased/",
-      "published": "2026-06-09T05:18:20+00:00",
-      "summary": "Treasury advice to DoI due to 'volatile financial climate'",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Nursery group wants to 'bridge the gap' for families of two-year-olds",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/nursery-group-wants-to-bridge-the-gap-for-families-of-two-year-olds/",
-      "published": "2026-06-09T05:16:22+00:00",
-      "summary": "Hopes & Dreams launches Early Years Support Fund",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Orchestra hoping to attract 'different kind of audience' at next concert",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/orchestra-hoping-to-attract-different-kind-of-audience-at-next-concert/",
-      "published": "2026-06-09T05:14:15+00:00",
-      "summary": "Music lovers urged to support Manx musicians",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Planning Committee says temporary dental unit at hospital is 'government failure'",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/planning-committee-says-temporary-dental-unit-at-hospital-is-government-failure/",
-      "published": "2026-06-09T05:12:32+00:00",
-      "summary": "Chair Rob Callister describes situation as 'unfortunate'",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Isle of Man TT: Harrison Declared Milwaukee Senior TT Winner - Roadracing World",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOEdac1VNUnE1OFBYQmVEbkl6TG9rcVk5XzFwQ21jcElxUTh6M3N6Y2NWVU1KMnRLQjFyQlJlRmRybUh1ZS0zaERvQ09RV2JlWVZiMEtZTTRYNnVRWXU0ZHpBNFRjZ3l2UUpvbEhITTFmX2NXU3lHX3p1Q2pHZkRCcDhrUFI5LW1acWp3Z0FOTnU?oc=5",
-      "published": "2026-06-09T00:24:56+00:00",
-      "summary": "Isle of Man TT: Harrison Declared Milwaukee Senior TT Winner Roadracing World",
-      "source": "Google News"
-    },
-    {
-      "title": "Photo Highlights From The 2026 Isle of Man TT - Motorcycle.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVG5ERG9jX3MtU0hXYjJKWGs5ZG44LUw3c1lLOEhWUFRRUTJhQ0JwaElFTmNPTlZmUTFWcVNsNFhSQzdMb3pCQmFKTm9HT25sQ1I2UjRyLUFqUnlHYzh0VWMzaHZPcThCWlV3SS1SU19QYW02LVJfd1RJRS1VRGpMVGtGVURveHNwSmd1OFFJTV9ldC1mM3A5S09lYw?oc=5",
-      "published": "2026-06-08T22:13:45+00:00",
-      "summary": "Photo Highlights From The 2026 Isle of Man TT Motorcycle.com",
-      "source": "Google News"
-    },
-    {
-      "title": "Crash closes Onchan road",
-      "link": "https://www.three.fm/news/isle-of-man-news/crash-closes-onchan-road/",
-      "published": "2026-06-08T17:39:25+00:00",
-      "summary": "Police say a road in Onchan is likely to be shut for hours after a crash.",
-      "source": "Three FM"
-    },
-    {
-      "title": "TT rider 'suffered chest injuries in fatal crash'",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/tt-rider-suffered-chest-injuries-in-fatal-crash/",
-      "published": "2026-06-08T15:58:50+00:00",
-      "summary": "Inquest into death of Daniel Ingham opens",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "EV charging points undergoing repairs this week",
-      "link": "https://www.three.fm/news/isle-of-man-news/ev-charging-points-undergoing-repairs-this-week/",
-      "published": "2026-06-08T15:40:04+00:00",
-      "summary": "Electric vehicle drivers are being warned about work on public chargers this week.",
-      "source": "Three FM"
-    },
-    {
-      "title": "How do satnavs know about speed limits, asks MHK",
-      "link": "https://www.three.fm/news/isle-of-man-news/how-do-satnavs-know-about-speed-limits-asks-mhk/",
-      "published": "2026-06-08T15:13:38+00:00",
-      "summary": "How do satnavs know the speed limit?",
-      "source": "Three FM"
-    },
-    {
-      "title": "Do you know this man?",
-      "link": "https://www.three.fm/news/isle-of-man-news/do-you-know-this-man6/",
-      "published": "2026-06-08T14:32:01+00:00",
-      "summary": "Can you help police find this man?",
-      "source": "Three FM"
     }
   ]
 }
