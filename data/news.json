@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-06-23T09:26:45.318557+00:00",
+  "generated_at": "2026-06-23T20:09:18.949693+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -31,6 +31,125 @@
   ],
   "items": [
     {
+      "title": "Castletown Commissioners celebrating 130 years of Poulsom Park",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/castletown-commissioners-celebrating-130-years-of-poulsom-park/",
+      "published": "2026-06-23T16:55:23+00:00",
+      "summary": "Event has been organised to commemorate anniversary",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Isle of Man government to consult on social media ban - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90YXBQNlRtTzdIT3ZGR3k2S2MtSzZPNW5TdkFnRUNlX3BaN01MejV0TmVZNlZvTTZ6LUFTSW00T0dhVnlPQWQ5T0VRTllGMnYwQ015NzIwMkhOMVFQ?oc=5",
+      "published": "2026-06-23T15:53:06+00:00",
+      "summary": "Isle of Man government to consult on social media ban BBC",
+      "source": "Google News"
+    },
+    {
+      "title": "Isle of Man Government 'not waiting for UK strategy' on violence against women - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLUhvaUg3QjdYN19maHFwVDJMd21id2VhVkxsdWJMYlRmNk00OFRyQ29GS1YzYlZCMUNVNVQ2NXBOZkpoZWE1Z0M2Tk4xUUNRRmVCTG8xZXNncFZlX0laVXZyQU4xb3RJR0l5Nk1zcGhGWk1FaWxsUEpKTVpOaWVvd0VaRUk0djBEVVd5YUR6RVR2eEI3SnRhMnpTVTZyRkFCS3N4QWRQNUhJa1VYLWFtZHdPZUZEZw?oc=5",
+      "published": "2026-06-23T15:05:12+00:00",
+      "summary": "Isle of Man Government 'not waiting for UK strategy' on violence against women Isle of Man Today",
+      "source": "Google News"
+    },
+    {
+      "title": "As heatwave heads our way, how do we stay safe in the sun?",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/as-heatwave-heads-our-way-how-do-we-stay-safe-in-the-sun/",
+      "published": "2026-06-23T14:09:00+00:00",
+      "summary": "Island could reach 27 Celsius on Thursday",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Crime on the Island continues to fall while serious incidents create 'exceptional demand'",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/crime-on-the-island-continues-to-fall-while-serious-incidents-create-exceptional-demand/",
+      "published": "2026-06-23T13:41:29+00:00",
+      "summary": "Chief Constable Russ Foster's Annual Report published",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Island crime falls 4.5% despite rise in emergency calls",
+      "link": "https://www.three.fm/news/isle-of-man-news/island-crime-falls-4-5-despite-rise-in-emergency-calls/",
+      "published": "2026-06-23T13:38:41+00:00",
+      "summary": "Police say crime on the Island fell by 4.5 percent over the past year.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Cost of a passport set to increase this summer",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/cost-of-a-passport-set-to-increase-this-summer/",
+      "published": "2026-06-23T13:34:29+00:00",
+      "summary": "Treasury says higher fees will mirror fees introduced in the UK earlier this year",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Fire station open morning this weekend",
+      "link": "https://www.three.fm/news/isle-of-man-news/fire-station-open-morning-this-weekend/",
+      "published": "2026-06-23T12:52:28+00:00",
+      "summary": "Kirk Michael's fire station will be open to the public this weekend.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Manx Telecom to fund groundwork for fibre customers",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/manx-telecom-to-fund-groundwork-for-fibre-customers/",
+      "published": "2026-06-23T11:46:38+00:00",
+      "summary": "Company says it's removing 'practical barrier'",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Balthane roundabout project faces higher costs and further delays",
+      "link": "https://www.three.fm/news/isle-of-man-news/balthane-roundabout-project-faces-higher-costs-and-further-delays/",
+      "published": "2026-06-23T11:44:25+00:00",
+      "summary": "The Infrastructure Minister has confirmed that work on the new Balthane Roundabout has been delayed by a further two years, with costs also continuing to rise.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Roy Chubby Brown bringing show to Island",
+      "link": "https://www.three.fm/news/isle-of-man-news/roy-chubby-brown-bringing-show-to-island/",
+      "published": "2026-06-23T11:23:40+00:00",
+      "summary": "A man described as the king of British comedy is coming to the Island.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Water quality in Peel to improve ahead of 2027 bathing season",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/water-quality-in-peel-to-improve-ahead-of-2027-bathing-season/",
+      "published": "2026-06-23T10:54:29+00:00",
+      "summary": "But screening equipment will be operational by this September",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Manx Utilities reports fall in workplace accidents",
+      "link": "https://www.three.fm/news/isle-of-man-news/manx-utilities-reports-fall-in-workplace-accidents/",
+      "published": "2026-06-23T10:39:51+00:00",
+      "summary": "Manx Utilities says workplace accidents have fallen by nearly a fifth.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Historic steam train to return to Groudle after major rebuild",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/historic-steam-train-to-return-to-groudle-after-major-rebuild/",
+      "published": "2026-06-23T10:31:52+00:00",
+      "summary": "Annie will be back on the Island's tracks later this month",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Residents urged to report basking shark sightings",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/residents-urged-to-report-basking-shark-sightings/",
+      "published": "2026-06-23T10:13:15+00:00",
+      "summary": "Same goes for whales, dolphins and porpoises",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Public to have say on possible social media ban for under-16s",
+      "link": "https://www.three.fm/news/isle-of-man-news/public-to-have-say-on-possible-social-media-ban-for-under-16s/",
+      "published": "2026-06-23T10:12:25+00:00",
+      "summary": "The Chief Minister has confirmed that a public consultation on a social media ban for under-16s will take place.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Chief minister confirms plans for consultation on social media ban",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/chief-minister-confirms-plans-for-consultation-on-social-media-ban/",
+      "published": "2026-06-23T09:35:03+00:00",
+      "summary": "Alfred Cannan says government wants to hear from those who would be affected",
+      "source": "Manx Radio"
+    },
+    {
       "title": "Closures scheduled for Beinn-y-Phott Road",
       "link": "https://www.three.fm/news/isle-of-man-news/closure-scheduled-for-beinn-y-phott-road/",
       "published": "2026-06-23T09:20:37+00:00",
@@ -38,10 +157,10 @@
       "source": "Three FM"
     },
     {
-      "title": "Nunnery change-of-use plan includes cafes and shops - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcG5jby1mQmJsdkwycC1PSlJIeUI3ZXhvVFJJUzYzbUFKSGMtS3V2bk1UMW9GWVRDem5JUjlZdFd0bWd5SXdRZXNQR0NfMXRTakRRYklfTUtfV3hpeDlHcUhGS3ZfZUE0c1RVQVJlYXh6SG5wRnRuUkh1NUxiSWh6V2VhcXZNQjh2MklUdTEtdFFzdw?oc=5",
-      "published": "2026-06-23T09:01:41+00:00",
-      "summary": "Nunnery change-of-use plan includes cafes and shops Yahoo",
+      "title": "Isle of Man nunnery change-of-use plan includes cafes and shops - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43UW5TeEVmWXN6OFhlNkJDQU9EQ1lTSndwdUZHM205ZV9nOHVOeXQtdVJ4UzZOVVhiR3dzOHBYRG5GcFAyeEwyMXhyRVRheHNObGVDdGplTElSLWZ0?oc=5",
+      "published": "2026-06-23T09:01:07+00:00",
+      "summary": "Isle of Man nunnery change-of-use plan includes cafes and shops BBC",
       "source": "Google News"
     },
     {
@@ -234,13 +353,6 @@
       "source": "Manx Radio"
     },
     {
-      "title": "NAPA Auto Parts launches limited-edition Isle of Man TT Milwaukee toolbox - Autotrade.ie",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjZCVWxNS0g0X2RwWElPMVVCcUhjVTVlR3d6dE5KdnVzWjVlNVpfY2pqQU9UbHd5V2RVMkRzV1F0NWszdFlrSXlhMlFfWmtEcWxCV2FLNk5GYjdoM0U3MHdzZmhvWndNZGdiRTdPcEMxYi01WlJpNC00MFhLal9abVlBVzhiWXFVZUhxQldobDNUVXRMQ0ZmM0N2eFRhNDdteWdNZW56MjlnZjc2OFFySWY3ckE?oc=5",
-      "published": "2026-06-22T11:50:54+00:00",
-      "summary": "NAPA Auto Parts launches limited-edition Isle of Man TT Milwaukee toolbox Autotrade.ie",
-      "source": "Google News"
-    },
-    {
       "title": "Have your say on the Island's childcare",
       "link": "https://www.three.fm/news/isle-of-man-news/have-your-say-on-the-islands-childcare/",
       "published": "2026-06-22T11:46:26+00:00",
@@ -344,13 +456,6 @@
       "published": "2026-06-22T05:21:43+00:00",
       "summary": "Music, theatre and visual art all taking place at Erin Arts Centre",
       "source": "Manx Radio"
-    },
-    {
-      "title": "Manx artists explore memories, heritage and identity - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94VDJGckVUcXV6ck54V1hEUkpKMzIwSzdGQmlZRUIteFBBVzlnV0J2SklrV01BNW5ZT0kyazc0NWpPdi1IaV9HemVsaThDbEI4R3d4X0tlblNMZw?oc=5",
-      "published": "2026-06-22T05:20:19+00:00",
-      "summary": "Manx artists explore memories, heritage and identity BBC",
-      "source": "Google News"
     },
     {
       "title": "MHK to question delay to Island benefits reform review",
@@ -731,13 +836,6 @@
       "source": "Manx Radio"
     },
     {
-      "title": "Wealthy Britons flee to Isle of Man to escape Reeves’s tax raid - The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVVB6YlJkZG1mZzRaZ3I0azhVcTBfSUhBMVV4TGVaN01TQXRyVTBORHR0RkVRU1NuS0pKNThrTmRBZi12bFh1WEJ0ZnN0X1NIYkQzY2t4YS1RZnJ6bXJhNDNSX292bEkwR2dkRzVQNnZBSHdSZ2MzTEJxQTNLR2lpLVp1cVAxY1NuNjRDc0pRV0xkNEdUdnNXME96bFQ3ZG5BLVBHZEd3?oc=5",
-      "published": "2026-06-18T16:27:00+00:00",
-      "summary": "Wealthy Britons flee to Isle of Man to escape Reeves’s tax raid The Telegraph",
-      "source": "Google News"
-    },
-    {
       "title": "Council says lights will be seasonal, not Xmas",
       "link": "https://www.three.fm/news/isle-of-man-news/council-says-lights-will-be-seasonal-not-xmas/",
       "published": "2026-06-18T16:24:51+00:00",
@@ -980,104 +1078,6 @@
       "link": "https://www.manxradio.com/news/isle-of-man-news/return-of-popular-charity-walk-for-sight-matters/",
       "published": "2026-06-17T15:40:31+00:00",
       "summary": "Ivan Soulsbury Coast 2 Coast Walk is in September",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Loafs to leathers plan to be discussed next week",
-      "link": "https://www.three.fm/news/isle-of-man-news/loafs-to-leathers-plan-to-be-discussed-next-week/",
-      "published": "2026-06-17T15:05:03+00:00",
-      "summary": "Part of the former Ramsey Bakery could become a Ramsey bikery next week.",
-      "source": "Three FM"
-    },
-    {
-      "title": "Douglas dance school invests £60,000 into new academy",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/douglas-dance-school-invests-60000-into-new-academy/",
-      "published": "2026-06-17T15:03:53+00:00",
-      "summary": "Move it Studios to subsidise 60 selected families in first year",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Ramsey Commissioners looking for planning approval for new social housing",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/ramsey-commissioners-looking-for-planning-approval-for-new-social-housing/",
-      "published": "2026-06-17T14:36:03+00:00",
-      "summary": "Wants to develop 30 flats on former Albert Road and Close Woirrey sites",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Would-be MHKs asked to sign Pride Pledge",
-      "link": "https://www.three.fm/news/isle-of-man-news/would-be-mhks-asked-to-sign-pride-pledge/",
-      "published": "2026-06-17T14:17:49+00:00",
-      "summary": "All election candidates are being invited to sign a pledge supporting LGBTQ rights.",
-      "source": "Three FM"
-    },
-    {
-      "title": "New home for Braddan takeaway from today",
-      "link": "https://www.three.fm/news/isle-of-man-news/new-home-for-braddan-takeaway-from-today/",
-      "published": "2026-06-17T13:22:28+00:00",
-      "summary": "A much-loved Chinese takeaway in Braddan has announced it's moved to Central Douglas.",
-      "source": "Three FM"
-    },
-    {
-      "title": "Manx lobsters' radioactivity levels 96% lower than in 1998",
-      "link": "https://www.three.fm/news/isle-of-man-news/manx-lobsters-radioactivity-levels-96-lower-than-in-1998/",
-      "published": "2026-06-17T13:03:33+00:00",
-      "summary": "Lobsters caught in Manx waters are now 96 per cent less radioactive than 25 years ago, according to the government.",
-      "source": "Three FM"
-    },
-    {
-      "title": "Former Albert Road School in Ramsey to become flats?",
-      "link": "https://www.three.fm/news/isle-of-man-news/former-albert-road-school-in-ramsey-to-become-flats/",
-      "published": "2026-06-17T12:32:15+00:00",
-      "summary": "Ramsey Commissioners have unveiled plans for the former Albert Road school site in Ramsey.",
-      "source": "Three FM"
-    },
-    {
-      "title": "Senior medical leaders 'reject' results of rapid bed review",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/senior-medical-leaders-reject-results-of-rapid-bed-review/",
-      "published": "2026-06-17T12:31:15+00:00",
-      "summary": "Independent review found adding beds will not solve wider issues",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Students split on prospect of under-16 social media ban",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/students-split-on-prospect-of-under-16-social-media-ban/",
-      "published": "2026-06-17T12:23:57+00:00",
-      "summary": "IOM Government hasn't confirmed if it plans to follow UK's lead",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Armed police training on key road into city today",
-      "link": "https://www.three.fm/news/isle-of-man-news/armed-police-training-on-key-road-into-city-today/",
-      "published": "2026-06-17T12:08:37+00:00",
-      "summary": "Police say not to worry if you see armed officers on one of the main roads into Douglas today.",
-      "source": "Three FM"
-    },
-    {
-      "title": "Firearms officers training underway in Douglas",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/firearms-officers-training-underway-in-douglas/",
-      "published": "2026-06-17T11:49:16+00:00",
-      "summary": "Officers operating in the grounds and building of European House",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Future of Douglas landmark will be decided next week",
-      "link": "https://www.three.fm/news/isle-of-man-news/future-of-douglas-landmark-will-be-decided-next-week/",
-      "published": "2026-06-17T11:23:27+00:00",
-      "summary": "The future of one of the most historic buildings in Douglas will be decided by the planning committee next week.",
-      "source": "Three FM"
-    },
-    {
-      "title": "Police celebrate Liverpool TT success, with no bikes stolen",
-      "link": "https://www.three.fm/news/isle-of-man-news/police-celebrate-liverpool-tt-success-with-no-bikes-stolen/",
-      "published": "2026-06-17T10:38:14+00:00",
-      "summary": "Merseyside police say a special operation to keep TT visitors safe scored a huge success - with no motorcycles stolen for the second year in a row.",
-      "source": "Three FM"
-    },
-    {
-      "title": "Island's police supporting UK-wide operation led by Immigration Compliance",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/islands-police-supporting-uk-wide-operation-led-by-immigration-compliance/",
-      "published": "2026-06-17T10:26:06+00:00",
-      "summary": "Constabulary issues statement following activity on King Edward Road this morning",
       "source": "Manx Radio"
     }
   ]
