@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-06-23T20:09:18.949693+00:00",
+  "generated_at": "2026-06-24T08:56:19.974403+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -31,6 +31,146 @@
   ],
   "items": [
     {
+      "title": "Fifth candidate declares for Rushen",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/fifth-candidate-declares-for-rushen/",
+      "published": "2026-06-24T08:49:34+00:00",
+      "summary": "Torden Stores owner, Vicky East, to stand in September",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "RNLI called out to stranded fishing boat",
+      "link": "https://www.three.fm/news/isle-of-man-news/rnli-called-out-to-stranded-fishing-boat/",
+      "published": "2026-06-24T08:27:18+00:00",
+      "summary": "Port St Mary RNLI launched to help out a stranded fishing boat yesterday afternoon.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Little progress made on benefits reforms",
+      "link": "https://www.three.fm/news/isle-of-man-news/little-progress-made-on-benefits-reforms/",
+      "published": "2026-06-24T07:26:35+00:00",
+      "summary": "The Treasury Minister has confirmed that little progress has been made over the past year on reforms to the Island's benefits system.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Arbory, Castletown and Malew candidate withdraws from election race",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/arbory-castletown-and-malew-candidate-withdraws-from-election-race/",
+      "published": "2026-06-24T07:21:12+00:00",
+      "summary": "Jeroen Watts no longer intends to stand",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Island could experience the hottest June Day tomorrow",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/island-could-experience-the-hottest-june-day-tomorrow/",
+      "published": "2026-06-24T07:06:11+00:00",
+      "summary": "Currently, the record stands at 28.1 degrees and was recorded in 2023",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Glover withdraws re-election bid",
+      "link": "https://www.three.fm/news/isle-of-man-news/glover-withdraws-re-election-bid/",
+      "published": "2026-06-24T06:55:26+00:00",
+      "summary": "An MHK says he's changed his decision to defend his seat in the general election.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Plans to fix leaning chapel of Ballabeg",
+      "link": "https://www.three.fm/news/isle-of-man-news/plans-to-fix-leaning-chapel-of-ballabeg/",
+      "published": "2026-06-24T06:29:50+00:00",
+      "summary": "A planning application's been submitted to stop a historic chapel from leaning.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Douglas road to close for seven weeks",
+      "link": "https://www.three.fm/news/isle-of-man-news/douglas-road-to-close-for-seven-weeks/",
+      "published": "2026-06-24T06:11:25+00:00",
+      "summary": "A road in Douglas is set to close for seven weeks, starting next Monday.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Sitting MHK no longer seeking re-election in September",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/sitting-mhk-no-longer-seeking-re-election-in-september/",
+      "published": "2026-06-24T05:59:42+00:00",
+      "summary": "Tim Glover says the health of his wife must now come first",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "£1k prize draw at Pilates world record attempt",
+      "link": "https://www.three.fm/news/isle-of-man-news/1k-prize-draw-at-pilates-world-record-attempt/",
+      "published": "2026-06-24T05:49:44+00:00",
+      "summary": "You can have the chance to win £1,000 by taking part in a world record attempt next month.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Onchan residents brand offshore windfarm ‘travesty’ and ‘nothing but negative’",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/onchan-residents-brand-offshore-windfarm-travesty-and-nothing-but-negative/",
+      "published": "2026-06-24T05:42:12+00:00",
+      "summary": "Commissioners organised a drop- in session for residents to learn more about scheme",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Uni students to be offered meningitis jabs",
+      "link": "https://www.three.fm/news/isle-of-man-news/uni-students-to-be-offered-meningitis-jabs/",
+      "published": "2026-06-24T05:28:42+00:00",
+      "summary": "The government's announced Manx students due to start their studies in the UK this autumn will be offered the meningitis B vaccine before they go.",
+      "source": "Three FM"
+    },
+    {
+      "title": "MHK 'frustrated' at pace of progress over cigarettes and vaping products",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/mhk-frustrated-at-pace-of-progress-over-cigarettes-and-vaping-products/",
+      "published": "2026-06-24T05:23:47+00:00",
+      "summary": "Committee calling for generational ban",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "'Huge improvement to bathing water by next summer' - Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcjA4eEk2Wk40Q1pMeHdiYUFTYVQ0OEwwRFJwOFYxOHlRYzc0dlZmd0VBZU1ZaTYtY2VHTU9NMnFqMS1RalVmd0RWWEJ4d21POEJxZ09CUWNmZTB3c0pHZm8tQ3cwYXA3dkZWaXlTbXFuZzlOU2Nlcm9TanlRel9tV3RR?oc=5",
+      "published": "2026-06-24T05:20:00+00:00",
+      "summary": "'Huge improvement to bathing water by next summer' Yahoo News Canada",
+      "source": "Google News"
+    },
+    {
+      "title": "Island residents in favour of social media ban for under 16s",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/island-residents-in-favour-of-social-media-ban-for-under-16s/",
+      "published": "2026-06-24T05:18:32+00:00",
+      "summary": "'Quick poll' shows support for UK style restrictions",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "FC Isle of Man's financial stability 'difficult' without 'magic benefactor' says new CEO",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/fc-isle-of-mans-financial-stability-difficult-without-magic-benefactor-says-new-ceo/",
+      "published": "2026-06-24T05:16:01+00:00",
+      "summary": "Russ Kent takes up the role for Island club",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "FC Isle of Man's financial stability 'difficult' without 'magic benefactor' says new CEO - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQm1VeFpySkVVQmdPdGhpVFZqdHBIazgwSDlrNDFDSHFpdmJoUllvU2dUQmRjS1ppYnZQa2lqNG1ZZXQ3QlhQUHhJWmdRenNFUm4yV2ZjYUgxbW82c2hmMjB0bEJ3RlR0ZG55UnRBUGpTbXBQWlkzX1hHSENoS0VuTHNxYWF1WWxRWTdNVmJ6QmoxS3cyZ3hHeWJ5NElMbjhMazFQcjFzSmUzOHhWb1g2NnZmUEd0cEJmcFZYYW9saTd4YmI0RXhuanRUbFQ?oc=5",
+      "published": "2026-06-24T05:16:00+00:00",
+      "summary": "FC Isle of Man's financial stability 'difficult' without 'magic benefactor' says new CEO Manx Radio",
+      "source": "Google News"
+    },
+    {
+      "title": "Former MasterChef contestant to run kitchen at children's nursey",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/former-masterchef-contestant-to-run-kitchen-at-childrens-nursey/",
+      "published": "2026-06-24T05:14:23+00:00",
+      "summary": "Pippa Lovell joining Little Diamonds Nursery",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Isle of Man submits AML/CFT effectiveness filing to MONEYVAL - Asia Gaming Brief",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbEFzZ0NJYW1RUDJxbHhkazJ3anFPYldnTkc1MzNQQW1OVW4wNEM4aHV0MFQyNlNyamxzWktZNHpNbGloSmNWNkNrZkJZb1pzU3NVXy1GSVhqMVJDSncwaU0yWmhXUjdlcUtNR3dzOVpvYlAzV0hzdDBzbDBhU2lrT3gyTVZnWlZlUXVLcXRNQ29LS2xMX3k0X1FVa2JTT3VtRjk3Q1o2dw?oc=5",
+      "published": "2026-06-24T00:04:48+00:00",
+      "summary": "Isle of Man submits AML/CFT effectiveness filing to MONEYVAL Asia Gaming Brief",
+      "source": "Google News"
+    },
+    {
+      "title": "Australian-based Kiwi Kev Stephens earns his TT stripes - MCNews",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FT09kT1VVYmZWdWZfUml3STFxR05nM0s1OUVHQUVpVDk4LTJZd3RpNUcxWVl3bzlCU2Nzd1paQVRnYmZxR3pNTDJlTTFHV1hNR09UZEZrZHdLaVVBTVYtME1NVGxLU0RYdXBsdF9aTXB6U3Utb0k4?oc=5",
+      "published": "2026-06-23T21:24:21+00:00",
+      "summary": "Australian-based Kiwi Kev Stephens earns his TT stripes MCNews",
+      "source": "Google News"
+    },
+    {
       "title": "Castletown Commissioners celebrating 130 years of Poulsom Park",
       "link": "https://www.manxradio.com/news/isle-of-man-news/castletown-commissioners-celebrating-130-years-of-poulsom-park/",
       "published": "2026-06-23T16:55:23+00:00",
@@ -42,13 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90YXBQNlRtTzdIT3ZGR3k2S2MtSzZPNW5TdkFnRUNlX3BaN01MejV0TmVZNlZvTTZ6LUFTSW00T0dhVnlPQWQ5T0VRTllGMnYwQ015NzIwMkhOMVFQ?oc=5",
       "published": "2026-06-23T15:53:06+00:00",
       "summary": "Isle of Man government to consult on social media ban BBC",
-      "source": "Google News"
-    },
-    {
-      "title": "Isle of Man Government 'not waiting for UK strategy' on violence against women - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLUhvaUg3QjdYN19maHFwVDJMd21id2VhVkxsdWJMYlRmNk00OFRyQ29GS1YzYlZCMUNVNVQ2NXBOZkpoZWE1Z0M2Tk4xUUNRRmVCTG8xZXNncFZlX0laVXZyQU4xb3RJR0l5Nk1zcGhGWk1FaWxsUEpKTVpOaWVvd0VaRUk0djBEVVd5YUR6RVR2eEI3SnRhMnpTVTZyRkFCS3N4QWRQNUhJa1VYLWFtZHdPZUZEZw?oc=5",
-      "published": "2026-06-23T15:05:12+00:00",
-      "summary": "Isle of Man Government 'not waiting for UK strategy' on violence against women Isle of Man Today",
       "source": "Google News"
     },
     {
@@ -155,13 +288,6 @@
       "published": "2026-06-23T09:20:37+00:00",
       "summary": "There's a series of closures planned for work on the Beinn-y-Phott Road from this week.",
       "source": "Three FM"
-    },
-    {
-      "title": "Isle of Man nunnery change-of-use plan includes cafes and shops - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43UW5TeEVmWXN6OFhlNkJDQU9EQ1lTSndwdUZHM205ZV9nOHVOeXQtdVJ4UzZOVVhiR3dzOHBYRG5GcFAyeEwyMXhyRVRheHNObGVDdGplTElSLWZ0?oc=5",
-      "published": "2026-06-23T09:01:07+00:00",
-      "summary": "Isle of Man nunnery change-of-use plan includes cafes and shops BBC",
-      "source": "Google News"
     },
     {
       "title": "New Dachshund hotel opens in Ramsey",
@@ -953,132 +1079,6 @@
       "published": "2026-06-18T07:53:47+00:00",
       "summary": "Plans to set up mobile buildings for a renal unit at Ramsey Cottage Hospital will be decided next week.",
       "source": "Three FM"
-    },
-    {
-      "title": "EPA benefits service goes digital",
-      "link": "https://www.three.fm/news/isle-of-man-news/epa-benefits-service-goes-digital/",
-      "published": "2026-06-18T06:44:36+00:00",
-      "summary": "You can now apply for Employed Person's Allowance online.",
-      "source": "Three FM"
-    },
-    {
-      "title": "Andrew Harris to stand in Glenfaba and Peel",
-      "link": "https://www.three.fm/news/isle-of-man-news/andrew-harris-to-stand-in-glenfaba-and-peel/",
-      "published": "2026-06-18T06:20:06+00:00",
-      "summary": "A candidate has come forward to stand in Glenfaba and Peel in this year's general election.",
-      "source": "Three FM"
-    },
-    {
-      "title": "Minister insists primary schools have enough devices",
-      "link": "https://www.three.fm/news/isle-of-man-news/minister-insists-primary-schools-have-enough-devices/",
-      "published": "2026-06-18T06:07:47+00:00",
-      "summary": "Education Minister Daphne Caine says all primary schools have enough iPads and laptops to teach youngsters.",
-      "source": "Three FM"
-    },
-    {
-      "title": "Hotel demolition was allowed without permission over danger",
-      "link": "https://www.three.fm/news/isle-of-man-news/hotel-demolition-was-allowed-without-planning-over-danger/",
-      "published": "2026-06-18T05:41:31+00:00",
-      "summary": "The Department of Environment, Food and Agriculture says it allowed the Castletown Golf Links Hotel to be demolished without planning permission because the building was dangerous.",
-      "source": "Three FM"
-    },
-    {
-      "title": "Cruise ship to make final visit today",
-      "link": "https://www.three.fm/news/isle-of-man-news/cruise-ship-to-make-final-visit-today/",
-      "published": "2026-06-18T05:28:37+00:00",
-      "summary": "A cruise ship with around 500 passengers and crew is making her third and final visit of the year to the Island today.",
-      "source": "Three FM"
-    },
-    {
-      "title": "New Ramsey Commissioner says north is 'neglected' by government",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/new-ramsey-commissioner-says-north-is-neglected-by-government/",
-      "published": "2026-06-18T05:27:54+00:00",
-      "summary": "Arwid Hall is also a sitting Douglas Councillor",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Dyslexia recommendations are 'practical, proportionate and achievable'",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/dyslexia-recommendations-are-practical-proportionate-and-achievable/",
-      "published": "2026-06-18T05:09:36+00:00",
-      "summary": "Tynwald receives report from committee and rejects CoMin changes",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Tynwald approves additional £20.8m for health service",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/tynwald-approves-additional-20-8m-for-health-service/",
-      "published": "2026-06-18T05:09:23+00:00",
-      "summary": "More taxpayers' money injected into system",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Organisation offering free football camps to struggling families",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/organisation-offering-free-football-camps-to-struggling-families/",
-      "published": "2026-06-18T05:09:08+00:00",
-      "summary": "Let's Play inviting children to be part of sessions this summer",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Underground explorer set to share 'hidden world' in talk",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/underground-explorer-set-to-share-hidden-world-in-talk/",
-      "published": "2026-06-18T05:08:56+00:00",
-      "summary": "Major Shane Lucas will be at the Manx Museum this weekend",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Third candidate declares for Ayre and Michael",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/third-candidate-declares-for-ayre-and-michael/",
-      "published": "2026-06-18T05:08:38+00:00",
-      "summary": "Julia Bell announces bid for seat in September's General Election",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Empty seat on Douglas Council filled in uncontested by-election",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/empty-seat-on-douglas-council-filled-in-uncontested-by-election/",
-      "published": "2026-06-18T05:08:22+00:00",
-      "summary": "Ray Sloane is the new North Ward representative",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Harry Martland Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZnN4TDBLM2JGXzR0LTRwLTZpWFhTb2pVVHJsVnN2eVdrNm5YZ1pNT2poVUhaVXBRaVFqYndOSUhxMk13eXlIZXhhUHROMkFHSWFrSnNkX29RUlFteXEwSVJocG0xZVBHYmFraWxnUHRVN240VGw0dUVTa2UzSGlVYkYwek03Y2JrYlNtMWxoaXRFQTA?oc=5",
-      "published": "2026-06-18T03:12:10+00:00",
-      "summary": "Harry Martland Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
-      "source": "Google News"
-    },
-    {
-      "title": "Politicians back plan for Treasury to bring funding request for finishing horse tram track",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/politicians-back-plan-for-treasury-to-bring-funding-request-for-finishing-horse-tram-track/",
-      "published": "2026-06-17T18:39:42+00:00",
-      "summary": "Department must return to court in July",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "1,277 competitors to tackle Parish Walk this year",
-      "link": "https://www.three.fm/news/isle-of-man-news/1268-competitors-to-tackle-parish-walk-this-year/",
-      "published": "2026-06-17T16:24:47+00:00",
-      "summary": "A total of 1,277 people are set to take part in this weekend's Parish Walk.",
-      "source": "Three FM"
-    },
-    {
-      "title": "Judgment deferred in appeal against rejection of bid to overturn Summerland inquest verdict",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/judgment-deferred-in-appeal-against-rejection-of-bid-to-overturn-summerland-inquest-verdict/",
-      "published": "2026-06-17T16:14:47+00:00",
-      "summary": "Deemster's ruling on campaigners' case delayed",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Beach stage needs busking talent!",
-      "link": "https://www.three.fm/news/isle-of-man-news/beach-stage-needs-busking-talent/",
-      "published": "2026-06-17T15:43:25+00:00",
-      "summary": "Could you keep beachgoers in the west of the Island entertained?",
-      "source": "Three FM"
-    },
-    {
-      "title": "Return of popular charity walk for Sight Matters",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/return-of-popular-charity-walk-for-sight-matters/",
-      "published": "2026-06-17T15:40:31+00:00",
-      "summary": "Ivan Soulsbury Coast 2 Coast Walk is in September",
-      "source": "Manx Radio"
     }
   ]
 }
