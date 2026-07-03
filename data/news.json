@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-07-02T19:27:49.701745+00:00",
+  "generated_at": "2026-07-03T08:52:49.207086+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -31,6 +31,111 @@
   ],
   "items": [
     {
+      "title": "Braddan Commissioners to make offer on former Bee Gees home",
+      "link": "https://www.three.fm/news/isle-of-man-news/braddan-commissioners-to-make-offer-on-former-bee-gees-home/",
+      "published": "2026-07-03T08:25:00+00:00",
+      "summary": "Braddan Commissioners say they're interested in trying to buy a former Bee Gees home.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Manx Care seeks interim medical director",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/manx-care-seeks-interim-medical-director/",
+      "published": "2026-07-03T07:40:22+00:00",
+      "summary": "Current postholder currently seconded to CEO post",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Kids invited to create Manx-inspired friendship bracelets",
+      "link": "https://www.three.fm/news/isle-of-man-news/kids-invited-to-create-manx-inspired-friendship-bracelets/",
+      "published": "2026-07-03T07:25:00+00:00",
+      "summary": "Looking for something to keep the kids busy this summer? A friendship bracelet workshop is coming to the Manx Museum.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Kids invited to create Manx-inspired friendship bracelets - 3FM Isle of Man",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdzNvU014ajg1aFl1bmN6RDJFdFpVWWI1YWhTUFE3ZVpoTkoyX2J3a3ktS21CSkJackVJeXJ3S0M5eTR0VmZGWXMtVUNhU28xV0ltVFdUd1BCTWVITGhQU2J3a0xoVFpVMldxS2FScUljYU51ZExYX3d5MDQxX1ZOMUNPZThaQUVEdHN3b2R4dThWV0NTR3BtbF9nNHJJT1hUcWFn?oc=5",
+      "published": "2026-07-03T07:25:00+00:00",
+      "summary": "Kids invited to create Manx-inspired friendship bracelets 3FM Isle of Man",
+      "source": "Google News"
+    },
+    {
+      "title": "Major Liverpool docks regeneration plans unveiled",
+      "link": "https://www.three.fm/news/isle-of-man-news/major-liverpool-docks-regeneration-plans-unveiled/",
+      "published": "2026-07-03T07:20:52+00:00",
+      "summary": "The area surrounding Liverpool's Isle of Man Ferry Terminal could be transformed under major regeneration plans now out for public consultation.",
+      "source": "Three FM"
+    },
+    {
+      "title": "New powers proposed for housing authorities",
+      "link": "https://www.three.fm/news/isle-of-man-news/new-powers-proposed-for-housing-authorities/",
+      "published": "2026-07-03T06:44:23+00:00",
+      "summary": "The Island's housing authorities will get more powers to find living places for people who find themselves in exceptional circumstances.",
+      "source": "Three FM"
+    },
+    {
+      "title": "37 babies born at the Jane last month",
+      "link": "https://www.three.fm/news/isle-of-man-news/37-babies-born-at-the-jane-last-month/",
+      "published": "2026-07-03T06:25:00+00:00",
+      "summary": "A total of 37 babies were born at the Jane Crookall Maternity Unit in June, according to the latest figures.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Lezayre Commissioners asking DOI to delay NCAS board formation due to Bride",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/lezayre-commissioners-asking-doi-to-delay-ncas-board-formation-due-to-bride/",
+      "published": "2026-07-03T05:34:26+00:00",
+      "summary": "It was one of the topics discussed at its public meeting last night",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Court rejects fraudster's freemason conspiracy claims",
+      "link": "https://www.three.fm/news/isle-of-man-news/court-rejects-fraudsters-freemason-conspiracy-claims/",
+      "published": "2026-07-03T05:29:02+00:00",
+      "summary": "A man serving UK prison time for fraud and forgery isn't the victim of a shadowy criminal conspiracy involving Freemasons, a court has found.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Where and when to see the World Tin Bath Championships - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54b2NLYzlpV1ViM1ZYQmxOb3JyOGFHWE5UWWk0NFlOdHl3R0lSYWh0V1IySEdSWDZwRC10SGdZemtQdDFWaks2cmdwWFVCZGhvYlFPVlJ2OGN1bUtzYkhsdmZnbk1EV3ZYZFA4YkZrd0x5VzZ3UUdB?oc=5",
+      "published": "2026-07-03T05:26:00+00:00",
+      "summary": "Where and when to see the World Tin Bath Championships AOL.com",
+      "source": "Google News"
+    },
+    {
+      "title": "Government working to refresh economic strategy",
+      "link": "https://www.three.fm/news/isle-of-man-news/government-working-to-refresh-economic-strategy/",
+      "published": "2026-07-03T05:21:23+00:00",
+      "summary": "Enterprise Minister Tim Johnston says the government's been working hard to make sure it's economic strategy is keeping up with the latest events.",
+      "source": "Three FM"
+    },
+    {
+      "title": "Young coders in UK for robotics competition",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/young-coders-in-uk-for-robotics-competition/",
+      "published": "2026-07-03T05:19:32+00:00",
+      "summary": "Code Club at the World Robot Olympiad",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Praise for Small Countries Management Programme",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/praise-for-small-countries-management-programme/",
+      "published": "2026-07-03T05:18:48+00:00",
+      "summary": "Delegates attended the programme at UCM",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "Braddan Commissioners introduces new 'strategic plan' for the next three years",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/braddan-commissioners-introduces-new-strategic-plan-for-the-next-three-years/",
+      "published": "2026-07-03T05:18:25+00:00",
+      "summary": "Chair Andew Jessopp says it sets out authority's 'aims and ambitions'",
+      "source": "Manx Radio"
+    },
+    {
+      "title": "'Massive chef shortage' on the Island",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/massive-chef-shortage-on-the-island/",
+      "published": "2026-07-03T05:17:27+00:00",
+      "summary": "Eateries closing on several days due to lack of staff",
+      "source": "Manx Radio"
+    },
+    {
       "title": "Doctors vote in favour of industrial action",
       "link": "https://www.manxradio.com/news/isle-of-man-news/doctors-vote-in-favour-of-industrial-action/",
       "published": "2026-07-02T17:14:34+00:00",
@@ -39,7 +144,7 @@
     },
     {
       "title": "Isle of Man hosts World Downhill Skateboarding Championship - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mQ2FseTFPTzd5OV9HeGJpcnZWSUVzc1dvR3NsU3J0UXk3TTR6UEI3SDRHX1BRM1hVbzA1cFktUDB4cW1HRm5DZXBESG1KMldPSlZ6SXo1OWE2dw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00LVMxQmdDZTlfc2ZlSVNHODJEZzRCUlZ0M19QU04wVzFYbUNUT0NsZGlWbmpFWGFOdkFMakE1UGcwZVJiVHR0ZVFqbXk0V2lhSmNRVnpFOHRpYmNZ?oc=5",
       "published": "2026-07-02T15:51:26+00:00",
       "summary": "Isle of Man hosts World Downhill Skateboarding Championship BBC",
       "source": "Google News"
@@ -50,13 +155,6 @@
       "published": "2026-07-02T15:37:43+00:00",
       "summary": "ManxSPCA says Isle of Man should follow UK's example",
       "source": "Manx Radio"
-    },
-    {
-      "title": "British Enduro Championship heads to the Isle of Man as Home Favourite Jed Etchells Defends Championship Lead - Dirt Hub",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS2VHS2hRYzNQOTQ4LVljUDJDdk01VTh1YTlaaDJCSk56Wl9kWGF5dDY0Y1psWDRNMm0zSnAteFRNd0Npc0tldWR2eFNxeFBZZno5bVo1QTlqakVDcEpiNEdDOG12dmowLVRpQ1NKcTlJWXJXVTJqUnBDQkRrVldldW42ZnZfS1NBUjBRTFVic0premJrY3NKZGJSaS1wamdhcEZyeTQyTnVjRmFNbHpmclRqa21VMG9FS1RVcExQUjJZd19vbFpNdmRyN1FScEhmcmc?oc=5",
-      "published": "2026-07-02T15:18:18+00:00",
-      "summary": "British Enduro Championship heads to the Isle of Man as Home Favourite Jed Etchells Defends Championship Lead Dirt Hub",
-      "source": "Google News"
     },
     {
       "title": "Drone ban for skateboarding championship",
@@ -71,6 +169,13 @@
       "published": "2026-07-02T14:22:50+00:00",
       "summary": "Castletown commissioners have issued a plea to the ancient capital's dog owners.",
       "source": "Three FM"
+    },
+    {
+      "title": "Isle of Man legislature approves beneficial ownership collection bill - STEP — Society of Trust and Estate Practitioners",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkM4S3d0UzNTVloySzZXaFJnWVZuVlpTLThaQzFGWXZLUGEyTDZUV1JienctTUtVV25Pa1VZNmItcGJ6LTJTYVhkc2FxSTJMeDRRMVMzYXd5b1hxUlNaXzZid2FELVJqd3YtQmhVdVdXTUpONDQ5Yk1pV3pPdnAtM2Z5TmQ0aU12OXR5RjNCOE1FeE1Zd3RRVGl3Z2JJR3RmWURF?oc=5",
+      "published": "2026-07-02T14:17:47+00:00",
+      "summary": "Isle of Man legislature approves beneficial ownership collection bill STEP — Society of Trust and Estate Practitioners",
+      "source": "Google News"
     },
     {
       "title": "Island 'needs to do more' to celebrate its best known residents",
@@ -92,13 +197,6 @@
       "published": "2026-07-02T13:23:52+00:00",
       "summary": "An organisation which supports the rights of refugees has updated its website with a guide to legal assistance on the Isle of Man.",
       "source": "Three FM"
-    },
-    {
-      "title": "New online Isle of Man guide for refugees and asylum seekers - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPczZkWlBqSjFBUFBnMXZzYTgtYzlNV2JoVEZTRWpWS3JScExUaV85eVBobVo3ajdiUHBMVDdWaTNHRERKVHhzZ25wRm9aVjBFOE05NkgzZ3JvTE5KNkM2SkFCS3VwYWVYQUk3V1JoZE85dUljamRNUkFqMmRJam8wRHY4TXlaV0NRRk9paVZKRHVFMW9WUHE5YlVZSEJhZkpING1CV2h4Zw?oc=5",
-      "published": "2026-07-02T13:23:00+00:00",
-      "summary": "New online Isle of Man guide for refugees and asylum seekers 3FM Isle of Man",
-      "source": "Google News"
     },
     {
       "title": "London Aligns with Jersey, Guernsey and the Isle of Man as the United Kingdom Fully Activates New ETA System for Eighty-Five Visa-Free Nationalities - Travel And Tour World",
@@ -150,25 +248,11 @@
       "source": "Manx Radio"
     },
     {
-      "title": "Isle of Man TT star Michael Dunlop in excellent form at Tandragee 100 - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVZ3SHdjMk5malhfaWt0UW1tdTVqbFlvTFA0SG11eVVRWXRNeWlDMk5NeDgzZmoyUmdORUlMYWE1MmxOUnpHRmFBRV8wNkRwVUVteHVpSlZoRkdJVWxSS0lCQi1heUtNZlQ5S0lvNHg2a3ZZMEVGR1JyQmJVZWxFZjlHcDNFTG8xNVRkRmQwdzd0R0FiSUZvVWFuQkFhM1lqT2dvX3U4Y0pTdXdoZ3JGNHdYSXpXRXNMTXZsak13?oc=5",
-      "published": "2026-07-02T08:33:21+00:00",
-      "summary": "Isle of Man TT star Michael Dunlop in excellent form at Tandragee 100 Isle of Man Today",
-      "source": "Google News"
-    },
-    {
       "title": "Infrastructure Minister defends road checks for cat’s eyes work",
       "link": "https://www.three.fm/news/isle-of-man-news/infrastructure-minister-defends-road-checks-for-cats-eyes-work/",
       "published": "2026-07-02T08:25:00+00:00",
       "summary": "Roads are always inspected by the Department of Infrastructure before workers install cats eyes.",
       "source": "Three FM"
-    },
-    {
-      "title": "2020 Isle Of Man 50p Peter Pan II Coin - Tinkerbell Design, Uncirculated Condition - santoandre.biz",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaDVDX0FpeVVYWjRmVnE5bVR4U0g3UDBzRlpseF9XMTNITzJKSmxSODE0NTBzNzNGWjd6ZU1yMnR6VlhDNzl6ODRyQ1ptTkVCbGxaRzk2QjJYUXNjQkh2WFJvSFVFZENnbVNaV3JtcWRqWWpBR0ZGcVBBbU5CWHFhcndWdjVMb09zYkhLSjVnbw?oc=5",
-      "published": "2026-07-02T08:00:19+00:00",
-      "summary": "2020 Isle Of Man 50p Peter Pan II Coin - Tinkerbell Design, Uncirculated Condition santoandre.biz",
-      "source": "Google News"
     },
     {
       "title": "Beauty brand Charlotte Tilbury launches at Boots this weekend",
@@ -381,13 +465,6 @@
       "source": "Three FM"
     },
     {
-      "title": "Don't do anything extreme, advises centenarian - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pbzJnREplWTBHSzJ0NXpzckVyYXkyRXZyLTIxb1cwZjVYcTJWZ1ZvZkVCY2FtU0M2Q2k5ZTNyUXpoZVp1SlBjdTVoY25GZmV6bm52Z1o5Y21sUQ?oc=5",
-      "published": "2026-07-01T10:04:13+00:00",
-      "summary": "Don't do anything extreme, advises centenarian BBC",
-      "source": "Google News"
-    },
-    {
       "title": "Creamery director calls time on a grate career",
       "link": "https://www.three.fm/news/isle-of-man-news/creamery-director-calls-time-on-a-grate-career/",
       "published": "2026-07-01T09:36:36+00:00",
@@ -421,6 +498,13 @@
       "published": "2026-07-01T06:48:52+00:00",
       "summary": "Infrastructure Minister Tim Crookall says major roadworks aren't done in isolation by his department.",
       "source": "Three FM"
+    },
+    {
+      "title": "Winners of the Isle of Man’s 2026 Innovation Challenge unveiled - Home | Digital Health",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUUVLT0cxWVRZNEd2TmNFWEVPT3dTNEVqX1JiVFpyMFE1eDVsLU44aVZlOFQxUjVfUzRMWXppVlBqd1hrLTd4dG5zMFExOHlPWGNMQVpINHJWRnNfZ1cxeWI1ZUVSR1J3M1hFOG56OGJWdUw0OXJzaFFmSGlyMi1DejlLR3lJZEFjZFNmeDdTb3dJaWY3b0hvdUxPcUQ0Rlc1VnZz?oc=5",
+      "published": "2026-07-01T06:32:01+00:00",
+      "summary": "Winners of the Isle of Man’s 2026 Innovation Challenge unveiled Home | Digital Health",
+      "source": "Google News"
     },
     {
       "title": "Time Out Noodle Bar coming to Peel",
@@ -994,90 +1078,6 @@
       "link": "https://www.three.fm/news/isle-of-man-news/newsagent-owner-to-run-in-election/",
       "published": "2026-06-27T11:55:00+00:00",
       "summary": "A new candidate has declared they'll stand for Rushen in the general election.",
-      "source": "Three FM"
-    },
-    {
-      "title": "RAF veteran says assisting blind climber will be 'massive honour'",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/raf-veteran-says-assisting-blind-climber-will-be-massive-honour/",
-      "published": "2026-06-27T11:30:00+00:00",
-      "summary": "Gary helping guide 87-year-old up Ben Nevis",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "500% increase in immigration arrests on the Isle of Man",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/500-increase-in-immigration-arrests-on-the-isle-of-man/",
-      "published": "2026-06-27T11:00:00+00:00",
-      "summary": "Due to targeted activity rather than increased criminality",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Fire service issues wildfire warning in hot weather",
-      "link": "https://www.three.fm/news/isle-of-man-news/fire-service-issues-wildfire-warning-in-hot-weather/",
-      "published": "2026-06-27T10:55:00+00:00",
-      "summary": "The Island's Fire and Rescue Service is warning the public on the dangers of wildfires.",
-      "source": "Three FM"
-    },
-    {
-      "title": "More taxpayers' cash could be spent on 'cleaner heating'",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/more-taxpayers-cash-could-be-spent-on-cleaner-heating/",
-      "published": "2026-06-27T10:40:00+00:00",
-      "summary": "DEFA seeking Tynwald approval for new scheme",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Financial leaders from small countries visiting Island",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/financial-leaders-from-small-countries-visiting-island/",
-      "published": "2026-06-27T09:05:00+00:00",
-      "summary": "Delegates from 25 small nations attending seven-day event",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "New grants planned to make homes more efficient",
-      "link": "https://www.three.fm/news/isle-of-man-news/new-grants-planned-to-make-homes-more-efficient/",
-      "published": "2026-06-27T09:00:00+00:00",
-      "summary": "A new scheme that could help households switch to cleaner heating is set to go before Tynwald next month.",
-      "source": "Three FM"
-    },
-    {
-      "title": "New liquor licence proposed to support private events sector",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/new-liquor-licence-proposed-to-support-private-events-sector/",
-      "published": "2026-06-27T08:05:00+00:00",
-      "summary": "Developed in conjunction between DfE and hospitality sector",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "PSM commissioner retires after 'extraordinary' commitment to community",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/psm-commissioner-retires-after-extraordinary-commitment-to-community/",
-      "published": "2026-06-27T08:00:00+00:00",
-      "summary": "Bernadette Williams was elected as chair nine times whilst on the board",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "UltraMann and Race The Sun taking place today",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/ultramann-and-race-the-sun-taking-place-today/",
-      "published": "2026-06-27T07:32:36+00:00",
-      "summary": "Both events being held alongside each other",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Road closures for supercar tour today",
-      "link": "https://www.three.fm/news/isle-of-man-news/road-closures-for-supercar-tour-today/",
-      "published": "2026-06-27T07:01:33+00:00",
-      "summary": "A supercar event means road closures will be in place in Douglas and Peel today.",
-      "source": "Three FM"
-    },
-    {
-      "title": "Christian declares for Arbory, Castletown and Malew",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/christian-declares-for-arbory-castletown-and-malew/",
-      "published": "2026-06-27T07:00:00+00:00",
-      "summary": "Approach rooted in 'achievable progress'",
-      "source": "Manx Radio"
-    },
-    {
-      "title": "Does government plan to ban nicotine pouches for minors?",
-      "link": "https://www.three.fm/news/isle-of-man-news/does-government-plan-to-ban-nicotine-pouches-for-minors/",
-      "published": "2026-06-27T06:34:37+00:00",
-      "summary": "Will the government ban nicotine pouches for under 18s?",
       "source": "Three FM"
     }
   ]
