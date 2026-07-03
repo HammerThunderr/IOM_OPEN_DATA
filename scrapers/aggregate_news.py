@@ -8,7 +8,11 @@ Feeds:
   - Google News     ("isle of man" search RSS)
 
 Each item is normalised to:
-  {title, link, published (ISO 8601 UTC | null), summary, source}
+  {title, link, published (ISO 8601 UTC | null), summary, source, image}
+
+"image" is a best-effort thumbnail URL taken from the feed itself
+(media:content / media:thumbnail / enclosure / first <img> in the summary).
+Empty string when the feed provides none (common for Google News items).
 
 Items are de-duplicated (by link, then by normalised title) and sorted newest
 first. A failing feed never breaks the run - it is recorded under "feeds" with
@@ -18,7 +22,7 @@ Output: data/news.json
   {
     generated_at, item_count,
     feeds: [ {source, url, ok, item_count, error?}, ... ],
-    items: [ {title, link, published, summary, source}, ... ]
+    items: [ {title, link, published, summary, source, image}, ... ]
   }
 
 Env:
@@ -55,6 +59,9 @@ MAX_AGE_DAYS = int(os.getenv("NEWS_MAX_AGE_DAYS", "0"))
 UA = ("Mozilla/5.0 (compatible; IOM-OpenData-NewsBot/1.0; "
       "+https://github.com/)")
 
+_IMG_IN_HTML = re.compile(r'<img[^>]+src=["\']([^"\']+)["\']', re.I)
+_IMG_EXT = re.compile(r"\.(jpe?g|png|webp|gif)(\?|#|$)", re.I)
+
 
 def clean_text(s, limit=500):
     """Strip HTML tags/entities from a summary and trim length."""
@@ -64,6 +71,65 @@ def clean_text(s, limit=500):
     s = html.unescape(s)
     s = re.sub(r"\s+", " ", s).strip()
     return s[:limit].rstrip() + ("..." if len(s) > limit else "")
+
+
+def _normalise_img_url(url):
+    """Make protocol-relative URLs usable; reject non-http junk."""
+    url = (url or "").strip()
+    if url.startswith("//"):
+        url = "https:" + url
+    if not url.startswith("http"):
+        return ""
+    return url
+
+
+def extract_image(entry):
+    """Best-effort thumbnail URL from a feed entry, or ''.
+
+    Checks, in order:
+      1. media:content  (feedparser: entry.media_content)
+      2. media:thumbnail (feedparser: entry.media_thumbnail)
+      3. enclosure links with an image/* type
+      4. first <img> inside the summary/description/content HTML
+    """
+    # 1. media:content — prefer entries explicitly marked as images
+    for m in (entry.get("media_content") or []):
+        url = _normalise_img_url(m.get("url"))
+        if not url:
+            continue
+        if (m.get("medium") == "image"
+                or (m.get("type") or "").startswith("image")
+                or _IMG_EXT.search(url)):
+            return url
+
+    # 2. media:thumbnail
+    for m in (entry.get("media_thumbnail") or []):
+        url = _normalise_img_url(m.get("url"))
+        if url:
+            return url
+
+    # 3. enclosures (feedparser exposes them under links with rel=enclosure)
+    for l in (entry.get("links") or []):
+        if l.get("rel") == "enclosure" and (l.get("type") or "").startswith("image"):
+            url = _normalise_img_url(l.get("href"))
+            if url:
+                return url
+
+    # 4. first <img> in the HTML of summary/description/content
+    for key in ("summary", "description"):
+        m = _IMG_IN_HTML.search(entry.get(key) or "")
+        if m:
+            url = _normalise_img_url(m.group(1))
+            if url:
+                return url
+    for c in (entry.get("content") or []):
+        m = _IMG_IN_HTML.search(c.get("value") or "")
+        if m:
+            url = _normalise_img_url(m.group(1))
+            if url:
+                return url
+
+    return ""
 
 
 def to_iso(entry):
@@ -101,6 +167,7 @@ def parse_feed(source, url):
                 "published": to_iso(e),
                 "summary": clean_text(e.get("summary") or e.get("description")),
                 "source": source,
+                "image": extract_image(e),
             })
         info["ok"] = True
         info["item_count"] = len(items)
@@ -163,7 +230,9 @@ def aggregate():
     OUT_FILE.write_text(json.dumps(payload, ensure_ascii=False, indent=2))
 
     ok = sum(1 for f in feeds_info if f["ok"])
-    print(f"\n{len(deduped)} items from {ok}/{len(FEEDS)} feeds -> {OUT_FILE}")
+    with_img = sum(1 for it in deduped if it.get("image"))
+    print(f"\n{len(deduped)} items ({with_img} with images) "
+          f"from {ok}/{len(FEEDS)} feeds -> {OUT_FILE}")
     # Fail the CI job only if EVERY feed failed (so one outage doesn't break it).
     if ok == 0:
         print("All feeds failed.", file=sys.stderr)
