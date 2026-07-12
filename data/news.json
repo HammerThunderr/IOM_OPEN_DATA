@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-07-12T08:05:07.509323+00:00",
+  "generated_at": "2026-07-12T19:08:48.790143+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -30,20 +30,68 @@
   ],
   "items": [
     {
+      "title": "Jannik Sinner wins second men's Wimbledon singles title - 3FM Isle of Man",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbkdodGdvR01VRGpUbWM1bnZ6MmJnczlSNHlwYmlWbEtUeTI1VVItYUo5YzBPekd5RjlUS2lCMHJBSGRPdVFrUkRocXBGdXJlZnpzNE02Z2dvOGUxYVVUTVhRT0JqNlk3OWRLUEZYdGhOTGZlR3pDOUNWVFNhRjlXNklJbWstTUduZkhCYnlJNzhITGM?oc=5",
+      "published": "2026-07-12T18:58:00+00:00",
+      "summary": "Jannik Sinner wins second men's Wimbledon singles title 3FM Isle of Man",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Costello gives update on injuries as fundraiser hits nearly £300,000",
+      "link": "https://www.three.fm/news/isle-of-man-news/costello-gives-update-on-injuries-as-fundraiser-hits-nearly-300000/",
+      "published": "2026-07-12T16:17:41+00:00",
+      "summary": "A TT star who was left partially paralyzed after a crash during this year's races says she's started her physical rehab.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6478bf888f7e9.jpg"
+    },
+    {
+      "title": "New candidate announces for Glenfaba and Peel",
+      "link": "https://www.three.fm/news/isle-of-man-news/new-candidate-announces-for-glenfaba-and-peel/",
+      "published": "2026-07-12T10:55:00+00:00",
+      "summary": "Peel and Glenfaba has another general election candidate who'll contest its two seats this year.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a5209374915144cb43.jpg"
+    },
+    {
+      "title": "New candidate announces for Glenfaba and Peel - 3FM Isle of Man",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdDNRb29sbHNDMGhnNXBfVWFTUnVBYWJOQ0pFZUtIN3hmei05a2NWZDZDMVQxcTVqaUF4cHoyYk02SWhOY1lCeEYyazE1ajRDaXJMM3NrQnphd1NJdTVBVGZsYjJlbWRXN2EyUjhWTE1iQzdtYThGSXFjMFdjSXhYQ1JqV2pGcHlhUnQ1M1ZDdUNPRDQ?oc=5",
+      "published": "2026-07-12T10:55:00+00:00",
+      "summary": "New candidate announces for Glenfaba and Peel 3FM Isle of Man",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Manx Care forecasting £8.1m overspend for 2026-27",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/manx-care-forecasting-8-1m-overspend-for-2026-27/",
+      "published": "2026-07-12T10:00:00+00:00",
+      "summary": "Staffing costs, homelessness and underdelivery of savings among factors affecting finances",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/316852-1.jpg"
+    },
+    {
+      "title": "Tynwald to be asked to approve horse tram tracks funding",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/tynwald-to-be-asked-to-approve-horse-tram-tracks-funding/",
+      "published": "2026-07-12T09:00:00+00:00",
+      "summary": "Infrastructure minister will ask for £2.5million for project",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/316846-1.JPEG"
+    },
+    {
+      "title": "Football: Double victory for IoM men in tri-tournament - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU1hPZDdJTm1fNTducW9vV1lhSXZEclJxSXVTSVVWM041LXFrMnZyZ0gxUm1fOGpNYXlPWjR0TmNkWTNIZ3lfWU5qZUZ4QVROYTgzMzE4R2RoUXJucXp4MEJrN3ZqLVljc0xreVViLVo3UVJVZGVYbWNfMF9MMWpRcllxdElqRVNHMTc0aWhRUkRabGxKUmpJRFVRVDdSaUJjd0RiallB?oc=5",
+      "published": "2026-07-12T09:00:00+00:00",
+      "summary": "Football: Double victory for IoM men in tri-tournament Manx Radio",
+      "source": "Google News",
+      "image": ""
+    },
+    {
       "title": "Government HR programme under spotlight in Tynwald question",
       "link": "https://www.three.fm/news/isle-of-man-news/government-hr-programme-under-spotlight-in-tynwald-question/",
       "published": "2026-07-12T07:55:00+00:00",
       "summary": "A government HR programme will be under the spotlight after a question for written reply to the chief minister.",
       "source": "Three FM",
       "image": "https://mm.aiircdn.com/3/5a8539711098f.jpg"
-    },
-    {
-      "title": "Government HR programme under spotlight in Tynwald question - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcnktNWNTdHBjY3NoaTdVbUl4UllkVVc2Y2J5MEM2Ukh1bFozZ1JfejBuTWk4VEJULU5za3IzWEw2RDRWOWo0Rm5iMUMzRkhqUEhITVNsUkxkTS04YnVWT091cEJ5RFpYTDl0TDlrNTZmYlJDdG05WGxVTXJYbDllY3VxMklaWmQ0Si1aZ2F1Y3VDSzc4emFaWHJwTWhhdk00VzFWSlp3?oc=5",
-      "published": "2026-07-12T07:55:00+00:00",
-      "summary": "Government HR programme under spotlight in Tynwald question 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Crown Dependencies to opt for coordinated approach to APP fraud framework",
@@ -60,6 +108,14 @@
       "summary": "His Majesty King Charles III arriving on Tuesday (14 July)",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/316931-1.jpeg"
+    },
+    {
+      "title": "Number of roads to close in preparation for King's visit - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMm40OGtlQ2ZwcWx3T0hnM2xGS29oN1liODVVVGRsWEFCbzM0cnlnbm1PeUUwNl9VbFFhWW1qMDF1M3NmMUxUbFBLZ0U4MTBOeDJYTkNDNnEtSkozS01Kd2lkQ2tSZGJBWEF4RVItRnlxUFdKZTJUc2tBZVRWTFNjLWpobUpHQVVlNmxfVm1PUkwycXQwUmxqQkl3OW41RXBpaFhwbmNEVQ?oc=5",
+      "published": "2026-07-12T06:45:00+00:00",
+      "summary": "Number of roads to close in preparation for King's visit Manx Radio",
+      "source": "Google News",
+      "image": ""
     },
     {
       "title": "Pictures show King Charles' last royal visit to the Isle of Man - Isle of Man Today",
@@ -268,6 +324,14 @@
       "summary": "The Chief Minister Alf Cannan is in the Channel Islands today at the British-Irish Council Summit.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6a510a7a5af65978724.jpg"
+    },
+    {
+      "title": "Northern dialysis unit delay 'taking its toll', patients say - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtOTZQZy12ZUgyNmJRN2I0dXNadXZYaDRYY08xejM3QUsyMXZ3RWFGcUJabEx5Q002bGJCSnNIV2hlZ1ZvZEhXeE1hMlcya29BS2FjUGJ0Vml2QQ?oc=5",
+      "published": "2026-07-10T14:41:41+00:00",
+      "summary": "Northern dialysis unit delay 'taking its toll', patients say BBC",
+      "source": "Google News",
+      "image": ""
     },
     {
       "title": "MNFU president worried about costs facing next generation",
@@ -518,12 +582,28 @@
       "image": ""
     },
     {
+      "title": "'A choice to die will become a duty to die': Churches challenge assisted dying plan for the Isle of Man - www.christiandaily.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc21SWm1ZVW1aaEtndXhKYUcxYnh1ZzE3a0lIaW1BV0ZiNkoyTkFmblBZM0pETXJXTlZFcTNuTFF0MVRtVVBYRmxmME5rVmdnY3hTcTJLYWtoYUk2YjdSV282b3Rudk94QTJQamNfSGRmMjQ0SWNjVkl1Szg5dDFLSk4tOGM1S3pCdWVYdnlnNUE1eFV2NWo2cWVqbGE0QURpaHVqMEJocXhObHRwa1A2aElHZDVOcXFQZWt0LTRoV3NkeUJmNV9iR05xVmt2X0NCM2c?oc=5",
+      "published": "2026-07-09T18:56:07+00:00",
+      "summary": "'A choice to die will become a duty to die': Churches challenge assisted dying plan for the Isle of Man www.christiandaily.com",
+      "source": "Google News",
+      "image": ""
+    },
+    {
       "title": "Minister to defend Ayre and Michael seat",
       "link": "https://www.three.fm/news/isle-of-man-news/minister-to-defend-ayre-and-michael-seat/",
       "published": "2026-07-09T15:51:22+00:00",
       "summary": "Enterprise minister Tim Johnston has announced he'll defend his seat in this year's election.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6839983235d69.jpg"
+    },
+    {
+      "title": "McCanney brothers to spearhead Isle of Man VMXDN team - Dirt Hub",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcE1kWXhzdXVlQWpMa1U3WmczYnRPU2l3em1IUFc1RUloZlliZnJBSjd0SlVEeFdwUlVxTVlRYUFjLXQ0T2Q2OWJRQlNFY3RlOFRhUFpTVk82TWtQSF9UQk8zVTk3V0ctbncyOHhTMGl2bk9sUXloRGtpYUhfdk9EeFNYX2ZHd00?oc=5",
+      "published": "2026-07-09T15:23:37+00:00",
+      "summary": "McCanney brothers to spearhead Isle of Man VMXDN team Dirt Hub",
+      "source": "Google News",
+      "image": ""
     },
     {
       "title": "Applications open for Manx Telecom's Marg McGee Fund",
@@ -604,6 +684,14 @@
       "summary": "Policy 'reflects the key principles associated with Benedict’s Law'",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/316528-1.jpeg"
+    },
+    {
+      "title": "Dean Harrison completes Senior race double and breaks lap record at Southern 100 - Visordown",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSDVFOTNzN2laS1U2cVZtc3dJaGJ6VGNEdnFIS3BQUk83aTZLX09kMnc3M0trZ1ZocUhLTUlBa1I3VUJuM2V3Q3VQMlNjNTVaN180U2VqdTFUQVc0VVJtUm1qUjAtMm5Bam1LMFVGbFNyay1BX1ZySzF4T3lnZnJKVE5GUERzQ1FJWFlTWGpGOUQ4Q3RKeEU3LXNIajV1Y2N0ZlJ4ZDJ6S2JORkpl?oc=5",
+      "published": "2026-07-09T11:14:43+00:00",
+      "summary": "Dean Harrison completes Senior race double and breaks lap record at Southern 100 Visordown",
+      "source": "Google News",
+      "image": ""
     },
     {
       "title": "Airport passengers figures down last month",
@@ -1014,10 +1102,10 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/315961-1.jpeg"
     },
     {
-      "title": "Charles to make first Isle of Man visit as King - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vQmZkcjRkRFlDWlpZZXB1U3RZY1BsY0dxSk1kazJ4c0hWWVRKYThQRGNnMndWcXU3bHJrQlNRWUJtOHdBWmVEZUlwZzZRbWNtd05wQ2YxdFl3Zw?oc=5",
-      "published": "2026-07-07T19:07:50+00:00",
-      "summary": "Charles to make first Isle of Man visit as King BBC",
+      "title": "Charles to make first Isle of Man visit as King - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORF9XS3ZqazZBVXJIbUtoT1RPQkJodE1fdVNVdmF3ZllKTnh1cmtMQlJZb0pPRU9udkMyWWx5Z3dBWkppeE4yY0p6aG1ybUJzZmowMDBRc082eUxTRHI3TE1RaVY4TmdaLTNZaDRtcjBIbEZGMS1qRzZVeEFQUmxraHJRNWxjTElmbUZGQl93?oc=5",
+      "published": "2026-07-07T19:10:32+00:00",
+      "summary": "Charles to make first Isle of Man visit as King Yahoo",
       "source": "Google News",
       "image": ""
     },
@@ -1034,14 +1122,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZUZFeWdEQ2FTcU1hNF9RSzdZT0VjcFM5NVhHUWVmVnBrdU03VnFpM0tYMU9sTE1GWU9FcDBCR2FUOWNwN3lvVFZTUHBTdnNTc2lCQVZucHlVZGpyMEVtbjNRQmdKcFhWd2lZajNVemFXMW5GZ1haSUNqcGtobW9ndWJUSlE?oc=5",
       "published": "2026-07-07T16:50:00+00:00",
       "summary": "King to visit the Isle of Man Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "King Charles' royal visit to the Isle of Man confirmed by Buckingham Palace - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM2ZUMVctZE54bVcwSDlwNEFZMTVrV1VrMVlJdnFtZHBiOHR6cTRVcG85LU52bzNVVjZ4Z20wdG9xbGMtcWw3MmpUbnJadXZzTjFWVC1UNmlSM0d0djNOVEM5S3VrTktvZDlMbzdaZE9PMUpkdHhIV1ZMZEhJSllSSU54em1VQnVVZnBGcUpkbWdZM0xvSU80ZDI2dlQ2Zy1FVEg3R2FzMUwxaWpWMEk3ckZ5VQ?oc=5",
-      "published": "2026-07-07T16:44:04+00:00",
-      "summary": "King Charles' royal visit to the Isle of Man confirmed by Buckingham Palace Isle of Man Today",
       "source": "Google News",
       "image": ""
     },
@@ -1148,86 +1228,6 @@
       "summary": "Gathering to 'pray for the nation' at 7pm",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/315552-1.jpeg"
-    },
-    {
-      "title": "Just under 40 properties on dilapidation blacklist",
-      "link": "https://www.three.fm/news/isle-of-man-news/just-under-40-properties-on-dilapidation-blacklist/",
-      "published": "2026-07-07T11:59:18+00:00",
-      "summary": "Douglas council says it has just under 40 properties on a dilapidation blacklist.",
-      "source": "Three FM",
-      "image": "https://mm.aiircdn.com/3/5e01b4c941cc7.jpg"
-    },
-    {
-      "title": "Bush's sticky white coating flusters Ramsey man",
-      "link": "https://www.three.fm/news/isle-of-man-news/bushs-sticky-white-coating-flusters-ramsey-man/",
-      "published": "2026-07-07T11:25:00+00:00",
-      "summary": "A Ramsey resident has been left scratching their heads over a bush's mystery liquid coating.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6a4cdcfcbcddb772b23.jpg"
-    },
-    {
-      "title": "Around 50 percent of major projects money already spent",
-      "link": "https://www.three.fm/news/isle-of-man-news/around-50-percent-of-major-projects-money-already-spent/",
-      "published": "2026-07-07T10:35:59+00:00",
-      "summary": "The government says it's spent around half the money it set aside for major projects this year.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/661e1c7c9f5b2.jpg"
-    },
-    {
-      "title": "Council approves £71,000 Sunken Garden playground and railing work",
-      "link": "https://www.three.fm/news/isle-of-man-news/council-approves-71000-sunken-garden-playground-and-railing-work/",
-      "published": "2026-07-07T09:49:00+00:00",
-      "summary": "Douglas Council says it's to spend more than £71,000 on a temporary playground and railings in the sunken gardens on Loch Promenade.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6a4ccb5ed25e0afaa66.jpg"
-    },
-    {
-      "title": "Southern 100 rider's stolen equipment returned",
-      "link": "https://www.three.fm/news/isle-of-man-news/southern-100-riders-stolen-equipment-returned/",
-      "published": "2026-07-07T09:40:00+00:00",
-      "summary": "An Island racer says he's glad to have an awning back, after it was stolen from the Southern 100 paddock at the weekend.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6a48ef83ba11c18202b.jpg"
-    },
-    {
-      "title": "Sanctions Lists Update: Chemical Weapons",
-      "link": "https://www.gov.im/news/2026/jul/06/sanctions-lists-update-chemical-weapons/",
-      "published": "2026-07-07T09:32:10+00:00",
-      "summary": "This news release is issued to publicise the addition of 6 entries on the U sanctions list. On 6 July 2026 the Foreign, Commonwealth and Development Office updated the UK Sanctions List . Further information can be found in the Annex to this Notice . What you must do in relation to additions If, through your sanctions compliance programme, you identify a possible match to a person or entity included in the Sanctions Lists, and you hold or otherwise deal with funds or economic resources of that p...",
-      "source": "Isle of Man Government",
-      "image": ""
-    },
-    {
-      "title": "The proud independence of the Isle Of Man - Liberal Democrat Voice",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUlVOQXNvcHZmc1V6LS1lM1NNQi1Qei1JaDBQWFk1dmprMlExeFNWelhQVDlGUmpNZ3BHQjhKXzZxNEJZMkdiMzVRVk1fUkEyS1VJN1ladDZlNXV2NEdZdDNOcjkwclF5Ym9zNjhXc183RWZGc2dTSGtidzk5bVNrcHRpQjB6QlE?oc=5",
-      "published": "2026-07-07T09:29:44+00:00",
-      "summary": "The proud independence of the Isle Of Man Liberal Democrat Voice",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Less than a month left to get covid jabs",
-      "link": "https://www.three.fm/news/isle-of-man-news/less-than-a-month-left-to-get-covid-jabs/",
-      "published": "2026-07-07T08:40:13+00:00",
-      "summary": "There's less than a month left to get your covid vaccination under Manx Care's spring programme.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/5ff2c0e4383c4.jpg"
-    },
-    {
-      "title": "Gaiety Theatre releases more tickets for Katie Hopkins show",
-      "link": "https://www.three.fm/news/isle-of-man-news/gaiety-theatre-releases-more-tickets-for-katie-hopkins-show/",
-      "published": "2026-07-07T08:17:05+00:00",
-      "summary": "The Gaiety Theatre has opened its gallery area for the upcoming Katie Hopkins show.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6a4cb5f6bbd134c745d.jpeg"
-    },
-    {
-      "title": "Rushen candidate withdraws from election campaign",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/rushen-candidate-withdraws-from-election-campaign/",
-      "published": "2026-07-07T08:15:00+00:00",
-      "summary": "Vicky East says it's due to her ongoing health issues",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/315830-1.jpg"
     }
   ]
 }
