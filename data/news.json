@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-07-14T19:23:12.056007+00:00",
+  "generated_at": "2026-07-15T07:54:35.614978+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -30,10 +30,154 @@
   ],
   "items": [
     {
-      "title": "Isle of Man TT star shares recovery update after life-changing sidecar crash - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQckRRV045NUd0MlNlS2o0SzJxUmNyZG9TSy14MGswUXQxX1VkYWo2UFBYN2JUZ1JDTHBLVzJ3T2RSTG5IUUVYdy1rNThLZ01hTFMzd0lIc2M4Y3Z3VldEYTY0MlZ2LXRfSUN4ODJCR1l2c2VvN0syRjZKTFJoUE11b0FVendsS2F0RFpDR1JkM3Z1SEkzREowME1CS0dab3BjR2lxbXp3UVRQRE0?oc=5",
-      "published": "2026-07-14T18:52:09+00:00",
-      "summary": "Isle of Man TT star shares recovery update after life-changing sidecar crash Isle of Man Today",
+      "title": "Heartwarming moment as king chats with WW2 veteran",
+      "link": "https://www.three.fm/news/isle-of-man-news/heartwarming-moment-as-king-chats-with-ww2-veteran/",
+      "published": "2026-07-15T06:53:59+00:00",
+      "summary": "Among the most heartwarming moments of the king's visit came as he met with a Manx WWII veteran.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a572e7f40e74457e72.jpg"
+    },
+    {
+      "title": "King Charles in the Isle of Man - The Royalist | Tom Sykes | Substack",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02b3VzYUlBRDd0aGwwYm5IU1ZJVV8zZ3dlT0R3MzdiN0hzclVRWDAtbTB3OThqYlBFa2l5QlpnS1BWZVpLNzBRYXhrSmRnV2tVYVVpSzNGdWgzMDZoMkQyT0xHcjk0OW1feVV1MHZ4Q1pCSzFP?oc=5",
+      "published": "2026-07-15T06:31:41+00:00",
+      "summary": "King Charles in the Isle of Man The Royalist | Tom Sykes | Substack",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "King speaks Manx and French as he visits Isle of Man - London Evening Standard",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mc0EzSjJzS19lUjRfd1V5NndGaHk1TjNfZU9HRXB3TC1OcFl3RTE3c1cwd1pzQWZiYmpYd1NrSDBERkh6VzliZEJMcEVCZjkzZjhKOFpHb3NsNzdxTXNZck1XWUpmQ2VzdnJoUXBoNjVtVGFoc2RJdQ?oc=5",
+      "published": "2026-07-15T05:44:10+00:00",
+      "summary": "King speaks Manx and French as he visits Isle of Man London Evening Standard",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Large apartment building planned for city centre",
+      "link": "https://www.three.fm/news/isle-of-man-news/large-apartment-building-planned-for-city-centre/",
+      "published": "2026-07-15T05:37:14+00:00",
+      "summary": "A property developer's applied for planning approval in principle to turn a row of Douglas office buildings into apartments.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a571c7c0b827374ae7.jpg"
+    },
+    {
+      "title": "Farmers' union makes wildfire plea",
+      "link": "https://www.three.fm/news/isle-of-man-news/farmers-union-makes-wildfire-plea/",
+      "published": "2026-07-15T05:34:32+00:00",
+      "summary": "The Manx National Farmers Union has issued a plea about starting fires in the countryside.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/687124d4161ea.jpg"
+    },
+    {
+      "title": "Wind farm debate to continue before committee",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/wind-farm-debate-to-continue-before-committee/",
+      "published": "2026-07-15T05:33:02+00:00",
+      "summary": "Meeting held on Monday garnered mixed opinions",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/317938-1.jpeg"
+    },
+    {
+      "title": "Manx Care releases five-year review",
+      "link": "https://www.three.fm/news/isle-of-man-news/manx-care-releases-five-year-review/",
+      "published": "2026-07-15T05:32:08+00:00",
+      "summary": "Manx Care's published a five-year review of how it's performed since it was set up.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6064171f3d4cf.png"
+    },
+    {
+      "title": "Call for compensation scheme for workers who become ill after contact with asbestos",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/call-for-compensation-scheme-for-workers-who-become-ill-after-contact-with-asbestos/",
+      "published": "2026-07-15T05:29:26+00:00",
+      "summary": "The legislation would mirror a scheme operating in the UK",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/316532-1.png"
+    },
+    {
+      "title": "Manx WWII veteran hopeful King will 'treasure' Island visit for the rest of his life",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/manx-wwii-veteran-hopeful-king-will-treasure-island-visit-for-the-rest-of-his-life/",
+      "published": "2026-07-15T05:26:23+00:00",
+      "summary": "James Fenton met Charles III on his first visit as Lord of Mann",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/317964-1.png"
+    },
+    {
+      "title": "Port Erin Commissioners says standards of initial hiring process for new clerk 'fell short'",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/port-erin-commissioners-says-standards-of-initial-hiring-process-for-new-clerk-fell-short/",
+      "published": "2026-07-15T05:24:06+00:00",
+      "summary": "Chair Hannah Mackenzie says repeating procedure in best interests of residents",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/318070-1.jpg"
+    },
+    {
+      "title": "St Marks Fair to celebrate Manx produce and village life",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/st-marks-fair-to-celebrate-manx-produce-and-village-life/",
+      "published": "2026-07-15T05:21:29+00:00",
+      "summary": "Annual event takes place this weekend",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/317912-1.jpg"
+    },
+    {
+      "title": "Cruise ship arriving today",
+      "link": "https://www.three.fm/news/isle-of-man-news/cruise-ship-arriving-today/",
+      "published": "2026-07-15T05:15:50+00:00",
+      "summary": "A cruise ship is visiting the Island's capital today.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a571779db336a48bc1.jpg"
+    },
+    {
+      "title": "Cruise ship arriving today - 3FM Isle of Man",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0VmVNclZ1djNuekg3UmUxa1AwYXpneDJ5T2lqa1ZQVkhtYXl1UGNlUTZkTTVfT0ZGQ0VVWld5d0hIVTl0UzNoYmFxVDFZSFF6bkhNSXJfTmtvSDk1QS0weTNZUDNqZkkyeE5JOVV3YmtUVXVFNHlxX2hR?oc=5",
+      "published": "2026-07-15T05:15:00+00:00",
+      "summary": "Cruise ship arriving today 3FM Isle of Man",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Keys pass nicotine amendments",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/keys-pass-nicotine-amendments/",
+      "published": "2026-07-15T05:14:45+00:00",
+      "summary": "Bill to go to Tynwald for signing",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/317978-1.jpg"
+    },
+    {
+      "title": "TT Isle Of Man Race Sticker Decals - Retro Style, Glossy Finish, For Motorcycles & Helmets - santoandre.biz",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS0prelJURTMtU1FBNkpSaThYVWdCYWMwXzRBa25IaFNxdkFlQWh0QTU1STZZQlllcW5LeUtucjVfR0FlOWwzVzU5Vno1TWJPclYzel9ER0Zlc2xQSmdiYVJVZGM0OGtONXFRT242RXVGZldjQ2dvTWpELUxhcU90eWlMRTQzeXBIc3JN?oc=5",
+      "published": "2026-07-15T01:58:30+00:00",
+      "summary": "TT Isle Of Man Race Sticker Decals - Retro Style, Glossy Finish, For Motorcycles & Helmets santoandre.biz",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Pictures as crowds welcome King Charles on first Isle of Man visit as monarch - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSEc2dUR3QjUxYklMdHFKdDNfUDFlVjNHOVZHc0JoejhHWFhKaHRyLURFd3YySEQ1TXZtdWtHemFGTGNmZzV4ZzkzR1JKR2NJRFc0Ty1Sb3VaeGl5dXpoSjJYbV94LVM2OTVOOG9QUi1WQ3ptMTV5MU5tclgxYkUyUFdyRUo0bmliSG9wQVJzYlFrbTJzbmtrOVhEZF9kYW5sQmRDOUtUVHZkX2cta2hva2JXWTlfMTg?oc=5",
+      "published": "2026-07-14T20:42:03+00:00",
+      "summary": "Pictures as crowds welcome King Charles on first Isle of Man visit as monarch Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "King visits Isle of Man for first time since ascending to throne - ITVX",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTkZ2SldOallVU2hGdENUMjlxWXIwSzdUSkpoMHFpdjZvM0NyMUgwWHc4NzFUX3RPRmxtdmhpdkxZYUQ2Um5ZdnVOdm9wRmE1YUhPYUE3V1BLMnhhLW9KVC1JcFBtR180eVRPa2RKSDlERzBGdnJTYlpZcW1QR0t1OXU1N3NUcWIyMmFVcXdTVm1fb0ZSZ3MxZXowSWVsMXBCMXBmYWp3?oc=5",
+      "published": "2026-07-14T20:33:04+00:00",
+      "summary": "King visits Isle of Man for first time since ascending to throne ITVX",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "King Charles takes ride on 150-year-old horse Tramway in Isle of Man - The News International",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjREbzhTaXFlU19fZmtGbTZnNW15dENoUmoxZTVHV0N1SVVkbzdrclA2cWxFUGdMc2tRU0ptNFVHTXFiYUdESjNYOG9wNGYzcHNHeTF1RlA0UVVXZ2dqYm02OFJST2wweHI2WjJ6OE5mc0Q0T3lkWUFyY1JPQWkwUGlXQ2V4X0hjam13aDBkQzVYNlRrS1RsQUJnY2FBeDV3TjhCTEdZY3pPX3JnNnIw?oc=5",
+      "published": "2026-07-14T19:58:00+00:00",
+      "summary": "King Charles takes ride on 150-year-old horse Tramway in Isle of Man The News International",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "King Charles visits the Isle of Man - Nine.com.au",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYjVDZ3RkemtNZzlWYVI4dzBENFRwNGEwWmk1ZXMxV1NqVHJfdzkzME83S2tQdEZpSkEwZFp0XzlmVEpnZk1XY3BOSGMtS3RlZ1ZWOTZLN1dXRWQtbVpobUNFMkpoRUdRSFhVNjlFQUpZRkVuZzJjaDRoNXNIT09DMjk1NUpzRk5WSlRBYlhPMkNOV0QtbnZ1UWJqTHpReTBVa0lPblRkUWdLSWVtUFE?oc=5",
+      "published": "2026-07-14T19:41:59+00:00",
+      "summary": "King Charles visits the Isle of Man Nine.com.au",
       "source": "Google News",
       "image": ""
     },
@@ -46,6 +190,14 @@
       "image": ""
     },
     {
+      "title": "King speaks Manx and French as he visits Isle of Man - Clydebank Post",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWFdPd0N3SUt5cERjWC1jbVZvTlA0dWRuUkdYQnhuUXN5Wktpc21Wc2pYVEZ1aC0yOTFsYmlBb1l3NVQ1MnR2ejdNVjI5eEl2MGdiV2RISWlIdTN3aHhGWXhVUy1ocXF0QWROUk85X3h6Z2pRb0IzVTdTdlBoR1l2LXU4ZG5FUC13di1JYnZuYWVURDU4cmhzbDU2NA?oc=5",
+      "published": "2026-07-14T17:46:19+00:00",
+      "summary": "King speaks Manx and French as he visits Isle of Man Clydebank Post",
+      "source": "Google News",
+      "image": ""
+    },
+    {
       "title": "King jokes about ‘massacring Manx language’ on Isle of Man trip - The Telegraph",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQkpDa2RrOEZGVDhkWHd1bF9vTUl0OVltX2ZwZ0VmeTBmd1pTRVJKbUFNalhULU1PanNkRWxQSUFGV08zZWYxaVBpaHVqVHNTUnQ5b1ZHblhJZlYzTzhDZmZNdVhOcnZzTVZQbGRXc1pGbEVHUEw0aXU0UWo1b1N6R0xqUjI2Rm8xWDhpVV90aTFiclY3X0tHZVlzUjRVb1VEZ2c?oc=5",
       "published": "2026-07-14T17:36:00+00:00",
@@ -54,32 +206,16 @@
       "image": ""
     },
     {
-      "title": "Pictures as crowds welcome King Charles on first Isle of Man visit as monarch - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSEc2dUR3QjUxYklMdHFKdDNfUDFlVjNHOVZHc0JoejhHWFhKaHRyLURFd3YySEQ1TXZtdWtHemFGTGNmZzV4ZzkzR1JKR2NJRFc0Ty1Sb3VaeGl5dXpoSjJYbV94LVM2OTVOOG9QUi1WQ3ptMTV5MU5tclgxYkUyUFdyRUo0bmliSG9wQVJzYlFrbTJzbmtrOVhEZF9kYW5sQmRDOUtUVHZkX2cta2hva2JXWTlfMTg?oc=5",
-      "published": "2026-07-14T17:22:09+00:00",
-      "summary": "Pictures as crowds welcome King Charles on first Isle of Man visit as monarch Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "12 brilliant pictures as King Charles III visits Heroes on the Water - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTjM5Rmpnb21DSmFRU2xzb1phMGRZNXBRSkdlVDJZUHBWQTdHTHp0TUZVNDBCa3NQSHRjQUp1OW9IemlHV0FuOGkwSXVIdUliNjRXWDhKeUN6cjFLSDhlaHJQNUhIWTBrSlZtMWlDNnc3Q3pVV2NTQmlVeURDeVhaNVphSXp2RGpubWxMT0ZlcHJlcmJQRDNsNWJ2QmhUbHZiWnlsT0NOSDRwZ2c?oc=5",
+      "title": "Pictures as King Charles meets the Manx Community at Government House - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLUVVSlFveU9xdnFkSkROTWhLcmlCc2c2eGFzT3dnblBIazRMeVZSY3FVdEIyVVMzYV9XYWNRQ1QydnhNaXpLeWctTDg5cWZ3Q2JZR2g1bGJka0JJRzRtSGZhVjYyQndWTVo5d3E5RC01dUdTU3pHSGlXZGRTTE1vSHpldk9NQUI4Mm80cm1JQkpqRnBqTFlaNVRDNmVrMzlBckdJOEZ2Um1TSkJs?oc=5",
       "published": "2026-07-14T17:20:09+00:00",
-      "summary": "12 brilliant pictures as King Charles III visits Heroes on the Water Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "King speaks Manx and French as he visits Isle of Man - London Evening Standard",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OMVpLZS1MTGxLYXpaOXdXODlBUkZmaDdXX1hkS2xDWmM3OUlRSHRueFN4MGFOSXNzMVVoUmlVVHk2TTVQbWt2eU5xOTFOY01FSk50VE1zZnNpSEtJaTRJd29RT1U0bnpoWFRncUEySmk0YktYdXc4?oc=5",
-      "published": "2026-07-14T17:12:07+00:00",
-      "summary": "King speaks Manx and French as he visits Isle of Man London Evening Standard",
+      "summary": "Pictures as King Charles meets the Manx Community at Government House Isle of Man Today",
       "source": "Google News",
       "image": ""
     },
     {
       "title": "King delights crowds on first Isle of Man visit as monarch - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SR3JDMXEzWmFpQ2tUMmpjQ3lwejNPd3ZRMkE4YjJrelM4V0FBX1BiYlZoMnFVaTFXTUYycjVkcDdZMjFvSzZBcUdJWGpQS01pdnlIc1ZFdUZYbmRK?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jTmtna2RrYUFhaUR4ZjlRRFJYNzFxT1ZZRkt4WndSZURMQmlNVmFtbWtxVWlTaUtjWlJRSnE5SmxLTUtsRnYyZWF3cGNZTkVUbDNxSk1KaDc3Zw?oc=5",
       "published": "2026-07-14T16:29:04+00:00",
       "summary": "King delights crowds on first Isle of Man visit as monarch BBC",
       "source": "Google News",
@@ -102,10 +238,10 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/317923-1.jpeg"
     },
     {
-      "title": "King Charles surprises locals by speaking Manx during historic Isle of Man visit - The Independent",
+      "title": "King Charles surprises locals by speaking Manx during historic visit - The Independent",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPakNGX052dDE3ZlhxWGlXaDUtcThLZXVyUTFUMTlubHM5WFQzS3djZWxvM2E1RzJ5Qmw4X2wwZmpFb2xGaFFoR0g1U1pJb1d6NTJLMGtEMEVQWXR6UFhIU2xNUzBIeElOVkhuZEM4b2dfQ1BJcXVLNmdGR0x4SjRIaDBxVG1leFpyYWZ0UW1lQ2NnMzVhUVE?oc=5",
       "published": "2026-07-14T15:24:00+00:00",
-      "summary": "King Charles surprises locals by speaking Manx during historic Isle of Man visit The Independent",
+      "summary": "King Charles surprises locals by speaking Manx during historic visit The Independent",
       "source": "Google News",
       "image": ""
     },
@@ -116,22 +252,6 @@
       "summary": "Onchan commissioners say they'll press ahead with putting Manx names on road signs - despite a lack of advice from government.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/67c554fe9441a.jpg"
-    },
-    {
-      "title": "King speaks Manx and French as he visits Isle of Man - Cumnock Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ2JmYjA2aGtIajlPcmhXekhYUGRZZnNlcll5Rlg1czF4T0hfQlBlQmJhX3pGWmpPOFZVbWNRSVJYSi1sa2VyejNNUGJhN1duaWV2Z1I1LUxqdHJWYUxTX2d6a0hvZ3ZmZUJvSU83SmlRNlpZaHNaQVZhb0ZFX0lSYjlEbTcwb1ZPYlNzSGFTVmpsaVhxbWNuMXhUSy0?oc=5",
-      "published": "2026-07-14T15:09:39+00:00",
-      "summary": "King speaks Manx and French as he visits Isle of Man Cumnock Chronicle",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "King speaks Manx and French as he visits Isle of Man - Herts Advertiser",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOUNibEU5YnlXa3Z0MWxqd1FNWHRseEVJS0hZQlM3VnBPZjVzenhaNnpXSWIxMkNTd3lrc1M0NjNyRS1Mc181R3NrWjV3UlhQYkhXZUExX3k2aXYzejdNTzlSRTd0blBIVG9KcnZKV20yanlCMVBVSzFHUlVpempEWjFMRlMxajAweTFOd2wySkhWVjZUbkJsTFhwcHQ?oc=5",
-      "published": "2026-07-14T15:08:44+00:00",
-      "summary": "King speaks Manx and French as he visits Isle of Man Herts Advertiser",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "King Charles Makes His First Trip to the Isle of Man as the “Lord of Mann” - Town & Country Magazine",
@@ -174,10 +294,10 @@
       "image": "https://mmo.aiircdn.com/5/6a5641ebcb2e5bfe46e.jpg"
     },
     {
-      "title": "Isle of Man TT sidecar star swaps to two wheels for next month's Classic event - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb09xckgydkhZX0ZmMW9NaDF6SWlzOVZRMEgyWmhnazh3U2haaEtGYXl0Mlhzbl9TSVdyZnU4LWhMSm5raHlERWhQemNfV01YR1VHQVdxbm02RGNzNWU0V01tRmpCU0JkMDFGbjZkTncyYXpZNUlTY01HUC1lWkFoWWszM1QzQ1JGWnBPZnZQS0xfZDA2eVE5QlVyMVd3RmdmT3p0eGRFYnZfV3dWMUFRanNISWJwcDFmWGloTk1EWXVaY1hjYkJOMg?oc=5",
-      "published": "2026-07-14T13:40:08+00:00",
-      "summary": "Isle of Man TT sidecar star swaps to two wheels for next month's Classic event Isle of Man Today",
+      "title": "King arrives in Isle of Man to loud cheers - Yahoo News UK",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sSVNDY0tXOHdOOUNMbnlmdi1kenF1cUtWT0xOOG5XTmFWSk5iYlUyRTEyRHFnRkdhU3N5RHhJdHJMZFpqME9jVG82OE43amM3dkZmel9hb1FNbHhwTUU5R0p0TXRLNUdYR1F4U1lRbl9tN2dOQmc?oc=5",
+      "published": "2026-07-14T13:52:01+00:00",
+      "summary": "King arrives in Isle of Man to loud cheers Yahoo News UK",
       "source": "Google News",
       "image": ""
     },
@@ -196,6 +316,14 @@
       "summary": "The family of a Manx rider involved in a serious crash at the Southern 100 say he's been released from hospital.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6a562ea0df85e07b35c.jpeg"
+    },
+    {
+      "title": "King Charles arrives on the Isle of Man as he carries out his inaugural visit using Lord of Mann title - GB News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IV0ZlYnZZZ2tnOXhxUF9zdVNNUG1lYXZkVGhtalEyMmFLbjQ0cjFkZ1hDVjkwWnZ5ZnpBZFpwWkhvYlBSV2N0aTh3R21iOVA2NU93TnRucU5JTnNvR09HU2FPNksyd3hiTDk1WE42VE1PT05oa2RnbnhMUHc?oc=5",
+      "published": "2026-07-14T12:41:51+00:00",
+      "summary": "King Charles arrives on the Isle of Man as he carries out his inaugural visit using Lord of Mann title GB News",
+      "source": "Google News",
+      "image": ""
     },
     {
       "title": "King speaks of Island's 'enduring partnership' with the crown",
@@ -284,14 +412,6 @@
       "summary": "The House of Keys will sit this afternoon, following a royal visit to Tynwald.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6a55fef9b55b97c3afe.jpeg"
-    },
-    {
-      "title": "Where is King Charles III going and what time? - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN2RZT3FianN3QnZDVTNhZFUtMjg0R0dEN0JnVmx5WXJSR1ZSRy1SelZnRVRwVFV5WWFJc1FTMzJpM1NncTBwUTlpRy1JMFc2cGhwdUV6U2o3Um9UdUl3X2piWnd1dm1UaThQTkZDMm9jWjk2Zll3eXJrVU5kcTY0V0ZMdkV4MldtOTFYeUppTnQtSl9B?oc=5",
-      "published": "2026-07-14T07:59:52+00:00",
-      "summary": "Where is King Charles III going and what time? Isle of Man Today",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Bus services to divert for king's visit",
@@ -540,14 +660,6 @@
       "summary": "Manx resident sets up what's on social media page",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/314835-1.jpg"
-    },
-    {
-      "title": "King Charles surprises locals by speaking Manx during historic Isle of Man visit - AOL.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWTJqM25uZ2FGb3Zsd3c1Q2NiVHU5TTdReXd6TWlWS01oanhpaDJtS1ViLVB2Mzl4WGFJVjVxZi1FTWpqajlEbjRPNlRna19qNzVIMEc4SVdlTVIzSldQTnBIc0xaSUxvVjQwdWVsRGlET0NjdmVKMkN6blRwYVpMLXdXR0NIT00?oc=5",
-      "published": "2026-07-13T11:59:37+00:00",
-      "summary": "King Charles surprises locals by speaking Manx during historic Isle of Man visit AOL.co.uk",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Road closures ahead of King's Isle of Man visit - BBC",
@@ -1116,118 +1228,6 @@
       "summary": "Infrastructure Minister Tim Crookall says publishing a list of upcoming roadworks would be pointless - because the department's plans are too changeable.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/65def748722b4.jpg"
-    },
-    {
-      "title": "Successful surgery for Manx S100 rider after crash",
-      "link": "https://www.three.fm/news/isle-of-man-news/successful-surgery-for-manx-s100-rider-after-crash/",
-      "published": "2026-07-10T05:47:17+00:00",
-      "summary": "The family of a Manx rider who crashed during the Southern 100 earlier this week says his surgery has gone well.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6a4e2cc6e1801b82be2.jpeg"
-    },
-    {
-      "title": "Yn Chruinnaght set to return with line-up to suit everyone",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/yn-chruinnaght-set-to-return-with-line-up-to-suit-everyone/",
-      "published": "2026-07-10T05:44:50+00:00",
-      "summary": "Week-long celebration of traditional music, dance, language and folklore",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/316495-1.jpg"
-    },
-    {
-      "title": "Concern over sharp decline in Atlantic Salmon numbers",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/concern-over-sharp-decline-in-atlantic-salmon-numbers/",
-      "published": "2026-07-10T05:41:37+00:00",
-      "summary": "DEFA's latest data suggests stocks are likely to fall further",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/316591-1.jpg"
-    },
-    {
-      "title": "Broadcast mast work to cause disruption",
-      "link": "https://www.three.fm/news/isle-of-man-news/broadcast-mast-work-to-cause-disruption/",
-      "published": "2026-07-10T05:39:46+00:00",
-      "summary": "A series of work on broadcast masts will mean some disruption to radio and TV signals next week.",
-      "source": "Three FM",
-      "image": "https://mm.aiircdn.com/3/5a93b9d9eaadb.jpg"
-    },
-    {
-      "title": "Public Health to expand 'stop nicotine' services and accept referrals from children",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/public-health-to-expand-stop-nicotine-services-and-accept-referrals-from-children/",
-      "published": "2026-07-10T05:36:57+00:00",
-      "summary": "Cabinet Office Minister provides update as Nicotine Products Bill 2026 passes through LegCo",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/316584-1.jpg"
-    },
-    {
-      "title": "Renal patients 'near breaking point' over lack of dialysis facilities in the north",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/renal-patients-near-breaking-point-over-lack-of-dialysis-facilities-in-the-north/",
-      "published": "2026-07-10T05:32:57+00:00",
-      "summary": "Patients tell Manx Radio the situation has become 'intolerable'",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/316642-1.jpeg"
-    },
-    {
-      "title": "Kewaigue Hill closure comes into force this morning",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/kewaigue-hill-closure-comes-into-force-this-morning/",
-      "published": "2026-07-10T05:31:26+00:00",
-      "summary": "Remedial work needed to address defect with newly installed pipeline",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/316773-1.jpg"
-    },
-    {
-      "title": "Minister to defend Ayre and Michael seat",
-      "link": "https://www.three.fm/news/isle-of-man-news/minister-to-defend-ayre-and-michael-seat/",
-      "published": "2026-07-09T15:51:22+00:00",
-      "summary": "Enterprise minister Tim Johnston has announced he'll defend his seat in this year's election.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6839983235d69.jpg"
-    },
-    {
-      "title": "Applications open for Manx Telecom's Marg McGee Fund",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/applications-open-for-manx-telecoms-marg-mcgee-fund/",
-      "published": "2026-07-09T14:31:02+00:00",
-      "summary": "The annual pot recipients will get a share of has doubled to £40,000",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/314870-1.jpg"
-    },
-    {
-      "title": "Parish Walk for youngsters this weekend",
-      "link": "https://www.three.fm/news/isle-of-man-news/parish-walk-for-youngsters-this-weekend/",
-      "published": "2026-07-09T14:25:18+00:00",
-      "summary": "A mini Parish Walk gets underway this weekend, with children raising money for charity.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/68242df62a8d9.jpg"
-    },
-    {
-      "title": "'Come From Away' to continue after cast member injured during rehearsal",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/come-from-away-to-continue-after-cast-member-injured-during-rehearsal/",
-      "published": "2026-07-09T14:19:42+00:00",
-      "summary": "Two Feathers Productions issues statement",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/316575-1.jpg"
-    },
-    {
-      "title": "'High' risk of wildfires over the next week",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/risk-of-wildfires-next-week/",
-      "published": "2026-07-09T13:36:04+00:00",
-      "summary": "More warm and dry weather is forecast",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/316560-1.jpg"
-    },
-    {
-      "title": "Time running out for charities to apply for grants",
-      "link": "https://www.three.fm/news/isle-of-man-news/time-running-out-for-charities-to-apply-for-grants/",
-      "published": "2026-07-09T12:28:28+00:00",
-      "summary": "Time's running out for your good cause to apply for money from the Manx Lottery Trust.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6a4f93e08cf90f50486.jpg"
-    },
-    {
-      "title": "Urgent warning over high wildfire risk",
-      "link": "https://www.three.fm/news/isle-of-man-news/urgent-warning-over-high-wildfire-risk/",
-      "published": "2026-07-09T11:44:22+00:00",
-      "summary": "The government's issued an urgent warning about the high risk of wildfires in the Manx countryside.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6a4f8946d80c16b9201.jpg"
     }
   ]
 }
