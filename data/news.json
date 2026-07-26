@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-07-26T08:12:52.853960+00:00",
+  "generated_at": "2026-07-26T19:14:31.303534+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -30,6 +30,62 @@
   ],
   "items": [
     {
+      "title": "Historic mansion goes on the market for £8m",
+      "link": "https://www.three.fm/news/isle-of-man-news/historic-mansion-goes-on-the-market-for-8m/",
+      "published": "2026-07-26T16:00:13+00:00",
+      "summary": "There's a chance to own a historic, 19th century mansion for the price tag of £8 million.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a662f01000893f19d9.jpg"
+    },
+    {
+      "title": "Complaints procedure has been 'weaponised' says MHK",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/complaints-procedure-has-been-weaponised-says-mhk/",
+      "published": "2026-07-26T11:30:00+00:00",
+      "summary": "\"We've got to be good democrats\" says Thomas",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/323273-1.jpg"
+    },
+    {
+      "title": "Sofia steps up to sponsored walk challenge",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/sofia-steps-up-to-sponsored-walk-challenge/",
+      "published": "2026-07-26T11:15:00+00:00",
+      "summary": "Eight-year-old raises hundreds of pounds for charity",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/323286-1.png"
+    },
+    {
+      "title": "MHK: “I'm proud of this work to address period poverty”",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/mhk-im-proud-of-this-work-to-address-period-poverty/",
+      "published": "2026-07-26T11:00:00+00:00",
+      "summary": "Period Products (Free Provision) Act 2026 to be sent for Royal Assent",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/322620-1.jpg"
+    },
+    {
+      "title": "RNLI pays tribute to popular, long-serving crewman",
+      "link": "https://www.three.fm/news/isle-of-man-news/rnli-pays-tribute-to-popular-long-serving-crewman/",
+      "published": "2026-07-26T10:55:00+00:00",
+      "summary": "Douglas RNLI has paid tribute to a long-serving Crewman.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a651ef3e3082ef01c7.jpg"
+    },
+    {
+      "title": "Ramsey Commissioners set date for public meeting about RDCH",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/ramsey-commissioners-set-date-for-public-meeting-about-rdch/",
+      "published": "2026-07-26T10:00:00+00:00",
+      "summary": "Local authority has been calling for conversation since April",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/322876-1.jpeg"
+    },
+    {
+      "title": "New Sea Services Agreement still pending",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/new-sea-services-agreement-still-pending/",
+      "published": "2026-07-26T09:00:00+00:00",
+      "summary": "Agreement manages relationship between government and Steam Packet",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/321737-1.jpeg"
+    },
+    {
       "title": "Tip temporarily closed after machine breaks",
       "link": "https://www.three.fm/news/isle-of-man-news/tip-temporarily-closed-after-machine-breaks/",
       "published": "2026-07-26T07:55:00+00:00",
@@ -46,18 +102,10 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/322073-1.jpeg"
     },
     {
-      "title": "CWG: Busy day for Team Isle of Man in Glasgow - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeF9zTXRyNkF2Mmgta1BudW05ZFlQNk9HWGJLaVF2Y0F5cGdyNWZZdUZmZDJCSjhqMFJISzZRMVdWZ21GY2Zkbkg0ajhwQ0RjWURkbWh4WmV0eDZERVJSVXAwZ0Z4Q3NiLUtOUnhlT0F5ZjUtUDJfNmlIM0t3alZ0Q2lvNUk5bTBBR2Q0R1VvMUZOemt1R3l4S3dn?oc=5",
-      "published": "2026-07-26T07:25:00+00:00",
-      "summary": "CWG: Busy day for Team Isle of Man in Glasgow Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Isle of Man gears up for a week of Celtic festivities - Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13LU5nT0NEWWw4RWRnX1hlTTVHdTNhcC1ET19ybVFhSEEzY0xfVFpWTGtIMnJYRXFnTEFEQXZxa3VQSFhrU1ZfbjVqLV9QU24xWFJkTm1KaUFZMXBmNGRaOU95cTFtSS0zWFUtbFk5M2p1UVdEUVE?oc=5",
-      "published": "2026-07-26T06:47:00+00:00",
-      "summary": "Isle of Man gears up for a week of Celtic festivities Yahoo News Canada",
+      "title": "A week of Celtic Festivities set to sweep the Island - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BOXl5NFpFN1lhclE3bENQX2RPTWlyZ3ZPY3VDNldSaG1aRFRVQUZjeHNEaWhJUndqMWctczU5M1dEaW15UXhMSEtrNGlrYng3R2xaTml6cHZqQQ?oc=5",
+      "published": "2026-07-26T06:47:08+00:00",
+      "summary": "A week of Celtic Festivities set to sweep the Island BBC",
       "source": "Google News",
       "image": ""
     },
@@ -766,14 +814,6 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/322284-1.JPG"
     },
     {
-      "title": "Isle of Man breaks record with tourist economy soaring to £433m - Yahoo News Australia",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KMk9pZllwNmxXMDdVNWh4Tmx5OEJyWXZ3R01jeFRTVHpKN0Fxd05DTGp2eC1odTRNTkFuWVRsc1lDaDNvd29LYm50enFBM3B5eHIzSGppSERTNFJNWEdIM3lnajQ2Zlh0S3Y2Yl8yRkRXYUpkZjZHWW9pQQ?oc=5",
-      "published": "2026-07-23T09:54:23+00:00",
-      "summary": "Isle of Man breaks record with tourist economy soaring to £433m Yahoo News Australia",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Isle of Man’s tourist economy generated a record £433m - The Independent",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNUk0anlrVi1ycG5EUi16ZXpuUTVGS0kxdi1jcThWNmhmbmpzdkFvb2dvNWZyOG93LWFGOHBYTVNzNGkyM2N3NUt2WkRKdzItRVlvT3JubU1raHd3WW10NW9vQzFuYkxoNkN6ZEtFNTFITkVSa2VjWGxKYVM3dERzREE1VF80UF9CMFQzNTdDOXVvQThBTXk5Rnk5VkVNdmZhR0xyWXBvMzZ4amNz?oc=5",
       "published": "2026-07-23T09:54:00+00:00",
@@ -1188,46 +1228,6 @@
       "summary": "Data shows levels are comfortably higher than average",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/321722-1.jpg"
-    },
-    {
-      "title": "Commonwealth swimming team to blend debuts with experience",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/commonwealth-swimming-team-to-blend-debuts-with-experience/",
-      "published": "2026-07-22T05:21:43+00:00",
-      "summary": "It'll be the biggest of the Manx squads to compete in Glasgow",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/321731-1.jpg"
-    },
-    {
-      "title": "Still no timeframe for fixing broken NSC tiles",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/still-no-timeframe-for-fixing-broken-nsc-tiles/",
-      "published": "2026-07-22T05:16:24+00:00",
-      "summary": "Issues were first identified back in November 2023",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/321724-1.jpg"
-    },
-    {
-      "title": "No impact on IoM as Loganair looks to reduce flights",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/no-impact-on-iom-as-loganair-looks-to-reduce-flights/",
-      "published": "2026-07-22T05:15:13+00:00",
-      "summary": "Services in Scotland being reduced due to financial concerns",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/321557-1.jpg"
-    },
-    {
-      "title": "Offshore windfarm protestors 'sending message' to incoming administration",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/offshore-windfarm-protestors-sending-message-to-incoming-administration/",
-      "published": "2026-07-21T17:23:59+00:00",
-      "summary": "Demonstrators gather outside Tynwald during final sitting",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/321797-1.jpg"
-    },
-    {
-      "title": "Overnight sailings cancelled due to 'technical issue'",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/overnight-sailings-cancelled-due-to-technical-issue/",
-      "published": "2026-07-21T16:41:16+00:00",
-      "summary": "Vessel was also out of action over the weekend",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/321857-1.jpeg"
     }
   ]
 }
