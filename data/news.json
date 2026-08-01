@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-08-01T08:08:10.372515+00:00",
+  "generated_at": "2026-08-01T19:11:34.774716+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -30,6 +30,54 @@
   ],
   "items": [
     {
+      "title": "Planned Douglas wellness retreat to learn its fate on Monday",
+      "link": "https://www.three.fm/news/isle-of-man-news/planned-douglas-wellness-retreat-to-learn-its-fate-on-monday/",
+      "published": "2026-08-01T15:55:00+00:00",
+      "summary": "The fate of a proposed sauna in Douglas will be decided next week.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a340b885d376c4e5b0.jpg"
+    },
+    {
+      "title": "Orsted responds to Wildlife Trust statement",
+      "link": "https://www.three.fm/news/isle-of-man-news/orsted-responds-to-wildlife-trust-statement/",
+      "published": "2026-08-01T11:55:00+00:00",
+      "summary": "Orsted has hit back at the Manx Wildlife Trust after it raised concerns about the environmental impact of the Mooir Vannin offshore windfarm plans.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/66b0bcbabef40.jpg"
+    },
+    {
+      "title": "Bank turned curio shop up for sale",
+      "link": "https://www.three.fm/news/isle-of-man-news/bank-turned-curio-shop-up-for-sale/",
+      "published": "2026-08-01T10:55:00+00:00",
+      "summary": "A former bank turned antiques shop in Peel has gone on the market.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a6d92a0896826044ab.jpg"
+    },
+    {
+      "title": "Castletown Confetti Carnival celebrating its 70th year today",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/castletown-confetti-carnival-celebrating-its-70th-year-today/",
+      "published": "2026-08-01T09:26:02+00:00",
+      "summary": "A firework display from Speakers Garden will mark the occasion",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/325091-1.jpeg"
+    },
+    {
+      "title": "Hedge cutting closes Glen Helen Road",
+      "link": "https://www.three.fm/news/isle-of-man-news/hedge-cutting-closes-glen-helen-road/",
+      "published": "2026-08-01T08:55:00+00:00",
+      "summary": "The Glen Helen Road will close for two days next week.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/620a18e968263.jpg"
+    },
+    {
+      "title": "Historic buses to be celebrated today",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/historic-buses-to-be-celebrated-today/",
+      "published": "2026-08-01T08:17:03+00:00",
+      "summary": "It is to mark 50 years since bus nationalisation.",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/324947-1.PNG"
+    },
+    {
       "title": "Liquidator appointed for Torden Stores",
       "link": "https://www.three.fm/news/isle-of-man-news/liquidator-appointed-for/",
       "published": "2026-08-01T07:55:00+00:00",
@@ -55,7 +103,7 @@
     },
     {
       "title": "The 5,000-year-old grave on a Manx front lawn - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1haFdlTFd4Q2czVnhZci1nWGFiVXdOdjV6Qk0yZ1MzYmt2UHJFb1JIcXRGRjNqTWp2azNCNW9TLTlSVUs2RmVXRURubWxpcHN0YnNJakhtakNTUjIw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lWVdCNERNREd0a1Z0UlBkaHNkZl9BSUg4VmdZLWNwRUYyOU9BVG1EWVBzVkVORWhBSDVTUHF0NGYyMk45TkhQTU1xLVdEWE8xZkRPVzlCZkxpZw?oc=5",
       "published": "2026-08-01T06:54:13+00:00",
       "summary": "The 5,000-year-old grave on a Manx front lawn BBC",
       "source": "Google News",
@@ -126,10 +174,10 @@
       "image": ""
     },
     {
-      "title": "Isle of Man TT finds “strong support” to retain Sidecar class but not in previous form - crash.net",
+      "title": "Isle of Man TT finds “strong support” to retain Sidecar class but not in previous form - Crash.net",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmoyaWVIZzVjWlZmaWdEbmRzRS1xNEhKei1kbnI2YmhqN29tQU00TlQ3UkVLa1J1bmdqWXJZR3BMWEE3SjdpQ0F2djRhRWMxRHR4SWROcE45MUs4akpsd1ZlcVhDN2U5Tk1wSXZwLWNMZ2xrMlc3MUp1M1I1T2xnRmxBbk1ELUhNdEFyZi1QYTJGeDJ6QTVtcG85bzI4RUVuRVVWN3RVU2JhT216NzdlZg?oc=5",
       "published": "2026-07-31T14:32:37+00:00",
-      "summary": "Isle of Man TT finds “strong support” to retain Sidecar class but not in previous form crash.net",
+      "summary": "Isle of Man TT finds “strong support” to retain Sidecar class but not in previous form Crash.net",
       "source": "Google News",
       "image": ""
     },
@@ -414,14 +462,6 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/324750-1.jpeg"
     },
     {
-      "title": "Brian Martin Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYzRBYzl4SlJWaXNaMUltcVRCck5vN2pfcEFLNDR6UVFPWnNGVUxMYUZHcElYRGVsN2x4TUdOSmhEb2E1YmxQSHZ5bS1zYkx6eFh2RzlYWFFRQ0NLMnFBTHNQejNnTzV6TlFLa0drLUYtZjhYZnVLbERCNDJTMl8tRUFJNkhBeHdoVHVGaHR0OGQ?oc=5",
-      "published": "2026-07-31T02:05:22+00:00",
-      "summary": "Brian Martin Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Mona Street residents meeting 'very productive', says Peel Commissioners",
       "link": "https://www.manxradio.com/news/isle-of-man-news/mona-street-residents-meeting-very-productive-says-peel-commissioners/",
       "published": "2026-07-30T17:17:26+00:00",
@@ -438,10 +478,10 @@
       "image": "https://mmo.aiircdn.com/5/64a913568be96.jpg"
     },
     {
-      "title": "David Mullarkey Won the Isle of Man’s First Athletics Medal. In 12 Days He Runs for Britain. - marathonhandbook.com",
+      "title": "David Mullarkey Won the Isle of Man’s First Athletics Medal. In 12 Days He Runs for Britain. - Marathon Handbook",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEZk9UUnc4RXdkNy1OSmY4Y0FFV0hIRTFkR0hTVWZId0VwSkZKTmlVTXFvQ21rXzhiZHZ2azRCamwySHFTR1lmX2Y5dDdxd3h3Y2t4LXRXUnkxLU5FRjFnQzloNWdsVUVlOHZfMVl4eGs?oc=5",
       "published": "2026-07-30T15:23:35+00:00",
-      "summary": "David Mullarkey Won the Isle of Man’s First Athletics Medal. In 12 Days He Runs for Britain. marathonhandbook.com",
+      "summary": "David Mullarkey Won the Isle of Man’s First Athletics Medal. In 12 Days He Runs for Britain. Marathon Handbook",
       "source": "Google News",
       "image": ""
     },
@@ -494,6 +534,14 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/324620-1.jpeg"
     },
     {
+      "title": "Cycling begins as Isle of Man eyes more CWG success - Yahoo Sports Australia",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4UHUzT3BOZ3FQVTlCQ2l3enBIRFp2M2g5UnkwZDBEYWplRDQtUkhxQkFCaW5vRzFrUjdfZUktQmF6WFNpdWJQTlhaZURfTzU2ZG5lUlBmVXRZSDFya3BneV9JR1FDWC1lNEZYWS1lc21GejFRY2lOZTNKVQ?oc=5",
+      "published": "2026-07-30T12:52:01+00:00",
+      "summary": "Cycling begins as Isle of Man eyes more CWG success Yahoo Sports Australia",
+      "source": "Google News",
+      "image": ""
+    },
+    {
       "title": "Guy Martin Never Won The Isle Of Man TT, But You Can Buy The Bike That Got Him Closest - RideApart.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeXVCaU1YQ3dVTHJPcTVPQ2RNemJYQzk2T1JmWWxkV1FoTXdDY1NWTjd5Qm15cWJKbTI3UWYzeGZlcmtXdi11V2xfS1NlbjI0MUc1UVJDMDFLOUlwUW9jcFhvY3lyeTRDVFB3eDQweTI2allOWWRISEdJaC1fdmtfQzIwM00?oc=5",
       "published": "2026-07-30T12:47:00+00:00",
@@ -524,6 +572,14 @@
       "summary": "Work to upgrade drainage and sewage treatment on Peel Breakwater will get underway in August.",
       "source": "Three FM",
       "image": "https://mm.aiircdn.com/3/612140.jpg"
+    },
+    {
+      "title": "Summerland inquest verdict challenge dismissed - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50SDJPNTc5UzVLcXhtb2FWeE05MzVLVVJFRGU3UVdIU1lGck9GYlR1ck5XY2JFMUZtOTV5WGhQNVZJVmJkVjBmNmNZTWswSXdfZ2Z3dk8tdHBXdw?oc=5",
+      "published": "2026-07-30T11:23:16+00:00",
+      "summary": "Summerland inquest verdict challenge dismissed BBC",
+      "source": "Google News",
+      "image": ""
     },
     {
       "title": "High court rejects bid to overturn Summerland inquest ruling",
@@ -686,14 +742,6 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/324367-1.jpeg"
     },
     {
-      "title": "Decision due in Summerland inquest challenge case - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50SDJPNTc5UzVLcXhtb2FWeE05MzVLVVJFRGU3UVdIU1lGck9GYlR1ck5XY2JFMUZtOTV5WGhQNVZJVmJkVjBmNmNZTWswSXdfZ2Z3dk8tdHBXdw?oc=5",
-      "published": "2026-07-30T05:14:02+00:00",
-      "summary": "Decision due in Summerland inquest challenge case BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Border security: 'Even today, we don't know who's here'",
       "link": "https://www.manxradio.com/news/isle-of-man-news/border-security-even-today-we-dont-know-whos-here/",
       "published": "2026-07-29T17:45:00+00:00",
@@ -716,6 +764,14 @@
       "summary": "Department says it wants to know about contingency arrangements during MGP",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/324354-1.jpeg"
+    },
+    {
+      "title": "Peter Hickman on the Norton Rotary: First Classic TT Since 2019 - motorcycles.news",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMmgwNnl3X3M5M2tRdEp3WklUYzBhTWVkLXY2OG9jS1N3ZUV3QWQ4QUMxMzlJRnJ4b0FwUHpKWVJ3amtzSzJSZnFzWnR1cGZ2Mk93Mi1QbjU2bmxJc1dGc3Q4QzRXVndiaDcxTEl4M0ZPZXZrQjhrbDhPbFRLQ3k4a25R?oc=5",
+      "published": "2026-07-29T16:17:00+00:00",
+      "summary": "Peter Hickman on the Norton Rotary: First Classic TT Since 2019 motorcycles.news",
+      "source": "Google News",
+      "image": ""
     },
     {
       "title": "Peel Commissioners holding meeting for residents to address parking issues",
@@ -846,10 +902,10 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/324190-1.jpg"
     },
     {
-      "title": "Maria Costello “moved” by ongoing support after life-changing Isle of Man TT crash - crash.net",
+      "title": "Maria Costello “moved” by ongoing support after life-changing Isle of Man TT crash - Crash.net",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObmZrdmFWRmxDNnhiUk5wTjNsR3lBc2M3S1NrY2p5OVNWSmhXQjVNcGxMbW9ZaXRDRGhsREphX3R0X29QRWxBazQ0NWFKQUE2UDVvX2dUM0gtcEc4Y1BoS1ZqLWlGNkhRSm1odE1kVG5kUzhsTXYtMS1pM2V2R1UzYkNjclJtR3E0dERpUUJHbEpTRjQ5OXRqUnBlam5YNTV1cTFqUXJGSVYwWjB3eFRpOFRPbjM?oc=5",
       "published": "2026-07-29T08:26:04+00:00",
-      "summary": "Maria Costello “moved” by ongoing support after life-changing Isle of Man TT crash crash.net",
+      "summary": "Maria Costello “moved” by ongoing support after life-changing Isle of Man TT crash Crash.net",
       "source": "Google News",
       "image": ""
     },
@@ -1172,62 +1228,6 @@
       "summary": "The Treasury Minister says government's considering an employer-sponsored immigration route for highly skilled and in-demand workers.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/66d9541869547.jpg"
-    },
-    {
-      "title": "Isle of Man closes Homes for Ukraine scheme after four years - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fV3JYZzJfS1VBMkFGYnlQZUFtM2JKMnBFbmVxaDdjMnRqdnVZbVE3VUZwcUJzZnhaWWNJT1RpMFFiV3l0Z2hsaVpoU1pEUndMamlOdnVWRmhLQQ?oc=5",
-      "published": "2026-07-28T05:32:30+00:00",
-      "summary": "Isle of Man closes Homes for Ukraine scheme after four years BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Onchan Commissioners 'disappointed' at village post office closure",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/onchan-commissioners-disappointed-at-village-post-office-closure/",
-      "published": "2026-07-28T05:29:10+00:00",
-      "summary": "Vice Chair Scott Wilson says service was 'very important' for local community",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/323740-1.jpeg"
-    },
-    {
-      "title": "Steam Packet urged to be more 'transparent' over Manxman issues",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/steam-packet-urged-to-be-more-transparent-over-manxman-issues/",
-      "published": "2026-07-28T05:23:05+00:00",
-      "summary": "Nature of work keeping boat in dry dock goes unexplained",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/323699-1.jpg"
-    },
-    {
-      "title": "Government needs to 'break the cycle' of child poverty on Island",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/government-needs-to-break-the-cycle-of-child-poverty-on-island/",
-      "published": "2026-07-28T05:20:52+00:00",
-      "summary": "Committee report accepted by Tynwald in court's final sitting",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/323615-1.jpg"
-    },
-    {
-      "title": "Proportion on waiting lists likely higher than England",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/proportion-on-waiting-lists-likely-higher-than-england/",
-      "published": "2026-07-28T05:19:08+00:00",
-      "summary": "Manx Care aiming for 95% of patients to be seen within a year",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/323602-1.jpeg"
-    },
-    {
-      "title": "Mental health campaigner to walk Raad-ny-Foillan in Crocs",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/mental-health-campaigner-to-walk-raad-ny-foillan-in-crocs/",
-      "published": "2026-07-28T05:17:05+00:00",
-      "summary": "'BackpackBoz' to visit the Island in August",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/322934-1.jpg"
-    },
-    {
-      "title": "Southern 100 highlights to be screened in Castletown Square",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/southern-100-highlights-to-be-screened-in-castletown-square/",
-      "published": "2026-07-28T05:15:46+00:00",
-      "summary": "Volunteers also being offered complimentary drink",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/323590-1.jpg"
     }
   ]
 }
