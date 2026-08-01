@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-07-31T19:36:49.719789+00:00",
+  "generated_at": "2026-08-01T08:08:10.372515+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -30,6 +30,78 @@
   ],
   "items": [
     {
+      "title": "Liquidator appointed for Torden Stores",
+      "link": "https://www.three.fm/news/isle-of-man-news/liquidator-appointed-for/",
+      "published": "2026-08-01T07:55:00+00:00",
+      "summary": "The liquidator of a well-known shop in the south of the Island has asked for its creditors to come forward.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/66963ac8eceb6.jpg"
+    },
+    {
+      "title": "Solar array approved for NSC roof",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/solar-array-approved-for-nsc-roof/",
+      "published": "2026-08-01T07:21:24+00:00",
+      "summary": "1,200 panels can now be installed",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/325213-1.JPG"
+    },
+    {
+      "title": "Play area plans lodged for Laxey",
+      "link": "https://www.three.fm/news/isle-of-man-news/play-area-plans-lodged-for-laxey/",
+      "published": "2026-08-01T06:55:00+00:00",
+      "summary": "A restaurant and exhibition centre in Laxey could soon house a children's play area, if planners give the go-ahead.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a6d8f769b79228222c.jpg"
+    },
+    {
+      "title": "The 5,000-year-old grave on a Manx front lawn - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1haFdlTFd4Q2czVnhZci1nWGFiVXdOdjV6Qk0yZ1MzYmt2UHJFb1JIcXRGRjNqTWp2azNCNW9TLTlSVUs2RmVXRURubWxpcHN0YnNJakhtakNTUjIw?oc=5",
+      "published": "2026-08-01T06:54:13+00:00",
+      "summary": "The 5,000-year-old grave on a Manx front lawn BBC",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Douglas Council says Green Flag Status is 'something to be proud of'",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/douglas-council-says-green-flag-status-is-something-to-be-proud-of/",
+      "published": "2026-08-01T06:43:47+00:00",
+      "summary": "Councillor Natalie Byron-Teare says it shows parks are 'way above standard'",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/325080-1.JPG"
+    },
+    {
+      "title": "No parish GDP figures, says Treasury",
+      "link": "https://www.three.fm/news/isle-of-man-news/no-parish-gdp-figures-says-treasury/",
+      "published": "2026-08-01T06:25:00+00:00",
+      "summary": "The Treasury says it can't give figures for each parish's gross domestic product, because it doesn't collect data from each one separately.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/617b97cd73c68.jpg"
+    },
+    {
+      "title": "Castletown carnival marks 70th birthday",
+      "link": "https://www.three.fm/news/isle-of-man-news/castletown-carnival-marks-70th-birthday/",
+      "published": "2026-08-01T06:08:30+00:00",
+      "summary": "One of Castletown's biggest parties will be marking a special anniversary today.",
+      "source": "Three FM",
+      "image": "https://mm.aiircdn.com/3/5d579d1082da7.jpg"
+    },
+    {
+      "title": "Activities paused at Douglas RNLI as 'precautionary' step",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/activities-paused-at-douglas-rnli-as-precautionary-step/",
+      "published": "2026-08-01T05:13:33+00:00",
+      "summary": "Lifesaving charity issues statement following review of training progress",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/324897-1.png"
+    },
+    {
+      "title": "TT Sidecar Sustainability Review Reaches First Milestone - Cycle News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMHZEQlpDLXJOWXV1ejMwc1cwYk1sNEtDY2ZiQWliOGVnTmpDSXlHQVJZT1duc3BObDR5MVBELVphUzZGYlNCU1hoWFZzY2VER3hMV1B0dG92QTdZaGdLUVVGNXFlaTFhVjBxMTBJcU1aQ3hlOExPeFo1aWV4dllDMk9qcEdrME1HSXZlOU5obEx6MVV6WXJla0FOWEJGUnFI?oc=5",
+      "published": "2026-07-31T16:32:23+00:00",
+      "summary": "TT Sidecar Sustainability Review Reaches First Milestone Cycle News",
+      "source": "Google News",
+      "image": ""
+    },
+    {
       "title": "Man to stand trial after denying wounding with intent to murder",
       "link": "https://www.manxradio.com/news/isle-of-man-news/man-to-stand-trial-after-denying-wounding-with-intent-to-murder/",
       "published": "2026-07-31T16:16:14+00:00",
@@ -54,10 +126,10 @@
       "image": ""
     },
     {
-      "title": "Isle of Man TT finds “strong support” to retain Sidecar class but not in previous form - Crash.net",
+      "title": "Isle of Man TT finds “strong support” to retain Sidecar class but not in previous form - crash.net",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmoyaWVIZzVjWlZmaWdEbmRzRS1xNEhKei1kbnI2YmhqN29tQU00TlQ3UkVLa1J1bmdqWXJZR3BMWEE3SjdpQ0F2djRhRWMxRHR4SWROcE45MUs4akpsd1ZlcVhDN2U5Tk1wSXZwLWNMZ2xrMlc3MUp1M1I1T2xnRmxBbk1ELUhNdEFyZi1QYTJGeDJ6QTVtcG85bzI4RUVuRVVWN3RVU2JhT216NzdlZg?oc=5",
       "published": "2026-07-31T14:32:37+00:00",
-      "summary": "Isle of Man TT finds “strong support” to retain Sidecar class but not in previous form Crash.net",
+      "summary": "Isle of Man TT finds “strong support” to retain Sidecar class but not in previous form crash.net",
       "source": "Google News",
       "image": ""
     },
@@ -86,36 +158,12 @@
       "image": "https://mmo.aiircdn.com/5/6a3405f9e7bdec46088.jpg"
     },
     {
-      "title": "'Meaningful change' needed to ensure long-term future of sidecars at TT - Manx Radio Motorsport",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY2dHdzE3V0hLdWFXVkRvdDIxRlRVNXBXT3RLSWhQa1RSc3dMVU5OZDkzT2llNzRIVERIQUJaYm9NdEdEbnU4VkNQSS01MURjSkZhM2lTS19FSllScTQ3YVU2aV9RYTFRaDIxMkU4b0R0ZVVhQUwtYjNHdGpWZHZCTHJHWjczOGtGZTJQbkY0R3pCN3p5WGthajE4a3J4aDFLMnlLOXptbVk4bmZnQjVwMnBzcWJIdGZxNnZOSzhOWnVXQXM?oc=5",
-      "published": "2026-07-31T14:06:03+00:00",
-      "summary": "'Meaningful change' needed to ensure long-term future of sidecars at TT Manx Radio Motorsport",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "'Meaningful change' needed to ensure long-term future of sidecars at TT",
       "link": "https://www.manxradio.com/news/isle-of-man-news/meaningful-change-needed-to-ensure-long-term-future-of-sidecars-at-tt/",
       "published": "2026-07-31T14:03:31+00:00",
       "summary": "\"No decision regarding the future participation of the Sidecar class will be taken until further work has been completed\"",
       "source": "Manx Radio",
       "image": "https://mmo.aiircdn.com/61/6a6cc3c8de6af65d86e.jpg"
-    },
-    {
-      "title": "'Meaningful change' needed to ensure long-term future of sidecars at TT - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbFh2QUlFLUx3YTU4U29Udmp6RkV2d0kwMFhtR0ZIUWtGRGR1cS03UnN3bzJ4Wmtjak00d0gyOEx1SjlFREkwclFnaHp0SE1MRE1fVTJDMVNxcDZwMVlQcUdiY2x5c2kweEVNWlEtdHR3Qk9tUm5VYnVaUllxR3RaVlE1MDBGYzJTQVFFYks2c191X05SZnVWNHgtNGduX3U4V2FEZVFhSUVtcGc3V2FRVzRmc1B1MmRCcEE?oc=5",
-      "published": "2026-07-31T14:03:00+00:00",
-      "summary": "'Meaningful change' needed to ensure long-term future of sidecars at TT Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Steam Packet Company responds to Ben-My-Chree patient concerns - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vYWdPaU9iZXVzOEJNOWRGRHpxVDh1VDlHOU9oN25zOWNIVG51UkNkZWJrOHlVM3BTMUs2cG5Wb1p1VFhuOVM4Wjc0Q0pNUmN4MTAtLVJqOGVPc3Vr?oc=5",
-      "published": "2026-07-31T13:49:29+00:00",
-      "summary": "Steam Packet Company responds to Ben-My-Chree patient concerns BBC",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "TT sidecar review report published",
@@ -148,14 +196,6 @@
       "summary": "Bus Vannin has brought an electric minibus to the Island as it explores the potential of the technology.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6a6c94c2ee963d70517.jpeg"
-    },
-    {
-      "title": "Commonwealth Games 'phenomenal' experience says Manx athlete - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kN24yaWFEaV9oQkI5TkNyb0IyZmMwaVV2TndSdmJyeGxvcHBuRjlNOV9CYmI3dkdSMjRmUG1CaVoyanlfZFk5WWR4eGQwMFdyYmhWZGEwZ3J1VkQ4?oc=5",
-      "published": "2026-07-31T11:49:26+00:00",
-      "summary": "Commonwealth Games 'phenomenal' experience says Manx athlete BBC",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Island has same rules for drug testing staff as UK",
@@ -318,10 +358,10 @@
       "image": "https://mmo.aiircdn.com/5/6a6c359ef2f455c13c8.jpg"
     },
     {
-      "title": "Evening Mountain Road closures ahead of racing - Yahoo News Canada",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaEszTlFLU2s4U1hQMlpSb0dUdU1id01LeVpVUHFKNjhwWlRPS2FXeG5FSFJsNjZzRW5QQ0JtN1BWcEoxazVxMjJ2cGpDS3otc0hwbWYyelptdXhkeFViYUNiR2YzZnNtQ1ZXaDJGTlVIUGtYUEpOeDhPVV9RZWtTZk5tdw?oc=5",
-      "published": "2026-07-31T05:41:00+00:00",
-      "summary": "Evening Mountain Road closures ahead of racing Yahoo News Canada",
+      "title": "Evening Mountain Road closures ahead of Classic TT racing return - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qQUZyR21SY01wZDFfMC1GZjNtbXByR1dyaTNWNlNfWC1FdlNxS0lyd19ZOFdPc0hPOU5xT0tQQnhMR0VkSmFWVUFiakpVcHlDek5Eb3FJM0NGQQ?oc=5",
+      "published": "2026-07-31T05:41:44+00:00",
+      "summary": "Evening Mountain Road closures ahead of Classic TT racing return BBC",
       "source": "Google News",
       "image": ""
     },
@@ -382,14 +422,6 @@
       "image": ""
     },
     {
-      "title": "Thyra Allen Obituary - March 21, 2026 - Legacy obituary",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QNXFyX1lPMGVwNDJvSmRHU3h2dTlZNjA1TG1XVWxBa3FDREE2MmRaN1VJQXhyQko1YWhfVFBWamp0Yk5yMkczWTJmVjczWmRlN0pDRGllNkVqSWtKYnkzUFB6Y3ZjUVgxZHdYZ0FIeWRFbTlx?oc=5",
-      "published": "2026-07-31T01:23:52+00:00",
-      "summary": "Thyra Allen Obituary - March 21, 2026 Legacy obituary",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Mona Street residents meeting 'very productive', says Peel Commissioners",
       "link": "https://www.manxradio.com/news/isle-of-man-news/mona-street-residents-meeting-very-productive-says-peel-commissioners/",
       "published": "2026-07-30T17:17:26+00:00",
@@ -406,10 +438,10 @@
       "image": "https://mmo.aiircdn.com/5/64a913568be96.jpg"
     },
     {
-      "title": "David Mullarkey Won the Isle of Man’s First Athletics Medal. In 12 Days He Runs for Britain. - Marathon Handbook",
+      "title": "David Mullarkey Won the Isle of Man’s First Athletics Medal. In 12 Days He Runs for Britain. - marathonhandbook.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEZk9UUnc4RXdkNy1OSmY4Y0FFV0hIRTFkR0hTVWZId0VwSkZKTmlVTXFvQ21rXzhiZHZ2azRCamwySHFTR1lmX2Y5dDdxd3h3Y2t4LXRXUnkxLU5FRjFnQzloNWdsVUVlOHZfMVl4eGs?oc=5",
       "published": "2026-07-30T15:23:35+00:00",
-      "summary": "David Mullarkey Won the Isle of Man’s First Athletics Medal. In 12 Days He Runs for Britain. Marathon Handbook",
+      "summary": "David Mullarkey Won the Isle of Man’s First Athletics Medal. In 12 Days He Runs for Britain. marathonhandbook.com",
       "source": "Google News",
       "image": ""
     },
@@ -806,14 +838,6 @@
       "image": "https://mmo.aiircdn.com/5/6a69c6394b449a9bc43.jpg"
     },
     {
-      "title": "Isle of Man tourism economy hits record €505 million as visitor spending soars - Travel Tomorrow",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOUE4UU1HdXNtTmlRLU1xUThrbXRtVUxnZHJ6dkNGWkxGcFJ1WlpkRjJCUnZZYXRxTVhYMUdSLWRzRHZ2eFFES2txQjdzdklMTU9vdWVZdWhWQkY3QWUwZlM4SmU4akdUZklsb1UwUXdUdDItdkJIOVFVc3c2M2ROb2NtbjYxRVR1VWh3SkVNWDFyMHVVcEZSU2FpdnlPNWNEYTZKODRmVlo?oc=5",
-      "published": "2026-07-29T09:18:57+00:00",
-      "summary": "Isle of Man tourism economy hits record €505 million as visitor spending soars Travel Tomorrow",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Seventh candidate announces Rushen candidacy",
       "link": "https://www.manxradio.com/news/isle-of-man-news/seventh-candidate-announces-rushen-candidacy/",
       "published": "2026-07-29T08:42:28+00:00",
@@ -822,10 +846,10 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/324190-1.jpg"
     },
     {
-      "title": "Maria Costello “moved” by ongoing support after life-changing Isle of Man TT crash - Crash.net",
+      "title": "Maria Costello “moved” by ongoing support after life-changing Isle of Man TT crash - crash.net",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObmZrdmFWRmxDNnhiUk5wTjNsR3lBc2M3S1NrY2p5OVNWSmhXQjVNcGxMbW9ZaXRDRGhsREphX3R0X29QRWxBazQ0NWFKQUE2UDVvX2dUM0gtcEc4Y1BoS1ZqLWlGNkhRSm1odE1kVG5kUzhsTXYtMS1pM2V2R1UzYkNjclJtR3E0dERpUUJHbEpTRjQ5OXRqUnBlam5YNTV1cTFqUXJGSVYwWjB3eFRpOFRPbjM?oc=5",
       "published": "2026-07-29T08:26:04+00:00",
-      "summary": "Maria Costello “moved” by ongoing support after life-changing Isle of Man TT crash Crash.net",
+      "summary": "Maria Costello “moved” by ongoing support after life-changing Isle of Man TT crash crash.net",
       "source": "Google News",
       "image": ""
     },
@@ -1204,30 +1228,6 @@
       "summary": "Volunteers also being offered complimentary drink",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/323590-1.jpg"
-    },
-    {
-      "title": "Beware of 'unpleasant smells' in Douglas",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/beware-of-unpleasant-smells-in-douglas/",
-      "published": "2026-07-28T05:14:37+00:00",
-      "summary": "MU carrying out maintenance work",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/323610-1.jpg"
-    },
-    {
-      "title": "Where should the Island's next Subway be?",
-      "link": "https://www.three.fm/news/isle-of-man-news/where-should-the-islands-next-subway-be/",
-      "published": "2026-07-27T16:50:06+00:00",
-      "summary": "A popular sandwich chain is asking where you'd like to see its next branch.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6a58cd6af27ae741fec.jpg"
-    },
-    {
-      "title": "DoI working on Island wide review of disc parking",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/doi-working-on-island-wide-review-of-disc-parking/",
-      "published": "2026-07-27T16:30:00+00:00",
-      "summary": "Consultation will follow",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/323564-1.jpeg"
     }
   ]
 }
