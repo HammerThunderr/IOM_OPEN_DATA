@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-08-09T06:41:51.350448+00:00",
+  "generated_at": "2026-08-09T18:43:40.293252+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -30,6 +30,86 @@
   ],
   "items": [
     {
+      "title": "Council pledging £16k to help DOI install sea wall art",
+      "link": "https://www.three.fm/news/isle-of-man-news/council-pledging-16k-to-help-doi-install-sea-wall-art/",
+      "published": "2026-08-09T16:52:18+00:00",
+      "summary": "Douglas Council says it'll pledge £16,000 to help the Department of Infrastructure install public artwork along Loch Promenade's sea defence wall.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a78b038a67cae7adfd.jpeg"
+    },
+    {
+      "title": "Social media views 'not always reflected in person' - Buttondown",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTEk2NjcxaERJb1pPUU1IdlI3dGpubWtYRjN2NnA1OVBwTTdIaXJFY1BzSmF5elRpN0pzclZzTlpsdnZ4RV96RlVqT1JmZko5VE9oUWhTSFNYQ0RkMUtTZVhxZXpTcEtzbVJmMGF6SnBzbnJnUk1CaVVBYk94a1ZHeHFMdUhWU1FPX2E1bXNxZ3dUMjM1RGRB?oc=5",
+      "published": "2026-08-09T15:18:23+00:00",
+      "summary": "Social media views 'not always reflected in person' Buttondown",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Autism and ADHD campaigners to walk 100 miles around Island",
+      "link": "https://www.three.fm/news/isle-of-man-news/autism-and-adhd-campaigner-to-walk-100-miles-around-island/",
+      "published": "2026-08-09T11:26:38+00:00",
+      "summary": "A Liverpool content creator and his team plan to walk 100 miles around the Island to raise money for autism and ADHD.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a78b3c6318519a155b.jpg"
+    },
+    {
+      "title": "Chief minister admits progress on housing has been limited",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/chief-minister-admits-progress-on-housing-has-been-limited/",
+      "published": "2026-08-09T11:06:39+00:00",
+      "summary": "Alfred Cannan says this administration's efforts to tackle housing haven't achieved what he wanted",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326673-1.jpg"
+    },
+    {
+      "title": "Isle of Man 'on top' of beach litter",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/isle-of-man-on-top-of-beach-litter/",
+      "published": "2026-08-09T10:11:11+00:00",
+      "summary": "Bill Dale from Beach Buddies says he's seen a big reduction in the amount of litter on Manx beaches",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/327352-1.jpg"
+    },
+    {
+      "title": "Isle of Man 'on top' of beach litter - manxradio.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY0JlRlB4dTZnbnNKYkVmbVJqd3Y3VVctY2E4MG1WZE9XS0ZJVThaZjRBdXdPcEJsdW9GbGlvTldqYTUyUm15OXBReXRCNmNkaUIwdkhFMmpHSUIyU000M2MtSFRoUnh5TkFhcHJEYzB6WDVxRVc5VHhCX09aTUN4ZEdGcGhOU2JoSFIw?oc=5",
+      "published": "2026-08-09T10:11:00+00:00",
+      "summary": "Isle of Man 'on top' of beach litter manxradio.com",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Red Devils to perform over Douglas",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/red-devils-to-perform-over-douglas/",
+      "published": "2026-08-09T09:22:34+00:00",
+      "summary": "Army parachute display team returns for Classic TT",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326945-1.png"
+    },
+    {
+      "title": "Cyber Security Centre issues warning over car finance scam",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/cyber-security-centre-issues-warning-over-car-finance-scam/",
+      "published": "2026-08-09T09:22:27+00:00",
+      "summary": "Unsolicited callers have been targeting Manx residents",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326586-1.jpg"
+    },
+    {
+      "title": "More TT course closures in Douglas for filming today",
+      "link": "https://www.three.fm/news/isle-of-man-news/more-tt-course-closures-in-douglas-for-filming-today/",
+      "published": "2026-08-09T07:55:00+00:00",
+      "summary": "Sections of the TT course will be closed again today for more filming.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a1409459996d.jpg"
+    },
+    {
+      "title": "Great Laxey Wheel among buildings earmarked for heritage protection - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94WHRBOXQtc2pBamk3b0UwQ1BocGJUdldNZ2VPdmFGc1ZwMVB6VDFfUG1MUTlxZGtHSXMtZm1UcUtmRHpIWVR6VmpQSzBaTVN2Qmh0M3F5QWg0Zw?oc=5",
+      "published": "2026-08-09T07:20:35+00:00",
+      "summary": "Great Laxey Wheel among buildings earmarked for heritage protection BBC",
+      "source": "Google News",
+      "image": ""
+    },
+    {
       "title": "'Government must ensure Island has enough food'",
       "link": "https://www.manxradio.com/news/isle-of-man-news/government-must-ensure-island-has-enough-food/",
       "published": "2026-08-09T05:35:48+00:00",
@@ -44,14 +124,6 @@
       "summary": "It's due to an issue with the flat roof in the part of the building where the facility was located",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326905-1.png"
-    },
-    {
-      "title": "Smile Dentistry won't open at RDCH in next three months - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ01ELU80NGtnTV81Z2JsRzNpN2hPR1QzbW03VllobkF5ZF9XSkVYSVRCUzg5dDctNEtVNFUzV203SDZWTzR4WWtodTMxQlB5clVvaUtybkthamh0TVdEdnJ2VE8zT3J4T1NQeHEyckhYWFVCQ2tNU2dBTjEzVVVobXZHdFR6dEtzemk5emw5b2M1eDhyajllczBPeWJsdUhWZWdwdmdn?oc=5",
-      "published": "2026-08-09T05:35:00+00:00",
-      "summary": "Smile Dentistry won't open at RDCH in next three months Manx Radio",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "TT course closures in Douglas and Braddan as movie production continues",
@@ -70,28 +142,12 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/327061-1.jpg"
     },
     {
-      "title": "Douglas Council to give £16,000 to DoI to support public art on promenade sea wall - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZDhTME9iQ21JcHNlTzBkM0VrUjJaRDh4UEZFdEw1aXFOZE9PWTBBelhKNXJRcmJ2NVlWYU40VWFHSllsOHlEZ2wtS2ZYM1B6ZzlDdmJ6ZUJDYmpWYjE1T0ZmM3Y5WnBfUHk2emdId0ZvcGZQX2d4WTQ0WWpxQ3loMTkyV0JDeTNEYlFfS2U4dFFFRkN5LVJ3ZGk3NkJTRlZjYjZXdnNCd0VyWjVjdTZ2c1M2SHpIdHllY2ZVU3lSaWlxenhGZjF5UQ?oc=5",
-      "published": "2026-08-09T05:34:00+00:00",
-      "summary": "Douglas Council to give £16,000 to DoI to support public art on promenade sea wall Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Supreme Champion win 'makes the hard work worth it'",
       "link": "https://www.manxradio.com/news/isle-of-man-news/supreme-champion-win-makes-the-hard-work-worth-it/",
       "published": "2026-08-09T05:33:32+00:00",
       "summary": "Denim the Charollais sheep takes top prize at Royal Manx",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/327332-1.jpg"
-    },
-    {
-      "title": "Could this key issue reverse the 'Burnham bounce'? - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTldiSHhLWmctalJ0cHp0SGRSTDZ5dExJaEdYTWpQbTdDNjNnZUd2dVBldzJVVGJwSDlqWlZ0T3R6bUdiRkI1LW1rbVhBcjI4MF96SmtVNWdiOHdmM2dRczU0NnNxTzZzSS1LY0hYOHFsSEpKMGtsUUhRcnYxRkFHVWJuYTJlMlhGUkE?oc=5",
-      "published": "2026-08-09T02:20:00+00:00",
-      "summary": "Could this key issue reverse the 'Burnham bounce'? 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Charollais sheep named Supreme Champion at Royal Manx",
@@ -110,18 +166,10 @@
       "image": ""
     },
     {
-      "title": "Isle of Man farmers urge residents 'too reliant' on imported food to buy Manx produce - ITVX",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcjlxZXJnbU02MTM4UDVscVEzd3hkS09hSGgyZG0wVE1xb2ljNEd1M2FaUGtwdzVPdm80VnFHbWVFQWxYdjFhQ1JrbjgwOVdpNE4wQkFVeDdza1BjMWxrUDN4cVJsNXU0Z2tRM1Exb2FIdjJjVThrUGRWb28wZDlXaU9nSXVmSHN2bUVSdUhGdURKRWVDRmtJMGh3LUppTlUzS2lXeW9fMUYwXzZtUTVSUmJadDBmRlgwZEJYcDZicw?oc=5",
-      "published": "2026-08-08T15:41:25+00:00",
-      "summary": "Isle of Man farmers urge residents 'too reliant' on imported food to buy Manx produce ITVX",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "2027 EnduroGP Calendar Announced with First-Ever Isle of Man GP - Dirt Hub",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOG1jODRVa0VCMUQ1QVNIVjRtdGVMaE1hdUstWjE4Szd0LU5fVWljR193RWZUOUU3Z2VULTlrbUU1VFpPYk1Ud29CcGRQbkhjdEQwWFlGSlFCMjFhQUtjckFWMjNMZWFid1hEQWV2OFNGSFJJbk1mMkF2TlNTUnA1UmxQT2FfcFVOYVhBaWtibUI3NkhF?oc=5",
-      "published": "2026-08-08T12:21:19+00:00",
-      "summary": "2027 EnduroGP Calendar Announced with First-Ever Isle of Man GP Dirt Hub",
+      "title": "Call for election candidates to make 'concrete commitment to carers' - Buttondown",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOUw5ZkxYLXd6WlBMa0VJcjJ0Z2xTcWh4ekszaEgtWTZrNWhzQTl1ZGpGRncyNEJzNm5QNDJMeDRKcnlmalIwZi1FUmFuMFYtSGZoRW4zZW8tS0pHMlVsUnVPYWpRalRMSDRxZjFaRFNtaTREX3paWjVMX2NLZlBPVXNfZGx5VWVhUzRNalF0aTN3dw?oc=5",
+      "published": "2026-08-08T15:46:44+00:00",
+      "summary": "Call for election candidates to make 'concrete commitment to carers' Buttondown",
       "source": "Google News",
       "image": ""
     },
@@ -132,14 +180,6 @@
       "summary": "Report published following approval of policy principles",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326989-1.jpg"
-    },
-    {
-      "title": "How government plans to reduce harms caused by illegal drugs - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWXdtTjZHcWExdlhEYnctX2Zid3F5a2FsaUd3MFdFNXByVy1Ha1RUVXpNOEw2ZFdJbU9xaUVLb0JsanRuRVNLUHVHTTVWSGI0ZlVVdDhHQ1VMS1ZpZ0pLOGVaUGxiRFJPV3Z0bW4tUmhFZjN1UUloN1VvX1V3cEtjVmEyWWJLOUt6cVJNTzQzR2RhU3VqYTBVUW40VTRKVVpSc1Rjck9oRkNyZktwTUE?oc=5",
-      "published": "2026-08-08T10:51:00+00:00",
-      "summary": "How government plans to reduce harms caused by illegal drugs Manx Radio",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Farmer warns crop yields are likely to be quite a bit lower this year",
@@ -214,14 +254,6 @@
       "image": "https://mmo.aiircdn.com/5/6a1409459996d.jpg"
     },
     {
-      "title": "Further closures for filming of TT movie today - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT1I2NXlLbnFtb3FIRWFQYmo0eV9fUVY5TmZCcEtSd2RIMFBZUTJZSkpKVTlJeldWZk9keDNibnZuM2lxYTR6U0p2TGxYcjVfdzA0QkFUUDdKdGNsbnBRV1lrYjNoZTFfY3JGTzVHSmR1SHJWd1Z0ODhaS3QtX3pHQUZMSFhES2lRRjR3QXM0WEZ2Z2pm?oc=5",
-      "published": "2026-08-08T06:17:00+00:00",
-      "summary": "Further closures for filming of TT movie today 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Last day of the Royal Show",
       "link": "https://www.three.fm/news/isle-of-man-news/last-day-of-the-royal-show/",
       "published": "2026-08-08T06:10:48+00:00",
@@ -260,14 +292,6 @@
       "summary": "Local authority expects more than 120 residents will help build artwork",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/327058-1.jpg"
-    },
-    {
-      "title": "Two sections of TT Course to close for filming - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMDc3QWxCN0pXSUh6REZXT0FtcGNRVWpsYlBEUlpILUNfd0RjMTlIV0xOR2tpZlJtUE9kNHBwa002WGVWQ1NpOGU4emVjWjN6ODU5X1hCamQtTzNyc0ZEY1BiRjlXVUo4azFtQTdFWGNobzdVMUZ6M0pzQlF4MlU4YXdPR181ZFh0cnJUVXktZFlFcVBOdXE2TUI2cw?oc=5",
-      "published": "2026-08-08T05:23:00+00:00",
-      "summary": "Two sections of TT Course to close for filming Manx Radio",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Oil leak puts back-up freight vessel out of action - BBC",
@@ -422,14 +446,6 @@
       "image": ""
     },
     {
-      "title": "Snooker: Isle of Man gets set for 2026 Home International - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa1dleUN6WjVhYWcxZXh6SlR5cnk3TXhGa214ajB5NjVLWWlwRnB2eEtScjJqZzJYRlctenVHZHZKSFpKSUdfd29GNU5US3E1UGhhbFlheE0td3A1Y2Z6a194WXVENDQwMHZoN21MTXdNandEYWlfRTVseng5Rk12a0pEUVdHR29yV0p4NzUwQjJab0E2SnhKQzVIenFwM2tCSTZXUHFYd0Y2Zw?oc=5",
-      "published": "2026-08-07T11:30:00+00:00",
-      "summary": "Snooker: Isle of Man gets set for 2026 Home International Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Manx Utilities gets permission to put solar panels on NSC",
       "link": "https://www.three.fm/news/isle-of-man-news/manx-utilities-gets-permission-to-put-solar-panels-on-nsc/",
       "published": "2026-08-07T11:25:16+00:00",
@@ -574,28 +590,12 @@
       "image": "https://mm.aiircdn.com/3/593baaaa11311.jpg"
     },
     {
-      "title": "Series of Mountain Road closures for filming start today - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX2RUX2Z5WkVseXJXWlREUUJyX1p0VlJtaTNZS3hWdUhYQjhoMU9GNVVOdVkxMUxkWHI4TG16RFdKSkN1VnB4WDRvdV9GYXVqRUxKYlVjSlczWk14Zjc5T2FkaDBjcDNiZTFRS0JlYkgtNjVESUtNa2lyc1dtakEyWjh6aExxc2xmZ2pnS2JrOHc4emp3OHZGTE9ndnhpSXhOdHg4?oc=5",
-      "published": "2026-08-07T06:22:00+00:00",
-      "summary": "Series of Mountain Road closures for filming start today 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Largest cruise ship due to visit Island in 2026 arrives",
       "link": "https://www.manxradio.com/news/isle-of-man-news/largest-cruise-ship-due-to-visit-island-in-2026-arrives/",
       "published": "2026-08-07T06:14:17+00:00",
       "summary": "Zuiderdam has a capacity of 2,272 passengers",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326874-1.jpeg"
-    },
-    {
-      "title": "Largest cruise ship due to visit Island in 2026 arrives - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbHJuQXBpSVdTVEpMcUFRQ0x5UlJ3VUZQOXBaYmFwcUw4T2tnd3c5dXUtam1aYkdkUGJvQnNQN1ZkaW1QWUdLaGJ2OUplNmtQdUg1bHhDeUIydFA5NlZIakY2ZlRBWi10b0tCNlBPb214d0dzZXExOUtEenhUTzRKaXpPeGEwWEwtc0hIUXNCbng3bWVCNC1qNG5NMEpOd1NsQWdXSlFZYw?oc=5",
-      "published": "2026-08-07T06:14:00+00:00",
-      "summary": "Largest cruise ship due to visit Island in 2026 arrives Manx Radio",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Former primary school site can't be designated brownfield",
@@ -622,14 +622,6 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326873-1.JPG"
     },
     {
-      "title": "Mountain Road closures throughout today for filming - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSkJ6bVFidnBaWWlCNHhiTHh2d0g5ekxfNGMxZWk5T3NKb3R2VjVoc29KMU01Zi1USEJUM213dThjU1dzOE1idWJnclR3Wk02c2ZOWlRtRGl0eG40NlRFaHNnOS1EOVliWDlfM1FZLW1VMXZvYVhmeXdzZlE5dmY0blZ1MmZpQ1VCUXl3U25ueFY3bm14YXhEZFR3cWQ1TUpGY2c?oc=5",
-      "published": "2026-08-07T05:49:00+00:00",
-      "summary": "Mountain Road closures throughout today for filming Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "£12K raised by charity polo tournament",
       "link": "https://www.three.fm/news/isle-of-man-news/12k-raised-by-charity-polo-tournament/",
       "published": "2026-08-07T05:45:12+00:00",
@@ -644,14 +636,6 @@
       "summary": "Could the Island's sewers be turned into a way to spot illegal drugs and infectious diseases?",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6a756f820a54394f101.jpg"
-    },
-    {
-      "title": "Sewers could be used to find illegal drugs - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZFUwVzFlLVY5V1BiemNQUDVlUDBhTUJ0alhpUGNqOHE0NHNCcVNPTFdwWThnRGxYQUhPa3l3Q0ZCUlJxTjV2QW9SbUtYZWZyVG10QUJPSlpWdUtkamc1TmhmOW5uLS1EVHpXaHIyaXhtV1N3YTFvNmF6eDloY0kyb2ZQZlp3bG4wMnZ4bkpnYw?oc=5",
-      "published": "2026-08-07T05:39:00+00:00",
-      "summary": "Sewers could be used to find illegal drugs 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Cruise ship visiting today",
@@ -692,6 +676,14 @@
       "summary": "Hiking challenge to raise awareness and funds",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326678-1.jpeg"
+    },
+    {
+      "title": "RED DEVILS SET TO DESCEND ON CLASSIC TT - Isle of Man TT Races",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUVxaFZYdWN5eVU1M0tYRmVWWklsak5JV01pWFpETFQyUF9YUnJkSUlxNTBzemdPRjFSeGpDSjhGYVd6c2tjV0ItaGpzZ3d0R01melRHYnBoZGJyVjREQXViNVVWV3Z4YldRS0x5TFZya1EwT0FIOG8yM0hxUXI1NkxFVlZESjA?oc=5",
+      "published": "2026-08-06T18:19:49+00:00",
+      "summary": "RED DEVILS SET TO DESCEND ON CLASSIC TT Isle of Man TT Races",
+      "source": "Google News",
+      "image": ""
     },
     {
       "title": "Government sets out steps for reducing illegal drugs harm",
@@ -780,14 +772,6 @@
       "summary": "Police are warning people about cold-calling tradespeople after a number of reports.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/65eeb3b31c4e5.jpg"
-    },
-    {
-      "title": "Michael Dunlop will ride a Honda RS250 for Clive Padgett's team at the Classic TT on the Isle of Man. - Belfast News Letter",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPU1VhUUoxYzVLa29xVXpQejdyMjROZzM5STZ4WUtKWUQxM2VTeHdUOF9GQkc1dm41TnBfY3VWd1V0WTRWSnVtcUhCbkV3ZndLNW5ZZk1uQWxJQlA1Qmh2WDNjYTZDc21rbjVzenRMcU5LQXROQWNLX1hKM2h2eUw5M0pEbkd2eGR0dVJkZmJUWklrRkJERGJ2Zm5KVW5aTV95STMwNlR2dmw2RzFtZFdPNWU2Yjloa2ZfUkxNSVlZMUFYVnlhY2xSdmh6TDUwU1FGdF9RbEprQWYtc1Jfc2NFTlo1WF93UkxPbmxyRjhMS3VON0tucUdwaXhEbVo3MWRacWgzVVRTM1R6TG4wRUdRU2ZSbEhoLTFjMUpwOWhKMzd5THdmdlFyRmk2UzMwT0xlZmowTzgyUlk?oc=5",
-      "published": "2026-08-06T12:26:00+00:00",
-      "summary": "Michael Dunlop will ride a Honda RS250 for Clive Padgett's team at the Classic TT on the Isle of Man. Belfast News Letter",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Warning after reports of tradespeople cold-calling Island homes",
@@ -934,14 +918,6 @@
       "image": "https://mmo.aiircdn.com/5/65dc80ea6605c.jpg"
     },
     {
-      "title": "Being crowned fittest woman on Earth 'doesn't really seem real' - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80MGQ5TGVmQlczYWdHVXZJUFBaS3NjTFVoYnJCUldrd1BQRHdMZHJ0TlJqSEYzTUdMR3I4b0dsWERCbGszYmk2NTVjX21mSFpZOVRwUnlMTnZzWG9Y?oc=5",
-      "published": "2026-08-06T05:32:21+00:00",
-      "summary": "Being crowned fittest woman on Earth 'doesn't really seem real' BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "MNFU calls for next administration to tackle food security issues",
       "link": "https://www.manxradio.com/news/isle-of-man-news/mnfu-calls-for-next-administration-to-tackle-food-security-issues/",
       "published": "2026-08-06T05:25:28+00:00",
@@ -1006,14 +982,6 @@
       "image": "https://mmo.aiircdn.com/5/608258179b13d.jpg"
     },
     {
-      "title": "Isle of Man homes yet to complete census to be visited directly - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lTW5kS3ZFRGdHcnh2Z1N4LVJxWVhyU3hKOEk0akdUYXBfOWVSN2ZmMWtYdWVWYUhHUXczaEFCRUpxN2lCeGN0TzV4XzVUT2ZBcDJ6SW1iU096Yi1I?oc=5",
-      "published": "2026-08-05T15:07:22+00:00",
-      "summary": "Isle of Man homes yet to complete census to be visited directly BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Garff dog warden on tonight's agenda for commissioners",
       "link": "https://www.three.fm/news/isle-of-man-news/garff-dog-warden-on-tonights-agenda-for-commissioners/",
       "published": "2026-08-05T14:44:39+00:00",
@@ -1076,14 +1044,6 @@
       "summary": "Crews called out in the early hours",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326351-1.jpg"
-    },
-    {
-      "title": "LIGHTWEIGHT AND ULTRA-LIGHTWEIGHT CLASSIC TT SEEDING ANNOUNCED - Isle of Man TT Races",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUERKWjdYYmtoRzBSNFJNNHQ1MHVDWFliTXkzN0VIRDlCeFo0dTIyRU51eDAtMk1SdXJ1bWJUY2NUM3J2clZVUnNGLURka0hnWkpRel9kQlJoa0U0M0t3NDNtUkx4RWI5eEl0XzZsOXRNRG41VEJoYmpMOE9MeFlOQkk4N2hCNmNhdWVWUDNlbHhQMkNMR1JGdzlOY2pkcDRJU2ktdVJoNVAtNHBwdzRWYQ?oc=5",
-      "published": "2026-08-05T11:46:43+00:00",
-      "summary": "LIGHTWEIGHT AND ULTRA-LIGHTWEIGHT CLASSIC TT SEEDING ANNOUNCED Isle of Man TT Races",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Garden shed fire damages house in Laxey",
@@ -1158,14 +1118,6 @@
       "image": "https://mmo.aiircdn.com/5/65fd4503393ea.jpg"
     },
     {
-      "title": "Janet Neeson Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUpjWURPdG5XdWY0NU1hcGJOdVI4dVlEaWhSVmVmSlhwNjBKRk1NMEtXNjI5bjFlNXJkaGh6bFdZN1QwUFpfYWIwbEpsUGE5Uk4xbFVJS0tGLWRhYUxHRUtUbGJJRE9CT0pvb2JaTlBuREZTTmh1MndlYmQxUEVQanctN3BqTFVJRGNrRG5zRlA?oc=5",
-      "published": "2026-08-05T07:00:00+00:00",
-      "summary": "Janet Neeson Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Sidecar crash passenger says injury may be permanent",
       "link": "https://www.three.fm/news/isle-of-man-news/sidecar-crash-passenger-says-injury-may-be-permanent/",
       "published": "2026-08-05T06:52:22+00:00",
@@ -1228,6 +1180,54 @@
       "summary": "Plans to transform disused city centre plot into wellness retreat approved",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326139-1.jpg"
+    },
+    {
+      "title": "Raft of road closures as TT film production continues - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NZE9zUnpZbk9ocnRscGpKd3FNbnRsTHhUeWVjb1AyYS1mQzlMbjZJdGtENVgxN2s3bno1NWg0dTFRWVRrZmJLQVYxTGpGbFV1VkFlaUpyZ2xBZw?oc=5",
+      "published": "2026-08-05T05:17:39+00:00",
+      "summary": "Raft of road closures as TT film production continues BBC",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Grandad's dairy inspired 100-mile challenge moo-ving at pace",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/grandads-dairy-inspired-100-mile-challenge-moo-ving-at-pace/",
+      "published": "2026-08-05T05:15:45+00:00",
+      "summary": "Paul swaps milk tanker for walking shoes in aid of Alder Hey",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326128-1.jpg"
+    },
+    {
+      "title": "Warning of 'unpleasant smells' in Douglas",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/warning-of-unpleasant-smells-in-douglas/",
+      "published": "2026-08-05T05:12:35+00:00",
+      "summary": "Manx Utilities carrying out work on Loch Promenade pump station",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326146-1.jpg"
+    },
+    {
+      "title": "Liverpool sailings in doubt",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/liverpool-sailings-in-doubt/",
+      "published": "2026-08-04T16:07:13+00:00",
+      "summary": "Manannan crossings could be impacted by adverse weather",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326144-1.jpg"
+    },
+    {
+      "title": "Two ferry crossings under threat on Wednesday",
+      "link": "https://www.three.fm/news/isle-of-man-news/two-ferry-crossings-under-threat-on-wednesday/",
+      "published": "2026-08-04T15:33:32+00:00",
+      "summary": "The Steam Packet Company says bad weather is threatening two crossings tomorrow.",
+      "source": "Three FM",
+      "image": "https://mm.aiircdn.com/3/5de215dd3f10f.jpg"
+    },
+    {
+      "title": "Island Infrastructure Scheme reopens for next round of applications",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/island-infrastructure-scheme-reopens-for-next-round-of-applications/",
+      "published": "2026-08-04T15:16:34+00:00",
+      "summary": "Support is focused on developments that are not financially viable by industry standards without assistance",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326081-1.jpeg"
     }
   ]
 }
