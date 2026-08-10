@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-08-09T18:43:40.293252+00:00",
+  "generated_at": "2026-08-10T07:16:49.365186+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -29,6 +29,126 @@
     }
   ],
   "items": [
+    {
+      "title": "Well-known southern farm up for sale",
+      "link": "https://www.three.fm/news/isle-of-man-news/well-known-southern-farm-up-for-sale/",
+      "published": "2026-08-10T06:07:50+00:00",
+      "summary": "A well-known farm in the south of the Island has gone on the market.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a796b3494f55325e6b.jpg"
+    },
+    {
+      "title": "Another Mountain Road closure for filming today",
+      "link": "https://www.three.fm/news/isle-of-man-news/another-mountain-road-closure-for-filming-today/",
+      "published": "2026-08-10T05:56:52+00:00",
+      "summary": "There's a further closure on the Mountain Road for filming of the TT movie again today.",
+      "source": "Three FM",
+      "image": "https://mm.aiircdn.com/3/593baaaa11311.jpg"
+    },
+    {
+      "title": "New film to tell story of Dunlop brothers",
+      "link": "https://www.three.fm/news/isle-of-man-news/new-film-to-tell-story-of-dunlop-brothers/",
+      "published": "2026-08-10T05:48:20+00:00",
+      "summary": "A new film will tell the story of how Joey and Robert Dunlop reached the peaks of roadracing.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a79661169d684bf193.jfif"
+    },
+    {
+      "title": "New film to tell story of Dunlop brothers - 3FM Isle of Man",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQUpDdTE2UzhBZVhBZEV0MmZ5NHNfTk9kRzQ4Y091RVR1bENoY3FHYmY1bndBWnN0MGlhSHlqc2d0eVJudmxhUlBlaFJ3cF9qRDBMb2dpcHVybDByYUpvRW5GTUNCbW9JV1JMQ0VqeFRKbEd0eUtTcU5wS05qWjY5U3ZiSG5JTFFmbUpoNUxn?oc=5",
+      "published": "2026-08-10T05:48:00+00:00",
+      "summary": "New film to tell story of Dunlop brothers 3FM Isle of Man",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Road closed for telecoms mast installation today",
+      "link": "https://www.three.fm/news/isle-of-man-news/road-closed-for-mast-installation-today-and-saturday/",
+      "published": "2026-08-10T05:46:25+00:00",
+      "summary": "A road in Braddan is closed for the installation of telecoms masts today.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a79650397471e3d6c9.jpg"
+    },
+    {
+      "title": "A harm reduction approach to drugs 'isn't about being soft'",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/a-harm-reduction-approach-to-drugs-isnt-about-being-soft/",
+      "published": "2026-08-10T05:42:36+00:00",
+      "summary": "Speaking to Public Health as Action and Implementation Plan published",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/327079-1.jpg"
+    },
+    {
+      "title": "A harm reduction approach to drugs 'isn't about being soft' - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSUFCQmNjeU9pYjkySzNheHZPSGNyWEpEb2p4Zi1kcnpldlNBMGZXWVAxSEtOUmhKdUwwSTUzUGpmTFctdjJRZTV4TEI5c20yc0hrY2RfQmo1aXhObS1SZUZkc2I4NTgtaEFnQVpZX0htdUstejhpRF9pZ2V5VDlOMGVfTlFpX0RDUDYxekp6NmQtZ1pfLUd5SWZPZmZZUzBWYlU1YjVhTmo?oc=5",
+      "published": "2026-08-10T05:42:00+00:00",
+      "summary": "A harm reduction approach to drugs 'isn't about being soft' Manx Radio",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Money paid to DOI for road closures falls",
+      "link": "https://www.three.fm/news/isle-of-man-news/money-paid-to-doi-for-road-closures-falls/",
+      "published": "2026-08-10T05:41:11+00:00",
+      "summary": "The Department of Infrastructure says the amount of money it was paid for road closures last year fell by more than 16 per cent.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/65fa8e5f55ec7.jpg"
+    },
+    {
+      "title": "Cannan: 'This government has dealt with the most challenging circumstances in recent times'",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/cannan-this-government-has-dealt-with-the-most-challenging-circumstances-in-recent-times/",
+      "published": "2026-08-10T05:22:56+00:00",
+      "summary": "Chief minister reflects on his five years in post, and the 'churn' in the Council of Ministers",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/327337-1.jpg"
+    },
+    {
+      "title": "All on-Island GNAAS donations go towards costs of serving Isle of Man",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/all-on-island-gnaas-donations-go-towards-costs-of-serving-isle-of-man/",
+      "published": "2026-08-10T05:21:06+00:00",
+      "summary": "Charity needs to buy specialist equipment for its helicopter to travel across Irish Sea",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/327348-1.jpg"
+    },
+    {
+      "title": "All on-Island GNAAS donations go towards costs of serving Isle of Man - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSEViQ3dkRm1UaHNZbXBiNk5nSzVRd3hPYUZwaWZSWFpyNUFlTlBrNlpuRjZJcnE5SmhqQXhtSkMtUmF2dkVmUlJvNm84RUVZOE1pQnVzWXhZX0k0UmpIT244cjhIdkhxWVBYYnI1ZUJOV3IxVk8wVzBVeGdTTDJUdmRWakFoXy1SY0s1UkhWcFBnZVdNWUo4cjkyUmswN1F2TUFhMnMtbHNnUmtndGV1WVEwR2g0ZGh4Zmc?oc=5",
+      "published": "2026-08-10T05:21:00+00:00",
+      "summary": "All on-Island GNAAS donations go towards costs of serving Isle of Man Manx Radio",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Isle of Man residents chance to watch 'best' partial eclipse",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/isle-of-man-residents-chance-to-watch-best-partial-eclipse/",
+      "published": "2026-08-10T05:18:18+00:00",
+      "summary": "The next total eclipse the Island will see will be in 2151",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326301-1.jpg"
+    },
+    {
+      "title": "Isle of Man residents chance to watch 'best' partial eclipse - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdWRYY01nNHJzTjRXamRpRnhwRUlmV1hUQmVwUGYycUxjcmJiSVNyajhna0VGN2wtY2lCdE5BQVVNY09wa1JEY0VyamxOVFZCNkpZaU8xNU5fXzBFRFV5V0pkOTVyWW5yWkdIb2VrUGJuZmt3em5la2JSNS1ubTQzaWVUY09tdW5ZVWN0RjNGelUtR1ZLMmxVMzhPbHVSVUFvdzFHWG0zVV9zOHM?oc=5",
+      "published": "2026-08-10T05:18:00+00:00",
+      "summary": "Isle of Man residents chance to watch 'best' partial eclipse Manx Radio",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Section of Mountain Road closed for more TT film production",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/section-of-mountain-road-closed-for-more-tt-film-production/",
+      "published": "2026-08-10T05:16:23+00:00",
+      "summary": "Route closed from Barrule Park to Tholt-y-Will until tomorrow",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/327362-1.JPG"
+    },
+    {
+      "title": "Christmas lights switch-on in Manx capital to move to a Saturday - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iVUNVcTZ5WEh5aTNMQ05GZDhTR19KMWFFR3JNTC0zTGh4MWxraVJRaFVwMjQxY1VVbHdXMEd6aHBxeU4xNDZVczlPTkFDVDh1STJ1cENiZ3Q1NHZX?oc=5",
+      "published": "2026-08-10T05:04:31+00:00",
+      "summary": "Christmas lights switch-on in Manx capital to move to a Saturday BBC",
+      "source": "Google News",
+      "image": ""
+    },
     {
       "title": "Council pledging £16k to help DOI install sea wall art",
       "link": "https://www.three.fm/news/isle-of-man-news/council-pledging-16k-to-help-doi-install-sea-wall-art/",
@@ -68,14 +188,6 @@
       "summary": "Bill Dale from Beach Buddies says he's seen a big reduction in the amount of litter on Manx beaches",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/327352-1.jpg"
-    },
-    {
-      "title": "Isle of Man 'on top' of beach litter - manxradio.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY0JlRlB4dTZnbnNKYkVmbVJqd3Y3VVctY2E4MG1WZE9XS0ZJVThaZjRBdXdPcEJsdW9GbGlvTldqYTUyUm15OXBReXRCNmNkaUIwdkhFMmpHSUIyU000M2MtSFRoUnh5TkFhcHJEYzB6WDVxRVc5VHhCX09aTUN4ZEdGcGhOU2JoSFIw?oc=5",
-      "published": "2026-08-09T10:11:00+00:00",
-      "summary": "Isle of Man 'on top' of beach litter manxradio.com",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Red Devils to perform over Douglas",
@@ -726,20 +838,20 @@
       "image": "https://mmo.aiircdn.com/5/6a1409459996d.jpg"
     },
     {
-      "title": "TT movie means road closures from Friday - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ0ZLdkFnNmdSQ1BNLUpvSHhvZUxWaFZqOFVmQVNQX19SakZaOGRQWXJKUlFTZEQ1ZmZ2clZhSWZ1Y3VCcUFzeXJMbkJFTDlpem9DUTNaSWc0Z2J5OEYteHFhcU9xbXVrVWdlNjdHVDNidWFnZmJJTFJGc0M0cXZMVmRYYUJjWkN3ZkJ5Rg?oc=5",
-      "published": "2026-08-06T15:07:00+00:00",
-      "summary": "TT movie means road closures from Friday 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Are phone addicts spoiling film fans' fun?",
       "link": "https://www.three.fm/news/isle-of-man-news/are-phone-addicts-spoiling-film-fans-fun/",
       "published": "2026-08-06T14:31:46+00:00",
       "summary": "Are the Island's cinemagoers forgetting their etiquette?",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6a749ac9aa495a59b85.jpg"
+    },
+    {
+      "title": "Ferry ID checks could cut crime, passengers tell survey - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kdGdfV0paSTI3QWNPU1NTR0pqb2lyZFFFNUw3czBqeXdUeW1yVjY2ZUFoaXNPMDdsNktjOE5Fa3hXai1WaDUwOFFEV1BZcVNpMW4zY1AzZ1hCdw?oc=5",
+      "published": "2026-08-06T14:14:12+00:00",
+      "summary": "Ferry ID checks could cut crime, passengers tell survey BBC",
+      "source": "Google News",
+      "image": ""
     },
     {
       "title": "Teenager announces Glenfaba and Peel candidacy",
@@ -780,14 +892,6 @@
       "summary": "'Always ask for identification'",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326660-1.jpg"
-    },
-    {
-      "title": "Wrightbus Demonstrates 6-Metre Battery-Electric Bus on the Isle of Man - Bus-News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUJ4YkZkWnRIUzBjWUtlLUZtQVBOSE1NMmZGd0Z0SGpUa1pTSWVzQjh6Zzhud1Vkc056dVh6cmRzR1R1QmJKZFNwR0hyakx5OGRCeUFPRUdKX1Y3cEJPcmU2cUhtcmI5Nk5OOFFwWVV2SVpLbl93cjZReVhkbWdxeDZHWXVHV3lMTDQybDVhak9sUFZLMzB3?oc=5",
-      "published": "2026-08-06T12:17:06+00:00",
-      "summary": "Wrightbus Demonstrates 6-Metre Battery-Electric Bus on the Isle of Man Bus-News",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Manx Businesses Celebrate Success at Great Taste Awards 2026",
@@ -1124,110 +1228,6 @@
       "summary": "A sidecar rider who was involved in a serious incident during this year's TT says it's left him with a permanent injury.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6a72dd8a7f413efdbc6.jpg"
-    },
-    {
-      "title": "Part of Mountain Road to shut this evening",
-      "link": "https://www.three.fm/news/isle-of-man-news/part-of-mountain-road-to-shut-this-evening/",
-      "published": "2026-08-05T05:42:16+00:00",
-      "summary": "Evening maintenance before the Manx Grand Prix will shut a section of the Mountain Road later.",
-      "source": "Three FM",
-      "image": "https://mm.aiircdn.com/3/587c72174da07.jpg"
-    },
-    {
-      "title": "Don't worry if city smells today, says MU",
-      "link": "https://www.three.fm/news/isle-of-man-news/dont-worry-if-city-smells-today-says-mu/",
-      "published": "2026-08-05T05:40:07+00:00",
-      "summary": "If you're wondering what the whiff is in Douglas today, Manx Utilities says it's just maintenance work.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/682d6a8ea1cc2.jpeg"
-    },
-    {
-      "title": "More than a third of Tynwald Day petitions ruled out",
-      "link": "https://www.three.fm/news/isle-of-man-news/more-than-a-third-of-tynwald-day-petitions-ruled-out/",
-      "published": "2026-08-05T05:38:22+00:00",
-      "summary": "More than one in three petitions presented on Tynwald Day this year have been ruled out of order.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/68638d56785e5.jpg"
-    },
-    {
-      "title": "Charity founder running for office",
-      "link": "https://www.three.fm/news/isle-of-man-news/charity-founder-running-for-office/",
-      "published": "2026-08-05T05:36:16+00:00",
-      "summary": "A charity founder has announced she's standing in the general election.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6a72cb6203b5afa8605.jpg"
-    },
-    {
-      "title": "Green Party asks for 'explanations and confirmations' over missed targets",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/green-party-asks-for-explanations-and-confirmations-over-missed-targets/",
-      "published": "2026-08-05T05:23:21+00:00",
-      "summary": "Open letter to DEFA questions accountability",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326150-1.jpg"
-    },
-    {
-      "title": "NI fund should be treated as 'sacrosanct' says treasury minister",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/ni-fund-should-be-treated-as-sacrosanct-says-treasury-minister/",
-      "published": "2026-08-05T05:21:18+00:00",
-      "summary": "Thomas says people shouldn't be 'troubled' by it",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326156-1.jpeg"
-    },
-    {
-      "title": "\"We're hoping to create something brand new for the Isle of Man\"",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/were-hoping-to-create-something-brand-new-for-the-isle-of-man/",
-      "published": "2026-08-05T05:18:11+00:00",
-      "summary": "Plans to transform disused city centre plot into wellness retreat approved",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326139-1.jpg"
-    },
-    {
-      "title": "Raft of road closures as TT film production continues - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NZE9zUnpZbk9ocnRscGpKd3FNbnRsTHhUeWVjb1AyYS1mQzlMbjZJdGtENVgxN2s3bno1NWg0dTFRWVRrZmJLQVYxTGpGbFV1VkFlaUpyZ2xBZw?oc=5",
-      "published": "2026-08-05T05:17:39+00:00",
-      "summary": "Raft of road closures as TT film production continues BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Grandad's dairy inspired 100-mile challenge moo-ving at pace",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/grandads-dairy-inspired-100-mile-challenge-moo-ving-at-pace/",
-      "published": "2026-08-05T05:15:45+00:00",
-      "summary": "Paul swaps milk tanker for walking shoes in aid of Alder Hey",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326128-1.jpg"
-    },
-    {
-      "title": "Warning of 'unpleasant smells' in Douglas",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/warning-of-unpleasant-smells-in-douglas/",
-      "published": "2026-08-05T05:12:35+00:00",
-      "summary": "Manx Utilities carrying out work on Loch Promenade pump station",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326146-1.jpg"
-    },
-    {
-      "title": "Liverpool sailings in doubt",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/liverpool-sailings-in-doubt/",
-      "published": "2026-08-04T16:07:13+00:00",
-      "summary": "Manannan crossings could be impacted by adverse weather",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326144-1.jpg"
-    },
-    {
-      "title": "Two ferry crossings under threat on Wednesday",
-      "link": "https://www.three.fm/news/isle-of-man-news/two-ferry-crossings-under-threat-on-wednesday/",
-      "published": "2026-08-04T15:33:32+00:00",
-      "summary": "The Steam Packet Company says bad weather is threatening two crossings tomorrow.",
-      "source": "Three FM",
-      "image": "https://mm.aiircdn.com/3/5de215dd3f10f.jpg"
-    },
-    {
-      "title": "Island Infrastructure Scheme reopens for next round of applications",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/island-infrastructure-scheme-reopens-for-next-round-of-applications/",
-      "published": "2026-08-04T15:16:34+00:00",
-      "summary": "Support is focused on developments that are not financially viable by industry standards without assistance",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/326081-1.jpeg"
     }
   ]
 }
