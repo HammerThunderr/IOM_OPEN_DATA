@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-08-19T06:30:56.154101+00:00",
+  "generated_at": "2026-08-19T18:37:46.616656+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -30,20 +30,316 @@
   ],
   "items": [
     {
+      "title": "Mauro Poncini, a motorcyclist from Ticino, dies at age 29 - bluewin.ch",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYUZDVEp6RU1fZ3hIbkI1ajdFRDFpdGlVRGkzWENQOUNzU05WQi1id2dfSm83NHBkUlNuOVNxMUhISlJNYWtZcDd4ZksxRW1QSEZpajdRVXg1ZzNDTzk3NUtDZEV2LU5Sb01NMFhrc3NkMHBBLVQtZmRPSm82cW91ZVBJQmU3MmNyLS00TVRzMVhxZndyZVh5MUJ5ODUtN2M?oc=5",
+      "published": "2026-08-19T18:36:08+00:00",
+      "summary": "Mauro Poncini, a motorcyclist from Ticino, dies at age 29 bluewin.ch",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Manx MGP racer dies after qualifying incident",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/manx-mgp-racer-dies-after-qualifying-incident/",
+      "published": "2026-08-19T18:35:00+00:00",
+      "summary": "MGP organisers confirm death of Sam Naughton",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/330327-1.JPG"
+    },
+    {
+      "title": "Manx Grand Prix rider Mauro Poncini dies in qualifying crash - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHlTTzZvanc2eUxqTEZOaTFlUjRkeE1VNHBnUHQxdVFmdmlNbmlINGZ1OElZQ21xdFVuSmo1dXNLWHZYZFk1MFJMZmdLNmVXUld2SEpiVUF1cks0ZURwRUp5dE1oYV9hb0Jkdno4enJPRWRBZkh4RlQyRUR5QVZ2bmZ3VFFCbVBzMjdyRG50Z3hXSmpxcjFXQy11U0xTR0xFbk00QW53?oc=5",
+      "published": "2026-08-19T18:20:00+00:00",
+      "summary": "Manx Grand Prix rider Mauro Poncini dies in qualifying crash The Independent",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Swiss Racer Mauro Poncini Dies In Manx GP Crash - Motorcycle.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcjlnVmFfVWZUR0RQS3BGRUt5RVlXZGRLaXJMUmlwR28zMVI4Wjl4N2NIY205d3J2bFN1bEdBbHhjbzlhLXJjdXNjS2dQYXgzRWlxRmVfTjllM25Pb2wyc2dmR1JzTDdSSEx0VUZHak5Pam1oUEdRU2hFd0dGRGh2bTZ3WnlTS0xRSEhKN0s1STBVMnJyVDNIamFn?oc=5",
+      "published": "2026-08-19T18:10:59+00:00",
+      "summary": "Swiss Racer Mauro Poncini Dies In Manx GP Crash Motorcycle.com",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Evening Manx Grand Prix qualifying sessions cancelled due to rain - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2blFHSExfYWZPV09yVk1NeFk1UFZublB0YnVvVGk0SWZ4dzVoMi1vWVpETFBYQ3NPakJvcEUtTklDM3Z6bTZuWXktMzFiNGliTE5JamhOV0hyaTVY?oc=5",
+      "published": "2026-08-19T17:43:29+00:00",
+      "summary": "Evening Manx Grand Prix qualifying sessions cancelled due to rain BBC",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "ANDERSON QUICKEST AS CLASSIC TT QUALIFYING BEGINS - Isle of Man TT Races",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWTBCbnpZU2YzcEdZRTNqdTVjLTlTVkhyeWJmOGwwQS1tbUdlOWFPbFdTT015SEpnSlF2bExDZ1RZQlV5WnJOSnBYQ2x1OGltc0pmSWNuQTR4TTJ3NVU2NVdMdDUyUTZoYTFSS2JOWmNPTHF5ZVFkYzVSS29Pd3NxQUUzUlY5NUZrNHFzaWMyeTZ3TmxjREtkOTY3bEc4VG8?oc=5",
+      "published": "2026-08-19T17:31:57+00:00",
+      "summary": "ANDERSON QUICKEST AS CLASSIC TT QUALIFYING BEGINS Isle of Man TT Races",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Competitor killed in Manx Grand Prix crash named as Mauro Poncini - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTZjdfQmJwQ1JxY2xjcTFkWUZUcllnay1BYUxHem5vNmtMRWRHWXBoTjBIQlR1ektQTDRSbmpWRF9vc2ZQd2tBcFplODJyMFFwNFdHdmRSU0Rqdw?oc=5",
+      "published": "2026-08-19T17:03:45+00:00",
+      "summary": "Competitor killed in Manx Grand Prix crash named as Mauro Poncini BBC",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Manx Grand Prix pays tribute following death of rider",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/manx-grand-prix-pays-tribute-following-death-of-rider/",
+      "published": "2026-08-19T16:09:51+00:00",
+      "summary": "Mauro Poncini died following qualifying incident last night (18 August)",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/330301-1.jpg"
+    },
+    {
+      "title": "Keep your sticky fingers off our honeypots!",
+      "link": "https://www.three.fm/news/isle-of-man-news/keep-your-sticky-fingers-off-our-honeypots/",
+      "published": "2026-08-19T15:33:58+00:00",
+      "summary": "A local honey producer has appealed to security staff at the airport to bee-have!",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a85c9becfce0c3e7ef.jpg"
+    },
+    {
+      "title": "Mauro Poncini is the rider who died at the Manx Grand Prix; he was 29 years old - GPOne.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObkM3aHk3dTFfbDJFWTU0bTlXYzJtTGtSQnVWWmdVUVBxVU54OTBPOE5SRE42bjE1VnBZbVl3Uzc0Y2dLc25LTzFILW5fWWpoZWU3aXhJSk9rNDREZWl1Uk14VW5oRjZsZGI3Q0hBNnN4aVJxYzljbTVadTd5cEdYdkx5VG0yaFVUanY2amc3dC1ldVg1Ri1pQ1pFcmkteXdoQ0o3b1ZZWVJuRXUyYm9zX2l5U0tISXNYMU1oWE9oNWdtUQ?oc=5",
+      "published": "2026-08-19T15:30:55+00:00",
+      "summary": "Mauro Poncini is the rider who died at the Manx Grand Prix; he was 29 years old GPOne.com",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Tonight's MGP/Classic TT qualifying cancelled",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/tonights-mgp-classic-tt-qualifying-cancelled/",
+      "published": "2026-08-19T15:26:39+00:00",
+      "summary": "Session scrapped due to forecast poor weather",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/330289-1.JPG"
+    },
+    {
+      "title": "Tonight's MGP practice cancelled because of weather",
+      "link": "https://www.three.fm/news/isle-of-man-news/tonights-mgp-practice-cancelled-because-of-weather/",
+      "published": "2026-08-19T15:26:37+00:00",
+      "summary": "Roads are now reopened around the TT course - and won't be closing again today.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a1ee0b812731.jpeg"
+    },
+    {
+      "title": "Swiss rider Mauro Poncini (29) dies in a crash during Manx GP practice - SPEEDWEEK.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb3Q2aUd6ekw1R1A5YUs0RmVpcWtEVjJNOUhZZjd3d2NuenBSZXVGbk4ya24wR3hYbHd2bDJmTXpQQ3ZldlRJLUdrRGdfbXlsUWkzRkZIczFua05qQWJ4THFOLWY4T3lLcXZoMVRwM0U4OEM1SS0wM0JsV0szbXZ0S0RBOHBuN1FJRnp5dnBueVdob3UwVkZvYjYxS20wTWgyQU9hVEV0WEV0YVFDbUplV0VxMndMYmdEQ1E?oc=5",
+      "published": "2026-08-19T15:18:43+00:00",
+      "summary": "Swiss rider Mauro Poncini (29) dies in a crash during Manx GP practice SPEEDWEEK.com",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Tributes paid to MGP racer who died yesterday",
+      "link": "https://www.three.fm/news/isle-of-man-news/tributes-paid-to-mgp-racer-who-died-yesterday/",
+      "published": "2026-08-19T14:24:07+00:00",
+      "summary": "Tributes are being paid to a rider who lost his life in a crash during last night's Manx Grand Prix practice.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a85bc02d09d114dad1.jpg"
+    },
+    {
+      "title": "Tributes paid to MGP racer who died yesterday - 3FM Isle of Man",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTjBCQ1ZEOEw2T3cyNTAxSmhBbFRtU0NYSTNyZk53bEtLZUxjbHZHQUx2dEpvTl9pRFctMmNsUGpDUFl2bGYyT2VUZnBrcEVsa2o1OVZrMUtMVThsenRuNElSa2tLalRJMUZkT3NjQS1SUlBzZGs5RF9vZ2ozdlpWWmQ4R0d1V1VzWHFWSlNVdl94YkE?oc=5",
+      "published": "2026-08-19T14:24:00+00:00",
+      "summary": "Tributes paid to MGP racer who died yesterday 3FM Isle of Man",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Fury's fury over gambling sites ripoff",
+      "link": "https://www.three.fm/news/isle-of-man-news/furys-fury-over-gambling-sites-ripoff/",
+      "published": "2026-08-19T14:09:20+00:00",
+      "summary": "If you're running a dodgy online casino using his name, the Island's most famous boxer says he's coming for you!",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/62ad7cc4b00c5.jpg"
+    },
+    {
+      "title": "Swiss Moto pays tribute to racer with 'extraordinary heart'",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/swiss-moto-pays-tribute-to-racer-with-extraordinary-heart/",
+      "published": "2026-08-19T14:00:00+00:00",
+      "summary": "Federation confirms death of rider in MGP qualifying",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/330242-1.jpg"
+    },
+    {
+      "title": "Nine candidates to stand in Glenfaba and Peel",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/nine-candidates-to-stand-in-glenfaba-and-peel/",
+      "published": "2026-08-19T13:45:00+00:00",
+      "summary": "Mark Cleator declares for new political party, Change",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/330175-1.jpg"
+    },
+    {
+      "title": "Ginger tomcat strikes terror into Onchan residents",
+      "link": "https://www.three.fm/news/isle-of-man-news/ginger-tomcat-strikes-terror-into-onchan-residents/",
+      "published": "2026-08-19T13:26:39+00:00",
+      "summary": "Residents in Onchan are pleading for a cat owner to get their purr-petrator snipped after a series of attacks in the village.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a85aecbcf301d1f55c.jpg"
+    },
+    {
+      "title": "Higgins is spot on as FC Isle of Man go top - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzItME54b3Q1SXZzcUp0NXpuMy1PbTFiUE5NYjVlSW9IRm1QR3hFVXctNkd2aFZqV2Z1QnQ3U0xsM3VIeVdNdjdnUk5GcDdYVUFVNWFLNE5pRUxtazIzckxWbU5yRkRWQ3V2N3dMZ1lYekgwalg2TzAwc0l2czBKR256SGxMRFpPckhfNFBHX1E2VEhNLU1v?oc=5",
+      "published": "2026-08-19T13:21:01+00:00",
+      "summary": "Higgins is spot on as FC Isle of Man go top Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Plans for homes on empty site in West",
+      "link": "https://www.three.fm/news/isle-of-man-news/plans-for-homes-on-empty-site-in-west/",
+      "published": "2026-08-19T12:35:05+00:00",
+      "summary": "A disused site near Peel harbour could see two houses built on it.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a85a2ca47933e90626.jpg"
+    },
+    {
+      "title": "Rider killed in Manx Grand Prix qualifying crash - Australian Motorcycle News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczJ4Tk0zOHY3UzRmbW5VdHBFR3gyZ0hhYUZmMnV1NHdzQ3NhT1hrVUpiM3pSeTBKeUFod2NRWm5sTm5CQWhpdXRSNFkwWDE4aktWTGs5S0cwRG5kMnZpSVNDbDJ4UFZ4LWlhWGlMSU5zNjdPZFZ2SFRxU0g0WGRYTmY2OHM1dw?oc=5",
+      "published": "2026-08-19T11:45:38+00:00",
+      "summary": "Rider killed in Manx Grand Prix qualifying crash Australian Motorcycle News",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "What do people in Peel want from a government?",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/what-do-people-in-peel-want-from-a-government/",
+      "published": "2026-08-19T11:44:07+00:00",
+      "summary": "Tonight's meeting is at the Centenary Centre from 7pm.",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/330162-1.JPEG"
+    },
+    {
+      "title": "Popular MGP viewing venue closes for remainder of qualifying",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/popular-mgp-viewing-venue-closes-for-remainder-of-qualifying/",
+      "published": "2026-08-19T11:43:40+00:00",
+      "summary": "Whitehouse in Kirk Michael says schedule changes are affecting preparations",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/330159-1.png"
+    },
+    {
+      "title": "Fifth candidate to stand in Douglas East",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/fifth-candidate-to-stand-in-douglas-east/",
+      "published": "2026-08-19T11:39:46+00:00",
+      "summary": "Andrew Forster standing for new political party, Change",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/330173-1.jpg"
+    },
+    {
+      "title": "Walkers asked to take care during plantation's rally repair works",
+      "link": "https://www.three.fm/news/isle-of-man-news/walkers-asked-to-take-care-during-plantations-rally-repair-works/",
+      "published": "2026-08-19T11:38:45+00:00",
+      "summary": "The Department of Environment, Food and Agriculture is asking people to take care in an Island plantation this week.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/688b2c78aab88.jpg"
+    },
+    {
+      "title": "Bakers Basco returns to Isle of Man after nearly two decades - British Baker",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFo5OTcybmxydy1fOXlPVWxFRDFFcmJ4WEVMV254THV3VDE2S1NvNDFaNjdIN1VzdmRPVTZwVGV5eUNGeUt4NFRVZHE5OGpkaWpuWUdrYTBhSmU2dHhheXdpVXhFeE5jN3VQSkkzazBpZWdsaWpHQl9Kc1FzZ2E5bENTczlqQTliSHEtR0hIYVFEQnlSRE92cEZMbGpBQVZLTElWLU4yZTNoME1CcFBF?oc=5",
+      "published": "2026-08-19T11:05:27+00:00",
+      "summary": "Bakers Basco returns to Isle of Man after nearly two decades British Baker",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "‘You were caught speeding’: Police warn over scam text sent across the Isle of Man - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXJ0c05abVNQdHVzTy1pSzJYTzVRaEZ2V0FxdzZLZTltS3Z6TmxXekJWeVBXZm9IZ3B1aWtJRExTZ1gtaHBiWXljdWJRQ3VXQ1lSY3J0NjFyUHBkY0J4a2hibkVXSmV5UkdZYkFBVVBrRUZRM3MyWlNLWl8xSXk2dmJuUE1zT2dJWVQxRmJiSkQ2QkxTUlBZVzA2SnVSOUhnX3BQNlpJd3BxYzJHUTI3RW5ZTmtSSkd1a3c?oc=5",
+      "published": "2026-08-19T09:45:22+00:00",
+      "summary": "‘You were caught speeding’: Police warn over scam text sent across the Isle of Man Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Bus Vannin warns of disruption during MGP contingency day",
+      "link": "https://www.three.fm/news/isle-of-man-news/bus-vannin-warns-of-disruption-during-mgp-contingency-day/",
+      "published": "2026-08-19T09:27:37+00:00",
+      "summary": "Bus Vannin says a number of its services may be disrupted today with a contingency practice session for Manx Grand Prix.",
+      "source": "Three FM",
+      "image": "https://mm.aiircdn.com/3/5d4bb04aa4089.jpg"
+    },
+    {
+      "title": "Sanctions Lists Update: ISIL (Da’esh) and Al-Qaida",
+      "link": "https://www.gov.im/news/2026/aug/19/sanctions-lists-update-isil-daesh-and-al-qaida/",
+      "published": "2026-08-19T09:27:25+00:00",
+      "summary": "This news release is issued to publicise the amendment of twenty-one entries on the UN sanctions list. On 18 August 2026 the United Nations Security Council updated the UN Consolidated List . Further information can be found in the Annex to this Notice . What you must do in relation to amendments If, through your sanctions compliance programme, you identify a possible match to a person or entity included in the Sanctions Lists, and you hold or otherwise deal with funds or economic resources of t...",
+      "source": "Isle of Man Government",
+      "image": ""
+    },
+    {
+      "title": "Nearly £42k in government backing for buy local schemes",
+      "link": "https://www.three.fm/news/isle-of-man-news/nearly-42k-in-government-backing-for-buy-local-schemes/",
+      "published": "2026-08-19T09:04:22+00:00",
+      "summary": "Enterprise Minister Tim Johnston says his department has backed buy local schemes to the tune of almost £42,000 this year.",
+      "source": "Three FM",
+      "image": "https://mm.aiircdn.com/3/131611.jpg"
+    },
+    {
+      "title": "Wakefield racer Hall honoured to be first off in Isle of Man Classic TT - Wakefield Express",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdld2dWNmbzZrVC1yMUZ6eDVjYUk3QUt0cHJ4YXVoRGlDeTJPNEd4V01ITFBQamJzTFEzd3g3UnFRUDZiV214NWZlQV9ZaU1aLVpEaVBCY05teGtIZ01YeWs0NTBwd0o3YldkQ3BaSUN1NElMeWZtbS1pVDkydUkyNjFScnhJY0U4WXJ5UzUzRXNvWkxmQ2hWbjlZaVFkN2RLU3VPeFY5Y2RvZVlXejNyUlp0Y0h2VDNzR0xZbE14cFlISmIxNlJ1Wnc4aGc?oc=5",
+      "published": "2026-08-19T09:00:00+00:00",
+      "summary": "Wakefield racer Hall honoured to be first off in Isle of Man Classic TT Wakefield Express",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Eighth candidate declares for Arbory, Castletown and Malew",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/eighth-candidate-declares-for-arbory-castletown-and-malew/",
+      "published": "2026-08-19T08:56:12+00:00",
+      "summary": "Andrew Corrin to stand in September's General Election",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/330148-1.jpg"
+    },
+    {
+      "title": "Cruise ship to visit today",
+      "link": "https://www.three.fm/news/isle-of-man-news/cruise-ship-to-visit-today1/",
+      "published": "2026-08-19T08:46:24+00:00",
+      "summary": "A cruise ship carrying more than 300 people will be making a stop in the Isle of Man today.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/69c3cc1787431.jpg"
+    },
+    {
+      "title": "Rider dies after multi-rider incident in Manx Grand Prix qualifying - Crash.net",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY2RVSHkyc2Z5VVVjVllvcC1TT1JKaDRDTXA3cUVWaUkxcFZCcVVwMUhZRExWbXAwQUdUdkU2WE1sMC03akhnRnFNVExpOGVKam0wSlN4eUJnUE5PdjRZLUhyYWIxZEU4cUd3VzFNdUdRLVFHb044aHZ2cFk5NUlnT1d3X1NPZk9EWTNhdVRyY0F3MzBXTmJfRFp3VkdjTzhiRUJLaDZaNA?oc=5",
+      "published": "2026-08-19T08:15:35+00:00",
+      "summary": "Rider dies after multi-rider incident in Manx Grand Prix qualifying Crash.net",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Police warning over speeding ticket text scam",
+      "link": "https://www.three.fm/news/isle-of-man-news/police-warning-over-speeding-ticket-text-scam/",
+      "published": "2026-08-19T07:43:29+00:00",
+      "summary": "Police are warning about a scam involving fake texts about speeding tickets.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a855e599d067d60326.jpeg"
+    },
+    {
+      "title": "Manx Grand Prix competitor dies after qualifying incident with another rider - Visordown",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSXRxMVV4LWFnY0lyLWJWZ0lPQVNqTFFTR0pkRDdGdTBvRmh0UGZpQmdGYmREa3RSU2c3UXp4Y1A1SXc5M1RFeTdFX3g4Qm5UYlBLSV9jVjZYcThwR3JfNjlOMTBrYkZWQlZRQjNaODZjZTVsMWFNbmxqZ0pnakpHcXY1SHFNam9KR0N4RktoaGdLbEEwbVNHYlZjdzN4XzNSVE04eQ?oc=5",
+      "published": "2026-08-19T07:34:30+00:00",
+      "summary": "Manx Grand Prix competitor dies after qualifying incident with another rider Visordown",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Warning for MGP motorhome visitors",
+      "link": "https://www.three.fm/news/isle-of-man-news/warning-for-mgp-motorhome-visitors/",
+      "published": "2026-08-19T07:23:00+00:00",
+      "summary": "Motorhome drivers are being warned not to stay overnight on Douglas Promenade.",
+      "source": "Three FM",
+      "image": "https://mm.aiircdn.com/3/58e1f48b8d4c0.jpg"
+    },
+    {
       "title": "Island resident Fury's show shortlisted for new award",
       "link": "https://www.three.fm/news/isle-of-man-news/island-resident-furys-show-shortlisted-for-new-award/",
       "published": "2026-08-19T05:47:37+00:00",
       "summary": "Island resident Tyson Fury's reality show has been nominated for a new prize in the UK's National Television Awards.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/69ba8ec9bb074.jpg"
-    },
-    {
-      "title": "Rider dies after crash at Manx Grand Prix | ITV News - ITVX",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSVFYazQybnVJTjJJQUdJZTFTYzlxOU9RdndkSTZvRzJKLWlhLWppLUY2aWs1Z0QtYkkwdVFPTEZjT09QTFdKeW1QSFRaTE93a3NhVUg5LXJoRXFYcUVSS0ZCU3BRZ3lYb2RraFZwXzJZT1VSUGc1eWJNSjVQbXNjRFIzeGhnOWdWRGJ3SGx3?oc=5",
-      "published": "2026-08-19T05:46:12+00:00",
-      "summary": "Rider dies after crash at Manx Grand Prix | ITV News ITVX",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Two practice sessions planned later for contingency day",
@@ -118,10 +414,10 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/329849-1.jpg"
     },
     {
-      "title": "Race fans urged to secure their bikes on trip to Isle of Man - BBC",
+      "title": "Race fans urged to secure their bikes on trip to island - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FV281cFAxZXFxWk14RlV2N0x2aHZ3YnRZUE1YeUVNSVpLeU9NX05JcE5OM1E4RTJDOF8tdmF4Nm41Q2l5S2JuNmduUUo3RUFWaEZFM3dYb094UQ?oc=5",
       "published": "2026-08-19T05:15:24+00:00",
-      "summary": "Race fans urged to secure their bikes on trip to Isle of Man BBC",
+      "summary": "Race fans urged to secure their bikes on trip to island BBC",
       "source": "Google News",
       "image": ""
     },
@@ -135,17 +431,9 @@
     },
     {
       "title": "Rider dies after Manx Grand Prix qualifying crash - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GRXd2Z3QzRHZvSDVIWDhaS2xoa1hGR21BM20xOUVJUGhMZ1A1OTNkNDR6UnFFXzYyek1FaVJfU0JyRFFDY1czVlRnTXc5b3VJYXdiTTkyZHU1dWkw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1MjVIQWRqUmNLQnJHMDhMcDBoMnZITFJRbHV6NFdOa1hBU3ByRmY1SFBJLVAtVXNrc0c2Z1dHaVZVbkNhdEktM0dINTlPR3VlVEpvMHpYSV96Zw?oc=5",
       "published": "2026-08-18T22:10:40+00:00",
       "summary": "Rider dies after Manx Grand Prix qualifying crash BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "MGP practicing called off after red flag - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGNqQTdFcVRSbmY0enBvQjJnd3VITFFNLVJ0X2hYai1EV1NNTWx0THpNN1pYNHNWUnR2WGp2Vmx0cVpYVWNSRkNJYS0xVkdWQzNMRjB6OE90TXBtcHZUam11cV9fcVZmN1VqVjk3SHp0LV8tSEVlUU9hbHRnRTAwczJraXBWdWdocHladg?oc=5",
-      "published": "2026-08-18T22:06:46+00:00",
-      "summary": "MGP practicing called off after red flag 3FM Isle of Man",
       "source": "Google News",
       "image": ""
     },
@@ -162,14 +450,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdl9oVzBjczNhX1dXT0psS0hTVXRPMWRhODRTUFktYk91MHNHS0o1NHNCbm5CYmJkUUxDNU5TNnB2N3BXeUxwdWVKbnd0X1NrZjBtbHRtNzBVZGpyQ3NfTUd2UTA5MGdHVDlDQTlFNnczRzBBdmZ5Vm5RajlLUEJ6N3RobEVFNWpLNDVpLQ?oc=5",
       "published": "2026-08-18T21:20:00+00:00",
       "summary": "Manx Grand Prix crash claims rider's life 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Red flag halts Manx Grand Prix qualifying session - Manx Radio Motorsport",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONlNTdWVxMnlpd21hTU1UekpGR1AzcDF2enJONXEwdDR3U0xfb2h3eERoTnN4eDE1SG1hVkhfQUt1VlFCaGduRWZRQVRvNGRsek1WdXg0ci16bWRDVVI4ZGhUUzE5aWQzalhtY290OFlOVEhDQ09QVUlrejNQVFRuVG9zak5DSjA3c2E3dEw4T0dlX3FnNEt0QnZHd2RpcFRwU0lPMUtCQzliQQ?oc=5",
-      "published": "2026-08-18T21:16:48+00:00",
-      "summary": "Red flag halts Manx Grand Prix qualifying session Manx Radio Motorsport",
       "source": "Google News",
       "image": ""
     },
@@ -223,17 +503,9 @@
     },
     {
       "title": "Extra road closures as contingency MGP and Classic TT session used - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UdzlUWml5c1M0Z3FfeXBsbHg4Nk5pdU1OY2lBTGlwRWZxMy1MUlNUakNiOG9fa01SZFJ6NTVZdmI3dVhjODBGQ3ZZUUxvR2pVdXNyMVl2OVRBdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZQV9vX1FGU21iWjZRdVRHaXM4SUVCNEFTZWxXQlVnRHpqbkRRQzVjbDAxdGtIb3IyUkN5d0hoUjFUR1NHUDBNTy1aZHBnMm5sMUJucTJNM0FOYWxr?oc=5",
       "published": "2026-08-18T15:16:30+00:00",
       "summary": "Extra road closures as contingency MGP and Classic TT session used BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Isle of Man submits first UNESCO Biosphere review in 10 years - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN1RWRTNBM2FMX01XNW4wZnVMeVBFMk1QWV9vT3BjVzlGanA3Z0Zad1YxblNfcUpZTk80OFhGOTNEdnJib3ZFN0tvZ2tUWkZjclp0UHpoTEVSdVVuZzFZSnJGNHpRcHFtNjh1eE1jeFpxOTBlckt0YUkwQXI2TzV6c3oyengxLVJ2MGUzRDNEYnlUWEYzZ0tyMUR2ZEZEbU0yMG9fOW9PRmdidTQ?oc=5",
-      "published": "2026-08-18T14:31:01+00:00",
-      "summary": "Isle of Man submits first UNESCO Biosphere review in 10 years Isle of Man Today",
       "source": "Google News",
       "image": ""
     },
@@ -414,14 +686,6 @@
       "image": "https://mmo.aiircdn.com/5/660f97f1e5c30.jpg"
     },
     {
-      "title": "Why dogs now have the freedom to roam on IOM capital's beach - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GWno2Ml9MUnJpZ0xYWjM1SE1QdWRzNzByN3VvYlNaNkdydTVLdzhGdUxhSzFERDdaUHBKamhhbnpvZkVJN2gxa2l0RndBbGdPVWlndjYyTGh5TTNU?oc=5",
-      "published": "2026-08-18T05:38:27+00:00",
-      "summary": "Why dogs now have the freedom to roam on IOM capital's beach BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "MGP qualifying to resume this evening, weather permitting",
       "link": "https://www.three.fm/news/isle-of-man-news/mgp-qualifying-to-resume-this-evening-weather-permitting/",
       "published": "2026-08-18T05:37:02+00:00",
@@ -470,14 +734,6 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/329688-1.jpg"
     },
     {
-      "title": "Leonard Harvey Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQ0hSZ2FGcHRyVnZoT0JaTUhVaDFoaGRuLWZHaVdoNjJid1RmbFJVSkx6T1dJZzV2UEtTT2tKQ1BaVlRiX29yLW81U0pFbHRkUjJ4d2JXRlliZW9OMWZmeVN0UnpPZC1pblI2VDlSRzk0SjNYbUd0Z05VQjZHLVB1RVpiZENuand1NEFnamZtNllObEk?oc=5",
-      "published": "2026-08-18T00:19:41+00:00",
-      "summary": "Leonard Harvey Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Bulgaria v Isle of Man | Match Highlights | ICC Men's T20 WC Europe Sub-Regional Qualifier C 2026 - ICC",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOHlqVkU2X2ZaT1pvWFU5bmo4X0NQdFUtMVNmbWtrdzdpeHNTWkRFOHpXd3pGSjFQT3lON0RTbE1UWVdyblJ3MEhpUFBQQzJwZ0VXWU1pN0pVRHd1Y1FsMmNzVkZCYTJYUTdIZjhYeTNFMlRKanRTWFQxN0NpNGl3Zk1IWlFLZ0tzcmFXRC04R2NQR0lCbDEtcGd0MFgxRW4yUHBmS29aVjhkMTMxaFN1Mzl2NDV1WUxadWZoWW83LWhZd2tMQjJz?oc=5",
       "published": "2026-08-17T23:01:35+00:00",
@@ -495,17 +751,9 @@
     },
     {
       "title": "Isle of Man TT qualifying cancelled due to wet roads - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1mVzQzcmlxMFdIQUpsVkZyblhoaWF4RUczV1lHWk1jclVCZHFyMlFnQkM3MTZHcTVtOVUzODRDQUlRSHBOeUtnUWw0eTBCQWhXZVVFalk0MmczWHRq?oc=5",
-      "published": "2026-08-17T15:05:19+00:00",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9INDVCeEpQN0ZkM0lHNE5GVGEzMU04R2pzUkU2UnFqcy04aGVVUUtFeEZTZ1RKaG9ZMHlJZXROZXBJY3VaU29rTEVlNGd3clVsdUxwNmpHNDVrZw?oc=5",
+      "published": "2026-08-17T15:30:06+00:00",
       "summary": "Isle of Man TT qualifying cancelled due to wet roads BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Manx Grand Prix organisers cancel second day of qualifying due to rain - Visordown",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcFVBOUpWUVlPeWNHclo3V2lmWWMyWGpMVUJrZEtoVE5idnhNSEZIZUwwaWp1UU9DaFpidlBJMHBmZktpcjJJR05EYTlZM3ZydEt5b185blUzYXBVdGRUMTJDb0h1b2hERmo3MFRCN2VpRnlMTFRid0t4cV81U0x6dlk3TzBmWV9hTGtIWURLWW9rRTV5TnhtNTFhcw?oc=5",
-      "published": "2026-08-17T15:01:34+00:00",
-      "summary": "Manx Grand Prix organisers cancel second day of qualifying due to rain Visordown",
       "source": "Google News",
       "image": ""
     },
@@ -790,6 +1038,14 @@
       "image": "https://mmo.aiircdn.com/5/6a1d6061a5c5f.jpg"
     },
     {
+      "title": "The Manx football badge worn 9,000 miles from home - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlX2pIYmxaNW9PZXBfTl9lN1FfRHNsckozTTZmSERQa1NlRkxBcVJVUDByWlQ4T2R6WjA1ZXRDZ01WY3prdEhuRWJoMTFnN1IxeUd1Rm04ZU1ndw?oc=5",
+      "published": "2026-08-16T13:52:22+00:00",
+      "summary": "The Manx football badge worn 9,000 miles from home BBC",
+      "source": "Google News",
+      "image": ""
+    },
+    {
       "title": "Isle of Man TT Clerk of Course Gary Thompson says he won't be swayed by criticism he faces on social media over his approach to the race schedule. - Belfast News Letter",
       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQUDRUUk9zRlhzS0dheEFqNy04cUUwVzlTa3kyZjc1NUN2dlI3UGwycllkUHFfcDVwT1pabTNUZlE5emNJYnMtNTJmVndNT0J6UTZBcTlqR1FIYjJWOVlUYnR2Mk1RQnRGVndNb1dXMkFIaUxyU1JUWXJDWVZ6ZDNNbEZhRzViSHUyMVkwamIyU2dDSmxNSEsxRWdaWVRkWnA1TzBUOEY5ajh4dzZzN1V4VTYxLWFtZ21GelBGRXE1WFZUeEV1RUdyOGZKV0wzSk12ZnB3Y19URmh0Q3I1Z0dZUmdENFBpbExISGt5cUJFMi1uQ3ZLN1hRYzZ5NHprRWZSNk9BeGZJR2lLX3ZMRERjN1dHVzFORGs?oc=5",
       "published": "2026-08-16T13:03:00+00:00",
@@ -972,262 +1228,6 @@
       "summary": "Concerns over wind farm guidance issued to HoK candidates",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/328472-1.jpeg"
-    },
-    {
-      "title": "Drop-in session to meet would-be MHKs",
-      "link": "https://www.three.fm/news/isle-of-man-news/drop-in-session-to-meet-would-be-mhks/",
-      "published": "2026-08-15T07:55:00+00:00",
-      "summary": "There's a chance to meet candidates for this year's election in the west of the Island this month.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/61a86be6c431a.jpg"
-    },
-    {
-      "title": "Fire officer praises 'quick-thinking' staff after blaze at fire station",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/fire-officer-praises-quick-thinking-staff-after-blaze-at-fire-station/",
-      "published": "2026-08-15T07:25:52+00:00",
-      "summary": "Investigations continuing after incident which destroyed fire engine",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/328960-1.jpeg"
-    },
-    {
-      "title": "TT film shuts Wildlife Park today",
-      "link": "https://www.three.fm/news/isle-of-man-news/tt-film-shuts-wildlife-park-today/",
-      "published": "2026-08-15T07:25:00+00:00",
-      "summary": "Filming for the Channing Tatum TT movie means the Wildlife Park is closed today.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/69ddd00c83d55.jpg"
-    },
-    {
-      "title": "The Greatest Show-woman: Sam Barks to return to West End",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/the-greatest-show-woman-sam-barks-to-return-to-west-end/",
-      "published": "2026-08-15T07:05:00+00:00",
-      "summary": "Manx actress to return to Theatre Royal Drury Lane",
-      "source": "Manx Radio",
-      "image": "https://mmo.aiircdn.com/61/6a800a84a951743cba9.jpg"
-    },
-    {
-      "title": "Witnesses sought after crash in Onchan",
-      "link": "https://www.three.fm/news/isle-of-man-news/witnesses-sought-after-crash-in-onchan/",
-      "published": "2026-08-15T06:50:00+00:00",
-      "summary": "Police are appealing for witnesses after a man was run over in Onchan earlier this week.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/69d7b14985294.jpg"
-    },
-    {
-      "title": "Commissioners say they're dumping manx.net email address",
-      "link": "https://www.three.fm/news/isle-of-man-news/commissioners-say-theyre-dumping-manx-net-email-address/",
-      "published": "2026-08-15T06:22:41+00:00",
-      "summary": "A local authority in the west of the Island says it's switching away from its manx.net email address.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6a0c35c0964ec.jpg"
-    },
-    {
-      "title": "At a glance: Road racing set to return to the Isle of Man - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aQTJONGRzeTU3eVpnRWUzaXZHTlVMSURzcVlncHR1U3c5T3hFelFhU3lOdnlxdjEtOWsxTll1MEVoay1Bdlg4bWtWa3lzSGJvTzhsQ1F5Zl9TOXhD?oc=5",
-      "published": "2026-08-15T06:18:18+00:00",
-      "summary": "At a glance: Road racing set to return to the Isle of Man BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Athletics: Mullarkey to take on 2026 European Championships",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/athletics-mullarkey-to-take-on-2026-european-championships/",
-      "published": "2026-08-15T05:40:47+00:00",
-      "summary": "Manxman was a medallist at the Commonwealth Games in July",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/328949-1.jpg"
-    },
-    {
-      "title": "RBS International confirms redundancies",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/rbs-international-confirms-redundancies/",
-      "published": "2026-08-15T05:29:52+00:00",
-      "summary": "Banking group 'streamlining operations' across four jurisdictions",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/328854-1.webp"
-    },
-    {
-      "title": "Capital ranks worst for Census returns",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/capital-ranks-worst-for-census-returns/",
-      "published": "2026-08-15T05:18:34+00:00",
-      "summary": "And 13.59% of forms outstanding across the Island",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/328577-1.jpg"
-    },
-    {
-      "title": "'Devastating' blaze did not affect wider Isle of Man services, boss says - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93dDBhc1pBY0R1SjBkNGJHRGttMXI1M01YMzdhLVFQQUM0MDUxMV81X2ZZSGh1OE9HNnFvNVRLVDZ3dkx1SmRMZjNKalhTaEQ4ZllOQkI3dm9iQQ?oc=5",
-      "published": "2026-08-14T18:17:33+00:00",
-      "summary": "'Devastating' blaze did not affect wider Isle of Man services, boss says BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Isle of Man v Luxembourg | Match Highlights | ICC Men's T20 WC Europe Sub-Regional Qualifier C - ICC",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRW1wRC1SdE92UzMzTWZFX3NjdkJlQ3F4WEdDdHZITG5JcHF0a3p1cmtuMHhJanZoUUU0VEtwYzZIeWxockdKeE41R0pLWmFKYUtXVVdMT3U5bDBnejZxaWlWN1pkNEp3V2NZb1ltdlJjckhvaWpaTFVxY3RQcmV3aUlEZXpETDdlUk1POHdMbXpLMGxKR2laOW9zUkg1RzVMRFZIRXFlc0tUeVQyVTJNSkE4bnVFY2hvSUo4ZGpZU1FER3c?oc=5",
-      "published": "2026-08-14T17:58:38+00:00",
-      "summary": "Isle of Man v Luxembourg | Match Highlights | ICC Men's T20 WC Europe Sub-Regional Qualifier C ICC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Firefighting foam may have killed fish in Silverburn River",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/firefighting-foam-may-have-killed-fish-in-silverburn-river/",
-      "published": "2026-08-14T17:23:06+00:00",
-      "summary": "People advised not to enter the water for 28 days",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/328979-1.jpeg"
-    },
-    {
-      "title": "'Too early to tell' what caused fire",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/too-early-to-tell-what-caused-fire/",
-      "published": "2026-08-14T17:17:17+00:00",
-      "summary": "Crews from across the Island ensured cover was available",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/328938-1.jpg"
-    },
-    {
-      "title": "Additional road closure for TT filming ahead of MGP qualifying",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/additional-road-closure-for-tt-filming-ahead-of-mgp-qualifying/",
-      "published": "2026-08-14T17:09:13+00:00",
-      "summary": "Sunday morning closure along Quarterbridge and Peel Road",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/328965-1.png"
-    },
-    {
-      "title": "Firework may have set off Douglas fire, say police",
-      "link": "https://www.three.fm/news/isle-of-man-news/firework-may-have-set-off-douglas-fire-say-police/",
-      "published": "2026-08-14T15:34:00+00:00",
-      "summary": "Police are investigating whether a firework started a blaze which threatened to turn into a wildfire.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/69bbe8321149c.jpg"
-    },
-    {
-      "title": "Full-up animal charity asking for public's help",
-      "link": "https://www.three.fm/news/isle-of-man-news/full-up-animal-charity-asking-for-publics-help/",
-      "published": "2026-08-14T15:13:29+00:00",
-      "summary": "An Island animal charity is asking the public for help after reaching its full capacity.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6986051c9ac5a.jpg"
-    },
-    {
-      "title": "'Knives and sharp implements' left outside charity shops",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/knives-and-sharp-implements-left-outside-charity-shops/",
-      "published": "2026-08-14T15:11:33+00:00",
-      "summary": "Fly tipping warning from police after instances outside Crossroads",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/328887-1.jpeg"
-    },
-    {
-      "title": "“Multiple” cyclists arrested for riding on Mountain Road during Isle of Man TT season, police confirm ahead of renewed bike ban - Road.cc",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd1AxQmlRdGNDODFtRC0xMEljVVAtYUo5TVRRWVVZYWN6ZE9vSndmMnpIWnJtME5qZTJkd3BpZXBTemZRb05RRVNOdjNNenFxZDNfTC1XMXFjaHJucmpGdE5zMEVGSVMxV0ZCcEprak1xX3hZaWpGMzlCV1RkOW84aXptUm1xekhmRzl2Sm9VZUZpa0N3YjJPazJoeElKcmFoYkpjZHd2RjdscDFsb0UzbFNLb0FwR2F3bkNrLVhObzcwQ0hlM2x6WXk1SkhMbERacFhweGNnSjRkeXRBNkE?oc=5",
-      "published": "2026-08-14T15:00:40+00:00",
-      "summary": "“Multiple” cyclists arrested for riding on Mountain Road during Isle of Man TT season, police confirm ahead of renewed bike ban Road.cc",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Reprimanded candidate hits back at data protection laws",
-      "link": "https://www.three.fm/news/isle-of-man-news/reprimanded-candidate-hits-back-at-data-protection-laws/",
-      "published": "2026-08-14T14:26:32+00:00",
-      "summary": "A prospective election candidate has hit back after he was given a reprimand by the Island's information commissioner.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6a7f2556170c3abb249.jpg"
-    },
-    {
-      "title": "Charity shop donations could be fly-tipping, say police",
-      "link": "https://www.three.fm/news/isle-of-man-news/charity-shop-donations-could-be-fly-tipping-say-police/",
-      "published": "2026-08-14T13:58:55+00:00",
-      "summary": "Police say leaving bags of donations outside closed charity shops could be fly-tipping.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6a7f1f1646454922c55.jpg"
-    },
-    {
-      "title": "Notice of Intention to Remove - 2006 Act Companies",
-      "link": "https://www.gov.im/news/2026/aug/10/notice-of-intention-to-remove-2006-act-companies/",
-      "published": "2026-08-14T13:40:59+00:00",
-      "summary": "The Companies Acts 2006 Notice of Intention to remove a Company from The Register Pursuant to Section 183, 190 or 192 of the Companies Act 2006 Notice is hereby given, pursuant to Section 183, 190 or 192 of the Companies Act 2006, that, at the expiration of 12 weeks from the date hereof, the below mentioned Companies will, unless cause be shown to the contrary, be struck off the Register. 007609V MOBILE TECHNOLOGY HOLDINGS LIMITED 019590V Kilfaughna Limited This 10 August 2026 - Edward Clague, R...",
-      "source": "Isle of Man Government",
-      "image": ""
-    },
-    {
-      "title": "Declaration of Dissolution - 2006 Act Companies",
-      "link": "https://www.gov.im/news/2026/aug/10/declaration-of-dissolution-2006-act-companies/",
-      "published": "2026-08-14T13:38:12+00:00",
-      "summary": "The Companies Act 2006 Declaration of Dissolution Pursuant to Section 190(9) of The Companies Act 2006 In accordance with the above section, the Department for Enterprise hereby declares that the below companies are dissolved. 008654V FAMILY LIBRARY LIMITED 019079V Fireglow Limited 020095V BEYONDPLAY GLOBAL LIMITED 022220V Streamsong Limited 022399V ACB Holdings (IOM) Limited This 10 August 2026 - Edward Clague, Registrar General.",
-      "source": "Isle of Man Government",
-      "image": ""
-    },
-    {
-      "title": "Declaration of Dissolution – 1931 Act Companies",
-      "link": "https://www.gov.im/news/2026/aug/10/declaration-of-dissolution-1931-act-companies/",
-      "published": "2026-08-14T13:35:46+00:00",
-      "summary": "The Companies Acts 1931 to 2004 Declaration of Dissolution Pursuant to Section 273a(10) of The Companies Act 1931 In accordance with the above section, the Department for Enterprise hereby declares that the below companies are dissolved. 085828C Salina Limited 090688C Rosecroft Limited 100909C Eleko Limited 101656C Property Care Systems Limited 111809C CHAMELEON LTD 126668C TORPOINT LIMITED 128079C BUTTERMAN & BROWN LTD 133019C SGN Wood Dental Therapy Limited 133237C PROFESSIONAL CONSULTING SERV...",
-      "source": "Isle of Man Government",
-      "image": ""
-    },
-    {
-      "title": "Application for Dissolution - 1931 Act Companies",
-      "link": "https://www.gov.im/news/2026/aug/14/application-for-dissolution-1931-act-companies/",
-      "published": "2026-08-14T13:33:54+00:00",
-      "summary": "The Companies Acts 1931 to 2004 List of Companies that have applied for a Declaration of Dissolution Pursuant to Section 273a(3)(A) of The Companies Act 1931 The Department for Enterprise hereby gives Notice that the below companies have applied for a Declaration of Dissolution under the provisions of Section 273A of the Companies Act 1931. Unless written objection is made to The Department for Enterprise within one month of the date of publication of this notice, The Department for Enterprise m...",
-      "source": "Isle of Man Government",
-      "image": ""
-    },
-    {
-      "title": "Applications for Dissolution - 2006 Act Companies",
-      "link": "https://www.gov.im/news/2026/aug/14/applications-for-dissolution-2006-act-companies/",
-      "published": "2026-08-14T13:33:24+00:00",
-      "summary": "The Companies Act 2006 List of Companies that have applied for a Declaration of Dissolution Pursuant to Section 190(3) The Department for Enterprise hereby gives Notice that the below companies have applied for a Declaration of Dissolution under the provisions of Section 190 of the Companies Act 2006. Unless written objection is made to The Department for Enterprise within one month of the date of publication of this notice, The Department for Enterprise may dissolve the companies. 017665V TROOD...",
-      "source": "Isle of Man Government",
-      "image": ""
-    },
-    {
-      "title": "Dead fish could be threat to pets, says local authority",
-      "link": "https://www.three.fm/news/isle-of-man-news/dead-fish-could-be-threat-to-pets-says-local-authority/",
-      "published": "2026-08-14T12:22:54+00:00",
-      "summary": "An investigation's been launched - and a warning issued - after dead fish were found in a river in the south of the Island.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/5ed9d2c2ceb7e.jpg"
-    },
-    {
-      "title": "Manx Radio to 'formally investigate' complaint from veteran broadcaster",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/manx-radio-to-formally-investigate-complaint-from-veteran-broadcaster/",
-      "published": "2026-08-14T11:54:35+00:00",
-      "summary": "Station confirms it received an 'official letter of complaint' this week",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/328846-1.jpeg"
-    },
-    {
-      "title": "TT course bounce for wallaby before bikes take over",
-      "link": "https://www.three.fm/news/isle-of-man-news/tt-course-bounce-for-wallaby-before-bikes-take-over/",
-      "published": "2026-08-14T11:27:03+00:00",
-      "summary": "A woman's posted footage of a wallaby inspecting the TT course in the north of the Island!",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6a7efb681dba6d05bd1.jpg"
-    },
-    {
-      "title": "Paramedics move in with coastguards after fire",
-      "link": "https://www.three.fm/news/isle-of-man-news/paramedics-move-in-with-coastguards-after-fire/",
-      "published": "2026-08-14T10:54:18+00:00",
-      "summary": "A temporary ambulance station has been set up in Castletown, following a fire yesterday afternoon.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6a7ef3cf93f69261abf.jpeg"
-    },
-    {
-      "title": "Owners advised to keep pets out of river",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/owners-advised-to-keep-pets-out-of-river/",
-      "published": "2026-08-14T10:37:42+00:00",
-      "summary": "A number of fish have been found dead in the river near Poulsom Park",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/328820-1.jpeg"
-    },
-    {
-      "title": "Nearly £165k spent on AI subscriptions",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/nearly-165k-spent-on-ai-subscriptions/",
-      "published": "2026-08-14T10:32:57+00:00",
-      "summary": "Over 3,400 licences have been bought since 2024",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/328552-1.jpeg"
     }
   ]
 }
