@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-08-28T02:04:38.652372+00:00",
+  "generated_at": "2026-08-28T17:58:04.918746+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -30,6 +30,382 @@
   ],
   "items": [
     {
+      "title": "Statement from the Isle of Man Government on the death of His Majesty King Harald V of Norway",
+      "link": "https://www.gov.im/news/2026/aug/28/statement-from-the-isle-of-man-government-on-the-death-of-his-majesty-king-harald-v-of-norway/",
+      "published": "2026-08-28T16:53:18+00:00",
+      "summary": "For more than three decades, King Harald served the people of Norway with distinction, integrity and an unwavering sense of duty. Throughout his reign, he represented his nation with dignity and humility, earning the respect and admiration of people both within Norway and across the international community. Flags have been flown at half-mast to acknowledge the King's death. In 2002 King Harald and Queen Sonja visited the Island as guests of honour for the Tynwald Day celebrations. During their v...",
+      "source": "Isle of Man Government",
+      "image": "https://www.gov.im/media/1394282/king-harald-visit-2002_300x240.jpg"
+    },
+    {
+      "title": "Hundreds join Isle of Man TT rider Daniel Ingham's wife for memorial tribute 'to finish lap he never got to'. - Belfast News Letter",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNSkYxZ05HVkZSWFJLbUJRUV9KOXJNZnVqTnZfeGRySDFRd1FaSFJwQUQ1WV9ld0RwaWZRaFpuWHBKWW4zbERHU25DREM5RVNsMnM3VEJkWWxaczR3SWJGQVhyakZIWTJza3V3eTFGRHd1azhJWWlGY2hHa1F1VUtsVmx0UUFEQVJFeklnS3BrQUpkQU45anl2ZldzRmhvU2FsUFNpejZ5SnBINXVPUUJteVd2bC1YOGNRVnVTelcza19uYk1fZlJFMFJLREYtVzRtYkRjY09OYWlXRGdMVWh1d29UZ1FrSDRQNVJUQXJENVUtMkNzaDQ0cXZJS1BQNEFKVVJzYnF1QS1wdmZueXBBZkIyQVJOazVWdUtwN1Fsbl9ySmE2cWV4TS1KWF9vMVhBa2FGajNYZ3E5anZJdWNfeWFvcE4xdUNfbXlOc3p4VnBjaGtNdWV6cGZtVGxzZ0VZblRVejB3?oc=5",
+      "published": "2026-08-28T16:48:00+00:00",
+      "summary": "Hundreds join Isle of Man TT rider Daniel Ingham's wife for memorial tribute 'to finish lap he never got to'. Belfast News Letter",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Local mobile catering company Filbey's to call it a day",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/local-mobile-catering-company-filbeys-to-call-it-a-day/",
+      "published": "2026-08-28T16:20:07+00:00",
+      "summary": "Business says there 'isn’t one single reason behind the decision'",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/333034-1.jpg"
+    },
+    {
+      "title": "Castletown police station could be yours... for £250,000",
+      "link": "https://www.three.fm/news/isle-of-man-news/castletown-police-station-could-be-yours-for-250000/",
+      "published": "2026-08-28T16:17:41+00:00",
+      "summary": "Fancy owning a landmark building in the south of the Island?",
+      "source": "Three FM",
+      "image": "https://mm.aiircdn.com/3/5902ebcbc8624.jpg"
+    },
+    {
+      "title": "Hundreds join TT rider Dan Ingham's widow for memorial lap - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53Z2g0SVNUeUVtYXJJdTNGM1ZOZUdITkJlZWVhVnkxa0xBNGdSU0NpVktMajZoZV8ycmdub2JfVVpZTTQ2X0J5dFdhanN5VDgwdjB1MTVESURlUQ?oc=5",
+      "published": "2026-08-28T15:36:31+00:00",
+      "summary": "Hundreds join TT rider Dan Ingham's widow for memorial lap BBC",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Brewery advertising for operator for landmark Laxey pub",
+      "link": "https://www.three.fm/news/isle-of-man-news/brewery-advertising-for-operator-for-landmark-laxey-pub/",
+      "published": "2026-08-28T15:31:14+00:00",
+      "summary": "Could you run one of Laxey's best-known pubs?",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a01c680b4342.jpg"
+    },
+    {
+      "title": "Ramsey Rocks event cancelled",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/ramsey-rocks-event-cancelled/",
+      "published": "2026-08-28T15:11:27+00:00",
+      "summary": "It was due to be held on Sunday",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/332979-1.jpg"
+    },
+    {
+      "title": "Hospice cafe reopens next week after refurb",
+      "link": "https://www.three.fm/news/isle-of-man-news/hospice-cafe-reopens-next-week-after-refurb/",
+      "published": "2026-08-28T14:57:37+00:00",
+      "summary": "A much-loved café will be throwing open its doors again next week.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a91a1b40a85b8d766e.jpg"
+    },
+    {
+      "title": "Another one bites the gust - as Ramsey rocks cancelled",
+      "link": "https://www.three.fm/news/isle-of-man-news/another-one-bites-the-gust-as-ramsey-rocks-cancelled/",
+      "published": "2026-08-28T14:18:22+00:00",
+      "summary": "A huge live music event in Ramsey this weekend has been cancelled.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/64a2740a4d4d7.jpg"
+    },
+    {
+      "title": "'We put that right’: TT rider's ashes taken on emotional lap of the course in tribute - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbGlKWmRKX1JxYVA4LWFtcGp1TDlxdGtKLU9kdno5T3ZCU25OMEl1OXFyems1akFMdHRrZlVRZ19kbUJnbjdiZFRHQ3UxaGNXOFJiR2REWHdZbllGdXVYQy0xeTkxRUF1NXdCQWUxRUE0MnIweExUWFpPZFVEM201ZjRad0g5RG1GZFU1czFrTFMxdWlWY3NDQTJwZUVFYnBLX0ZLYmp0Rml0cmttTVdFaWhDbXA?oc=5",
+      "published": "2026-08-28T14:16:48+00:00",
+      "summary": "'We put that right’: TT rider's ashes taken on emotional lap of the course in tribute Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "FC Isle of Man on their travels to face Trafford - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdmdsbW42M19GUXYzZWN1WnhMekgwLUEyU1ZRYkRobFczdzVKWFRwMmYxYTAxNmh2bjhxY3FYTmlvRnpGdGJNbl9PdDBjS1dINzhJa3hjc2Ewdmh1dnZzTGVuREVpWHJKb2k1Y3hKbjJFUmxSS3ZidTZkbXIxUG5nQXRtQ3VyRVRwWW96NF9CQjBzRTR0aTltdFZJUGVWdW8?oc=5",
+      "published": "2026-08-28T14:00:00+00:00",
+      "summary": "FC Isle of Man on their travels to face Trafford Manx Radio",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Mountain Road closed again after crash",
+      "link": "https://www.three.fm/news/isle-of-man-news/mountain-road-closed-again-after-crash/",
+      "published": "2026-08-28T13:33:16+00:00",
+      "summary": "The Mountain Road is currently closed after a crash.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/64ca3f1959d84.jpg"
+    },
+    {
+      "title": "Why this year’s Isle of Man General Election is already a record breaker - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaWU1ckswQWk4MVphWHNQbGQ2bGgwLXZqdy1lSzRSVVVFQ0Y4TFAxZmZVN01vYkIzSDNYUmhkSzZQVmJFclF2Tko3N0Ntc215NXVieHJwVXp4cFRlc0ZkRkNxSndjVldKNFJJVE9TU0VBU3MzY3VSblpIVjdPSmJxWDY0cktMVjJlcFk2dG1kZ3Q2TlNyay04cExXa0Y4NDJvLU5Gd2o1ZVRDTHZ5WkFkTERMRkFNalJIemxpNVNFaWg0eGhtZGc?oc=5",
+      "published": "2026-08-28T13:00:36+00:00",
+      "summary": "Why this year’s Isle of Man General Election is already a record breaker Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Dean Harrison and Davey Todd say no one deserves factory Honda Superbike rider over John McGuinness. - Belfast News Letter",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQZVNISXd4NERlNk1CTjZvZFRGRVd3YWphQzJWRmxRNU9KMlVLRjNuVGJNSXVvdVU2ek9hNU1laGF1S005NG9aMjNlRGFENlZId2tXZDItdVgxMVp2YmR6VnBLWVRta0RpbzVvX2NzcE5VbkhZbWJTdkNWT3NrTHNuenBKdTJHUnBlMm9SUFhyMHRIcHlVN1FicVhfSzBIbEhPNFBuS0VqNF9qVnJod1BmU1J2eHpoLWhJNE9sVk5FZW9Wb1d4cTc4TGZjWVBGTnh5NlNfVWpGTTZXbWRlbkVWVXUyREZ2VkhiMTRjaXRCWEF2UU1MXzhuUHp3N015Nm1USWFWUlVxTVgxNWpyUWMxZ2JSaGZBNGs?oc=5",
+      "published": "2026-08-28T12:56:00+00:00",
+      "summary": "Dean Harrison and Davey Todd say no one deserves factory Honda Superbike rider over John McGuinness. Belfast News Letter",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Merchant Navy Day to be marked with memorial service",
+      "link": "https://www.three.fm/news/isle-of-man-news/merchant-navy-day-to-be-marked-with-memorial-service/",
+      "published": "2026-08-28T12:53:30+00:00",
+      "summary": "Merchant Navy Day will be marked on Island with a remembrance service for those who lost their lives at sea.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a9184c336b3e0e0448.jpg"
+    },
+    {
+      "title": "MWT plans to plant almost 10,000 trees",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/mwt-plans-to-plant-almost-10000-trees/",
+      "published": "2026-08-28T12:13:47+00:00",
+      "summary": "Cronk-y-Chule was purchased by the charity in April 2026",
+      "source": "Manx Radio",
+      "image": "https://mmo.aiircdn.com/61/6a917be900021c1f365.jpg"
+    },
+    {
+      "title": "Fundraiser launched for injured MGP rider",
+      "link": "https://www.three.fm/news/isle-of-man-news/fundraiser-launched-for-injured-mgp-rider1/",
+      "published": "2026-08-28T12:12:21+00:00",
+      "summary": "A fundraiser's been launched to raise money for a Czech rider who was injured during the MGP.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a917b1c51cbc286056.jpeg"
+    },
+    {
+      "title": "Duck off: Chinese takeaway on the hunt for bigger ducks",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/duck-off-chinese-takeaway-on-the-hunt-for-bigger-ducks/",
+      "published": "2026-08-28T12:08:09+00:00",
+      "summary": "Business feels quarter option isn't offering 'good value'",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/332539-1.jpg"
+    },
+    {
+      "title": "Noel back in the saddle after handy pub pumping leaves him smiling",
+      "link": "https://www.three.fm/news/isle-of-man-news/noel-back-in-the-saddle-after-handy-pub-pumping-leaves-him-smiling/",
+      "published": "2026-08-28T11:26:51+00:00",
+      "summary": "Noel Edmonds has thanked a pub in the north of the Island for helping out when he felt a little deflated.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a9170690216a5d0e89.jpg"
+    },
+    {
+      "title": "Isle of Man businesses urged to share experiences as minimum wage review looms - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ0gzd2FRSmtOelI2LUpJRVVjSU0tTlF0WndhUU5LN19GVWFzd3dvaERzWjRtQ3Jnc3NiQi02b3pTMnZreDc4WXhiOVg4YkVNT2p2Mk4waGpIdG84ZG93RWVlcHFNX3pwWWtsWDR1Vmg4ZW5vSEVvVF9RTjN1X09pa2hTWHlBMXlsZ3FpQkVoZFJHRHhkYlh0QlhXdVVvUTNiMVkyamVqT2xtLXhVRWNOb0JoNnlkNDVScXRCbjZaamhtZG8t?oc=5",
+      "published": "2026-08-28T11:26:47+00:00",
+      "summary": "Isle of Man businesses urged to share experiences as minimum wage review looms Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Cricket: IoM men finish fifth at T20 World Cup qualifiers - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdk5zWktQZ0VYT3VNTW4wQmVUZHMwbjJ4MGhHNTJfX2c4ZjhnbVBxamhNUHVNWXF3Mlo3QUxyajdCeXVhTmNXdGNSZkJLakk4aDNXbEpxQnBoMDc5d2tWVGdvZ1V5Z1JKeTl4Q2xDV19hYnRtMEJrV3FnMU9XNHBjLXB6aFFfaHd3d3lzTUJTWmpYYU1POV9QRG1Wb2hIVnJuZ3dxTkFKTjNSdw?oc=5",
+      "published": "2026-08-28T11:15:00+00:00",
+      "summary": "Cricket: IoM men finish fifth at T20 World Cup qualifiers Manx Radio",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "sister act for dawson as isle of man golfer finds form - Ladies European Tour",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZktWRFUwT2tqVFhzUXJmaDRSWW1udVFMLVZ4OHNUcVQ3WFFHa1EwaXNseVBuY0tYdmJhem85LTk3eDQwZEZQOEdfT1diM0s5N1Q2TXlrQVpKeEJRakNWNmpSREdidXI2dEVhLXBRMXlIUS13XzI0ZTUxSXl0T1l0NmNlZE1MbzdLRmdmdC15bTFtYUZZ?oc=5",
+      "published": "2026-08-28T11:12:10+00:00",
+      "summary": "sister act for dawson as isle of man golfer finds form Ladies European Tour",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "“IT’S A PRIVILEGE”: NICK JEFFERIES TURNS BACK THE CLOCK FOR 1996 REWIND PARADE - IOM TT Races",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYkh1ZjJJX1hhSjJFZjRTZkU1QnFCOHY1TS0yWl9jbWNvWGVhQ2hkQ3YyYjB6aTZDWWxuOC1xQU1kTTF6NkVpR0lmbE01VW11Q3ZRM1dxaGlMT3VzeWJ3MnJZWHV6QmZya1JEUDlIb0FLdnhGWTltLUMzSVdDaFFkQjRTTVhyMHFQYnJlVERpNHVfWVlwSVVVX2hZRmhHQWxEWnpiRnk3eXE3bXh6OWVhUU9ibjI1ZXlXdmdyVlhlUzdpVlU?oc=5",
+      "published": "2026-08-28T11:11:50+00:00",
+      "summary": "“IT’S A PRIVILEGE”: NICK JEFFERIES TURNS BACK THE CLOCK FOR 1996 REWIND PARADE IOM TT Races",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Good chance of seeing aurora tonight",
+      "link": "https://www.three.fm/news/isle-of-man-news/good-chance-of-seeing-aurora-tonight/",
+      "published": "2026-08-28T10:49:08+00:00",
+      "summary": "There's a good chance we'll be treated to a spectacular show in the skies over the Island tonight.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6548bf92dd96f.jpg"
+    },
+    {
+      "title": "Crash in Douglas means police diversions",
+      "link": "https://www.three.fm/news/isle-of-man-news/crash-in-douglas-means-police-diversions/",
+      "published": "2026-08-28T10:12:53+00:00",
+      "summary": "Police say they're dealing with a crash in Douglas this morning.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/69bbe82e370d6.jpg"
+    },
+    {
+      "title": "Fuel spill closes Mountain Road",
+      "link": "https://www.three.fm/news/isle-of-man-news/fuel-spill-closes-mountain-road/",
+      "published": "2026-08-28T09:29:39+00:00",
+      "summary": "The Department of Infrastructure says it's shutting the Mountain Road after a fuel spill.",
+      "source": "Three FM",
+      "image": "https://mm.aiircdn.com/3/587c72174da07.jpg"
+    },
+    {
+      "title": "Closures at city square extended for six months",
+      "link": "https://www.three.fm/news/isle-of-man-news/closures-at-city-square-extended-for-six-months/",
+      "published": "2026-08-28T09:17:58+00:00",
+      "summary": "The road closures at a historic square in Douglas are being extended for another six months.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a91523ecfa08016b94.png"
+    },
+    {
+      "title": "Sanctions Lists Update: Afghanistan",
+      "link": "https://www.gov.im/news/2026/aug/28/sanctions-lists-update-afghanistan/",
+      "published": "2026-08-28T09:03:40+00:00",
+      "summary": "This news release is issued to publicise the amendment of one entry on the UN sanctions list. On 27 August 2026 the United Nations Security Council updated the UN Consolidated List . Further information can be found in the Annex to this Notice. What you must do in relation to amendments If, through your sanctions compliance programme, you identify a possible match to a person or entity included in the Sanctions Lists, and you hold or otherwise deal with funds or economic resources of that person...",
+      "source": "Isle of Man Government",
+      "image": ""
+    },
+    {
+      "title": "Music festival aimed to help businesses and families in Castletown",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/music-festival-aimed-to-help-businesses-and-families-in-castletown/",
+      "published": "2026-08-28T08:39:02+00:00",
+      "summary": "The two-day event will go ahead come 'rain or sun', says organiser",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/332842-1.jpg"
+    },
+    {
+      "title": "Chamber wants business views on minimum wage",
+      "link": "https://www.three.fm/news/isle-of-man-news/chamber-wants-business-views-on-minimum-wage/",
+      "published": "2026-08-28T07:58:23+00:00",
+      "summary": "The Island's Chamber of Commerce says it wants businesses to get in touch with their views on the minimum wage.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/5f16841ad2f2f.jpg"
+    },
+    {
+      "title": "Mountain Road closures planned next week",
+      "link": "https://www.three.fm/news/isle-of-man-news/mountain-road-closures-planned-next-week/",
+      "published": "2026-08-28T05:58:58+00:00",
+      "summary": "There'll be closures along sections of the Mountain Road next month as the Department of Infrastructure removes race equipment.",
+      "source": "Three FM",
+      "image": "https://mm.aiircdn.com/3/587c72174da07.jpg"
+    },
+    {
+      "title": "Fury to star in new documentary",
+      "link": "https://www.three.fm/news/isle-of-man-news/fury-to-star-in-new-documentary/",
+      "published": "2026-08-28T05:50:20+00:00",
+      "summary": "Netflix has announced the Island's most famous boxer will be appearing in a new TV show.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/69ba8ec9bb074.jpg"
+    },
+    {
+      "title": "All agency workers have police checks, says Manx Care",
+      "link": "https://www.three.fm/news/isle-of-man-news/all-agency-workers-have-police-checks-says-manx-care/",
+      "published": "2026-08-28T05:49:07+00:00",
+      "summary": "Manx Care says all its clinical agency workers have to undergo police checks before they start work here.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/5f4e5d2b9e16f.jpg"
+    },
+    {
+      "title": "New drone restrictions coming into force next week",
+      "link": "https://www.three.fm/news/isle-of-man-news/new-drone-restrictions-coming-into-force-next-week/",
+      "published": "2026-08-28T05:44:42+00:00",
+      "summary": "New Island rules on flying light drones come into force next week.",
+      "source": "Three FM",
+      "image": "https://mm.aiircdn.com/3/783053.jpg"
+    },
+    {
+      "title": "Large cruise ship visiting today",
+      "link": "https://www.three.fm/news/isle-of-man-news/large-cruise-ship-visiting-today1/",
+      "published": "2026-08-28T05:43:24+00:00",
+      "summary": "A cruise ship carrying more than 3,000 people will be making a stop in the Isle of Man today.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/692579a81e2db.jpg"
+    },
+    {
+      "title": "Isle of Man construction firm owned by Laois entrepreneur loses £5.4m tax appeal in UK - Irish Independent",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaWRYaTVTM1FqYXVCenNWVU5EbUx2dVF0S3BuTHVkYThPSDNzVk5TVlRkZ3AxQV81dzk2YlpfaU9WN1RiTHlhaEFfMkpJZVVsUnNnTUpHalNsSGxTRlhiQk5LeERLSkgxYU9BeDZSQjJUWlByanV3Z090N3k2elpqLS1EdHk0M21tY001WVVNVGUwdXBSN1NmbllVM2p4RWpGUXZ2UlIxOU9uNGZTZ1VOM243RTBCelFtMEt4bURBSnRwVjU3clpHdnU3a2drMW1JSnZ0Nw?oc=5",
+      "published": "2026-08-28T05:30:00+00:00",
+      "summary": "Isle of Man construction firm owned by Laois entrepreneur loses £5.4m tax appeal in UK Irish Independent",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Island-based charity says 'difficult days ahead' in Nepal",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/island-based-charity-says-difficult-days-ahead-in-nepal/",
+      "published": "2026-08-28T05:28:16+00:00",
+      "summary": "Hundreds dead following devastating flash floods",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/332666-1.webp"
+    },
+    {
+      "title": "TT racer to complete 'the lap he never got to finish'",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/tt-racer-to-complete-the-lap-he-never-got-to-finish/",
+      "published": "2026-08-28T05:26:24+00:00",
+      "summary": "Tribute lap organised for former MGP winner Daniel Ingham",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/332677-1.jpg"
+    },
+    {
+      "title": "TT racer to complete 'the lap he never got to finish' - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZU1yX3dRbVBIZE05bWJCdGJucHlsVjRMZ18yZXJ2TWVVMWxsR21RcDV1MkFFYVB5QjZnWWloQW5ndDIyOEZ4RklVbDNlM2steTVPUUdUNHJYeEN4ZnFyOHZHeU41Y2xFa3NGbWNnVEhlVk9OZUd0aHM2MENac1AwM0YxQ2RtY2ZYUVdBMjlEN0hZNlB6UWR4U0FOMlkwMl9IR2c?oc=5",
+      "published": "2026-08-28T05:26:00+00:00",
+      "summary": "TT racer to complete 'the lap he never got to finish' Manx Radio",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Glenfaba and Peel candidate withdraws from General Election",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/glenfaba-and-peel-candidate-withdraws-from-general-election/",
+      "published": "2026-08-28T05:25:17+00:00",
+      "summary": "Trevor Cowin no longer standing",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/332613-1.JPG"
+    },
+    {
+      "title": "Does it matter where your MHK lives?",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/does-it-matter-where-your-mhk-lives/",
+      "published": "2026-08-28T05:25:00+00:00",
+      "summary": "82 candidates confirmed to contest House of Keys General Election",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/332616-1.jpg"
+    },
+    {
+      "title": "Marown Commissioners to hold by-election",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/marown-commissioners-to-hold-by-election/",
+      "published": "2026-08-28T05:23:02+00:00",
+      "summary": "John Lovelady leaves local authority after five years",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/332601-1.JPG"
+    },
+    {
+      "title": "Isle of Man: Oliver Helfrich named as new Attorney General - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1UcktjeTU1b3VjTTBwUjRDNldvWGFfOHFqSWxDbWxfYTd4WXpaLUZUNk1CaXdHZkptT3JGRWhFQlRROFcyQTJWMlV2b1VLWV9MSWNwV2t2MTJTTmVq?oc=5",
+      "published": "2026-08-28T05:19:54+00:00",
+      "summary": "Isle of Man: Oliver Helfrich named as new Attorney General BBC",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Time to raise awareness of defibs 'hiding in plain sight'",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/time-to-raise-awareness-of-defibs-hiding-in-plain-sight/",
+      "published": "2026-08-28T05:19:05+00:00",
+      "summary": "Ambulance Service organises Island-wide treasure hunt",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/332685-1.jpg"
+    },
+    {
+      "title": "Three-day jazz workshop and concert weekend gets underway",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/three-day-jazz-workshop-and-concert-weekend-gets-underway/",
+      "published": "2026-08-28T05:17:10+00:00",
+      "summary": "Jazz performers from UK visiting for event",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/332584-1.jpg"
+    },
+    {
+      "title": "Election candidate to stand in two constituencies",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/election-candidate-to-stand-in-two-constituencies1/",
+      "published": "2026-08-28T05:15:38+00:00",
+      "summary": "Nigel Dunmore standing in both Garff and Ramsey",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/332610-1.jpg"
+    },
+    {
+      "title": "Robert Leith Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRnQxc1Bva0pVYUpCSjFVZkczTkZzUm42U2lRQ01DajY0MnV1VnlpV3JsQ0pfXzF4QTYtbkRhRkd0a1JZNDhqa2k1U3NFdURpNy1RXzA5SDNZSHJkR01FTlhOeFZWVUpBN3lYYlVsd2NEblJ4bklMWGoxMGdpT3BEU2J2UDlYUHVCWmVoR3JHVl8?oc=5",
+      "published": "2026-08-28T00:13:21+00:00",
+      "summary": "Robert Leith Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
+      "source": "Google News",
+      "image": ""
+    },
+    {
       "title": "Rickward. Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZnFoai0xcmdJcWxUclRRcnFNRGhjY3Byb0JQTENhZFgyX09Odnp4Sk9uQTV6SG53SEo2YkJ6ZDFsSkR0VGk4cThHb0xNb09wNHk4MmRLVGFIT0hUQjc5SUhrLXduSTc5dWg2T0RIakdWTi1jZHNiXzVKbTd6Rmg1bDJ0TmNXSXVmR0RRVg?oc=5",
       "published": "2026-08-28T00:13:21+00:00",
@@ -58,6 +434,14 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMkd2WUVDS0xMcXhCTUo5c2JBZHpFc2hlLTVQenB0VVQ0WUtEQ3h6SWhDckJaYzFkbnZaa1F1QzVPU0tfd1U0cUNhRVd2QW1uc3FiOWl3b3d1bEItaC0tcm9GbUVSX0VNM1l5T1RGTXUyVnN0UHhQd1hoTTUyeU9PbEpaSzVDNUdtMUxV?oc=5",
       "published": "2026-08-28T00:13:20+00:00",
       "summary": "Anne Lee Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Parry. Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZXVxanE3a1djNEt0aTVNOVlkZFYxT3E2UFhnejQ0MEM1Q0h2ZE00RXl5aVhuZXJoakpLMmpxa2pZRGxjQkRBekFZNlQ2OXo4MXRVODRfUGgyWXlsYkF2ekVGdnNzb2hsNHYtQXNSQm9DNFgtYU4xTFVKek02UnY2ZHlYVTFzNDZu?oc=5",
+      "published": "2026-08-28T00:11:15+00:00",
+      "summary": "Parry. Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
       "source": "Google News",
       "image": ""
     },
@@ -94,14 +478,6 @@
       "image": ""
     },
     {
-      "title": "Robert LEITH. Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT3VKUzY3U3FSRmoxYzRPamh6SC1ud3FQUzVrcEZHWFFIWHRyQUFqTHBqdVF0MHk2N2pkMXV4U21vUk5JNTZMZDNQOEw5UXdURFVmSHRtMFZFWmNuemZGQWdFX2VCRmRvNzFGVXNSdzZrR3ZBSG5pTFFxRDYtTllDQVU3YnkyZFNfUjI5MXJUZmFzcjg?oc=5",
-      "published": "2026-08-27T23:51:22+00:00",
-      "summary": "Robert LEITH. Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Jones. Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Durango Herald",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSkQ3dmswRUxyTy1PSEh2QmQ2dW5uZm5YajRMaGtGbEgzNF9vcFpXQnRRUVlPMUlZNjRxbXd4Z29CWGR2bDBxOFYzalJYRFBTcGdQSEVQQjlPQjJnWkl4eV80eUhCSkFISHRQYnIwZEZlZlduZ1c3b05qcW9pY1ctdVhkVkc4OWxyQ09KRlotSWs4RGp1STdRUHd3RFB4aGM?oc=5",
       "published": "2026-08-27T23:41:48+00:00",
@@ -110,18 +486,18 @@
       "image": ""
     },
     {
-      "title": "Jesmary Calcutt Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMlo2aHRHMFo5M01aQUdONjVUcC1LNXNGTEpfU3ZmWXN5SXBBMDJ2Y0RKSTVmOEJERFFlS0tIRHV2RGZRRDAzVndRZ0F1WEMzMm1kWm1WWWVJVGpJdmJWaFN4RHlaZXZOM1B2djM1dExzU3dCMk1CRHZMZ0FQZmhiREEtTGFtRXZqc0owRkplM1ZzM0po?oc=5",
-      "published": "2026-08-27T23:41:19+00:00",
-      "summary": "Jesmary Calcutt Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Geraldine Capp Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbzN0UW04ODdHSjFQV2xTYVdhZkRBdHdSdEV6VGt3ZlVqRVo1SUs4b0pwaXBLZ21NRVRndnVSMU14ODNhaF9Bd0pPa3BLZnQ3dk8tQmZ3ZEJRcmN2V2tudlIzZkdBM1ZsTVRjTGl1UGNuMjRQWV9GZnhfVVhHRTFSYVFGYzR3ZGNnN0N6NmxVX1ZLSXM?oc=5",
       "published": "2026-08-27T23:41:19+00:00",
       "summary": "Geraldine Capp Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Jesmary Calcutt Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMlo2aHRHMFo5M01aQUdONjVUcC1LNXNGTEpfU3ZmWXN5SXBBMDJ2Y0RKSTVmOEJERFFlS0tIRHV2RGZRRDAzVndRZ0F1WEMzMm1kWm1WWWVJVGpJdmJWaFN4RHlaZXZOM1B2djM1dExzU3dCMk1CRHZMZ0FQZmhiREEtTGFtRXZqc0owRkplM1ZzM0po?oc=5",
+      "published": "2026-08-27T23:41:19+00:00",
+      "summary": "Jesmary Calcutt Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
       "source": "Google News",
       "image": ""
     },
@@ -142,10 +518,10 @@
       "image": ""
     },
     {
-      "title": "Patricia Speidel Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSjF1a1J5TkM4S3F1Z1ZzQ0N3T1ZNZmZoNVktOWZENVc2cWNzTTBTMlo1ZWhsNmVmVHZWNDhTTVF3b1NTdFJOSlJsZ1VoSlMtRE1GZUhvRnQ1bjN4TTVDbVpWSmRZTlBxdFpSbDVaUW9pY0dCNGJQQ1hNRUxGOEIzWkdaUzNzdVQ2RVFsYkFaWW80OFJxRnc?oc=5",
+      "title": "Donegan. Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRWQ2QTl0dlM1ZGlUSjBaM21BZGE2bTNoaDRaRFZKNXY0TEhveXE4b2hFX1lReDVTSENYTERTbDhDM1I5QTk3WkRkLWVCTDBJWkFFS2ZRcWRLNjJIeTFtWlZDSnJFUjViQk12a2RYa2Q3ZVhteUJId2FxR2lWaFhOWGh0TzVURzYwdUpJ?oc=5",
       "published": "2026-08-27T23:41:19+00:00",
-      "summary": "Patricia Speidel Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
+      "summary": "Donegan. Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
       "source": "Google News",
       "image": ""
     },
@@ -154,14 +530,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYlFKaTQyZUhDcEpaWlZ6NmJfdjg3c1RPOVZwenNXcnlUcXVJVTByRWdUVzUySHVtX2d4ajNiUE1hLUJXT0pjaDZYeUp6MlY5UmlkVUJVMVh4RWlseUxubkZ3cnZfU2xLRHlxaWtmemVUaFNaNC1qdGxQbWZnQUFVbHpSRy1QTGNENjliVE13?oc=5",
       "published": "2026-08-27T23:41:19+00:00",
       "summary": "Roy Taylor Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Donegan. Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRWQ2QTl0dlM1ZGlUSjBaM21BZGE2bTNoaDRaRFZKNXY0TEhveXE4b2hFX1lReDVTSENYTERTbDhDM1I5QTk3WkRkLWVCTDBJWkFFS2ZRcWRLNjJIeTFtWlZDSnJFUjViQk12a2RYa2Q3ZVhteUJId2FxR2lWaFhOWGh0TzVURzYwdUpJ?oc=5",
-      "published": "2026-08-27T23:41:19+00:00",
-      "summary": "Donegan. Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
       "source": "Google News",
       "image": ""
     },
@@ -182,58 +550,10 @@
       "image": "https://mmo.aiircdn.com/5/6a8d6cc66d86b518aac.jpg"
     },
     {
-      "title": "Candidates standing for Rushen - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85Y0dCUzREcERCeVo1eldqS2NudXowTnVWUDV2REpRajE1N01uT0NYRXBQY3FYX2E4N2w3LU5lc0R6QjdBYW9tZ1pjdlhwOUVyQmhSYUp3VktZQ2JZ?oc=5",
-      "published": "2026-08-27T15:55:25+00:00",
-      "summary": "Candidates standing for Rushen BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Candidates standing for Ramsey - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11bDlkS252a1pKZjBsQTZuSnZTbHowNXhIeW1UajJZTXZEMFNEUUFnT3g4QU5XYmV5T1JsdXUwV193djZBekdlUE5LdGtmVzBJQUFaelJGblNSQzdC?oc=5",
-      "published": "2026-08-27T15:53:16+00:00",
-      "summary": "Candidates standing for Ramsey BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Peter Kay aims cheeky joke at Isle of Man after gatecrashing BBC weather forecast - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVVM1QzBaT01LUl9ldlpKbkJjUHp1Tld4Zk9xTEhub2ZnLWtuQkV1VkE3QmFkNTJKTGItMklpc2V0eDJVNW9zMTRHMW1zV0hKN3U5NkIwYVBoUS1NSlhoOEZsdl96ekVKeUpMQVloeGpXQ2dRdkl1ZTB1b2RsLW5rSXpyUWgxUEdMMkVxZzRxVVJmQVgybGtUTHpyZ0FhbkNnOVo4UVNJaVNPd3JTS0thVXBDVGVQZVRpQS1Qcw?oc=5",
-      "published": "2026-08-27T15:51:22+00:00",
-      "summary": "Peter Kay aims cheeky joke at Isle of Man after gatecrashing BBC weather forecast Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Full list of candidates standing in the Isle of Man General Election 2026 - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRFVzUlZIdC1mYTY1WmhWX1g5b3JGb18xNFJ2QTAxNDJxWnlzNGNMNHN1bW9ORjh3aWdobkRHQTVHbU84eDg0UENLeWNlR3NFTC1GMndvQ290UUliMkpnaXAweFlrME1QdS1RY1Jab2I3MnhjUVkzTXlNV3ctczMzYzltMk9fZDdNSy1NdHBXeE9KNmFFZ0pXWExZWW9ublZZY1ZLdHVPYUNGNUd3X1JvdzhYNlludnFEam9lYm1vQVRULVdILUR5eQ?oc=5",
-      "published": "2026-08-27T15:51:09+00:00",
-      "summary": "Full list of candidates standing in the Isle of Man General Election 2026 Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Candidates standing for Onchan in House of Keys election - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nTE0tNS1XYkNITzEzTXJQQ2w3ZTk5QmNGbTdhcEdLV1d1NXB0NWhRLUs4ZFhzUzFCclVwa2JDdXRhSmZWZHlseTFBYXRyX29xcHFvbHdUQmtUQQ?oc=5",
       "published": "2026-08-27T15:44:06+00:00",
       "summary": "Candidates standing for Onchan in House of Keys election BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Candidates standing for Middle in House of Keys election - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHMGFIeHBIdFBGZWlTLWV6Y2o4Z3JsRXZnYnNBZ0haUmJnT2Fhd2tBcHlUMlplXzNHZ3RsS3Zfbjh5QUtSUUM5ZGFWM2tRRkFTZE42b2M0YVJiYnZY?oc=5",
-      "published": "2026-08-27T15:36:49+00:00",
-      "summary": "Candidates standing for Middle in House of Keys election BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Candidates standing for Glenfaba and Peel - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKUlpGNS12N2hLZUJuU3FpSklHR3A4Ty1KbkdqODdWVnJDYVBDR1VTSUVuTDFYSjlwLXBNS2RLZ29uWWxTeWo3UVVld2FpWHdyVmUtakhIcW5ncjlk?oc=5",
-      "published": "2026-08-27T15:31:06+00:00",
-      "summary": "Candidates standing for Glenfaba and Peel BBC",
       "source": "Google News",
       "image": ""
     },
@@ -246,22 +566,6 @@
       "image": "https://mmo.aiircdn.com/5/6a90582c90e2408697f.jpg"
     },
     {
-      "title": "Race organisation contacts police over social posts - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdXRzcFJiMmo5cE1ocHRYaDRrdlpTNXkzSlE2NHlUaDZSajExbU9kQmVaRWlXUFEzMXdGVWRtS0NEXy1HRGxYSF9oNHI0T19EYUY2SVlINDVEdjEyQUMxWkx1S05XZUZxV2Q2V0k1S21RUy1zZjhEVmEzUlp3VjdyOEdqTDRNbmZnUlR1RU15WEstaHcxNVZBSXNjOA?oc=5",
-      "published": "2026-08-27T15:31:00+00:00",
-      "summary": "Race organisation contacts police over social posts 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Candidates standing for Douglas South - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hdkZvSUZxSlZWbzVNTXEtOVJZZWN2aFA5U3pXUkxDR05KczRhNlowcTQzWDBwUENua09wU3l5b2NXVmdFSnoybnh0bXh6S1ZSUDItal9UR1V3Z2VM?oc=5",
-      "published": "2026-08-27T15:20:45+00:00",
-      "summary": "Candidates standing for Douglas South BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Candidates standing for Douglas Central - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6MmRLYmhXVmVxRjZxNzVqb0pSaXhkdnh6Z3lxUzNNcnVzTW5Uc29ya0FDVUdVNlROX2liZGN6UzY5dmN6YzJpWVFFQ3hOUkhTQmRzMUsxdUg2YTc5?oc=5",
       "published": "2026-08-27T15:12:04+00:00",
@@ -270,26 +574,10 @@
       "image": ""
     },
     {
-      "title": "Candidates standing for Ayre and Michael - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2T2lCMlBCZnB5dWVIR05ORVowaVNQc29DVTJnUGpkekxobWhQTmVjb0pxS1RnR0VGNHFKYWJSdGp6Tl94X3lBTDV6NWpIQl9yTXp2dnFaeHE0b3NV?oc=5",
-      "published": "2026-08-27T15:09:18+00:00",
-      "summary": "Candidates standing for Ayre and Michael BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Isle of Man House of Keys election contested by 82 candidates - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81MXpPc0RIWVNXYzNmOGYxelhlZjM5emJEQzExaFFqRVZTdEEwQ19IeGJWc2RBTnFIMS13MkpfMUptUkdZODRCVWlkdmRMMkJtbTlmbUt3WmdnUQ?oc=5",
       "published": "2026-08-27T15:04:29+00:00",
       "summary": "Isle of Man House of Keys election contested by 82 candidates BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Candidates standing for Arbory, Castletown and Malew - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85NmZYM0RpWDk4cEFXbW9hQU5VajdST3g2V3ViYkg3QU5OMjA2MmU4V0pEZG5yTlVmbThZYzZ6ZWRSVENyTEdkQ0RMQWJDeVZ3SjZFZXRMd3R5NWZI?oc=5",
-      "published": "2026-08-27T14:56:33+00:00",
-      "summary": "Candidates standing for Arbory, Castletown and Malew BBC",
       "source": "Google News",
       "image": ""
     },
@@ -310,22 +598,6 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/332605-1.jpg"
     },
     {
-      "title": "WW2 explosives found on coastal footpath at Spanish Head - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xNVNZc0dSazBycXhTV3p0UmxhaUowVGdMUXlrNWJkUi1ud3pBSFMxaFRyTkpaZ0tyQVBrcEx1ZkRVUWR2RzZQT3lqMjRmTUFsX3loYkNDQ2o4N1Jw?oc=5",
-      "published": "2026-08-27T13:51:49+00:00",
-      "summary": "WW2 explosives found on coastal footpath at Spanish Head BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Police release image of ‘man they wish to speak to’ in connection with suspected indecent act in Ramsgate - The Isle of Thanet News",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUW1iNC1GSi03T3JGNXAzdWNOdXZieVpLR25hY2tKd1hmd2o2cTNtdnZYMFpnNWlpZUFRM1hxUXpGa1lsSEV5a3lIYkxIZWtTWm4zSzROM1lNZkVEVmR5NUU2aGpzcTZ3eENSby0wbG0wclpZZ2tOUW9Vc1B2NEpSdkVMZXFVSzNGNDNjbGU4cnBlaGxNeTNnZWNnRDEyTTlYcjlabTNhY21RMG55UjhDTEhrSHdOYk5qZHFxeXE5bzJaaXpJWDVaSHZDc2JJOGo1dmR6SVRPeTlsd2NwYkktag?oc=5",
-      "published": "2026-08-27T13:50:08+00:00",
-      "summary": "Police release image of ‘man they wish to speak to’ in connection with suspected indecent act in Ramsgate The Isle of Thanet News",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Seventh candidate announced for Middle",
       "link": "https://www.manxradio.com/news/isle-of-man-news/seventh-candidate-announced-for-middle/",
       "published": "2026-08-27T13:42:04+00:00",
@@ -340,22 +612,6 @@
       "summary": "Creena Mason to contest as a member of Transform Isle of Man",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/332597-1.jpg"
-    },
-    {
-      "title": "‘I was dying’: Rider pushed his bike to finish line after it broke down on the course - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSFlZODZ0a2d4dlFqaG1IWDFBVWUtYmdJLUE2bDFINV9ZbTVZU2RqT0psN0RkN3NnQjNyQVhKU2hKZ3F0Qm9RZWY4VG9DVjhSU3JuTDFvZ1pYd200YnZFQldoYTF3YmliVGVOd1k1Y05qUjY1d1pEdFcxTTNyTThSc2JfQThNZDBFNGlhXzQzb0diWkltOHVEZ3lLNUp0dXVKQmpoeFZ2elR1MnppVjJ4V3B1RGQ3bFllVlMyTA?oc=5",
-      "published": "2026-08-27T13:31:04+00:00",
-      "summary": "‘I was dying’: Rider pushed his bike to finish line after it broke down on the course Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "A special parade lap held at the Classic TT celebrated the 30-year career of Isle of Man TT legend John McGuinness. - Belfast News Letter",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPSXE3Zl9pYXE3ZW1CblA2bjFuR3d1WGhJLUhWbHVCbHVQT1pRV3piSW0ydWFFd3psSVVWYWtnU2ZPTlBzcGQ1QVFqMVlYMEJZRUdIb3pOTTFhTDZfYTJWLVp2aDY1Vm9hS1hEUFh6MGh6LXNBd1pFMDBxVFhSNUxOVDB2cEpvVjVhVUI3d1kwUHQyemNXem5LYldQMWt4MloxTl9vSUNTNElNaDdOLUJkaXhmMVBSenE5VEdUY0xKUEdtMG5Od2ZaemR1SFlJRllwSC1KN0lFRHdiWFNxSXRTN3U2VlZpdnYwSjlYWkJQWk9TVEZqVGdYQlkxX2NROWF6aWhiSVpud0hxamhKMTFjNWdvZmc?oc=5",
-      "published": "2026-08-27T13:04:00+00:00",
-      "summary": "A special parade lap held at the Classic TT celebrated the 30-year career of Isle of Man TT legend John McGuinness. Belfast News Letter",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "General Election 2026: Who are your candidates?",
@@ -382,22 +638,6 @@
       "image": "https://mm.aiircdn.com/3/5c46c33845983.jpg"
     },
     {
-      "title": "Billy Harris beaten in US Open Qualification - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV1dqMkxWN042RC04Qmg4VE1uekdmaWtGLUJBVGIybWZVRi1xekFteXNLdnNJbEJWNzBaLUw0NkNLZ1ZkRE0zMkxvS3pscnZGWFRVVzBiZ19sdTJmRjJBd05kdHBUOXotbGJlVm1OT3JlMTRvbGlmVVZfeDJ5OThvZWFXeUwxcVJZM21mTVdFQ1hEVUJQcUlZMXVR?oc=5",
-      "published": "2026-08-27T12:39:00+00:00",
-      "summary": "Billy Harris beaten in US Open Qualification Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "US parcel services return Post Office introduces international changes - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMG5QWGhneWtXbWlhODhiTTJtQVNmd3k0Zk9GNGJ6VVJsdHZWN2JkcTE5SmlJRUxsZG81d1dtTUVreFNEY3R4V0dhcF9Td3UtSVJvN3JpZFdieHpzYlVBNHZkLXloNFVwS254ZF9oeVRrbDRLUklZeEgxQWJkN3QyTDZyMWdfQVlZeUlkcmJnUTlJc3d3bkFOQUZrb1FzZldmTExVdHI1TWlNV094emc?oc=5",
-      "published": "2026-08-27T12:30:46+00:00",
-      "summary": "US parcel services return Post Office introduces international changes Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Most FOI requests from non residents, say Commissioners",
       "link": "https://www.three.fm/news/isle-of-man-news/most-foi-requests-from-non-residents-say-commissioners/",
       "published": "2026-08-27T12:16:56+00:00",
@@ -406,28 +646,12 @@
       "image": "https://mm.aiircdn.com/3/5d1c395ce4040.jpg"
     },
     {
-      "title": "Most FOI requests from non residents, say Commissioners - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMDlEX3NKMmVHWlJHMGRoX0FuMHhuV3ZaZDR0aVdsRy1kT3lEXzR0RVZ1WEkxNVE1QzJITWU0Tk5EbVdjWHY2NERPdEZpNEp4YjhiVTFOalJtNFFzaUluNTdhNG52cXpYWVhmVl9TaklnWWdnQU5KZVF2clZJeFJxd2UwQ1JXQm5jT3lmRURpdzNDa1dpZDdWME9aXzFoRjA?oc=5",
-      "published": "2026-08-27T12:16:00+00:00",
-      "summary": "Most FOI requests from non residents, say Commissioners 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Teen accused of making 'vape juice' to stand trial",
       "link": "https://www.manxradio.com/news/isle-of-man-news/teen-accused-of-making-vape-juice-to-stand-trial/",
       "published": "2026-08-27T12:15:42+00:00",
       "summary": "19-year-old denies Class B drug offences",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/331934-1.JPG"
-    },
-    {
-      "title": "Sanctions Lists Update: Afghanistan",
-      "link": "https://www.gov.im/news/2026/aug/27/sanctions-lists-update-afghanistan/",
-      "published": "2026-08-27T12:07:11+00:00",
-      "summary": "This news release is issued to publicise the amendment of two entries on the UK sanctions list. On 27 August 2026 the Foreign, Commonwealth and Development Office updated the UK Sanctions List . Further information can be found in the Annex to this Notice. What you must do in relation to amendments If, through your sanctions compliance programme, you identify a possible match to a person or entity included in the Sanctions Lists, and you hold or otherwise deal with funds or economic resources of...",
-      "source": "Isle of Man Government",
-      "image": ""
     },
     {
       "title": "Deadline for submitting personal income tax returns just over one month away",
@@ -446,26 +670,10 @@
       "image": "https://mmo.aiircdn.com/5/6a901eb2c849877232e.jpg"
     },
     {
-      "title": "Second World War munitions found beside popular Isle of Man coastal footpath - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWDZvQ3FvLUMtWU1kTktkdldHN0NubTVwYkY5RXV5eC0tc2g3TDNITWIzMU9kZ01DXzlsdjM1bUN0cTl5NHV3WTliQkt5ZEp3REhFMkhTbWp0UVJOQUtkQ3lTbHlydzBob1A3aFNmc3llb3B0Uk9adXc0MFJpOG9ueDZyelJfR2Q1emJlSGJaSk1aYUVPZy1LdVdKcVZqeHhmMnZKQU1qbVBacm96elVGS1hrcmpGUQ?oc=5",
-      "published": "2026-08-27T11:03:11+00:00",
-      "summary": "Second World War munitions found beside popular Isle of Man coastal footpath Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Michael Dunlop reveals plans to get 2027 Isle of Man TT bikes sorted sooner - Visordown",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWnBGclZUenhMM1JZX2tCRHJnSTdrWnJJb3JGOWd6N3JUY2pJMkpwUmpkek1GUUxiaWtmaGh2RXdwbHBoTjVYdm1DREJJU3RodnJ4d0YxQ0JiQk9WZ1B0NGM1TFZuSDl5YWxHTU5hXzBpXy1GZUNIS1c1UndIQ04yaTdtblc3aEhQdnNvcllCNUI1aFJVQ1BEV3hEbXYwNUJTaEE?oc=5",
       "published": "2026-08-27T10:56:06+00:00",
       "summary": "Michael Dunlop reveals plans to get 2027 Isle of Man TT bikes sorted sooner Visordown",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Bee Gee pays tribute to Dolly Parton - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTkt1NXN2YnBaVGc1UERLQ0YtVDl4OHNQR2l6ZzJndnVpNnBsOWUzSWZtZktHZDJOazZRVXF5S1hUSFlRSG1LS2ctYkN3dXdKS0VYNlZEN1RHNFVPRGZZNU5odkt3YVg2YjBKUjNiS1ZYSHFJNXlmQVNSdkpfSzhTTUZZaVJuSEU?oc=5",
-      "published": "2026-08-27T10:53:09+00:00",
-      "summary": "Bee Gee pays tribute to Dolly Parton 3FM Isle of Man",
       "source": "Google News",
       "image": ""
     },
@@ -476,14 +684,6 @@
       "summary": "Bee Gee singer Barry Gibb has paid an emotional tribute to Dolly Parton on social media.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6a901649230456756f8.jpg"
-    },
-    {
-      "title": "Red Devils display over bay cancelled over rain - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wZzItVTZ3ZDdleG5uTllFQXBmTkxzU0JzNmtRdW1IUF9jdlBLMTBkX1lpcDBKYTFScC1KM2ZmS0pYYWFuUXJfZks3Z2wzVWgzb3FLd2pUeG8wX0ZB?oc=5",
-      "published": "2026-08-27T09:59:44+00:00",
-      "summary": "Red Devils display over bay cancelled over rain BBC",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Fifth candidate to stand in Ramsey",
@@ -500,14 +700,6 @@
       "summary": "Arwid Hall insists he was highlighting a weakness in the law, not 'exploiting' it",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/332522-1.jpg"
-    },
-    {
-      "title": "Red Devils parachute display over Douglas cancelled - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT1Vwc1BDTWVtbUxsTzJ1b2c0RVA4dFVKRnRqc2NvZmdVbmNqSVlNLTU4cjh2QWRieFZaUThwZ2V2SHlWd2dadUt5UVdQSjBMejVWekkzQ1RjOUpYN29wZXZqTjAwNzUxcDg5VWRhSFY3bTk0Z3Z6V2ViUHhheEI4dnptaFR1QndxaW1wX25Xekd3YW5z?oc=5",
-      "published": "2026-08-27T09:35:16+00:00",
-      "summary": "Red Devils parachute display over Douglas cancelled Isle of Man Today",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Paths open after WWII ammo scare",
@@ -566,14 +758,6 @@
       "image": "https://mmo.aiircdn.com/5/66e02c2cb28ab.jpg"
     },
     {
-      "title": "Unemployment figures remain stable - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5weUFnd3VsQ2ZITmZpeGl5TEJXZzdYT1Y1ekt0cUtsLVRiQ2pobFYxQWJNeWFsZFNyN3lReUJoOXdfQUh3Y0FQX1J5eVVxdVdNR1NYWTRvVkdHMV9IRElTQ2lrdzZxZlFDZ0JWUFo3V2x6U2s0QWJJMnVDcw?oc=5",
-      "published": "2026-08-27T06:29:00+00:00",
-      "summary": "Unemployment figures remain stable 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Section of Raad Ny Foillan closed after ordnance found",
       "link": "https://www.manxradio.com/news/isle-of-man-news/section-of-raad-ny-foillan-closed-after-ordnance-found/",
       "published": "2026-08-27T05:59:20+00:00",
@@ -596,14 +780,6 @@
       "summary": "Race action around the course may be over - but the Manx Grand Prix entertainment continues tonight.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6a759cbe2c3a8542013.jpg"
-    },
-    {
-      "title": "Army parachute team to drop into Douglas tonight - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTnMwWklWdk5iVmRmM25zZ1ItYlR4TTlEMENwdW1OUlhXcFBFQjJhSTBzVkdsUlVPRG1xNWROanFTYzdJN2lRUXJzZ0pxNTYwN2g2dzFsYnBHSkNsOFJJbnI2cnFPV0hHZm9XOUdCS0JMMzB2Mmk0VGd4MkN2c3hGdmVmdXlZTkVtWndZV2hGMzBBMkxaNS1Z?oc=5",
-      "published": "2026-08-27T05:46:00+00:00",
-      "summary": "Army parachute team to drop into Douglas tonight 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Harbour alarm to be tested today",
@@ -670,6 +846,14 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/332346-1.jpg"
     },
     {
+      "title": "Kathleen O'Hanlon Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcDVzQkFfTzRMVEkyRXBURG8tMlFkOTlYZmdXTTI5MWxVZVhoYWhDeDZXelFONW03OHNRVnpxdDd1MUI0NnlUdWNSYnpKVXN6YjJMRzFaLWowcUhfdHhVOG9xQkVhZF92UFdYRGYySV8teHJWdFplcGIzZGNtU3ljUXlDSjZ4RHhCcHRVUzE0ajNJTWFBTFZJ?oc=5",
+      "published": "2026-08-27T00:25:48+00:00",
+      "summary": "Kathleen O'Hanlon Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
+      "source": "Google News",
+      "image": ""
+    },
+    {
       "title": "Catherine Ross Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObzhoOFFMRXIxODdIeXI5SWJLMk96Vjg5Z3Y2eVhGU1FJT2lwZldVbzZhc1JraVZCMFlYM1V5TVRPbUFtZFlHejZyYl9wYnRzTzdYZUMxcWZmaGcwWU11d3BjMVFqTzVEZm5MZGd1X2xSZk1YWk1HbVluMUFSSXBPWGhRdjZ2NjBVZVR0ZGdNWlNmajg?oc=5",
       "published": "2026-08-27T00:25:48+00:00",
@@ -678,26 +862,26 @@
       "image": ""
     },
     {
-      "title": "Nevart Christal Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWG95OTVzOUg0anZLU0FOWEdkbDJRTUxseXhQalktVXg3RHdKM2ZiNTFxYURBcUlxNmVobVpZNko2TGtjeUE5ZjZLdmpDSHF3ak1lVjhKV1BIcHhmaXBoWlNOYUZJQzg5bEN2aVdCb2tCbjQyYngwR1RjWmJ1MlotVTYxc0NaZ2xxSngtcUx4b3M5aFF0?oc=5",
+      "title": "Norma Kelly Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN252Y1BSQTc2dS1KRDVvYllEaVJrTWFSdzJGNG0zcmhvMzlqaloteFE1YXhKdDlHelJpZmpneGxfN2pmZHRRTVE1THBCV1NKcGhLM3EwTWdES05UdC1UQzNLN2NYSG9IeVp6LWpFekdnU3V3NUFrb2N5ZzlkSTNhcHZSb0F0Y3lkRnBCWTVlUQ?oc=5",
       "published": "2026-08-27T00:25:48+00:00",
-      "summary": "Nevart Christal Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
+      "summary": "Norma Kelly Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
       "source": "Google News",
       "image": ""
     },
     {
-      "title": "Robert Leith Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWDk5ckx0d1B1bGxzU183SHR3UWZKcHhUSXN2RVNIYS1FTTJCUVdaVllPMDdnc3NlZ0FMSV9EQjRvUVF5c2tCNGN5NDU2ck92c2lLZkFZU2l3S0JiME9xb2hLajZIbVhJMEFzOXR2Xzc4RFdQR1ZIN25tb0ZDOGFpa0sybkEwSjIzLWZBUFFicjQ?oc=5",
-      "published": "2026-08-27T00:25:47+00:00",
-      "summary": "Robert Leith Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
+      "title": "Patricia Speidel Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSTZkOUIxNGNtMlNpQkU3Y3lwUTJHdF9uM2RmeXBzbjVkOXlGVzdGV0p0WkQwV3hhRjVfVDRWdHJhZ1I4QklOdmJMT29sN2VpSUtrMk9yVkNkWVJIc1RFSlhmVVZxbU94cUdwNEVIZkppTExweDlmbG1HTExvUXN5TW5MX2FyNnUtZ1BnZHptZUN5Y1ZjTnc?oc=5",
+      "published": "2026-08-27T00:19:38+00:00",
+      "summary": "Patricia Speidel Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
       "source": "Google News",
       "image": ""
     },
     {
-      "title": "O'Hanlon. Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTk0tdDlHX1RfYVoxZFhwc1VkWlJaVVlWZFVrSExQbDlKQlRsMkVudnk5bXlBeFNVLTh6bWpySTJFYmVSczdWb29uSkVRSVU4Y05ZZ3lxTmZoemIwaGxNMEY1cEJucEJTT2t4QzdNcjQtcU5zTS02OXFhby1WanhfSkgyWGJaS0VJejdr?oc=5",
+      "title": "Christal. Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSFdtcWRPdVl0STFVSGlJZHhUak1sSm1nQ1FaR3hDNkFLNGdKa21sXzNtbndQZVFPRlo2REhHUE9tMFowaFhiN1pUcC1YcTJhdEZpWVYzams4WktjVjRzaG1YSUxVQ0Rwa1lFQ09PRmo1U294V1ZJZ1VWcjJCTHFNYkR1eWRKaXJURDBSYg?oc=5",
       "published": "2026-08-26T23:27:11+00:00",
-      "summary": "O'Hanlon. Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
+      "summary": "Christal. Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
       "source": "Google News",
       "image": ""
     },
@@ -758,14 +942,6 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/332255-1.jpeg"
     },
     {
-      "title": "Red Devils to put on daring display over Douglas - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ydGswOEZFQWtPSW5zdVBIV2ZKajRSYnc3UjIzcHVtd3lWQzBlcE4za1c4UHBkQnJ2amJXXzE1dUpTVzVESE9HV0c2eFdNdUNVdVI1ZnlIemd1eE9U?oc=5",
-      "published": "2026-08-26T13:26:04+00:00",
-      "summary": "Red Devils to put on daring display over Douglas BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Remote GP phone services to be rolled out - Yahoo News Canada",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJaXJPRmYyZUhLSlF2VWF3VDBuZmJUMlJRRndscVBpeGxudjBacVdzb0xJMmhNTE96eHFLYkk4R2VMUVQ2NE5IeWhLNmU4WTJySDhMcnpITVMwSmYwQVdCTUlvZEx2TWtBSGZsMWUxd2tKd0sycE1fVjZRYzI?oc=5",
       "published": "2026-08-26T13:18:25+00:00",
@@ -790,22 +966,6 @@
       "image": "https://mmo.aiircdn.com/5/6a8edd1bf117f804642.jpg"
     },
     {
-      "title": "Isle of Man TT rider says living on island would 'be like Christmas every day’ - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWl82UEluTEpWQ2tuaU0ySmszbFBYSmN6QnFoeDB3bEpQdU5ybXEwcWhBb2VOd1ZIRUY4MmlDUFl1T2lSbFdVX1NnVE5lV19tQ2ktZlBmTHA3ZWo4TlVYcWw5dWF2cmtwNWhDMlRQamhlbFdOY24ybjA3dGdYV3BtWmh5WEhWMkZISUVyLUN4amVQRklXT005WHNiWWZ5MlFOeEN2cF9pUE9GMy1USzhwaDlJR3YzUQ?oc=5",
-      "published": "2026-08-26T12:24:07+00:00",
-      "summary": "Isle of Man TT rider says living on island would 'be like Christmas every day’ Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "One Island transport app launches on the Isle of Man - Highways News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQREFDcHRUSl9uSVk1Q1dBdHZabFU0dFFNZVRMQmpwRGU5X2d4alExUERESlM3RWRWRDVZVHQ2b184RlF2Q21KVlNnVHNjbkRDUjZrcFYwRFBxTmp4Zm9TMFpJUldhZ0w0YklSOE9PRk1uZjUxWURnRlhCc3ZQY1Vic24yZDV0QQ?oc=5",
-      "published": "2026-08-26T12:19:07+00:00",
-      "summary": "One Island transport app launches on the Isle of Man Highways News",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "IoM Imagination Library 'privileged to play tiny part' in Dolly Parton's legacy",
       "link": "https://www.manxradio.com/news/isle-of-man-news/iom-imagination-library-privileged-to-play-a-tiny-part-in-dolly-partons-legacy/",
       "published": "2026-08-26T12:13:14+00:00",
@@ -820,14 +980,6 @@
       "summary": "Did you pinch a pub's paraphernalia last night? If so, you might want to return what you took!",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6a8ed5a6ae1cf4e0ddb.jpg"
-    },
-    {
-      "title": "‘We’re heartbroken’ - Isle of Man charity pays tribute to Dolly Parton - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU2tPN0pFT1c5MmIwM0FNOXM5Tzgyal9BQk1RTTVIUkMybWtUMGg3LXc4UUxGd3laazV0SzNMSjRCVWFFbUR1dGFja0xiOHJSLWpsbVRSQTJ1TWtnc0pYMGQ1WHNIZm9Vd0kxUm5QNXhXdHk5RzU2WWJlY0xqeXBKZ3Y5MVdiOWtkekp5NkhKMjA3VnppV2VuTVI5bFF4TFN3elN1MXY3OA?oc=5",
-      "published": "2026-08-26T11:39:07+00:00",
-      "summary": "‘We’re heartbroken’ - Isle of Man charity pays tribute to Dolly Parton Isle of Man Today",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Road closure in place following Black Dub RTC",
@@ -852,14 +1004,6 @@
       "summary": "A vital traffic route in Ramsey has now reopened after three weeks of work.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/649afd1423a11.jpg"
-    },
-    {
-      "title": "John McGuinness: ‘When I stop, I'll always come back to the Isle of Man TT’ - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdlJxZC1iU0ZiSVNjMTIwNXIwLTFRSXpKSHc5OXJHbWhnbXlaN3k5YzN2ck1Qa0tld2EzXy1FR1RMWHFQWlZncnF2b0V3N1pRZTVYRzVRX2VQNzZzNTVrRWJIaGQxc1plNzcyblhHNkgxblBpQ1NCV3R2U3B0MEU0U2xqa2thS3VIb05hcVFwRFdiTkkyeW40LW53ZTBRY25WQk50MmdjVVNaalU1WUE?oc=5",
-      "published": "2026-08-26T10:34:07+00:00",
-      "summary": "John McGuinness: ‘When I stop, I'll always come back to the Isle of Man TT’ Isle of Man Today",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Wife to complete ‘lap he never got to finish’ in tribute to Isle of Man TT rider - Isle of Man Today",
@@ -926,14 +1070,6 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/332172-1.jpg"
     },
     {
-      "title": "Mountain Road restrictions remain despite early MGP finish - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XcUJ6R2tXbEZOQ3FnZXF5aGtWbWNVZ20yeVVVbThlQ3VpdHN3Njk1Y2E5cElKYVRnY3B6amZyT1FjOE9ndURHUjBYTm5NRTAxeDBPclR4YTdrMHVo?oc=5",
-      "published": "2026-08-26T06:18:40+00:00",
-      "summary": "Mountain Road restrictions remain despite early MGP finish BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Final deadline for keys candidates today",
       "link": "https://www.three.fm/news/isle-of-man-news/final-deadline-for-keys-candidates-today/",
       "published": "2026-08-26T05:44:52+00:00",
@@ -998,14 +1134,6 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/331953-1.jpg"
     },
     {
-      "title": "Medium Grants Programme for Urgent Church Repairs and Work (United Kingdom, Isle of Man) - fundsforNGOs",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSEhUX2xNMnFJVUk5RXNVZmtfNEZ4UWd4QjZvWFFrb3VXaVFMNE5uVVY3bV9oa0RlWHluVnpQT2Vna2FTM2RvOXpCXzJ1TkQ0dC1UcklwOHNyeW92U1EtZmhYTV9xRUJYbzVwZ2lNbmhLV2YtZnJqRlFTYTNNVGtObVk0U1JKWmpYTE1YN01nNFdXZk56bll6aWU3bno0UEMxclR3RllMdDN4bkMwZHlGM1pzSE5zdlVTaS1LSGhSdkJSWklVMDNTNWpUcDhycGVFMEpTd2d1SdIB3AFBVV95cUxObV9wZFMzLWRMbUR4TVNkVGdTTTFySWhKbFFvZGpERjNQS3VkZmJTTnA3b3VLbjlHcGtXWU1mTk1MOTIzclhUcXNFRGltOFpuRFgwWmNfRXNkM2w5UTRLc3VsWFl5clN5RGM4bGx3MFV4M3RoQ3YwMTBFLTl3NmxUc3czYlAyWFN0OVFoRWRsenlJUDd4SXBlZUdPMC1ySXZVWlFpTjZQS01pRl9iLWYyeU1xYTVlU3FXUlN1dkwtY1RoV1NiUVdGemRrNThGOVNVajlsRmtvNDlEU0Fz?oc=5",
-      "published": "2026-08-26T05:18:40+00:00",
-      "summary": "Medium Grants Programme for Urgent Church Repairs and Work (United Kingdom, Isle of Man) fundsforNGOs",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Peel Beach Mission bids farewell after more than 60 years",
       "link": "https://www.manxradio.com/news/isle-of-man-news/peel-beach-mission-bids-farewell-after-more-than-60-years/",
       "published": "2026-08-26T05:17:47+00:00",
@@ -1028,14 +1156,6 @@
       "summary": "A Manx organisation that gives out free books to improve children's literacy says it's \"heartbroken\" at founder Dolly Parton's death.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6949598e4ad11.jpg"
-    },
-    {
-      "title": "TT sidecar racing 'fighting for its future' - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IOExxTTVWdW5ncjFNS1BvY1Awa0s5UUtwRVAwRGlZb0VkRWJvMW9kc001NUdTQmlndGlPOThxWVUteS00SU1BNDgwMVltV0l5azFyV1J2cDNqZDhP?oc=5",
-      "published": "2026-08-25T17:00:15+00:00",
-      "summary": "TT sidecar racing 'fighting for its future' BBC",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Notice of Intention to Remove - 2006 Act Companies",
@@ -1086,14 +1206,6 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/331951-1.jpg"
     },
     {
-      "title": "People warned of 'Isle of Man Fraud Team' scam - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOGNSalhXWjBHZjNsYTVFTktuZElncTJLcm9uNHFRR01jai1EUlR5SU1fR1ZhQ285bVEtMVpNX3pfbmRIbkRSS1Q0TTAtU1dneXRzaWV2RThBSVp4RFBpbTFoMy03M25STHRWLU5qSk5rYnZEcnNTNGdwd3RTOHhBSEppSGVlYVFpOEozNjh3WkU1anhJdDZiZg?oc=5",
-      "published": "2026-08-25T15:13:00+00:00",
-      "summary": "People warned of 'Isle of Man Fraud Team' scam Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Declaration of Dissolution – 1931 Act Companies",
       "link": "https://www.gov.im/news/2026/aug/25/declaration-of-dissolution-1931-act-companies/",
       "published": "2026-08-25T15:12:31+00:00",
@@ -1110,124 +1222,12 @@
       "image": "https://mm.aiircdn.com/3/5c665fc0a0b94.jpg"
     },
     {
-      "title": "Isle of Man TT icon John McGuinness celebrated with special parade lap - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWFNtWGtiUmN5UUU0aXBiWER1b1Z1SnJ6TURHSWdybU1MQUdsN0hoMGdSS2pqbDVlWFVNa1VaV2NaZGJrVllpS2NHbEQ2QmJaWWlYU1IwcTMtRGlJQ3JTVm9hNFl1Wm1la1dSSF85YjBPYlRHM2lpbTdxazdWY3I0UDRJcEJ3RXNZd3dDVHNVdU5abVJzZjlGSDh6WGxLVlB6aDJ3Tlh6RzdJeVVuX1E?oc=5",
-      "published": "2026-08-25T14:45:10+00:00",
-      "summary": "Isle of Man TT icon John McGuinness celebrated with special parade lap Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Still time for businesses to book food hygiene course",
       "link": "https://www.three.fm/news/isle-of-man-news/still-time-for-businesses-to-book-food-hygiene-course/",
       "published": "2026-08-25T14:12:56+00:00",
       "summary": "The Department of Environment, Food and Agriculture says it's added an extra date for a course about its new food hygiene scheme after high demand from businesses.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6719f6af89d49.jpg"
-    },
-    {
-      "title": "Last chance to register to vote in election",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/last-chance-to-register-to-vote-in-election/",
-      "published": "2026-08-25T13:39:13+00:00",
-      "summary": "Island's next General Election takes place on Thursday 24 September",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/331903-1.jpg"
-    },
-    {
-      "title": "Douglas music facility opening soon",
-      "link": "https://www.three.fm/news/isle-of-man-news/douglas-music-facility-opening-soon/",
-      "published": "2026-08-25T13:22:38+00:00",
-      "summary": "A music business says it's hoping to open a new facility in Douglas next month.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6a547b2a5f243600ed8.jpg"
-    },
-    {
-      "title": "Rathkeale’s Liam Chawke injured in Isle of Man - Limerick Post",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWXNnZkQ4VUh5cGFfdmw0TjV3SHdoWU1sYTJaRmc0QWhQR2kwTHVSMDNoX09IZFhYVkdpQktLME80QU5FYzFjSDgxQWZEVjVfWkFpMFVnSDFyNC1FVFdjNjRHMXBjVkNtZWo2Ulhocy1fcTJLR2pEMkNmX0hfd0dwdWdqc0JYSDdaTS1lb2NB?oc=5",
-      "published": "2026-08-25T13:15:55+00:00",
-      "summary": "Rathkeale’s Liam Chawke injured in Isle of Man Limerick Post",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Witnesses sought following fight between large group of people",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/witnesses-sought-following-fight-between-large-group-of-people/",
-      "published": "2026-08-25T12:23:34+00:00",
-      "summary": "Incident happened in early hours of Monday morning near Jaks",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/331901-1.jpeg"
-    },
-    {
-      "title": "Jack Tennant Documenting a punk collective on the Isle of Man - wepresent.wetransfer.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLVFHZ1dBY2lsLXJvX1FkZl9PUkp4cVlMNUpVVHZhWC0tTEdhS05iQVBfY0JZc0EtdklZTzZONzc2NGpZZnhsZkdaQkFCclYxTW1BZTZZSy1NNmdmUzdfcDRTZ281cDNsa3haMjR5MzR1QVhHbGdaWVVWUk82c0syRGZSWFhfY21kZ3NNc3JTYw?oc=5",
-      "published": "2026-08-25T11:50:48+00:00",
-      "summary": "Jack Tennant Documenting a punk collective on the Isle of Man wepresent.wetransfer.com",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Michael Dunlop completes Classic TT hat-trick with Senior race victory - Visordown",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdkRoclh0REk4QmZhU2RfbXNRRmQwTUxNdWlNVEFZYnAtSkRWV3BDRVRPT3d4a1p4UER6SXNMbGd4cTd5RzRZTklNUHljUmVTSjVfd0Y3ZU9nYVlxdy1Pdm1QdUdDZlJXY2xDR0tYV2c1eWY0bzdvUVNfUVd0LWZyX2ZXd3JjaUdraHp5SnEzVmsyMXhwZWREN1RlbU0?oc=5",
-      "published": "2026-08-25T11:46:01+00:00",
-      "summary": "Michael Dunlop completes Classic TT hat-trick with Senior race victory Visordown",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "FoI reveals most popular MNH sites",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/foi-reveals-most-popular-mnh-sites/",
-      "published": "2026-08-25T11:43:53+00:00",
-      "summary": "There has been 725,540 visitors across all sites in the last three years",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/331884-1.png"
-    },
-    {
-      "title": "Dunlop takes third victory in final Classic TT race",
-      "link": "https://www.three.fm/news/isle-of-man-news/dunlop-takes-third-victory-in-final-classic-tt-race/",
-      "published": "2026-08-25T11:40:15+00:00",
-      "summary": "Michael Dunlop's been announced as winner of the Senior Classic TT, in the final race of the festival.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6a8d7ef82272c5ff36b.jpeg"
-    },
-    {
-      "title": "MICHAEL DUNLOP CLAIMS SENIOR CLASSIC TT VICTORY - IOM TT Races",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQzVPNmRCTTdsZUxhRV9Cdmszc205WXppdnFEYmpIanowQlNoT29ULTZKSGdYcGRpeXlXQ3BMRDhVZW43M1VEQTk1RDZES1piU3cwN21UOHFOT1N6X3dHN2tnZzBCQTlIejc1bXZ3TDZWMXctM0lFN3lhMTFLR3lXeHA4WlNxdlJ3d1BrODhXekxxVnBHMVpocm1IT2c?oc=5",
-      "published": "2026-08-25T11:27:23+00:00",
-      "summary": "MICHAEL DUNLOP CLAIMS SENIOR CLASSIC TT VICTORY IOM TT Races",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Appointment of His Majesty’s Attorney General",
-      "link": "https://www.gov.im/news/2026/aug/25/appointment-of-his-majestys-attorney-general/",
-      "published": "2026-08-25T11:26:07+00:00",
-      "summary": "Oliver Helfrich has been appointed by The King, as His Majesty’s Attorney General for the Isle of Man, following an open recruitment process and the recommendation of a local selection panel. He will succeed Walter Wannenburgh KC who is retiring after four years as Attorney General and 11 years serving as a Crown officer. He will assume the appointment in January 2027. Mr Helfrich has built a distinguished legal career spanning more than two decades, including senior roles in both the Attorney G...",
-      "source": "Isle of Man Government",
-      "image": "https://www.gov.im/media/1394200/oliver-helfrich-photograph_250x309.jpg"
-    },
-    {
-      "title": "Next attorney general confirmed",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/next-attorney-general-confirmed/",
-      "published": "2026-08-25T10:55:27+00:00",
-      "summary": "Oliver Helfrich will take up the role in January 2027",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/331892-1.jpg"
-    },
-    {
-      "title": "McCormack being treated at Aintree after Classic TT crash",
-      "link": "https://www.three.fm/news/isle-of-man-news/mccormack-being-treated-at-aintree-after-classic-tt-crash/",
-      "published": "2026-08-25T10:54:15+00:00",
-      "summary": "A well-known road racer is currently being treated at Aintree Hospital in Merseyside after an incident during the Classic TT.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6a8d744d97895534eda.jpg"
-    },
-    {
-      "title": "Lord WheelyBin wants to conquer Onchan MHK seat",
-      "link": "https://www.three.fm/news/isle-of-man-news/lord-wheelybin-wants-to-conquer-onchan-mhk-seat/",
-      "published": "2026-08-25T10:22:17+00:00",
-      "summary": "The Isle of Man has its own bin-faced galactic warrior who says he'll be standing in the Island's wheelie bin capital in September's election.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6a8d6cc66d86b518aac.jpg"
     }
   ]
 }
