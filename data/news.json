@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-09-13T10:52:54.481833+00:00",
+  "generated_at": "2026-09-13T20:28:53.791851+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -29,6 +29,46 @@
     }
   ],
   "items": [
+    {
+      "title": "Election candidates urged to back Isle of Man space agreement - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObkIwVGt5cjU3aUljTFBCMmxMejdDMl9BYUY3bXdvNVdhUVI1TXpfY0JPWDhRSWt0X1JMX3JoS0Vab3JYdWZnaXdybFVIZEprbjVYOUFHSHE4MjBBRC1CeGYwT0w4VXBYQ0VEalFZbFRKa09DcWtrSXdGUy13dlRTZ1N2RDkxYU10REJ1YnRsdWdYZWl1cG41T2NiZWJuQUxCclE?oc=5",
+      "published": "2026-09-13T17:40:12+00:00",
+      "summary": "Election candidates urged to back Isle of Man space agreement Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Isle of Man volunteers could be in line for prestigious King’s Award - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX2hLaVN5N3c2ZU5Zb2NoaWpQS2x4czhPLUs1X1pfNDRhdDFxTEJrdkJha0d6X2pGMUZBRG9zckpSeWRzTzVyblh2cWxmQnM2cU10a0lwM0JFcUVmcnVoTmV5RV84NEdnVXJHREktTGpyYnRsMEhjQXJPc1laVTN0MzJkVzc5Y0tWTDlucnZmYjNFcUVSSkRhSUFTazIzZE9qcThvWWdZRzlrZw?oc=5",
+      "published": "2026-09-13T17:25:11+00:00",
+      "summary": "Isle of Man volunteers could be in line for prestigious King’s Award Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Objectors call meeting over Peel hotel plans",
+      "link": "https://www.three.fm/news/isle-of-man-news/objectors-call-meeting-over-peel-hotel-plans/",
+      "published": "2026-09-13T16:44:43+00:00",
+      "summary": "A public meeting will be held in Peel this week after plans were unveiled for a multimillion pound tourism development.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6aa6d207a2d64b94310.jpg"
+    },
+    {
+      "title": "Pink TT course lap for charity",
+      "link": "https://www.three.fm/news/isle-of-man-news/pink-tt-course-lap-for-charity/",
+      "published": "2026-09-13T14:31:10+00:00",
+      "summary": "A charity lap of the TT course next month will one of the brightest biker processions the Island's ever seen!",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a1723329300b.jpg"
+    },
+    {
+      "title": "Office plan for former soft play facility",
+      "link": "https://www.three.fm/news/isle-of-man-news/office-plan-for-former-soft-play-facility/",
+      "published": "2026-09-13T11:04:07+00:00",
+      "summary": "A Douglas company's applied for planning permission to transform a former soft play facility in Ballasalla.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6aa682fd98e580ce15f.jpg"
+    },
     {
       "title": "Spice up your life at chilli festival",
       "link": "https://www.three.fm/news/isle-of-man-news/spice-up-your-life-at-chilli-festival/",
@@ -78,36 +118,12 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/336853-1.jpg"
     },
     {
-      "title": "2026 End to End Walk taking place today - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNUpxVk03eG9NVWl2QVZWVTRZdGRoV20xaWs2N1ZlMU84RnFheGlWanRIaG9wQ1pWaERMYjZkSi1yUURSZzV5bll2S0hkRlVKSy1PTEkwQmx4WURIS2QwLWlfZUpCdl91X2Y1UEdZVmtVTWVrSjgyUm9Pa3k4ZjYxaEZUeU95REZpODY2SnVrTEpGZDA?oc=5",
-      "published": "2026-09-13T06:04:57+00:00",
-      "summary": "2026 End to End Walk taking place today Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Abuse of Steam Packet staff 'totally unacceptable'",
       "link": "https://www.manxradio.com/news/isle-of-man-news/abuse-of-steam-packet-staff-totally-unacceptable/",
       "published": "2026-09-13T05:02:39+00:00",
       "summary": "Ferry operator hits back after numerous incidents involving passengers",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/336820-1.JPG"
-    },
-    {
-      "title": "Abuse of Steam Packet staff 'totally unacceptable' - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM1RmNi1rLTZSUHUzZEExMk5XRnFpTklqTm44MlBReVBRU1lvWExrdlRoNHYzN1ZCbkpWWHZBckVOa2pRQjNReEdCanlCNnhWSHcwWEFjajRrcGM2RFhWU0RWMnZwZnNDVDg1MF9DdVNGZndQSWtMRVFXYms3S3I3ZTdXZm45QmF3eVNDd3ZXd0FocXpfNldvTkU3cWZpZw?oc=5",
-      "published": "2026-09-13T05:02:00+00:00",
-      "summary": "Abuse of Steam Packet staff 'totally unacceptable' Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Hockey: 2026 Isle of Man mixed season gets underway - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM2RSU2gtSWVfaHh1dXd0aGJqQlZVazVvS2JGbnM3WDhreUJoc1F0VGVrekNGWjJKVWpyVklycGVnaWhJZzA0ajdGQ25NTmtVVkpTRnRFazF4aUNXOU4wUDRrVW9lSDFFLWV5T2pqTEhSaUg1UlZlOXVOYjNfTFNySVlKaWtSZVZxZG9kUVZDSkM0UXVmVnBxSGVqWDVJd21OQlE?oc=5",
-      "published": "2026-09-12T17:41:00+00:00",
-      "summary": "Hockey: 2026 Isle of Man mixed season gets underway Manx Radio",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Isle of Man nitazene warning after drugs seized on island - BBC",
@@ -118,10 +134,10 @@
       "image": ""
     },
     {
-      "title": "No More Supertwins: Isle of Man TT Adopts Sportbike Regulations - Motorcycle.com",
+      "title": "No More Supertwins: Isle of Man TT Adopts Sportbike Regulations - motorcycle.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWDVpa280SkZuY1dEUHI4SHNpRXMxYVozdWdPU29YMmRRT2dselZOWUpGdHNqcnpJSlhRTDFKMzZuNFJXaGFPU0w0WkZrRXNFUGdEdEsxUjNpZUkzQm9GVXhjV2o0cG5QekpROVFmbkN4VGRtWUZ0aU93WlEycDJ2ZHd5dE1sTVg2OHhuTUl3M0tvUEZ1Z19UZ0tCNVN4dlVVa2Y5dVJPQzQ4d3ZLSkE?oc=5",
       "published": "2026-09-12T14:00:00+00:00",
-      "summary": "No More Supertwins: Isle of Man TT Adopts Sportbike Regulations Motorcycle.com",
+      "summary": "No More Supertwins: Isle of Man TT Adopts Sportbike Regulations motorcycle.com",
       "source": "Google News",
       "image": ""
     },
@@ -262,10 +278,10 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/336890-1.jpeg"
     },
     {
-      "title": "Isle of Man TT Announces Changes To Sidecar Class - Motorcycle.com",
+      "title": "Isle of Man TT Announces Changes To Sidecar Class - motorcycle.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVBMS2xiX2k2UjZ5Zy1hc0FaOVpCZGctWUxpNS1aWFJYenJlLXJYbjRIZWd6TngyUVFXTWduc0diMHJLcTN5RGJvRURMbXdGRnRHZXR3cnNpdkZ3c0toNjF4U2tFdEtUamZ5MVI5SjExdVprS0x2WHMwc2ZFOVl2bW1SRmFqV0k0dEVSMDNrSHdfSTBXTUpTaVhoN0s?oc=5",
       "published": "2026-09-11T18:07:16+00:00",
-      "summary": "Isle of Man TT Announces Changes To Sidecar Class Motorcycle.com",
+      "summary": "Isle of Man TT Announces Changes To Sidecar Class motorcycle.com",
       "source": "Google News",
       "image": ""
     },
@@ -574,6 +590,14 @@
       "image": ""
     },
     {
+      "title": "Maria Rickward Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPazVlQjk5Yy10QThRbHBGQWZuWXhIczFBdXk5Y1gxcWRUeE1Pb0M4WHRGaFhMT0M5blVXNmVyUGoxSk10V2lJWmh1SUFVcHNzYXFVc09GNzhzalFiQkoyV2twbkMtR3JvUFJHZG4xZnlyRDhhVnR2aTVZVnhTV2R4M09OdXN4NVRSRkZ0d0JUVm9MV00?oc=5",
+      "published": "2026-09-11T01:01:20+00:00",
+      "summary": "Maria Rickward Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
+      "source": "Google News",
+      "image": ""
+    },
+    {
       "title": "Martyn Parry Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTTh0amZtbTZuT3pDcEdDYVIzSFhzcjJlNlFaeTdZT1FvMWJKdk5kTG82LVFqOHMtZk9PNmw4LXQ2eUZqQ0xER053cjg5eWxZd3JKejN2Y0hLOGcyMXZzdWZ2VktQUjdGdHVjOWFLMjRLLWVBajR0U25NUFRqUUxEU1o2OVlqc2lOZTBxMjJJczA?oc=5",
       "published": "2026-09-11T01:01:17+00:00",
@@ -582,10 +606,10 @@
       "image": ""
     },
     {
-      "title": "Vincent Grace Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNREM1VjhXNTVLdkFld1Y2VEJjNUROV2hKOWFCLXpKSkVncnhQOVk0ZjYxNER2ZmtJUkJ1SW81ZDF5ZjQ4ZU03RTFfU2ZGZV9TMEg1WGY3LXR3S2NGRHlVNklrVnFwT0pvb29mU3ZBTjFEbGhSbHhwSlpzT1FMbHNlakY1RXd1WE85Tm16N3k3V2l0QQ?oc=5",
-      "published": "2026-09-11T01:01:16+00:00",
-      "summary": "Vincent Grace Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
+      "title": "Donald Jones Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy obituary",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT2VTQ3huV3l6aS1iRC12Q3FYQlhKaWtSb1VnaGZtaFdwd2ZCNDluQV90X25VUy1oQ0ZtOS1wdzA1ellMOGZMT2YyUnBNRWNHSzczb1J1eHNPMHlZTFg1ektfb0ZYNEc0QV9KN1dHV1FxMFgwUEMyNWFncTNnbXpneVlUc19xYmRqUzVhU01rLTE?oc=5",
+      "published": "2026-09-11T01:01:14+00:00",
+      "summary": "Donald Jones Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy obituary",
       "source": "Google News",
       "image": ""
     },
@@ -1204,30 +1228,6 @@
       "summary": "The Steam Packet Company says its flagship ferry the Manxman won't be back in service until the end of November.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/64a2875a7b8c9.jpg"
-    },
-    {
-      "title": "Today's planned Mountain Road closure called off",
-      "link": "https://www.three.fm/news/isle-of-man-news/todays-planned-mountain-road-closure-called-off/",
-      "published": "2026-09-08T11:53:49+00:00",
-      "summary": "The Department of Infrastructure says a planned Mountain Road closure today has been called off.",
-      "source": "Three FM",
-      "image": "https://mm.aiircdn.com/3/587c72174da07.jpg"
-    },
-    {
-      "title": "Rolled HGV sees road shut for several hours",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/rolled-hgv-sees-road-shut-for-several-hours/",
-      "published": "2026-09-08T11:35:05+00:00",
-      "summary": "Police to issue updates throughout afternoon",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/335916-1.jpg"
-    },
-    {
-      "title": "Reservoir construction enters final stages",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/reservoir-construction-enters-final-stages/",
-      "published": "2026-09-08T11:27:02+00:00",
-      "summary": "Manx Utilities says Jurby project remains on budget",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/335858-1.jpg"
     }
   ]
 }
