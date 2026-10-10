@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-10-10T11:41:51.739694+00:00",
+  "generated_at": "2026-10-10T21:18:25.346351+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -30,6 +30,14 @@
   ],
   "items": [
     {
+      "title": "Drug-drive arrest of man aged 52 after van smashes into Isle of Wight shop front - Yahoo News UK",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54eFBidmlHZTAwS3ZoajlQMTd2ZWNRSWhDb0tOTjh2bTJGdlN1VF8tV3VXMlR3aEZadFJIVnlLRGhfbGlKRVZkUW41by1HdlVHcEhJalVERUFqLUQ0UTlqbkgtUFZxWUxtYXV6U1RKSEltYXpEM0E?oc=5",
+      "published": "2026-10-10T17:34:30+00:00",
+      "summary": "Drug-drive arrest of man aged 52 after van smashes into Isle of Wight shop front Yahoo News UK",
+      "source": "Google News",
+      "image": ""
+    },
+    {
       "title": "Former Red Arrows pilot recalls engine cut-out",
       "link": "https://www.manxradio.com/news/isle-of-man-news/former-red-arrows-pilot-recalls-engine-cut-out/",
       "published": "2026-10-10T10:31:19+00:00",
@@ -46,12 +54,28 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/344727-1.jfif"
     },
     {
+      "title": "Douglas allotments up for discussion this week",
+      "link": "https://www.three.fm/news/isle-of-man-news/douglas-allotments-up-for-discussion-this-week/",
+      "published": "2026-10-10T08:17:37+00:00",
+      "summary": "There may be good news for residents of Douglas who want to make better use of their green fingers this week.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/5e6a34ec9155b.jpg"
+    },
+    {
       "title": "Charity celebrates 10th anniversary with 12 hours of live music",
       "link": "https://www.manxradio.com/news/isle-of-man-news/charity-celebrates-10th-anniversary-with-12-hours-of-live-music/",
       "published": "2026-10-10T08:05:27+00:00",
       "summary": "Event aims to raise money for the Manx Autoimmune Trust",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/344490-1.jpg"
+    },
+    {
+      "title": "Keep Hop-Tu-Naa safe for scaredy cats (and dogs!)",
+      "link": "https://www.three.fm/news/isle-of-man-news/keep-hot-tu-naa-safe-for-scaredy-cats-and-dogs/",
+      "published": "2026-10-10T07:56:54+00:00",
+      "summary": "The ManxSPCA is reminding pet owners to keep their animals safe this Halloween.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6ac9efb480b3f05df85.jpg"
     },
     {
       "title": "When Louis met Patrick resident Tyson Fury!",
@@ -140,14 +164,6 @@
       "summary": "Current frameworks lacking requirements of international standards",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/343603-1.JPG"
-    },
-    {
-      "title": "Isle of Man bar installs touching tribute to much-loved cat - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS3NsU19aZ0dUZjloVFQ2RVpVcG5vZVUxN0M5bDViT2xCb2pxN2lJNmtJZzlzMEFDM3Nsbmkzc25SZE9MakFTNkM3ZWJBdVZYRW1iQVFIbjJrZDNJUXV4TlFPck1OWUdLUWtZQVhmU3g1VDY4LV9NbXk3LVVzRDhTeHdUSmd1ZGdfcXQ5YVpWenJrTnFXSVBxZ01qMFpjdG8?oc=5",
-      "published": "2026-10-09T20:18:53+00:00",
-      "summary": "Isle of Man bar installs touching tribute to much-loved cat Isle of Man Today",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "MONEYVAL carries out evaluation visit to the Isle of Man - www.coe.int",
@@ -1212,22 +1228,6 @@
       "summary": "Bus Vannin says a road closure in the west of the Island this week will mean some disruption for passengers.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/65fa8e5f55ec7.jpg"
-    },
-    {
-      "title": "Steam Packet records increased profit",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/steam-packet-records-increased-profit/",
-      "published": "2026-10-05T16:39:56+00:00",
-      "summary": "A record 682,907 passengers were carried during the year",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/343364-1.jpeg"
-    },
-    {
-      "title": "Personal income tax return due tomorrow",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/personal-income-tax-return-due-tomorrow/",
-      "published": "2026-10-05T16:06:49+00:00",
-      "summary": "Anyone who misses the deadline will be issued a £100 fine",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/343265-1.JPG"
     }
   ]
 }
