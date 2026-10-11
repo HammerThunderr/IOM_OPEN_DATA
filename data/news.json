@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-10-11T11:54:36.862865+00:00",
+  "generated_at": "2026-10-11T21:37:57.715797+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -30,6 +30,22 @@
   ],
   "items": [
     {
+      "title": "'Substantial' fire reported in Douglas",
+      "link": "https://www.three.fm/news/isle-of-man-news/substantial-fire-reported-in-douglas/",
+      "published": "2026-10-11T21:09:34+00:00",
+      "summary": "The emergency services are dealing with a large blaze in Douglas.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6acbfaafae5eed583b7.jpg"
+    },
+    {
+      "title": "Two boats rescued after both suffer engine trouble off Isle of Man coast - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONEx0MUR1dWRBV1JaOF9td3gzMGxjWTJBSF9MOGV2TnNqMTc1OWxrUFFtREVfM3htbG05TTIwUTg5MmtOajFDQ194S0FkT2lmeEsxeXJuTG9VeE5xd3RLTU1Vd3lZd0xiNHVBcHk1aWR6bHN3VGpWWFlXeUtpYjJSQkYtdTlZOFFMb2pERTk0MHU3cWRibkl1WnVyMnU5bjZjWG5iR3NBbEk1VlA0U1g3NA?oc=5",
+      "published": "2026-10-11T17:24:51+00:00",
+      "summary": "Two boats rescued after both suffer engine trouble off Isle of Man coast Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
       "title": "DoI seeks planning approval for security fencing in Union Mills",
       "link": "https://www.manxradio.com/news/isle-of-man-news/doi-seeks-planning-approval-for-security-fencing-in-union-mills/",
       "published": "2026-10-11T11:30:00+00:00",
@@ -52,14 +68,6 @@
       "summary": "Demonstrates 'commitment to improving accessibility', says minister",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/342288-1.jpg"
-    },
-    {
-      "title": "Football: Reigning prem champions snatch late draw against league leaders - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYWFqOGVRbVFiX0V4MEU1cFFXb1pYYWlfWkpZS3NBamNHQm1fbkQyMTk2dVJMZ2VxYk5GeEQtVzhQT3V3ZlRicTZrTWpIZGctbFJDRUNyQkx4MVBMUnVTYlJiVkU5NDFVTHpRMllxc3lzM1pmZG1reEpJbThkd3otX2hWQXB3c2FLVzhhOU1WTmVfRlVkTjdocGZ3R3pWdDVZQ1p5UUs5blBpRWp5THpHZ0Nnbi12VFZlMlp4bEFLUQ?oc=5",
-      "published": "2026-10-11T08:01:13+00:00",
-      "summary": "Football: Reigning prem champions snatch late draw against league leaders Manx Radio",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Isle of Cider develops new Manx spirit using locally grown ingredients - Isle of Man Today",
@@ -110,14 +118,6 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/344633-1.jpg"
     },
     {
-      "title": "Drug-drive arrest of man aged 52 after van smashes into Isle of Wight shop front - Yahoo News UK",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54eFBidmlHZTAwS3ZoajlQMTd2ZWNRSWhDb0tOTjh2bTJGdlN1VF8tV3VXMlR3aEZadFJIVnlLRGhfbGlKRVZkUW41by1HdlVHcEhJalVERUFqLUQ0UTlqbkgtUFZxWUxtYXV6U1RKSEltYXpEM0E?oc=5",
-      "published": "2026-10-10T17:34:30+00:00",
-      "summary": "Drug-drive arrest of man aged 52 after van smashes into Isle of Wight shop front Yahoo News UK",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Former Red Arrows pilot recalls engine cut-out",
       "link": "https://www.manxradio.com/news/isle-of-man-news/former-red-arrows-pilot-recalls-engine-cut-out/",
       "published": "2026-10-10T10:31:19+00:00",
@@ -140,6 +140,30 @@
       "summary": "There may be good news for residents of Douglas who want to make better use of their green fingers this week.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/5e6a34ec9155b.jpg"
+    },
+    {
+      "title": "No cash for wind phone, says Council",
+      "link": "https://www.three.fm/news/isle-of-man-news/no-cash-for-wind-phone-says-council/",
+      "published": "2026-10-10T08:16:23+00:00",
+      "summary": "Summerhill Glen won't be getting a phone box to talk to loved ones who've passed away just yet - because of the cost.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/65f0098f8a1d5.jpg"
+    },
+    {
+      "title": "Council celebrates huge drop in carbon footprint",
+      "link": "https://www.three.fm/news/isle-of-man-news/council-celebrates-huge-drop-in-carbon-footprint/",
+      "published": "2026-10-10T08:15:01+00:00",
+      "summary": "Douglas Council says it's managed to cut its carbon footprint by almost a quarter in seven years.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6610f44608e67.jpg"
+    },
+    {
+      "title": "Undersea pipeline inspections this week",
+      "link": "https://www.three.fm/news/isle-of-man-news/undersea-pipeline-inspections-this-week/",
+      "published": "2026-10-10T08:13:17+00:00",
+      "summary": "Experts will be off the Island's west coast next week as work continues to survey undersea pipelines.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6ac9f392d12977fcbdf.jpg"
     },
     {
       "title": "Charity celebrates 10th anniversary with 12 hours of live music",
@@ -276,14 +300,6 @@
       "summary": "He told devices from his employer and sold them online",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/344569-1.jpg"
-    },
-    {
-      "title": "Isle of Man Ship Registry: 30 yachts under construction - Daily Nautica",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVktUREFEcDh1UjFKRWk2RS1mWFRWV0xXeC03bGxZaUVqT2hFMDNFdGVac3pILXJSMGVuaFkzOG5QOExhVDd1b0lIbS1pOElsb19KUnZpeGFETXd4N1g2eTcxeVBsM080cEpqeWpJZ2M4WWRaUTVmWTg5Z3RzV1d1VWQzUENMNGZZMTNfMWllaU9FNDYtZG42WjNNOHp3dU4tdVJCbk9tRk8?oc=5",
-      "published": "2026-10-09T15:13:51+00:00",
-      "summary": "Isle of Man Ship Registry: 30 yachts under construction Daily Nautica",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Little Miss Dynamite gig cancelled due to illness",
@@ -542,6 +558,62 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/344271-1.png"
     },
     {
+      "title": "Morag WHITELAW Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy | Obituary",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdl9JZV85dU9IVGxudTlqVjNKcDFlbGY4eGhsa3BQUS1WbVFfT3NhczBWcndXNC1wN1BBd2JnLWstandMdHNKVk1ybnZRdUx5SVhoMGtlVjNBcE9mYXJwUkk2MHFLMkhvdmI5SUdnSWNxMFVSNFNMX0kxbmVoT3BoM3BrU3dFc3prMU8wUlVtN1hBVXc?oc=5",
+      "published": "2026-10-09T00:15:48+00:00",
+      "summary": "Morag WHITELAW Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy | Obituary",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Freda Potter Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy | Obituary",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWUdUeDJxVm1weU1IX3BnUTZ4OXZNbnQ1ZHdsZTZTZkxvdDlxbGFrYW55YVVoN21MYzNKYVc0VXJybXRWVndEZ3dEMW5qWUJuaHA2VkE1QkRtZDlxZFhRQWZ1amZTLXNfX04takFHVGVxZ3ItdFBtSG5NM3JLSHMwaS1FcjNiWHhJSVYzZlM5UlQ?oc=5",
+      "published": "2026-10-09T00:15:48+00:00",
+      "summary": "Freda Potter Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy | Obituary",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "John Cleverley Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy | Obituary",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZFdWNXdLWWxtUnE0T1RRTE41Tk9PYmRRSzFCQU5mcmlVVXRYSDg2a0Z3MWszUkFnOVI0akFtYTlBN2h6ZHJaNFhaODNVTWg1QXFwQm1ieHNwQy1tckhFdXQzalZZVFZwTTZkb1dvYzRQWjNOcmZvSU1sX05KNUFGNWNwQ0x6b3ZqclBSQ25oS0VoS1k?oc=5",
+      "published": "2026-10-09T00:15:48+00:00",
+      "summary": "John Cleverley Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy | Obituary",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Lynda Jones Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy | Obituary",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObXlSNGQzTEdsX1lqdGFZVkE4SGJack5QMnUwY0pSaG01dm5ZYVJ1R0dNTFpwSUdZRl90amllOUVUcXgzMHhpNGgwOWpEMXVzdEFDMjdSUHE1Zm9VdmIzR3M0dk0td25wLUNzdTBsWWoxMElPYkZGM21saFppUHZOZ2gzeE01ZWpnUnhYU0dCSQ?oc=5",
+      "published": "2026-10-09T00:15:46+00:00",
+      "summary": "Lynda Jones Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy | Obituary",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Harold Corrin Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy | Obituary",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMzV1STY5LWtxMXFPZERVLTBsZGFQZ0E2NzNBT1ROUHBtWTR1emJ0SE1CYTNqUlVhS3pLMC1rRmpSS1NlaDZfSmt3N3ZEQ3hSSzZSZkFmN2xKWDNPWFRWQ1BSRDhFa3dKNDM2STA0UUJjMWVpS0pYRU05NjltZ1VYdDdCMXdHM3lFX2RqMDFmQVRMUQ?oc=5",
+      "published": "2026-10-09T00:15:46+00:00",
+      "summary": "Harold Corrin Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy | Obituary",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Elizabeth Hamm Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy | Obituary",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQVA2Z3ZTQjVOb0pnQTA3WnA0TTNIdGNSazl3NkVXdUlWREhJejZra25PbTRweVppSFYya1N2TDVoWEVZam5jNFJTaUhwV2RfSzJKZ2RMQ1VlZ3E2WDlLQnp2ZFB5c0xsNkZsUmYza1o2aXRRS3loUDFZS3ZTTmZMUzNoZHd5M0xlZjl6VXFwZWVxZzg?oc=5",
+      "published": "2026-10-09T00:15:46+00:00",
+      "summary": "Elizabeth Hamm Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy | Obituary",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Joyce Kelly Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy | Obituary",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWHF6Mm5WUks5anhScWpuaS1oLUtJakF0cHhFSnlSdmtSRi14NmNBRW1FU3hlRFRHWWdrRVg4M1B2bWc4Q3VCYXJDN1NtNkxKdHRGTmdkREhtVXpycG5HejZPVmMzNzdvNVU2TzBEdEtJMmtFeVY5YnpPa0dmcXhVazNxZzctNS05X3U5ZmJ5WQ?oc=5",
+      "published": "2026-10-08T23:47:09+00:00",
+      "summary": "Joyce Kelly Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy | Obituary",
+      "source": "Google News",
+      "image": ""
+    },
+    {
       "title": "Isle of Man chief minister hopefuls quizzed by MHKs - BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41Skd3S2xnTUxTcXpyRS04NElDN3JVaTg2b1hjTVl2UzZUU1pFNEJnWk92dGVkZjhsOThUNHhoemJGQ29KMmJQbzNyc20yazVBQjM5MWg5RGZBSkE?oc=5",
       "published": "2026-10-08T15:55:32+00:00",
@@ -764,14 +836,6 @@
       "summary": "Rates in the UK have increased by 24 percent in 25 to 49-year-olds",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/343940-1.JPG"
-    },
-    {
-      "title": "George Waft Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy | Obituary",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPelZOMElhdHlkYzlCRWgtUERPQzBIV2FEckxYczRsUzRzZ3BiX0hMUVVKdHVaZWdBTmFXT3Z5MEZRekwwdjEwSVQxLXhpaUg2Wnd2b2NMbHBHNzcyajY1NkM3RmRoUUlVeFk3RUV3VHY1dUtMN1NRcDh1UmxuYlNqNmd6OGxlcDlyRC1oMHlxbw?oc=5",
-      "published": "2026-10-07T23:47:55+00:00",
-      "summary": "George Waft Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy | Obituary",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Damaged crossings to be replaced",
@@ -1164,70 +1228,6 @@
       "summary": "Chris Thomas 'working towards' midday nomination deadline",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/343519-1.jpg"
-    },
-    {
-      "title": "Union questions reasons for recent Bus Vannin disruption",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/union-questions-reasons-for-recent-bus-vannin-disruption/",
-      "published": "2026-10-06T08:13:36+00:00",
-      "summary": "A number of services 'at risk' or cancelled over the past few weeks",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/343503-1.jpg"
-    },
-    {
-      "title": "All aboard for a spooky Groudle Glen",
-      "link": "https://www.three.fm/news/isle-of-man-news/all-aboard-for-a-spooky-groudle-glen/",
-      "published": "2026-10-06T08:07:58+00:00",
-      "summary": "Groudle Glen Railways has announced the return of its Hop Tu Naa trains.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6ac4ac3fa560d20a558.jpg"
-    },
-    {
-      "title": "Deadline today for top job in Manx politics",
-      "link": "https://www.three.fm/news/isle-of-man-news/deadline-today-for-top-job-in-manx-politics/",
-      "published": "2026-10-06T07:20:51+00:00",
-      "summary": "MHKs hoping to become the Island’s next Chief Minister have until midday today to put their names forward.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/65af6676e2c0a.jpg"
-    },
-    {
-      "title": "Callister withdraws from chief minister race",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/callister-withdraws-from-chief-minister-race/",
-      "published": "2026-10-06T07:15:21+00:00",
-      "summary": "Onchan MHK had been gauging support for the role",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/343504-1.jpg"
-    },
-    {
-      "title": "Rob Callister rules out Chief Minister bid",
-      "link": "https://www.three.fm/news/isle-of-man-news/rob-callister-rules-out-chief-minister-bid/",
-      "published": "2026-10-06T07:08:17+00:00",
-      "summary": "Rob Callister says he will not stand for Chief Minister after failing to secure enough support from the new House of Keys.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/636ce903481e3.jpg"
-    },
-    {
-      "title": "Group calls on parents to delay smartphones for children",
-      "link": "https://www.three.fm/news/isle-of-man-news/group-calls-on-parents-to-delay-smartphones-for-children/",
-      "published": "2026-10-06T06:16:41+00:00",
-      "summary": "Manx parents are being encouraged to delay giving their children smartphones and access to social media through an Isle of Man initiative.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6ac49227519cbd4fd9b.jpg"
-    },
-    {
-      "title": "September ranks as third-warmest on record",
-      "link": "https://www.three.fm/news/isle-of-man-news/september-ranks-as-third-warmest-on-record/",
-      "published": "2026-10-06T05:37:50+00:00",
-      "summary": "Ronaldsway Met Office says September was the third-warmest on record.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6a15391062dca.jpg"
-    },
-    {
-      "title": "Poetry workshop for those looking to develop their skills",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/poetry-workshop-for-those-looking-to-develop-their-skills/",
-      "published": "2026-10-06T05:29:04+00:00",
-      "summary": "Hilary Adams Poetry Corner examining 'the ripples of being human'",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/343028-1.jpg"
     }
   ]
 }
