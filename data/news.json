@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-10-24T20:25:36.404255+00:00",
+  "generated_at": "2026-10-25T10:29:40.705927+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -29,6 +29,94 @@
     }
   ],
   "items": [
+    {
+      "title": "Douglas hotel announces closure",
+      "link": "https://www.three.fm/news/isle-of-man-news/douglas-hotel-announces-closure/",
+      "published": "2026-10-25T10:11:54+00:00",
+      "summary": "One of the capital's best-known hotels is to close after being run by the same family for almost half a century.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/69cb85d71aa11.jpg"
+    },
+    {
+      "title": "Landmark hotel to close its doors",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/landmark-hotel-to-close-its-doors/",
+      "published": "2026-10-25T10:11:11+00:00",
+      "summary": "The George family has run the hotel for almost 50 years",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/348753-1.jpg"
+    },
+    {
+      "title": "Isle of Man hotel and restaurant to close after 48 years - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSmdCZzY3TGFLcWROVFRfSkt2Z0ZGU29PRG9lQjdLYlNCdS14dWNXaGdCY2UzZEkzeGE1cTh2M1BPRVR5NXlTSFo4blh5R3ZwU1NrYlFlbUJ3aTkwUGlwaEZCblA0clY1S25aZk5paWcwRi14MzY0elJyN1RjcTBjVVBxeF9GRWxJOUxydTZVWE9NTEVXcXNYc2FFRQ?oc=5",
+      "published": "2026-10-25T10:08:44+00:00",
+      "summary": "Isle of Man hotel and restaurant to close after 48 years Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Mountain Road shut until lunchtime",
+      "link": "https://www.three.fm/news/isle-of-man-news/mountain-road-shut-until-lunchtime/",
+      "published": "2026-10-25T10:05:24+00:00",
+      "summary": "Police say the Mountain Road will remain shut until later today amid ongoing storms.",
+      "source": "Three FM",
+      "image": "https://mm.aiircdn.com/3/593baaaa11311.jpg"
+    },
+    {
+      "title": "Potential for a 'significant' flu season, says Public Health IOM",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/potential-for-a-significant-flu-season-says-public-health-iom/",
+      "published": "2026-10-25T08:26:22+00:00",
+      "summary": "Amid warnings of it arriving early in the UK",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/348055-1.jpeg"
+    },
+    {
+      "title": "Last call to submit applications for the Marg McGee Community Awards",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/last-call-to-submit-applications-for-the-marg-mcgee-community-awards/",
+      "published": "2026-10-25T07:51:57+00:00",
+      "summary": "Deadline for submissions is 31 October",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/348278-1.jpg"
+    },
+    {
+      "title": "Seabirds and sewage among Isle of Man Biosphere status challenges - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GWHdLRFFxNG1keVg5bzYwWGEwSURUN2F4MVRTV0UyZmwwT3ZBREhMY09mam1jc2gwUVFtZjhvQkJiaF9uYnZUUzFGYnZCLTAtUUFpVHlFRk9Qdmc5YWc?oc=5",
+      "published": "2026-10-25T07:22:57+00:00",
+      "summary": "Seabirds and sewage among Isle of Man Biosphere status challenges BBC",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "MHK calls for government to have a focus",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/mhk-calls-for-government-to-have-a-focus/",
+      "published": "2026-10-25T06:07:18+00:00",
+      "summary": "Damian Ciappelli says tackling many issues can result in 'a lost sense of importance'",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/348276-1.jpg"
+    },
+    {
+      "title": "Storm Boelo Sunday updates",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/storm-boelo-sunday-updates/",
+      "published": "2026-10-25T06:02:53+00:00",
+      "summary": "Gusts of up to 70mph are expected today",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/348726-1.jpeg"
+    },
+    {
+      "title": "Former Isle of Man guesthouse could be turned into shared housing - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMlJnaWtVaHBUaEVRNWczYXhsdEhpTmdsSDFRQTU4clhEcjk2TkRPaWgyMzdLNGE0QlA1QmpiRFI5Q09zMUtjVHNsdHFHU3NzM3Raa0RINXMxZHk5d3lyaU5VV1F6ZlZaaWxobmNsczhxckt5dElHVU5RQnlkTEJrVEViRTV5RVpfbDNXSlhEM09KeE5udTJyZFRiaWdTX0tkSmNmcmZrdw?oc=5",
+      "published": "2026-10-25T05:02:10+00:00",
+      "summary": "Former Isle of Man guesthouse could be turned into shared housing Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Storm Boelo Sunday updates - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON1pLVzR6ZXE1RVEwZTF2TzhfRV9obU41M0d3VzcwWF9wUzVheC1YTG91bTNKcl9JOTZiY0tERHlJdGVFWmctbXNBNnB3QlZEbXVPTlI0TnlQeDNOZ09xSjJJdGJzVjhtOE00NU1ic0p6WElBSExQZ0g2VlBUcUdtcQ?oc=5",
+      "published": "2026-10-25T05:02:00+00:00",
+      "summary": "Storm Boelo Sunday updates Manx Radio",
+      "source": "Google News",
+      "image": ""
+    },
     {
       "title": "Mountain Road closed until Sunday",
       "link": "https://www.three.fm/news/isle-of-man-news/northern-end-of-mountain-road-closed-until-sunday/",
@@ -119,17 +207,9 @@
     },
     {
       "title": "Manx designer inspired by island's folklore and history - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TV1poSlBOOGpWZ1hxZGVwQmJqYXU5SDhkdFdSdi1ZdGpmc3Mwdm1WbjlJQWozN1dkT2hGcnhPY1dnUjJLOC1zSzJsUGNWbzQ3SERFUkNLb1FHX0U?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qUUpvSkg5SWhEV29wOURWTTV5ZVRmVDJxYXhwSXdZZDU3RXppdFY5aFBPV2JBZEhKc28xY3N6dzhJRU9pb0cwMXVDUnhmbmVHMlpIUDJkeVRULWRDZnc?oc=5",
       "published": "2026-10-24T06:17:08+00:00",
       "summary": "Manx designer inspired by island's folklore and history BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Murdered boy's family 'take comfort that truth prevailed' - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1SEpuYWlQNW5PYmMtbkJPdi1JTElVWU1pOS1abGkzY2xUc0pBYzRRT3N0U2JDQnNlUE92cWp1eDI1NnRicFJRR05NNkZZb2VvdHpObEtaanh1LXhSYWc?oc=5",
-      "published": "2026-10-24T06:16:13+00:00",
-      "summary": "Murdered boy's family 'take comfort that truth prevailed' BBC",
       "source": "Google News",
       "image": ""
     },
@@ -238,10 +318,10 @@
       "image": "https://mmo.aiircdn.com/5/6adb66d5b43f9734518.jpg"
     },
     {
-      "title": "Severe weather warning as Isle of Man braces for Storm Boelo - BBC",
+      "title": "Severe weather warning as island braces for Storm Boelo - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kcFdoVlhidUR1blNzUDFKOUVuU180MGN2RjhRajA0T3NjR2g1WHJoV19KcnFnVUYyb2gxTDlXYW05eFlNel9XOG9EWnFYYUZkQl9MWWxLVWt1Z2VIOHc?oc=5",
       "published": "2026-10-23T13:52:03+00:00",
-      "summary": "Severe weather warning as Isle of Man braces for Storm Boelo BBC",
+      "summary": "Severe weather warning as island braces for Storm Boelo BBC",
       "source": "Google News",
       "image": ""
     },
@@ -478,6 +558,14 @@
       "image": "https://mmo.aiircdn.com/5/6adb0766a32fc410132.jpeg"
     },
     {
+      "title": "LIVE: Updates as Storm Boelo brings disruption to the Isle of Man - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTlFIZjY4QjVDNGtqWjhQSDU3d2s3RXVBVEZ6bGVmNWZzX2lPcmhWaWRWckFrQVROb3dyNU5DYXg0ZzhRWHJDemZJVjBRU3pDbXluc3RsYjJYeHN4ZnZRYWNYYnFZRnd0UzVFM1NaMTQ4dEplaEFKODh5Y3ZCM0oyQmdqZ2lnSEsyVHdiZnl0TXlienhVSUVNZXRYNTZqRmVvMDZfdnJR?oc=5",
+      "published": "2026-10-23T07:00:00+00:00",
+      "summary": "LIVE: Updates as Storm Boelo brings disruption to the Isle of Man Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
       "title": "Government says complete your census form or face prosecution",
       "link": "https://www.three.fm/news/isle-of-man-news/government-says-complete-your-census-form-or-face-prosecution/",
       "published": "2026-10-23T06:35:07+00:00",
@@ -646,14 +734,6 @@
       "image": ""
     },
     {
-      "title": "Protesters demand more mental health support amid suicide rate concerns - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZQ2l6bjkyM3IxVUROaUM2bE4xVWNEaGRPSDVuY0taeDdtUUFxd0JFMnpkNU5lYmRwLUFyZlZENExhU29feGNoNkNaMElsZE5IVVFZRlB6d294c28?oc=5",
-      "published": "2026-10-22T11:55:48+00:00",
-      "summary": "Protesters demand more mental health support amid suicide rate concerns BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "More sailings cancelled over 12-hour heavy rain warning - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DaXU2dGJWdExvR0swVzJfQ2UyNS0zVFZIMDJtdUFpbUcxZU5USmxBQVdYdGlMYjQwVzJ5S3hJMHZwZ2ZXWEVMN25Takp2eWFqcDJKalNkYmVTYjBkQnc?oc=5",
       "published": "2026-10-22T11:42:04+00:00",
@@ -676,14 +756,6 @@
       "summary": "The government says urgent security work means many of its websites remain offline today.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/65c1e89baa166.jpg"
-    },
-    {
-      "title": "Isle of Man school websites back online after cyber security warning - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR2tQNHZSYTNzQjNla1JXbkFGRDZTaWxhcWJvNEFGYTJiUFhMWktjakt5N2QtQ1VZbnFGZ0VSQ0g2N3MyX1M1cl9CUUQ5eFN1S01hYkk4MjRqTDAtdXF5Q1ZrZXNOMjBtem1fbTNEY05GelZ3cXByMnlHd0owaEF1ODUzOG4wVEZKaGVHMnlOMF8zUkt5RjQ2N21vNC1BNGRBRWZfVFpRbWp4WnM?oc=5",
-      "published": "2026-10-22T11:16:19+00:00",
-      "summary": "Isle of Man school websites back online after cyber security warning Isle of Man Today",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Manx businesses urged to check whether websites use PHP",
@@ -1156,78 +1228,6 @@
       "summary": "One of the Curragh Wildlife Park's favourite residents has died.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6ad7988543726558ca7.jpg"
-    },
-    {
-      "title": "Strong winds put sailings later this week at risk",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/strong-winds-put-sailings-later-this-week-at-risk/",
-      "published": "2026-10-20T16:07:02+00:00",
-      "summary": "Eight services could be cancelled or disrupted",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/347429-1.jpeg"
-    },
-    {
-      "title": "Island's assisted dying laws get Royal Assent",
-      "link": "https://www.three.fm/news/isle-of-man-news/islands-assisted-dying-laws-get-royal-assent/",
-      "published": "2026-10-20T15:48:49+00:00",
-      "summary": "The Island's assisted dying law has finally been given Royal Assent.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6006c3cd5b4c5.jpg"
-    },
-    {
-      "title": "Steam Packet's Friday and Saturday crossings under threat",
-      "link": "https://www.three.fm/news/isle-of-man-news/steam-packets-friday-and-saturday-crossings-under-threat/",
-      "published": "2026-10-20T14:59:10+00:00",
-      "summary": "Steam Packet Company passengers may be facing a difficult weekend for travel plans.",
-      "source": "Three FM",
-      "image": "https://mm.aiircdn.com/3/571128.jpg"
-    },
-    {
-      "title": "Assisted dying mover 'relieved' act has received Royal Assent",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/assisted-dying-mover-relieved-act-has-received-royal-assent/",
-      "published": "2026-10-20T14:18:45+00:00",
-      "summary": "Alex Allinson says the new administration must now ensure residents have choice",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/347411-1.jpg"
-    },
-    {
-      "title": "DOI looking for 88k a year operations head",
-      "link": "https://www.three.fm/news/isle-of-man-news/doi-looking-for-88k-a-year-operations-head/",
-      "published": "2026-10-20T14:09:08+00:00",
-      "summary": "Could you face the challenge of repairing roads, responding to weather-related emergencies and making sure the Mountain Road's one-way system works in TT?",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/66a4a78df1bc7.jpg"
-    },
-    {
-      "title": "DHSC must deliver 'safe and workable' assisted dying service",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/dhsc-must-deliver-safe-and-workable-assisted-dying-service/",
-      "published": "2026-10-20T13:04:05+00:00",
-      "summary": "Claire Christian says her department has a great piece of work to do",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/347381-1.jpg"
-    },
-    {
-      "title": "Teenager believed social media threats were 'empty'",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/teenager-believed-social-media-threats-were-empty/",
-      "published": "2026-10-20T13:00:00+00:00",
-      "summary": "16-year-old murder accused finishes giving evidence",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/347410-1.jpg"
-    },
-    {
-      "title": "Beware of scam TV licensing emails, say officials",
-      "link": "https://www.three.fm/news/isle-of-man-news/beware-of-scam-tv-licensing-emails-say-officials/",
-      "published": "2026-10-20T12:53:04+00:00",
-      "summary": "If you've had an email demanding money for a TV licence, all may not be as it seems!",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6ad7640a91768c98fd3.jpg"
-    },
-    {
-      "title": "Assisted Dying Bill receives Royal Assent",
-      "link": "https://www.gov.im/news/2026/oct/20/assisted-dying-bill-receives-royal-assent/",
-      "published": "2026-10-20T12:43:47+00:00",
-      "summary": "The law to legalise assisted dying in the Isle of Man has received Royal Assent, although no date has yet been agreed for it to be implemented. Assisted dying will allow a person who is terminally ill to choose, in specific circumstances and with strict safeguards in place, to end their life with medical assistance. The Act will not come into force until all practical, clinical and safeguarding arrangements have been agreed. This is a significant and sensitive moment for the Island, but it marks...",
-      "source": "Isle of Man Government",
-      "image": ""
     }
   ]
 }
