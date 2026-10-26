@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-10-26T12:01:23.935458+00:00",
+  "generated_at": "2026-10-26T22:24:30.675815+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -30,18 +30,202 @@
   ],
   "items": [
     {
-      "title": "Red weather warning issued for Isle of Man coastal overtopping - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kaVhqQVdnY1h1eWdFZmduaG54R2tVSTEtelNFdlJzQUtlOXFleE5JNWNBa0hsV1dfYWF5cG9oNlFTQ09jV2dEbXNrZFI3VWN4blVJWHNiMzNVRzVMcGc?oc=5",
-      "published": "2026-10-26T11:46:36+00:00",
-      "summary": "Red weather warning issued for Isle of Man coastal overtopping BBC",
+      "title": "Flights cancelled as 'lighting issue' shuts Isle of Man Airport runway - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNFZCSzc3WXlUOENwZFpkLVI3eWZLWi0xWWxwWEFsd3JaRmFMYzhiVXh0ZURhRXRWZzBFQXJ5TWRRUnhDbnNld1hzNDdtVkxFV2pXZWRZZUZjUnVJcHBwVzB0VEI3ck00Y2dvYV9TY3ZIUEVCNnk4ZTZkMFRXeFEtTVFiUEpBVFcxMFVnSlA1VmI5UUpudzVtUDcxVHhxX1htc0RtenRPUzAtcTg?oc=5",
+      "published": "2026-10-26T19:04:54+00:00",
+      "summary": "Flights cancelled as 'lighting issue' shuts Isle of Man Airport runway Isle of Man Today",
       "source": "Google News",
       "image": ""
     },
     {
-      "title": "Football: Castletown win on storm disrupted Saturday - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMml1QW5SX0JHNDEwS1p0dVV5NzR5ZjJLY3VtTWoxS1JHMTA1S2k2dWd0RDNIZ1pRQWlhLVRFeENXVjlrVXdObmgzVjNGcDllMVlaaW1nTEtaajM1YnZIR3ZMQjZ1RExTT0NuZWVmMkg1WDZfTVp1Qmx3MDg5RTNuZjM0V2I3WHE2RTlFYVg4QVBSbklHcnBwR1k4dldpUkhBS19n?oc=5",
-      "published": "2026-10-26T11:36:00+00:00",
-      "summary": "Football: Castletown win on storm disrupted Saturday Manx Radio",
+      "title": "easyJet blames delay on 'failure of runway lighting system'",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/easyjet-blames-delay-on-failure-of-runway-lighting-system/",
+      "published": "2026-10-26T18:24:34+00:00",
+      "summary": "Passengers waiting on delayed flight",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/349120-1.jpeg"
+    },
+    {
+      "title": "easyJet blames delay on 'failure of runway lighting system' - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeFNrSXZMMDBDcGdWNVg2NEpfcmp0M0JFekRGYnV5VktvcnNvU1BSQmpMMzNtRzhHWl9GZ0tHUTB5WnZjLUcxM0lvRl9TVTdoQmtTX0UyU3o4VVNfZUNmamZFN3lHME9lV1BYUUl5cGY2OEo1WHN2R0ViaW8xcXdFM0RMaENHODBLTW80UWtLekRCaHhhdlJXOThkSDFUYjFadl94clZ1RUNjZw?oc=5",
+      "published": "2026-10-26T18:24:00+00:00",
+      "summary": "easyJet blames delay on 'failure of runway lighting system' Manx Radio",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "UK equity release products unlikely to be made available in the Isle of Man soon",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/uk-equity-release-products-unlikely-to-be-made-available-in-the-isle-of-man-soon/",
+      "published": "2026-10-26T18:05:50+00:00",
+      "summary": "Different regulations and a small market putting providers off, says financial advisor",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/347988-1.jpg"
+    },
+    {
+      "title": "FC Isle of Man launches women's team - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcWVZWUtRTzhQV0VOdFIzWi10UzhZZnpsVGxoWm5ZV0Z6OEo3V2NJczhua0JsbjF4UF9lWk5QUVhiRzlLdW9oN1N6VmZxRlJOWmdXV21ZSGxwd0NMV2l3emFJR1RhbmZ3MWVLdTg2WUd2MmpmQ2ZMcHVpNmFWTEIxMWNxb0t0QUNNLThkVE1n?oc=5",
+      "published": "2026-10-26T18:04:26+00:00",
+      "summary": "FC Isle of Man launches women's team Manx Radio",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "FC Isle of Man launches women's team",
+      "link": "https://www.manxradio.com/news/isle-of-man-sport/fc-isle-of-man-launches-womens-team/",
+      "published": "2026-10-26T18:00:00+00:00",
+      "summary": "\"We want to create opportunities\" says club chairman",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/349036-1.png"
+    },
+    {
+      "title": "Douglas fireworks will now mark start of festive season",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/douglas-fireworks-will-now-mark-start-of-festive-season/",
+      "published": "2026-10-26T17:15:07+00:00",
+      "summary": "Originally due to take place on Bonfire Night",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/349101-1.jpg"
+    },
+    {
+      "title": "FC Isle of Man announces launch of women’s football team - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSjRRTmRxR0dNN2d6UWlFN19uNmJlUldyVVNkMWd6QjhZSzZyUWF5bWFmSDV1Z3NKVUpQeW4yWFQyaGVsaFVJY1JWeHRnT1loRTlmTDhZRm5wSlNjWEtDejRzZDVXYTJyUU9lWGIwamYtUVJMQmY3VVYzUUp0MDhXeUZjTGE1M3llWGtEdnZjcXFNc1Z5cGxIeEhTa2RIVmlUbE1mOVlSWQ?oc=5",
+      "published": "2026-10-26T16:50:46+00:00",
+      "summary": "FC Isle of Man announces launch of women’s football team Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Where can you pick up sandbags before tonight's flooding?",
+      "link": "https://www.three.fm/news/isle-of-man-news/where-can-you-pick-up-sandbags-before-tonights-flooding/",
+      "published": "2026-10-26T16:26:38+00:00",
+      "summary": "The Island's civil defence volunteers say there's still time to pick up sandbags ready for tonight's red weather warning.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/67922c2d2e669.jpg"
+    },
+    {
+      "title": "Red weather warning: Everything you need to know",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/red-weather-warning-everything-you-need-to-know/",
+      "published": "2026-10-26T16:08:48+00:00",
+      "summary": "Road closures in place as Island braces for impact",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/349091-1.jpg"
+    },
+    {
+      "title": "At-risk roads to close during red weather warning",
+      "link": "https://www.three.fm/news/isle-of-man-news/at-risk-roads-to-close-during-red-weather-warning/",
+      "published": "2026-10-26T15:35:43+00:00",
+      "summary": "The Department of Infrastructure says a number of roads will close tonight in the face of a red weather warning.",
+      "source": "Three FM",
+      "image": "https://mm.aiircdn.com/3/5e1d5c7389f7b.jpg"
+    },
+    {
+      "title": "New sweeper gets a name - and it's a Real Diamond!",
+      "link": "https://www.three.fm/news/isle-of-man-news/new-sweeper-gets-a-name-and-its-a-real-diamond/",
+      "published": "2026-10-26T15:29:24+00:00",
+      "summary": "There's a new face cleaning up the streets of Ramsey - and its name is Sweep Caroline!",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6adf71901ab7e52259b.jfif"
+    },
+    {
+      "title": "Isle of Man assisted suicide Bill receives Royal Assent as archbishop warns of ‘watershed’ - The Catholic Herald",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNV0NXZXU0NjVHS0JWbldzcEZvSTA3WjdZVkQzTERGeXUzd1JtU19KeG5MUGpyWFFNd1hablRBeEVRN1ozbkdldjV5allJTVI0Wnljb0R4V2tDU09qNGJDa0Q4OHhZdlhwN3F2X1J2OXpYTFJoQnd5eHBNZWE4R1FjdVJadFZhSnV2S05VZFRLU041R2h0TURISHZRTV9WUGhMOE1wTmU2cXJ1NjBjVW9rQ2t1b013bFVCb1BHTUdueXBqLUFS?oc=5",
+      "published": "2026-10-26T15:00:00+00:00",
+      "summary": "Isle of Man assisted suicide Bill receives Royal Assent as archbishop warns of ‘watershed’ The Catholic Herald",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Manx Utilities on the way after power failure in Douglas",
+      "link": "https://www.three.fm/news/isle-of-man-news/manx-utilities-on-the-way-after-power-failure-in-douglas/",
+      "published": "2026-10-26T14:38:07+00:00",
+      "summary": "Manx Utilities says it's on its way to fix an electrical problem in the centre of Douglas today.",
+      "source": "Three FM",
+      "image": "https://mm.aiircdn.com/3/5942601d9d741.jpg"
+    },
+    {
+      "title": "Welbeck Hotel gets 'potential interest' from a possible buyer",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/welbeck-hotel-gets-potential-interest-from-a-possible-buyer/",
+      "published": "2026-10-26T14:19:30+00:00",
+      "summary": "Implore customers to 'give us a little time'",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/349038-1.jpg"
+    },
+    {
+      "title": "Dance school unveils new studio plans",
+      "link": "https://www.three.fm/news/isle-of-man-news/dance-school-unveils-new-studio-plans/",
+      "published": "2026-10-26T14:16:15+00:00",
+      "summary": "A former Douglas printing office could become a dance studio, if planners give the green light.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6adf6044319bcc3c504.jpg"
+    },
+    {
+      "title": "Richmond Hill closures pushed back by weather",
+      "link": "https://www.three.fm/news/isle-of-man-news/richmond-hill-closures-pushed-back-by-weather/",
+      "published": "2026-10-26T13:43:39+00:00",
+      "summary": "Bad weather means roadworks on the New Castletown Road have been put back this week.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/67fe359d24353.jpg"
+    },
+    {
+      "title": "Richmond Hill closures pushed back by weather - 3FM Isle of Man",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQW5LLVhtWG45a1RjTjlfOGFHdjg0NXlhN2h4MFM2ckg3alVmZmZ3RG1ZckE3NEtyTi1kc0VFcUZyekhfUEJOM3lScFZLaDFCZVRpLUQ1VDAzeWY1Q2dDYVowVktMd0VRWTJaQWJzVURSaDBXZlBuTE9JcXhqM2RMX1ZGOWNNZWZtVjhOYmRIT21fY1U?oc=5",
+      "published": "2026-10-26T13:43:00+00:00",
+      "summary": "Richmond Hill closures pushed back by weather 3FM Isle of Man",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Fireworks now on sale - but for less than a fortnight",
+      "link": "https://www.three.fm/news/isle-of-man-news/fireworks-now-on-sale-but-for-less-than-a-fortnight/",
+      "published": "2026-10-26T13:11:36+00:00",
+      "summary": "Fireworks go on sale from today!",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6adf5180672e2a997be.jpg"
+    },
+    {
+      "title": "Could a new initiative change the way we buy Manx produce? - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZjFuSy1wT3d5NjcydFFhTHZmdU05YjljcGt2T0JKMmI5SkRlSmdQOGtPcFB3T2ppbkZHZzdmQkx4S1pERDYzV0txMU05dEpYX0Jvdk8xSVRhUk5ZTzZFX0RkZ1JhNjdJMFIxel9NVFZrWmVuZklCbG5IWHBuV0dhUk9mTXpLX25aenZPU0txaWRjT0w5X1pSWXppUW4?oc=5",
+      "published": "2026-10-26T12:50:37+00:00",
+      "summary": "Could a new initiative change the way we buy Manx produce? Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Douglas bookstore to host midnight release tonight",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/douglas-bookstore-to-host-midnight-release-tonight/",
+      "published": "2026-10-26T12:24:05+00:00",
+      "summary": "Latest in hugely popular ACOTAR series to hit shelves tomorrow",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/349000-1.jpg"
+    },
+    {
+      "title": "Stay away from Bottleneck car park amid weather warnings, says council",
+      "link": "https://www.three.fm/news/isle-of-man-news/stay-away-from-bottleneck-car-park-amid-weather-warnings-says-council/",
+      "published": "2026-10-26T12:16:55+00:00",
+      "summary": "Don't risk your motor ending up in the sea or washed across the prom today.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/698203e73d50c.jpg"
+    },
+    {
+      "title": "Fresh hope for hotel as potential buyer emerges days after closure announcement - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVnZCY3c2VE1mc3gyOF9jX2dTZ3FXTFY4WXoyWTVvWGpvWWZUbEpUZ1BsbGtGN2xULXh1ZDVPN3I4VTV6ak9oRUY0dmg5YkFFb2NBY0VsMjVhX2lQTWNzcFYya1Z3TllQNTkzNDJyY2lWU3lubmdhSUdXMDRsYkh1bG5jSzNFMzc4d2V3Q2R6ZnhWX3pCQ2o1c204LVNxUFRsMDRRTHZTMGdVSnM0WTVSbVp3SmFrTDlDWXc?oc=5",
+      "published": "2026-10-26T12:10:33+00:00",
+      "summary": "Fresh hope for hotel as potential buyer emerges days after closure announcement Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Decision on Liverpool ferry sailings expected tomorrow",
+      "link": "https://www.three.fm/news/isle-of-man-news/decision-on-liverpool-ferry-sailings-expected-tomorrow/",
+      "published": "2026-10-26T12:07:11+00:00",
+      "summary": "Two ferry crossings have been cancelled today with another two at risk tomorrow.",
+      "source": "Three FM",
+      "image": "https://mm.aiircdn.com/3/5de215dd3f10f.jpg"
+    },
+    {
+      "title": "Red weather warning issued for Isle of Man coastal overtopping - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kaVhqQVdnY1h1eWdFZmduaG54R2tVSTEtelNFdlJzQUtlOXFleE5JNWNBa0hsV1dfYWF5cG9oNlFTQ09jV2dEbXNrZFI3VWN4blVJWHNiMzNVRzVMcGc?oc=5",
+      "published": "2026-10-26T11:46:36+00:00",
+      "summary": "Red weather warning issued for Isle of Man coastal overtopping BBC",
       "source": "Google News",
       "image": ""
     },
@@ -62,44 +246,12 @@
       "image": "https://mmo.aiircdn.com/5/6acce75546ae0d999ca.jpg"
     },
     {
-      "title": "Keys members lodge first written questions of new parliament - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQenZCckRLUlV1OXdzRk9CaElYeEVBODYwZlBiTV9YeHJQOW81MjN5UmZlV3Y1YlRGelIwUmpueGJiTXNEMElmVnUzNXJ3SzdzNmV4R09seldNQWlLMUhhUVJwbTlpQ1hrTlFRQ0VzaXJrSnNQN2ZxdmxpMWRBeHpDYVVuY2ZaY3FrbW9SZjZYaWlhZnZuUVdZR3ZvNkhKLVIwMFhiOHlxNA?oc=5",
-      "published": "2026-10-26T11:34:00+00:00",
-      "summary": "Keys members lodge first written questions of new parliament 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Road closure postponed due to wind warnings - Yahoo News Australia",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4dU13UDNnRm5hYUVmamdIbi1iUnA3Z0JjMzlnMTN3SE8tUHFnM3liMFB6bE52bmdTNy03dFZOMWRUZkVTTzMwUWszMFVHVXhFQjI0amNfMWhHMnROUExTWE1OTnl0MjRNYUtKSE1tcDVvMmFUU1hkRDlTRWc?oc=5",
-      "published": "2026-10-26T11:24:12+00:00",
-      "summary": "Road closure postponed due to wind warnings Yahoo News Australia",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Can Royal Assent mean Guernsey revisits assisted dying laws? - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQWNJQWJabC1KVnpGX0t2WjJQUG1NcF8yNDAzOEp2NC1RT1E3ekd5Uk1aVVI0b0RWZFFpVE5FQUlsQUtzWTZ4dWx3dkVhc2daZzljRVFkYzhQUngtWG95dDBneDlNbi1VdWRYTDJLeEhlM1oyeXF4TWp5T2lpeVd4WF9FMG5vcnpaUXlhSG55X1JXSTVXa2k0?oc=5",
-      "published": "2026-10-26T11:19:47+00:00",
-      "summary": "Can Royal Assent mean Guernsey revisits assisted dying laws? Yahoo",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Fourth weather warning today warns of storm surge flooding tonight",
       "link": "https://www.three.fm/news/isle-of-man-news/fourth-weather-warning-today-warns-of-storm-surge-flooding-tonight/",
       "published": "2026-10-26T11:12:13+00:00",
       "summary": "Four weather warnings are now in place for today and the early hours of tomorrow.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6adf352e34be6080503.jpg"
-    },
-    {
-      "title": "Fourth weather warning today warns of storm surge flooding tonight - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORXZWQVlyYWhSek50LWNxYUQ3azFZc2tqc0dtYjFmeUZ6dzVOUFhhcWxRbkdNdW9pTUNQZFlOa0UzN09XQ08zWWNGaGVsVHVpNGFPd0V6MkUzVnlBWXBqZUd2WnloRlRmVkhmSDlWZ1l0RG9yLTNsQi1GWjJobnlzRl81ZWgyNmV5S00zRHpSWGJyTmJRUlhLMFpmekpJZGl6cVBxNXE4eHhDZ1h6RXpv?oc=5",
-      "published": "2026-10-26T11:12:00+00:00",
-      "summary": "Fourth weather warning today warns of storm surge flooding tonight 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Rare red weather warning issued",
@@ -110,10 +262,10 @@
       "image": "https://mmo.aiircdn.com/61/6adf3a161dc991afd88.jpg"
     },
     {
-      "title": "Met Office issue rare 'risk to life' RED weather warning - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmlZN3BSWi1KanBiWUEwZ0k4Q0kzengwU0pOcVkxRjZpYUp5bU5FT2E4V2NPbTB0elFXQkl5VmlFaFhhZWhxY2FhSUhQN2lNTjZfN1NlVWw2WndjdVctOTAyOGVSQ1BSVGQ1NXp3RXhPN29Ld0hEcmFDenZEbmRWUE91NW9BSUl5dFdjMzRjcEIxakpRV2wwcg?oc=5",
-      "published": "2026-10-26T10:43:49+00:00",
-      "summary": "Met Office issue rare 'risk to life' RED weather warning Isle of Man Today",
+      "title": "Rare red weather warning issued - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLTg3UjRPbjFCSEliVWtqR1RMVWVURERFaHY3ck9EdnFMejN3amxFUzRRRWJVeGgxUmZWVzQyc1hMTGVQbUtBTnpkQmk2ZGNBakVhbUxlUnNwQXphQXRKd3ZoQVhkYjBab2dackdOYXdKd0ZjV3hOWE85cUllV3RKZWY5N1lNRDA?oc=5",
+      "published": "2026-10-26T10:45:00+00:00",
+      "summary": "Rare red weather warning issued Manx Radio",
       "source": "Google News",
       "image": ""
     },
@@ -126,44 +278,12 @@
       "image": "https://mmo.aiircdn.com/5/65c6028eb12cd.jpg"
     },
     {
-      "title": "Red \"risk to life\" weather warning for tonight's high tide - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZzZJQ0lUZDZOWWxvU0VHVkRFaV9EaWdxZFI0SExoNEs5T3dsOVVYdzJORG5veExudUJtMzFvcXZBSlZMSk05MUxRZ3h6eEFMSzZEcFdIZ0E3MTdKZ2dUWkZ0U3ZLM0N2X2l5MGprZU1QTFpLR3ZVRmF3QTZvWGFrSHR1d193aXgyYWhpRXJqMHhieU0yODlQcTM4QmN6aVRF?oc=5",
-      "published": "2026-10-26T10:42:00+00:00",
-      "summary": "Red \"risk to life\" weather warning for tonight's high tide 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Man accused of drink-driving while disqualified denies all charges - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNUx3a1hybGpmR0lZZ3NGamhkV0RDSm1KU0h1bFRxN05ka2xDR2wxVWp4V0VYNElYRWVvLUlPa3hpall5R3ZudjQ2THdjOWxIdWFCZW5ZV1RHUkFCbTdBZS1tQnpuYTMyRDJ2RDVBRFAtSS04b1JhT2V4R2VUaHdEc1hiR3dwUU52Sncyd0hQNjVSUERUT0QtT2JsemloRTBzYXJ1RGlqRjBocHluWEFUV21B?oc=5",
-      "published": "2026-10-26T10:18:49+00:00",
-      "summary": "Man accused of drink-driving while disqualified denies all charges Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Police to carry out roadside vehicle checks",
       "link": "https://www.manxradio.com/news/isle-of-man-news/police-to-carry-out-roadside-vehicle-checks/",
       "published": "2026-10-26T09:10:48+00:00",
       "summary": "Operation Uplift aims to ensure vehicles are safe now the evenings are getting darker",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/348972-1.jpg"
-    },
-    {
-      "title": "Police to carry out roadside vehicle checks - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbUFVMGxwZ2NfQnM1c1hDdzR0SjNEek5MbFVXc01PdEEwaktuR0tWeWc1NU9HQm9PMzJIbHAwaFNiR3NvelVERXlJelROVjZUNldlb0xBVktJU1pxbEhORkdnVU9pMkd3M2pxdlRmVGx5VWRzaGttOUFab2VSejRlcFA3TDdKemVZSll3LS1RNU5UV2RBczc4?oc=5",
-      "published": "2026-10-26T09:10:00+00:00",
-      "summary": "Police to carry out roadside vehicle checks Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Age Concern event to connect older people with support services - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeTVleFNqb2xXS3NxVk1OYjkzdjdKbE5kUF9EV2R1SXEtY0RTSVdiVkJkaW9hZVU3QXRNUlR3UUZ6UWhkWVVkWUt5Vlk0WXU2MGRXYUE4NFQ2YkRvcGNIWVcxOW93bW51cUc4Wlg0cUhBbXlhSzRRT3ZrNkpBRE1nbzQxalhVVXRrNVhlY3M1cDFxZHplcjFLczZwbGFEYWstTWhmTC1MVkFDX2lnVXJkRQ?oc=5",
-      "published": "2026-10-26T08:08:00+00:00",
-      "summary": "Age Concern event to connect older people with support services 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Tynwald to debate rules on political interference in planning applications",
@@ -190,28 +310,12 @@
       "image": "https://mmo.aiircdn.com/5/6381d12122e31.jpg"
     },
     {
-      "title": "More weather warnings in place today - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQld2YnhaWHpBdjlzZlhwaXYwcUJDS0VWbWE0NWtsOGNzajRoaEp5aDBsTU14ZUdhN3ZQYjdlbjN5N2tRSE01MTBVUzFROTNiaEwzTlhkYV9UM2dnTGdaRENYSGR0dU1fa0RIWnM0NWZxcnBzMUhXMWxPZmNyVmhOVHFnanBGa3c?oc=5",
-      "published": "2026-10-26T06:49:00+00:00",
-      "summary": "More weather warnings in place today 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "\"We do have a housing crisis on the Isle of Man\" says expert",
       "link": "https://www.manxradio.com/news/isle-of-man-news/we-do-have-a-housing-crisis-on-the-isle-of-man-says-expert/",
       "published": "2026-10-26T06:36:08+00:00",
       "summary": "Average house price currently eight times more than the average annual earnings",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/348271-1.jpeg"
-    },
-    {
-      "title": "\"We do have a housing crisis on the Isle of Man\" says expert - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUGlVS3NsWWx1bGpDd1hnbjVodVVaV2owSllRWnZSQ1J2RVV0Z3NrZ29JODRTbUlaNzZWaFNDeWhpd2Z0dVpfcnc3ak5ZeEJtRTVFYnY3UmdUWDFMYU83RU1saURPUks4WW5zclNQWDZlX0ttME5Nb01xeHVIVmtoTjc4bDZUUVB4THFtZWUzeHFGajlWNVI5U1U0R3B1bXl4eTc0UTRiRE1HLVk?oc=5",
-      "published": "2026-10-26T06:36:00+00:00",
-      "summary": "\"We do have a housing crisis on the Isle of Man\" says expert Manx Radio",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Evening closures planned for Richmond Hill this week",
@@ -222,28 +326,12 @@
       "image": "https://mmo.aiircdn.com/5/67fe359d24353.jpg"
     },
     {
-      "title": "Evening closures planned for Richmond Hill this week - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcEdjUGpZekczazZtUXFBNnprRFM3X01CcEhLSUpSQURJbF9tX2E1MEE3Rk5sdklPRVhmZmJnSVhOd08yY2thak9KZmhXMlNIWENobk51LWxHMjNEbFlsbGt2UEFoNHhJLWxSZW54dGhQeGtxVWtrZjNSaHZwNUN1cmdHS19iLU9VZFctZmtkUlEtRGx4Y3B4T0VlMWs?oc=5",
-      "published": "2026-10-26T06:35:00+00:00",
-      "summary": "Evening closures planned for Richmond Hill this week 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Bill banning sale of nicotine pouches to under 18s due to get Royal Assent in November",
       "link": "https://www.manxradio.com/news/isle-of-man-news/bill-banning-sale-of-nicotine-pouches-to-under-18s-due-to-get-royal-assent-in-november/",
       "published": "2026-10-26T06:34:09+00:00",
       "summary": "It comes after schools warn of increase in students using them",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/348320-1.jpg"
-    },
-    {
-      "title": "Bill banning sale of nicotine pouches to under 18s due to get Royal Assent in November - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd1U2VFVxeXFrdTA1VFJmY0xwNm5VMzF3aHNYLWVNMXBCdWd3NF9CLWtkWUtlUnRtM0p2OHRNOVc2VHBHTkFyODZ0STVMVmF3cjdzZHpRdXVJZFZYS192NmI3YVRERml6eVNpbEU5VVFpM1ZYbHBzbDU4MllFQlBROWE0cTY1d0NqNVNRN0dkMm1wSV9hRlFyTDVrTlRCQ0JDQi1UZlZYeGd6V1NwamUwUjBXMVgwOVpBSmVkb0xadlE1QjJsLURtOUNIRUtVNDN1?oc=5",
-      "published": "2026-10-26T06:34:00+00:00",
-      "summary": "Bill banning sale of nicotine pouches to under 18s due to get Royal Assent in November Manx Radio",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Government funds 'not being allocated properly'",
@@ -262,50 +350,18 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/348302-1.jpg"
     },
     {
-      "title": "Boxing: Jade Burden loses to Shauna Browne - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQlZGUDQ0RThxQ1FZY293aVFuS3J6ME03emQtNERucFJZbzh4Mm9GZlFkajNmWGFNYVM0OXZ3SVhwT1lBWnhmeElpazJVT3NpeU5EV3NlNTZFam04dFBvdk1kX3FLdUY1Wnp5c3dHUUFoVE5pZ0lPdGkwODd0b2E5WUJrRll6MjUzNy1lQW0tbWFJU1BnQmc?oc=5",
-      "published": "2026-10-26T06:33:00+00:00",
-      "summary": "Boxing: Jade Burden loses to Shauna Browne Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Government funds 'not being allocated properly' - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRGpNTEhNU2RWOUl2NGoyb2lxbnQ5bG1pV3ZIb1VuOWpZcllERldxNkxZMHp0S0dUZlk0aVZLR1gzZGszY1pFZndsN2ZOSUdKNDgzblFjYlFIU245Y1VGOWRGd2tEV0tVandCZGYydVZFZ0RuOFAtRWNHR1R4alNtMURvalB4ckVkNUxTbmN6ZzltVnZlY1ZWMHln?oc=5",
-      "published": "2026-10-26T06:33:00+00:00",
-      "summary": "Government funds 'not being allocated properly' Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "EAC to host special Hop-Tu-Naa screening of horror classic - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNa2RLVGQxZGhaekNkRC1lUXBfaXBKZTRtN2JTc1BNRXRyelMxNEl6TkpRS25CT21xaVBPUEtaaWJrdmkxWE5saWctWTdMaExxaUtlbGo2OXFpcTY4RTV3cDJIbmxGQVVpTklZd29QZlZQMFN5UHdlU3pUc0JIcTNmNVlHM1diN2tSSXpWY3E3S19oMVpWSGtWU0VnVVZZdHlDVWw1TXZ6cENNTDg?oc=5",
-      "published": "2026-10-26T06:33:00+00:00",
-      "summary": "EAC to host special Hop-Tu-Naa screening of horror classic Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Tynwald to elect new deputy president next month - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRm1VRFVLR1h0S2trSzEyaVkzeDRzalBKRjdKTzQ1Yi1mc19DS2U4MFBQS2xrVXdkRVoxZnY0RW1lQ2staURJSHY5MGViSFA1aTRHbkZJYWdIOUVZc1lLbDBCdHg2ajR5c05INHoySkpJeTUxczgya25zZVZRS1Ffc3IxbllOa2pFaWxYcEUwcFpWTjRXY3Q4?oc=5",
-      "published": "2026-10-26T06:27:00+00:00",
-      "summary": "Tynwald to elect new deputy president next month 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "House of Keys members given departmental positions - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QSTdYcmVrSjd1dE1YTFlLVW5WcXpMa1pqWVR0LUlBUVY4djBXa0JSRnJycElmOGJva3Q3aDg2dFJqaVUwVldJOTM3T2ttZnlpTTNLaG0wTEY3aDZBZVE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWjRwdGlWX0pLVDZ5dmlzVnVRLW5xdmRvOFNLYmpsRDlYVndsUGtvb0J2eXVJVWE5bWI0Y2ZpV2dLcU5GSVF3cDNQeWxVcHI1RFpvSnhMdUY5aUlrVmhIUnVXZk1QcUQtaHp2MjZXSnBEa21ENmNYY0NYbTRRTHRLWEp6Q0MxMDFRVDJsVmlnVmlSU0ZGakVhbkFaT3diWDVMaXRrVlM5VW5BSjhpTXlsS2VVLW9RSldBX3dGeEFFUVFYMDJ6RVJUVFFfekthaHEyV1R1RzZYNU9CLUxmSk5GVWlCRQ?oc=5",
       "published": "2026-10-26T06:11:44+00:00",
       "summary": "House of Keys members given departmental positions BBC",
       "source": "Google News",
       "image": ""
     },
     {
-      "title": "Evening closures planned for Richmond Hill - BBC",
+      "title": "Richmond Hill road closure postponed due to wind warnings - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByTWRvVEl1bDNuUHc1dDh5SFNTTjBJX3M4TWhLNHQzdkh5SFVLelUtR1JPa2xKb3loMlhOME44b1ZmcGlVdlZKV2ExUDd2TWtxRC1fNmtweFdDak5kckE?oc=5",
       "published": "2026-10-26T06:09:52+00:00",
-      "summary": "Evening closures planned for Richmond Hill BBC",
+      "summary": "Richmond Hill road closure postponed due to wind warnings BBC",
       "source": "Google News",
       "image": ""
     },
@@ -318,52 +374,12 @@
       "image": ""
     },
     {
-      "title": "Isle of Man businesses learn about new UK Companies House rules - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcVRHZTBVLTFNSzA2WmF3dTNBeU5tSGtYZi0tZHNMZHVibWljRnJRNWtDNVFVczJKRFUtRHFmZi1YRVJIOXJhS1g3YlR4MFJ4WDgtNzlVeWtYOXc1UEMzRG03MHVoUVUxZG5WRFRJM09kMGJNMTFHT2d6SGRRcGJoX2FJSkV0SzZuMUw0dGxESGV2RVRIOEtSVWJVUWhRT0VTVDB6d3lqQWo1UXJkMlJYbw?oc=5",
-      "published": "2026-10-26T05:03:49+00:00",
-      "summary": "Isle of Man businesses learn about new UK Companies House rules Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Tommy Corlett joins SolutionsHub as head of regulatory assurance - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUG9EdTg4dHREQVhXOFNkU3pfYWFtVENGUmphV05JaGpTZlZ2WU51a2J2Q2xaU2lsRy1wQXU0bXpUekQtUTZ5OTUxRVhQTEVNRm8td1J3TUUyYTgxUGpTMUFqeFEzS2NFRHQ0NV9FYUFlTUNuTHFSaW1iZ1dYMnBwcFdqVWR6YTNnM3J3M1J3ZXRPYkgzNG5HbUp5M0NuU2dfTExwbXVoRDZzemE1VWtMcmF3?oc=5",
-      "published": "2026-10-26T05:03:49+00:00",
-      "summary": "Tommy Corlett joins SolutionsHub as head of regulatory assurance Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Age Concern are bringing support services together for older people across the Isle of Man - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUHpCU0dnekxKWW1nN0daVWJpSTFwMUlQUjctZGZYUmh3YjNwaFNjN3lSSmp5TFFsUlRzeGJ1OHlaN3diRWdLdDFMNWc1Wkstd240akl6U2hQN21LcDJtclNYS1FNeUxMQjMtc3BseVo4eDBnRFN2TnZWdnRyTUZiYTlzSE94ZnZNbzAySG55NXI5MlJubElVQWdHRVZTZFpmYVZiZEVqTU5kMkJMQWNrQmZjYl9aU0w2ci1BaTQ5RFpHd3FjSzVKd2UzU3JmWVdlMGlROQ?oc=5",
-      "published": "2026-10-26T00:00:00+00:00",
-      "summary": "Age Concern are bringing support services together for older people across the Isle of Man 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Larne sailing cancelled",
       "link": "https://www.manxradio.com/news/isle-of-man-news/larne-sailing-cancelled/",
       "published": "2026-10-25T19:59:45+00:00",
       "summary": "Liverpool sailing brought forward by several hours",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/348854-1.jpeg"
-    },
-    {
-      "title": "Three new weather warnings issued for Isle of Man after Storm Boelo - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVmVISzdaRWJRZUNnTkJDT2RzWkV3VXVYVE9rejNyVGhRZ2hTekxWVjJMT3ozOVJYVU5FNHhQb1NWU0ttYS1aU19nakNUdER1WDZOcEY1WE1wRnBwempub2NDNWFfamo2dkNPbzF0UHFCQUk3X2VRbmZMU3JheVVkUmY2a19VcnZzaWgwUXNSZTRuUzIzME5VMWhYdEFkVVh0R1pCQWY1emp2dw?oc=5",
-      "published": "2026-10-25T19:48:14+00:00",
-      "summary": "Three new weather warnings issued for Isle of Man after Storm Boelo Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "In 2022, Chloe Hurst took a seasonal job on a remote Isle of Man island; she woke at 5 a.m. to ring birds - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNRFd5LXhmN2QwM1M0a0ZfVERFUFNIMmNFRUZwcnYxZTd5em1wOVZ4VUkwbmRrczlPbWRHZnNDb21FaW9hcGNEWThYbS1xVnBLbHY4cFJyX3Iwd2FFTTRxTV8yWHN5a0x1UHVUeWFORWY5UHloMkdMdFU0anZwSk1iNWhySElVX3laUTEwdHI3T3UyWkxKNFpjdWFwblRRclJiaUgxaFlKM3ZqSWhvSldhNWZSdDJ3clJOWXp4NFBKaFBCRFhhT0hQdzM1TDltaGMyb0Q1al9RY2xDX29VRFZyVEo5NURMb3JTVXVNRGIxdGxyRzN6aXg5NV9GUHBsamRsVnBiMEgzci1XZW5CSzFSWnJ4aExTUHpQTGlVRkFEWDFmZk9tU3d4MzlWcXVFczBxWlFZWVF6dTlKcTNOdU41ZGF1WUJWUdIBywJBVV95cUxNRF9DODJ5bjdfQ3FzNnN3MkJGR3pjX2lIYm1DTnRfYUdKQi1SdXhTWTMwTTdKMUpUNXBManpfRFZmT0diXzVSbkxJR3J6ajVHS3pBREZzUG1pN2Q3N2NmQ29uS2dMMXRVQzNZX0NBVmxrZXZ6QVVuWS05bXBCN1NLNktEMmJFWTlTZjdsbGM1eUFvQ1RncFh1X0hVX3Q1X094OVN4TFl2Q0xjbVlreGM5WE1vdE5uZndaYVVJVXBsaGJmaFFHQ3c2Z3NyLWJISXYtbXlKbEhYVUZlX281MHI5RkkyRl9uS2c5Vk43YV81MmJoTW92RWFUam5jLWFXMF9pNGxMWWMtZ0xXRTAxTERhYzBDVTRldE5objNQVjdiTi15MTU2S2FsM3JUdlM4YUdaVUVrUkpfMTV0emwzeXlTRzVjQWFrcmhzQU53?oc=5",
-      "published": "2026-10-25T19:00:00+00:00",
-      "summary": "In 2022, Chloe Hurst took a seasonal job on a remote Isle of Man island; she woke at 5 a.m. to ring birds The Times of India",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Three weather warnings now in place for Monday",
@@ -382,44 +398,12 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/348826-1.jpeg"
     },
     {
-      "title": "Port Erin business owner woke up to find 'beach huts floating away' - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXWU92LXo0SC16TTVsYS1DN2FoWTlIUlpiTzZkQ0lHd1ZlMmNGdzJvVl80emxMLVhaTmktWHNhYWp1c201aERWY0RaTWZGU2xsQTJzRW1Uc2c0dmdtQUE?oc=5",
-      "published": "2026-10-25T16:49:46+00:00",
-      "summary": "Port Erin business owner woke up to find 'beach huts floating away' BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "More severe gales on the way in yellow warning",
       "link": "https://www.three.fm/news/isle-of-man-news/more-severe-gales-on-the-way-in-yellow-warning/",
       "published": "2026-10-25T16:33:02+00:00",
       "summary": "Forecasters have issued a new weather warning about gusts of up to 65mph this week.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/68da5a8de35bb.jpg"
-    },
-    {
-      "title": "Three weather warnings now in place for Monday - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdzhKTlR1YktQTXg5MnlfYTZuLUkxUWRDRHJHYmFhbmpUekMxOUp3S1FvQzFfRzhQLXo4S3ZnNkxvV1plMmhueGFLUjlXUXdVeEtKS09RZkZQTXNqR2pNNmY2N1FCY19LazlyZERMU3E2eWRydGRUc2YxaDdZUUNIem05OTFTcnhxdWd1VDgzdk1HRU4w?oc=5",
-      "published": "2026-10-25T16:25:00+00:00",
-      "summary": "Three weather warnings now in place for Monday 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Teen, 16, murdered 14-year-old boy after arranging fight on Snapchat - Metro.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaWN4TlB2ZnRKYzlaZE9iRlgyY1lsQ3hTOTVBM0MwclpwNUF6a3ozNkNDOHZwUzFSZzgtbEhnM3RLQ1ZaNDM5R2x2MG5HSEhNYmU0Smhzdkp4RDdqV0poYkZVcTIxcEFmOGZVX05MT01aZ056YUk5NUZvQTcwYjhHVGNYbjU3aklJdEthb3FUUXo3UW1MVkFRTFNnaUZud03SAaQBQVVfeXFMTXhBUlU5VFdQaHNydEpRaDVRWHFVd0Myd3czZUQ4QnZqQktnenVLeVdlWFJHd3RpSUhjYzNKTi04MGNoTllQRlM1YW5vM1c3aThhMzRsMEdVTzh1bzNoWWJxUmhURjBBT3JiVjVua05UVkgydFhQaV9Pem1TaVVyMzM0RnN4cHZwMUxPVmxfSzRCZU4zVm9Xcl9qaURwMnNRajYwWHk?oc=5",
-      "published": "2026-10-25T14:20:00+00:00",
-      "summary": "Teen, 16, murdered 14-year-old boy after arranging fight on Snapchat Metro.co.uk",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Police appeal after man seriously injured in assault - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcHNtSHA1dFRxVVkwOHRkMVJaX3F0UktZaVRWeXpNa29nTFo1TlMwQ25haFpZOC1MQkg1U0R4bS1XTndMb2pzUXpXWGtZZUkxYjFHOTAtMlptY3FFU25MOXphcmJGTzFzSGh5MW5QVVZ6cmVFYllNVThiaThfdG1LbnhJTGFiTUNDeXpySEZvX0x3TmxMenc?oc=5",
-      "published": "2026-10-25T11:29:28+00:00",
-      "summary": "Police appeal after man seriously injured in assault Isle of Man Today",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Investigation launched after attack leaves man with serious injuries",
@@ -478,14 +462,6 @@
       "image": "https://mm.aiircdn.com/3/593baaaa11311.jpg"
     },
     {
-      "title": "Douglas hotel announces closure - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLXJoallBX3E5Z01SNWgyMDl4ZUlyWU00TV9DWHNUWEJmU1VudXJUUFNGT1UzMjY5MDNZT3lCclhCbDF5U3VBeGZDcXg2cjJWb0RBZ3hsU0d5Wm5OVEpiOVBXUWt1VkthalAxR0hzeklvbGZhUFJNcWFrdUNGS3VlSA?oc=5",
-      "published": "2026-10-25T09:11:00+00:00",
-      "summary": "Douglas hotel announces closure 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Potential for a 'significant' flu season, says Public Health IOM",
       "link": "https://www.manxradio.com/news/isle-of-man-news/potential-for-a-significant-flu-season-says-public-health-iom/",
       "published": "2026-10-25T08:26:22+00:00",
@@ -500,14 +476,6 @@
       "summary": "Deadline for submissions is 31 October",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/348278-1.jpg"
-    },
-    {
-      "title": "Potential for a 'significant' flu season, says Public Health IOM - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeHVsUC0xU1FqWnMzcU9aZGhEb2tQd3QwQThPb1VvNjlnbGdiNWxiNE4wMXNMMWJDVFN4T3JIek9PNVU1LTEydkdLdEFpakNxWmlwUTBMd19tVm1vdUNxZFBGTlZrN0JNQ0FyQ0lSbzY0Q1R1QUtiTTZieVpHWkJqeE4yVFVnenIzUTlZcVgyeW5yMU9zS1g0OTY5azUzMTdtS2xMTHVmSmJYQmtkMENJ?oc=5",
-      "published": "2026-10-25T07:26:00+00:00",
-      "summary": "Potential for a 'significant' flu season, says Public Health IOM Manx Radio",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Seabirds and sewage among Isle of Man Biosphere status challenges - BBC",
@@ -532,30 +500,6 @@
       "summary": "Gusts of up to 70mph are expected today",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/348726-1.jpeg"
-    },
-    {
-      "title": "Former Isle of Man guesthouse could be turned into shared housing - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMlJnaWtVaHBUaEVRNWczYXhsdEhpTmdsSDFRQTU4clhEcjk2TkRPaWgyMzdLNGE0QlA1QmpiRFI5Q09zMUtjVHNsdHFHU3NzM3Raa0RINXMxZHk5d3lyaU5VV1F6ZlZaaWxobmNsczhxckt5dElHVU5RQnlkTEJrVEViRTV5RVpfbDNXSlhEM09KeE5udTJyZFRiaWdTX0tkSmNmcmZrdw?oc=5",
-      "published": "2026-10-25T05:02:10+00:00",
-      "summary": "Former Isle of Man guesthouse could be turned into shared housing Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Leader sees ‘huge opportunities’ in new partnership with 'gateway to EU' - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeGhtOHBjVWVtTjlCRkNWOHNHdmJDeTY3b3RsYWZHODhfMTdfbzU0UFRVU1hkWmh6VU5EZTh1U1Job1dxeDFOUEFIbllmVjJ6OUFKUHU4MlRvajBPNHdPY1hHZ1ZXS2tlRjhCbjM2X29pY2RtMDMxZk5Wcy1BSU1NaEZjdzB2aktaVmFLTWs2eXJtTHVrWmVZZDNQeGY5TUdtQkNXc0dpdFN1bFk?oc=5",
-      "published": "2026-10-25T05:02:10+00:00",
-      "summary": "Leader sees ‘huge opportunities’ in new partnership with 'gateway to EU' Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Storm Boelo Sunday updates - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON1pLVzR6ZXE1RVEwZTF2TzhfRV9obU41M0d3VzcwWF9wUzVheC1YTG91bTNKcl9JOTZiY0tERHlJdGVFWmctbXNBNnB3QlZEbXVPTlI0TnlQeDNOZ09xSjJJdGJzVjhtOE00NU1ic0p6WElBSExQZ0g2VlBUcUdtcQ?oc=5",
-      "published": "2026-10-25T05:02:00+00:00",
-      "summary": "Storm Boelo Sunday updates Manx Radio",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Mountain Road closed until Sunday",
@@ -596,14 +540,6 @@
       "summary": "Weather warnings will be in place throughout the weekend",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/348525-1.JPEG"
-    },
-    {
-      "title": "Storm Boelo updates - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4ZEF3SFRTOGE3MC1sR0gyRHdrNkxySVBhZ1Y5aDlwcTJkMGFpQzB6RkI4N1Zhc0YtbVhTZVcxQkZyX204SnBaT1BJZXlWUnl6ZVVTUzlIUVBrUzNfWXloVXd1UjdPTU14bm5XYUhHUEcySFpBTXlF?oc=5",
-      "published": "2026-10-24T08:25:00+00:00",
-      "summary": "Storm Boelo updates Manx Radio",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Clocks go back tonight!",
@@ -662,14 +598,6 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/348282-1.jpeg"
     },
     {
-      "title": "Hopes to open self-service dog wash facility by January - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3pqNTJaSjNURmVOQ3B6U01UbjI2WnNteUxmMzZQdWREazk0cGljelo0ZGI2MnUzMFhvU2pUTWpBLVREZ3RBYWdTNm0zcWJpNWpiSGFQQmlNYWVreTNmNTltTlZIcmRsTHlEVG8wMWtZT0Y5TDRlV09HcnA1aW5qTlJUR1duN3RDcGpsSWViV29YQllQWjlHS19SVWkxWkp3eWVpUmwwRQ?oc=5",
-      "published": "2026-10-24T06:48:00+00:00",
-      "summary": "Hopes to open self-service dog wash facility by January Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Weather decimates ferry timetable",
       "link": "https://www.three.fm/news/isle-of-man-news/weather-decimates-ferry-timetable/",
       "published": "2026-10-24T06:38:39+00:00",
@@ -678,26 +606,10 @@
       "image": "https://mm.aiircdn.com/3/5c8f35e8f13f9.jpg"
     },
     {
-      "title": "Iconic Isle of Man pub and restaurant goes up for sale - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOTNpdXJENDZmNUdDQk01OXZ5ZmQ2ZktnYVBrX0V2TDM4UGVOdFZJZVJmRFlqdmdkNTdQNXZnb1JiTG9oZFJZRDJMdHhqa0NyaFZwOE9FUWJxVFRpZVZGQ0wwOFQtRll3RGlfR1M3WjN4bjZDNXJmWHluYjNVelRMMXhPSUZxQVc1bzhMOV9id2o3S3JkaGJIOA?oc=5",
-      "published": "2026-10-24T06:32:17+00:00",
-      "summary": "Iconic Isle of Man pub and restaurant goes up for sale Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Manx designer inspired by island's folklore and history - BBC",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qUUpvSkg5SWhEV29wOURWTTV5ZVRmVDJxYXhwSXdZZDU3RXppdFY5aFBPV2JBZEhKc28xY3N6dzhJRU9pb0cwMXVDUnhmbmVHMlpIUDJkeVRULWRDZnc?oc=5",
       "published": "2026-10-24T06:17:08+00:00",
       "summary": "Manx designer inspired by island's folklore and history BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Murdered boy's family 'take comfort that truth prevailed' - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1SEpuYWlQNW5PYmMtbkJPdi1JTElVWU1pOS1abGkzY2xUc0pBYzRRT3N0U2JDQnNlUE92cWp1eDI1NnRicFJRR05NNkZZb2VvdHpObEtaanh1LXhSYWc?oc=5",
-      "published": "2026-10-24T06:16:13+00:00",
-      "summary": "Murdered boy's family 'take comfort that truth prevailed' BBC",
       "source": "Google News",
       "image": ""
     },
@@ -758,6 +670,14 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/348400-1.JPG"
     },
     {
+      "title": "Isle of Man teen guilty of murdering boy, 14, in pre-arranged fight - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40WFVZbDZqTWlBTk1ER0hJM2xMSHc1MUhjNkpJaEJ2RFFWSWM5U1ptanVHcVVjQmt0SkFMNnl4eVQ3VHV4YnNnV3pMRWpMOTg0RHVPVXBCcWh0UEU?oc=5",
+      "published": "2026-10-23T16:33:47+00:00",
+      "summary": "Isle of Man teen guilty of murdering boy, 14, in pre-arranged fight BBC",
+      "source": "Google News",
+      "image": ""
+    },
+    {
       "title": "Weekend sailings cancelled",
       "link": "https://www.manxradio.com/news/isle-of-man-news/weekend-sailings-cancelled1/",
       "published": "2026-10-23T16:29:46+00:00",
@@ -790,22 +710,6 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/348347-1.JPG"
     },
     {
-      "title": "More Isle of Man weekend sailings cancelled due to forecast - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcXRrQndITG52Q3NqY3I4OHh4TTBSNDFIQkkybkhfa3dHS1pENTBUU01YY2pncUV3TjdFdnVaYnpOOTZzU28wWlVqQ1V6cldaN09XVmZRVlhtTFBuNDdYZDY0NTluZTdHc3JrYjFkdFprMTdycnB3aW9JSS1jMEQzM2Q0MVpKSEJBYVJtdWItRzlmSXBzdTdGT0t0b09rTGc?oc=5",
-      "published": "2026-10-23T14:57:36+00:00",
-      "summary": "More Isle of Man weekend sailings cancelled due to forecast Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Chief Minister announces political appointments to Government departments - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnY1WURKUnE3dWp5QkhwV1JSb2t1SzdFUzFtb1RlVHVLd29YS2I0bkQwU21jd0tLV0JwWlpibVV0VWtZTEZ0bkdNaWVLVC1sbUY4TUJZZU56WExSMkk4YTRxVkQySWs2NktVU2N5SWpwVHNTYmpQN3lqS3RpTndpYXk0U3RQSHRYbVBvNHVVbFVvbTB1X1Iwd3ZuWGVkSGM3Sk45TmxIdm1Tb2FDYnJFOHRn?oc=5",
-      "published": "2026-10-23T14:57:36+00:00",
-      "summary": "Chief Minister announces political appointments to Government departments Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Police: \"Thoughts are with murdered boy's family\" after conviction",
       "link": "https://www.three.fm/news/isle-of-man-news/police-thoughts-are-with-murdered-boys-family-after-conviction/",
       "published": "2026-10-23T14:49:33+00:00",
@@ -820,14 +724,6 @@
       "summary": "Ronaldsway Met Office has issued a second weather warning for the weekend.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/69832fdc2f327.jpeg"
-    },
-    {
-      "title": "Amber overtopping warning issued after earlier gales alert - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdFJCbE1Mc0gyWjYwTWVfcmVsWHBhclVqa0FIa1pWNzNXSnU2bmNuT1YtVDRCQll5UFZpVF9zN2N3RDJjdWhGSk9TLWFlNHUwOEJqNVhVR3FMX2EzZWc3VnZ0MG80NmJhSy1FNV9rRU0tR20wS3BpamlCbDFwcUJUdlZlVzBTUWw4emo2aUZrQnZMUGtOcnZoU3ZOOWhCSGF0eEh4Tg?oc=5",
-      "published": "2026-10-23T14:24:00+00:00",
-      "summary": "Amber overtopping warning issued after earlier gales alert 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Ghost hunters go gaga for the Gluey",
@@ -862,52 +758,12 @@
       "image": "https://mmo.aiircdn.com/5/641807e7d79b8.jpg"
     },
     {
-      "title": "Isle of Man teen guilty of murdering boy, 14, in pre-arranged fight - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1SzhRQUFicnVVejZ4TjhvTm94OHRUc01ZRV8tVld2ZHFXR3BlU2VENTNQU2xfcGkza3F1dGxncS15UXBaTk5hdVRaU2Nia3RmekFsZ3hyWENVNjVkZHc?oc=5",
-      "published": "2026-10-23T12:48:02+00:00",
-      "summary": "Isle of Man teen guilty of murdering boy, 14, in pre-arranged fight BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Clapping, cheers and tears in court as schoolboy murder verdict delivered - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSm8yT2V5V25Kam9xbnVvNEc3LTBnQ2tCNnNLYWFoQjl3RUV6amZtQTVxZU01TF8zT1dOemJ4QWdpYzVQUXBuVXBfaHB1N3lybnF0QkVRSDM2amluX1Z3MVQ3R1dlM2wzTy16UkdjVUdzTi1DUXlqb1BYbTZnMzl6S1pDeDc2MVB0ckdIcG9mWTlIXy02Qy1kV2ZtXzc0UjFlRjlZeFlsN0VIOTQ3UlFrLWFRalBoNzhjTHc?oc=5",
-      "published": "2026-10-23T12:44:57+00:00",
-      "summary": "Clapping, cheers and tears in court as schoolboy murder verdict delivered Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Teen guilty of Ramsey stabbing murder",
       "link": "https://www.three.fm/news/isle-of-man-news/teen-guilty-of-ramsey-stabbing-murder/",
       "published": "2026-10-23T12:36:30+00:00",
       "summary": "A teenager has been found guilty of murdering a 14 year old boy by stabbing him to death in Ramsey last May.",
       "source": "Three FM",
       "image": "https://mm.aiircdn.com/3/5982ea88758dc.jpg"
-    },
-    {
-      "title": "Teen guilty of Ramsey stabbing murder - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUTZfa1lIX1I0RkRldWZyaTNzOVlEQjF3anJ6QmtiMnJrSEdZbUI0SGl6Wk5wYTBNZlpudXF2dkVmSFVZM1VfR3dEaTUyREt3bXFobEN1NTN1OWs0Y2tvYnJYS1BER3d4aFZMOE14Rno5UmlRM1UxYnZkS2dQR29nV1dSNlkzcm1Z?oc=5",
-      "published": "2026-10-23T12:36:00+00:00",
-      "summary": "Teen guilty of Ramsey stabbing murder 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "BREAKING: Teenager found guilty of murdering schoolboy in stabbing - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVDR3NUVrYW5YbjlLSU1tcnRicTNQMTJnbVVjZUZudnVqQ2p3UG9waEhmYUdoci1mMHJVTFBrekVXQzZiZWJaRzZUZXVvdFlnYUZMbndESVR0eUVfZG84QzFuT3dnaG43d1RZaG5QNWdPOTM0TmZGVTdpX25ZSU9HWlNxNVhuMTdDQTZOZkV4NFNkREM5dXo0YzJYZw?oc=5",
-      "published": "2026-10-23T12:32:57+00:00",
-      "summary": "BREAKING: Teenager found guilty of murdering schoolboy in stabbing Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "FIM Capital strengthens leadership team with new chief financial officer - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdWExeFVmMDFrN3g1R3pUOXlaQUUyYkZ3M3FCRkhLMWZ5Uk9uc25rbVRVNWI2MzhDeDIzVzdWZXloeU5UX1BOMmdpZ3hYSDcyT3ZpNEU2a0lmMnpqQlFTTHprMG1fZmQ5NHhrbzhmQmdBU3RHbk1lNzVYdmczQUF5dGJuTTY0bUg2QnFNWHpOYTdUVXdkRG5NLWJrMDZ2SFdMc3ZFaTREbFZEcTN2MGQtQ1FNWnJoTFhNd2FXdA?oc=5",
-      "published": "2026-10-23T12:22:32+00:00",
-      "summary": "FIM Capital strengthens leadership team with new chief financial officer Isle of Man Today",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Murder Trial: Teenager found guilty of murdering Christopher",
@@ -938,14 +794,6 @@
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WQ1c0bDlORWNycGQ4RVdxN05NOEoyS01icUIwQl96WTJwLUdUdnlUc0dySWpEQUJqMF9UVUVCX2ItQWtZY0VlZVl0c2xKWnlybEVZX2FNRko2c1RFOWRLWUdyMjdMbzVNRzlUWklZZEQ3LVlkQV9FSnVKeElZZw?oc=5",
       "published": "2026-10-23T11:50:01+00:00",
       "summary": "Isle of Man 'assisted dying bill' receives Royal Assent Live Action",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Government says avoid glens this weekend - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMlRsUzM0Vl9rREFpdDVNWUk0WkNxaWdxV0JRWFRUMFJFUW8tWTVEdV9IbEhTeFVRMzBOLWFNd0xKV19BUlBQOEU2bU9YYm1vV3E4OVFxWkhtYmMtUkI4Y1lpVnlKY0h5R0RSd19ZWTdDX0gtQ2YwWXgwSldsWi12WV9aZlBpZWprQTJsXw?oc=5",
-      "published": "2026-10-23T11:50:00+00:00",
-      "summary": "Government says avoid glens this weekend 3FM Isle of Man",
       "source": "Google News",
       "image": ""
     },
@@ -1110,22 +958,6 @@
       "image": "https://mmo.aiircdn.com/5/6adb0766a32fc410132.jpeg"
     },
     {
-      "title": "Police share advice to stay Bright at Night - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOXBDNFlud09kRENyWnVOVllETFBIdmlQQ0VOREk0T3IzdW1ZU1FsbkRuY0xjaTNmeEFPc3NBUmJYYWxtalJ6SnQ0Q3Y2Sk8zM1pPaFNUX0p6SDFYZHdzc1JXeldKdE1LRzNUcG5EZjJZVEZBY3ZRU3AwRWxYb1EyUTVLRzJBVC1iNDhrS21ERnM?oc=5",
-      "published": "2026-10-23T07:06:00+00:00",
-      "summary": "Police share advice to stay Bright at Night 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "LIVE: Updates as Isle of Man assesses damage after Storm Boelo - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWHN0MDgzbzNodXE4bThNdUM1V3lwWmdkOTdoMGhFSHMwa3BaUWFXZDZ2UjhEQ0lpeFdQSmFYeF9aTXp1S0ZZTDl5cHJfUGdBNFBDUGdMWVBBdk8zb0gzNWxPaGJneDFESEpiT3FtMzZyTkg3RGhmSVoxajBkdGhqS3ZXdXNvMDliLVBRT0lnWGxQRV9MUFR1a2pNMlNsUU5RRmc?oc=5",
-      "published": "2026-10-23T07:00:00+00:00",
-      "summary": "LIVE: Updates as Isle of Man assesses damage after Storm Boelo Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Government says complete your census form or face prosecution",
       "link": "https://www.three.fm/news/isle-of-man-news/government-says-complete-your-census-form-or-face-prosecution/",
       "published": "2026-10-23T06:35:07+00:00",
@@ -1140,14 +972,6 @@
       "summary": "Health minister says getting people back to work sooner increases tax income",
       "source": "Manx Radio",
       "image": "https://mmo.aiircdn.com/61/6adaffaf816f75dfd42.jpg"
-    },
-    {
-      "title": "LIVE: Updates as two storms set to bring heavy rain and 70mph gusts to Isle of Man - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNekpDSDZVQ3FTQUJTeTdxOHdnUkxlblh3TWsxRGRUQ3JVMTVxLWVPUXNwZWUxOU5ENmFwT3FERnRkVHZIVFZWOHlFWTczNUs2c21kZzJ5QVd3LXFQZlpOdkdXdVpGaWNrczRvWmh3VlhNeEljNG9PRFV5bkxibWx0VTJOSGVCUnJTa0M5QmI4R2FSSWxEamp5XzVNWFJjQXRCVGFkUlhQVVp2Z0l5WWdjWVotSkUzdDlnNTBtUA?oc=5",
-      "published": "2026-10-23T06:00:41+00:00",
-      "summary": "LIVE: Updates as two storms set to bring heavy rain and 70mph gusts to Isle of Man Isle of Man Today",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Douglas residents urged to secure loose items ahead of storms",
@@ -1206,14 +1030,6 @@
       "image": "https://mmo.aiircdn.com/5/65af6676e2c0a.jpg"
     },
     {
-      "title": "From the archives: Eight photos from previous Isle of Man storms - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZkN0dWJXRWwteUk3Q1ZKUDhjbVhtbHJFSWpRQnZRYmtrSkRrMHNWM2gwSlZROF9pUHJNNHNuVHN5SUp5WWpqQl93VlZENXlJN0VQYk5tZmJpLXpzYl9FVmdQUEVPdVlJU0lyTW1UQVlsWkhmRnE4SjhyVnhUbzdkR2docVpaNTRJMndzM0lZVFpMRFhXSmlBRlZXeDZ0eHBZS0RFeA?oc=5",
-      "published": "2026-10-22T18:02:28+00:00",
-      "summary": "From the archives: Eight photos from previous Isle of Man storms Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "'Very unsettled' weekend on the way",
       "link": "https://www.manxradio.com/news/isle-of-man-news/very-unsettled-weekend-on-the-way/",
       "published": "2026-10-22T17:26:46+00:00",
@@ -1228,6 +1044,190 @@
       "summary": "Archbishop issues pastoral message to Isle of Man faithful before 'Assisted Dying' becomes law on the island Catholic Church in England and Wales",
       "source": "Google News",
       "image": ""
+    },
+    {
+      "title": "Isle of Man assisted suicide law receives Royal Assent - Christian Action Research and Education",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYW9RTnM0LVpkWjBOdzd1LTVQem9RQ1A0eGlXeThHU21VcW5ENUZXcEFLZUNaV3pHc1A3UWhwZU5QOGFtVlMwZnlrU1ZiT3JGcVdRRHQ1U0hTZkJldGJiclRIQldndWlWU3hNRDJGZW1xWTJvR2NTbGNVeFVlQ2RTdEFmeFlSV1QtQkthSjJ2Z3g?oc=5",
+      "published": "2026-10-22T16:39:34+00:00",
+      "summary": "Isle of Man assisted suicide law receives Royal Assent Christian Action Research and Education",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Poor weather forecast sees Liverpool sailings cancelled",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/poor-weather-forecast-sees-liverpool-sailings-cancelled/",
+      "published": "2026-10-22T16:09:02+00:00",
+      "summary": "Steam Packet confirms further disruption as storms approach",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/348070-1.jpeg"
+    },
+    {
+      "title": "Could your warm glazed buns represent the Isle of Man?",
+      "link": "https://www.three.fm/news/isle-of-man-news/could-your-warm-glazed-buns-represent-the-isle-of-man/",
+      "published": "2026-10-22T15:26:19+00:00",
+      "summary": "Does your soggy bottom deserve showing to the public? You may get your chance!",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6ada2afa6b67c375d15.jpg"
+    },
+    {
+      "title": "Government needs new £138k a year education head",
+      "link": "https://www.three.fm/news/isle-of-man-news/government-needs-new-138k-a-year-education-head/",
+      "published": "2026-10-22T14:28:20+00:00",
+      "summary": "The Department of Education, Sport and Culture says it's looking for a new £138,000 a year boss.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6ada1d6e9bd33b06d45.jpg"
+    },
+    {
+      "title": "More sailings cancelled due to poor weather forecast",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/more-sailings-cancelled-due-to-poor-weather-forecast/",
+      "published": "2026-10-22T14:16:10+00:00",
+      "summary": "Friday morning's Heysham crossings called off",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/348015-1.jpeg"
+    },
+    {
+      "title": "UK recruitment events for officers to join Island police",
+      "link": "https://www.three.fm/news/isle-of-man-news/uk-recruitment-events-for-officers-to-join-island-police/",
+      "published": "2026-10-22T13:51:32+00:00",
+      "summary": "Police will be holding a series of events in the UK to tempt officers to transfer to the Isle of Man.",
+      "source": "Three FM",
+      "image": "https://mm.aiircdn.com/3/457650.jpg"
+    },
+    {
+      "title": "Convenience store committed to expanding its Manx produce offering",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/convenience-store-committed-to-expanding-its-manx-produce-offering/",
+      "published": "2026-10-22T13:19:48+00:00",
+      "summary": "Costcutter officially opened in Castletown today",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/347982-1.jpg"
+    },
+    {
+      "title": "Ten local authorities looking for candidates to stand in by-elections",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/ten-local-authorities-looking-for-candidates-to-stand-in-by-elections/",
+      "published": "2026-10-22T12:52:31+00:00",
+      "summary": "Vacancies due to House of Keys elections and retirements",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/347935-1.jpeg"
+    },
+    {
+      "title": "Murder Trial: Jury retires to consider its verdict",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/murder-trial-jury-retires-to-consider-its-verdict/",
+      "published": "2026-10-22T11:39:05+00:00",
+      "summary": "16-year-old standing trial accused of murder",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/347977-1.jpg"
+    },
+    {
+      "title": "School websites back but other government sites still offline",
+      "link": "https://www.three.fm/news/isle-of-man-news/school-websites-back-but-other-government-sites-still-offline/",
+      "published": "2026-10-22T11:21:01+00:00",
+      "summary": "The government says urgent security work means many of its websites remain offline today.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/65c1e89baa166.jpg"
+    },
+    {
+      "title": "Manx businesses urged to check whether websites use PHP",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/manx-businesses-urged-to-check-whether-websites-use-php/",
+      "published": "2026-10-22T10:32:53+00:00",
+      "summary": "Flaw in programming language could leave websites vulnerable",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/347949-1.jpg"
+    },
+    {
+      "title": "Decision to raise freight fuel surcharge 'not taken lightly'",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/decision-to-raise-freight-fuel-surcharge-not-taken-lightly/",
+      "published": "2026-10-22T10:22:47+00:00",
+      "summary": "Steam Packet responds after haulage business raises concerns",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/347941-1.jpg"
+    },
+    {
+      "title": "Island residents invited to share views on Autism Acceptance work",
+      "link": "https://www.gov.im/news/2026/oct/22/island-residents-invited-to-share-views-on-autism-acceptance-work/",
+      "published": "2026-10-22T10:21:55+00:00",
+      "summary": "People across the Isle of Man are being encouraged to take part in a survey to help assess the impact of this year’s Autism Acceptance Month and influence future work under the Autism Spectrum Condition (ASC) Strategy. Those completing the survey do not need to be autistic or have a family connection to autism to take part in the survey. Feedback from the wider public is important in helping to build a clearer picture of how awareness and acceptance of autism are developing across the Island. Th...",
+      "source": "Isle of Man Government",
+      "image": ""
+    },
+    {
+      "title": "Heavy rain could bring floods, says weather warning",
+      "link": "https://www.three.fm/news/isle-of-man-news/heavy-rain-could-bring-floods-says-weather-warning/",
+      "published": "2026-10-22T09:59:51+00:00",
+      "summary": "A yellow weather warning has been issued for heavy rain and possible flooding tomorrow.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/617812076b376.jpeg"
+    },
+    {
+      "title": "Irish ferry sailing called off in face of weather",
+      "link": "https://www.three.fm/news/isle-of-man-news/irish-ferry-sailing-called-off-in-face-of-weather/",
+      "published": "2026-10-22T09:39:02+00:00",
+      "summary": "Two of the Steam Packet's sailings tomorrow have been called off.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/69cd1681d4186.jpg"
+    },
+    {
+      "title": "Friday's Larne sailings cancelled due to adverse forecast",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/fridays-larne-sailings-cancelled-due-to-adverse-forecast/",
+      "published": "2026-10-22T09:30:48+00:00",
+      "summary": "Saturday and Sunday services also at risk",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/347940-1.jpg"
+    },
+    {
+      "title": "10 local authority by-elections this year",
+      "link": "https://www.three.fm/news/isle-of-man-news/10-local-authority-be-elections-this-year/",
+      "published": "2026-10-22T09:16:20+00:00",
+      "summary": "Almost half the Island's local authorities will be going to the polls before the end of the year.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/648ad0eedc559.jpg"
+    },
+    {
+      "title": "Joe Locke says Isle of Man will always be part of his life",
+      "link": "https://www.three.fm/news/isle-of-man-news/joe-locke-says-isle-of-man-will-always-be-part-of-his-life/",
+      "published": "2026-10-22T07:55:46+00:00",
+      "summary": "Joe Locke's told GQ magazine the Isle of Man will always be a part of his life.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/67c5d66ad6f0a.jpg"
+    },
+    {
+      "title": "PokerStars Isle of Man faces uncertainty over Flutter job cuts",
+      "link": "https://www.three.fm/news/isle-of-man-news/pokerstars-isle-of-man-faces-uncertainty-over-flutter-job-cuts/",
+      "published": "2026-10-22T07:18:26+00:00",
+      "summary": "PokerStars' Isle of Man operation could be affected by plans to cut up to 1,400 jobs at parent company Flutter Entertainment.",
+      "source": "Three FM",
+      "image": "https://mm.aiircdn.com/3/650708.jpg"
+    },
+    {
+      "title": "Steam Packet adds more sailings to at risk list",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/steam-packet-adds-more-sailings-to-at-risk-list/",
+      "published": "2026-10-22T06:36:30+00:00",
+      "summary": "Storm Austen expected to bring strong winds to the Island this weekend",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/347906-1.jpeg"
+    },
+    {
+      "title": "Ramsey by-election date confirmed for three vacancies",
+      "link": "https://www.three.fm/news/isle-of-man-news/ramsey-by-election-date-confirmed-for-three-vacancies/",
+      "published": "2026-10-22T06:33:13+00:00",
+      "summary": "Ramsey residents could soon have a chance to help shape the future of their town.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6ad9ae0c23b7701b495.jpg"
+    },
+    {
+      "title": "Parish says to think of the wildlife this Halloween",
+      "link": "https://www.three.fm/news/isle-of-man-news/parish-says-to-think-of-the-wildlife-this-halloween/",
+      "published": "2026-10-22T06:07:46+00:00",
+      "summary": "If you're decorating your garden for Halloween, one parish is urging you not to use fake cobwebs.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6ad9a7fcef7978b3b17.jpg"
+    },
+    {
+      "title": "Education Minister considers audit of teachers’ qualifications",
+      "link": "https://www.three.fm/news/isle-of-man-news/education-minister-considers-audit-of-teachers-qualifications/",
+      "published": "2026-10-22T05:44:07+00:00",
+      "summary": "The Island's new education minister says she'll consider an audit of qualifications held by teachers from oversees.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6ad9a2a234bd0d258bf.png"
     }
   ]
 }
