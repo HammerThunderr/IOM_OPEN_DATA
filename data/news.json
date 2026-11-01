@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-11-01T12:27:51.079763+00:00",
+  "generated_at": "2026-11-01T21:48:35.546908+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -29,6 +29,14 @@
     }
   ],
   "items": [
+    {
+      "title": "Production reflects on lives of two punished Manx women",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/production-reflects-on-lives-of-two-punished-manx-women/",
+      "published": "2026-11-01T13:54:36+00:00",
+      "summary": "Drogh Vranne taking to the stage in Peel",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/350163-1.jpg"
+    },
     {
       "title": "Plans for 12 flats in city centre",
       "link": "https://www.manxradio.com/news/isle-of-man-news/plans-for-12-flats-in-city-centre/",
@@ -62,28 +70,12 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/349381-1.jpg"
     },
     {
-      "title": "Police issue alert over scam emails - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLS1zalpHVlV0Y3JhbnRpcnJGNzFwWC0wMkRXVkhFY0pJblhXR2dGcG9CNjYtOExHUU9TMjU3cktxWHhoYXRMVWFUb3pHcXVQZWp1TnBMa0l5Y1NNeHpaaWxuWEdDbVBHdGRQclJ4eDJDT3JHQ2JvQkY0NWVfT3VpNFEwSDNjaTUxMWV5SQ?oc=5",
-      "published": "2026-11-01T08:28:00+00:00",
-      "summary": "Police issue alert over scam emails Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "IoM Yacht Club 'concerned' over RNLI plans not to replace all weather lifeboat",
       "link": "https://www.manxradio.com/news/isle-of-man-news/iom-yacht-club-concerned-over-rnli-plans-not-to-replace-all-weather-lifeboat/",
       "published": "2026-11-01T08:23:43+00:00",
       "summary": "Group seeks 'clear and accessible evidence' that equivalent levels of protection will be maintained",
       "source": "Manx Radio",
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/349855-1.jpg"
-    },
-    {
-      "title": "New charity uses outdoors to improve mental health - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGV4VE83Yl9kbktpbTZTTVl1dmJpNWJFRFhTQkhCY3BnVzJFaFpWMUdKbmhzRS1FNE1IVm5ieGZULTMtdWxuTzJUZ1czQTdxOFFERlg0bjB4QTd6MXZsbl9pbFdLd0dPQnZ2aGhlZWp3Q1ZxUVdiYzFscTNVTGlFY1V5QUM0YlI0RDFLREZNX0JRTHFpTERndQ?oc=5",
-      "published": "2026-11-01T07:39:59+00:00",
-      "summary": "New charity uses outdoors to improve mental health Yahoo",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Trawlers heading out to sea on first day of king scallop season",
@@ -150,10 +142,26 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/350260-1.jpg"
     },
     {
+      "title": "Yoga studio applies for sign permission",
+      "link": "https://www.three.fm/news/isle-of-man-news/yoga-studio-applies-for-sign-permission/",
+      "published": "2026-10-31T08:59:18+00:00",
+      "summary": "A yoga studio in Douglas has applied for retrospective planning permission for signs outside the building.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6ae5addca2c3b259ce1.jpg"
+    },
+    {
       "title": "New ministerial post created by chief minister",
       "link": "https://www.three.fm/news/isle-of-man-news/new-ministerial-post-created-by-chief-minister/",
       "published": "2026-10-31T08:58:08+00:00",
       "summary": "The Isle of Man has a new ministerial job - and a minister to go with it.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6acce7615ca5ee9ad7e.jpg"
+    },
+    {
+      "title": "MHK to query gas buying for power generation",
+      "link": "https://www.three.fm/news/isle-of-man-news/mhk-to-query-gas-buying-for-power-generation/",
+      "published": "2026-10-31T08:57:22+00:00",
+      "summary": "How much gas has the Island bought for winter power?",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6acce7615ca5ee9ad7e.jpg"
     },
@@ -172,6 +180,14 @@
       "summary": "A yacht club based in the south of the Island says it has reservations about Port St Mary losing one of its lifeboats.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6a957e8c5231179b2de.jpg"
+    },
+    {
+      "title": "Peel sewage works hits milestone",
+      "link": "https://www.three.fm/news/isle-of-man-news/peel-sewage-works-hits-milestone/",
+      "published": "2026-10-31T08:54:24+00:00",
+      "summary": "A major milestone has been reached in Peel as a new sewage system gets up and running.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6a38cc8a06ecffdef10.jpeg"
     },
     {
       "title": "Huge floating book fair to arrive in Douglas next month",
@@ -550,14 +566,6 @@
       "image": "https://mmo.aiircdn.com/5/6acce75e3c6edd501a3.jpg"
     },
     {
-      "title": "Ballots cast in Onchan House of Keys election to be recounted - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KRWlqX3RFSTFwclhuSEhrMUpzaGFkblJadTJwRDMxQzV4ampwYUpaLXh4dEt0c21UaTktSzRZbXJRWF8xWWdJYXVNSjQ4SExQUkRuREstQ0xMeGM?oc=5",
-      "published": "2026-10-29T17:13:24+00:00",
-      "summary": "Ballots cast in Onchan House of Keys election to be recounted BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Colby Glen path shut until next April",
       "link": "https://www.three.fm/news/isle-of-man-news/colby-glen-path-shut-until-next-april/",
       "published": "2026-10-29T16:38:51+00:00",
@@ -854,34 +862,10 @@
       "image": ""
     },
     {
-      "title": "Jill Quine Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy | Obituary",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZW4yVWRrdTBLOUQ5YmNZNEU1UGRLUmhxRWRCem01UTdTVWVfUXZJQWtwT1YxbmwzWER3eXRFQ05STGJGN3Naby1acHM0dGxJNGZtUEFUaEdsaFhlalQweDhtY1hNc2NFdEVydkpzRnE3cjJVeDZ4NF9iaHZtZW9qSkdHNEoxT0tzTzNCeEpR?oc=5",
-      "published": "2026-10-29T05:52:30+00:00",
-      "summary": "Jill Quine Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy | Obituary",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Mystery over missing millions at centre of Isle of Man High Court battle - Isle of Man Today",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ183cjNuenpTYmgxeGZNMldMTTVERm5VMkdlUFBfTEpWUmRiR2JYZUZEeUVKMXdXVnBxRFRBZTlqUjFKMGpaTUxJbm56ZnBSSXhIT0R0M01PNHpub1hKeHduSzZKcElOWHpqT080NlVfcFF5VlNTaG1iS19mZ284THQ2cGlqRXVHcFI0TDFtRDRhb1ZTOGhISnFnajFYWGE2ZkpiRmliU2gwVV9kNkZlMQ?oc=5",
       "published": "2026-10-29T05:00:55+00:00",
       "summary": "Mystery over missing millions at centre of Isle of Man High Court battle Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Sylvia Davis Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy | Obituary",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaWJBX2JBZ2hRbE9fcDZIN2dTUUlxeUZXNlNYMHdnb3pZSUtaNklMUjh1ZURMVnBmOVhVZHlUTGN0TkdLTlM1OXBteDl2UUJBM3hQZDRfT3dzVHF6MlFpWC1PTlNQMjhlbFJCS1d3TkpyZ19pbWFuN1o2cDRjcHVUNEU0aXlXRnQ3LTZPenJrb0c?oc=5",
-      "published": "2026-10-29T01:17:15+00:00",
-      "summary": "Sylvia Davis Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy | Obituary",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Christina STARKEY Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today - Legacy | Obituary",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQnN2cTBMNnE3SVFTX21pYjQwTVFMV1VjZnJBVnc4U3VqNFktUkpJeGZkS3R4SmN2dnpXaENTWmhZdTZBb1NRZ05vRWlXUVk2WldrMndpYjBPZnhTeVE5MTlMREt3RUp4UlNyWUlUM0QydlZVNzNKc2QyYXJZcDZodlh6Y3FOVlJfR3VPNE5IdWl6NHFPNF9F?oc=5",
-      "published": "2026-10-29T00:37:10+00:00",
-      "summary": "Christina STARKEY Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today Legacy | Obituary",
       "source": "Google News",
       "image": ""
     },
@@ -1228,6 +1212,22 @@
       "summary": "Douglas Council says its annual firework display will take place on the first evening of late-night shopping in the run-up to Christmas.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6ae0938dbd1931a30a1.jfif"
+    },
+    {
+      "title": "Rapists appealing sentence and conviction following retrial",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/rapists-appealing-sentence-and-conviction-following-retrial/",
+      "published": "2026-10-27T11:18:07+00:00",
+      "summary": "Staff of Government Appeal Division hearing this week",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/349040-1.jpg"
+    },
+    {
+      "title": "DOI ready to close roads if needed as overtopping hits coasts",
+      "link": "https://www.three.fm/news/isle-of-man-news/doi-ready-to-close-roads-if-needed-as-overtopping-hits-coasts/",
+      "published": "2026-10-27T10:43:54+00:00",
+      "summary": "The Department of Infrastructure says its staff will be on hand to close if needed roads this morning.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/69832fdc2f327.jpeg"
     }
   ]
 }
