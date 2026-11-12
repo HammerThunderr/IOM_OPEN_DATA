@@ -1,6 +1,6 @@
 {
   "title": "Isle of Man news - aggregated",
-  "generated_at": "2026-11-12T00:12:49.719382+00:00",
+  "generated_at": "2026-11-12T14:25:09.435774+00:00",
   "item_count": 150,
   "feeds": [
     {
@@ -18,8 +18,9 @@
     {
       "source": "Isle of Man Government",
       "url": "https://www.gov.im/news/2026/RssNews",
-      "ok": true,
-      "item_count": 20
+      "ok": false,
+      "item_count": 0,
+      "error": "<unknown>:2:0: syntax error"
     },
     {
       "source": "Google News",
@@ -29,6 +30,446 @@
     }
   ],
   "items": [
+    {
+      "title": "Police investigation underway after incident on Mountain Road - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONnV6M0N2UTJiRzRsMERMTG0zeEp6TUVMdjV6Y0FyeXFEdTBaZkJZWkhfb2g1anplYWF1cUppYlVkWEN5NHk0dWY0dTNJR0VMQ0gyUl9uQXlZSnJNVTlkMVBiMGhRVnNWRHhDdlpsR0tXakdsNXVaSV92eUZBSkhrbXpzTGtmb045SzVHbmhpS3pDdVdBNk93MlhmZlIxUXJybGc?oc=5",
+      "published": "2026-11-12T14:05:57+00:00",
+      "summary": "Police investigation underway after incident on Mountain Road Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Douglas Bay Horse tram to run full length of prom by summer 2028 - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4VEdnZlNfTC14eFdwb29SMkNDTlRxS3QwcDE4Z21UaFZFRGZ0SThqY1NoRE52QzFOMmVwMl9KMVdLQnZDYnhuWm9aMWF0THU1UnNwQUxzdnNUbjFSNWc?oc=5",
+      "published": "2026-11-12T14:03:28+00:00",
+      "summary": "Douglas Bay Horse tram to run full length of prom by summer 2028 BBC",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Concerns raised by teams over impending Sidecar TT changes - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa1N3elJpa2ZFODR6MXJfMmpaUFRMYU1NM3dpVlJuT28xOEdySnRFanV5SEdub1RqX3FxQmtIdnA3bFZRZlhQd29MRU12TDd4SmI1Y0hONFVoTnozbTM2N3RsNFN1bmp1TUtFenFDbmZOZW9RMFd2ZC1tQTBmcTNGTW14eHRhZTRjaVI0RFhVOTQ5dW13YWpzNlVNUnRsVXo4Y0xPbmRhSV9JdUhi?oc=5",
+      "published": "2026-11-12T14:00:00+00:00",
+      "summary": "Concerns raised by teams over impending Sidecar TT changes Manx Radio",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Peel Breakwater sewage fix in place by February, says minister",
+      "link": "https://www.three.fm/news/isle-of-man-news/peel-breakwater-sewage-fix-in-place-by-february-says-minister/",
+      "published": "2026-11-12T13:55:52+00:00",
+      "summary": "The Island's Infrastructure Minister says Peel breakwater will stop dumping raw sewage into the sea in around three months' time.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6af5c523e835748918c.jpg"
+    },
+    {
+      "title": "Government launches new look website",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/government-launches-new-look-website/",
+      "published": "2026-11-12T13:39:51+00:00",
+      "summary": "Chief minister says its the 'first step, not the last'",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/353695-1.jpeg"
+    },
+    {
+      "title": "Government launches new look website - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY0tjNlgzZjRRTUZSdjZSYnJlYVQzWXFSM1JNdmh5cUNxZUNUR3hWLW0yRDgzWXIzUG5BREtfUEswRDBDSlFzZlFHZnY0SFVwYzl1RWVKSjNwTG96cE1LakdnY1BfcUZ2V2hmZUxmRldVemtmNFJVY2djS3hiREY2eS1FX0s5T3VJdEltTW53?oc=5",
+      "published": "2026-11-12T13:39:00+00:00",
+      "summary": "Government launches new look website Manx Radio",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Isle of Man march into next round of masters championships - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbWpaRWxYVzlWemM3d0gyYjJkZTFsdFotRUt4X0RPMHNRR2dKVUxUOFVfaS0yTU5IbG1GMHlialFFYlNvUUF5by1YS2tIUGVtbVRXbm5sRVRSRXZmNGJNdDltb3JVZnlyaUl6WlRtTTY1NFdrbkpsTGJDT2p6dGJwX2kwcmN4bVRLRnoxVldWdXN4TDRxckhxTy1HbkM1T0FsNWNTTXQ3TEE?oc=5",
+      "published": "2026-11-12T13:14:39+00:00",
+      "summary": "Isle of Man march into next round of masters championships Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "New judges appointed as island moves to reduce reliance on off-island judiciary - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ3ozUHdvUE5uMjlhdDdaLTE2VzA2RVVWS0dOdHphVk1jU2xJYm1FOVFvaTJaMUdjdno4ZEVYWFJtTDlfLXkybDM1NF95c3VNcUFiNUl0bk9XS2xVVWxQa0tMTHpTNGppUkZUT3BXdG9xV092OEJ4am9MeEE5eloxb08zWXhQd1ZBWXhldGQ1aF9TZldSaDVyc19obmw1WW5zVk9yZFJJMk5LaWZ4S05PRHBnaXZCTmJmNFE?oc=5",
+      "published": "2026-11-12T13:04:39+00:00",
+      "summary": "New judges appointed as island moves to reduce reliance on off-island judiciary Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Global Mexican food chain heading to Douglas",
+      "link": "https://www.three.fm/news/isle-of-man-news/global-mexican-food-chain-heading-to-douglas/",
+      "published": "2026-11-12T12:24:10+00:00",
+      "summary": "An Australian fast food chain may be expanding to the Isle of Man.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6af5afe31ecfc0229d4.jpg"
+    },
+    {
+      "title": "Global Mexican food chain heading to Douglas - 3FM Isle of Man",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORjh6YThTZ3M0U2s1MVpLVnd5c0VXaFFMWVlmU2s0SnhKWkJlMkl6WlI4UFREeXdCNnJJUEIxc2d2bWRfcjNwV1RmRW5BZjVxaTlabUdrNFduZ09fdzhCNHBOcXJndGp1RFdGWDZ2Ri1EOVNMM0lNYXZKQzlEcTdQQzJvcHZTdGFfNlRweEpZSklvUQ?oc=5",
+      "published": "2026-11-12T12:24:00+00:00",
+      "summary": "Global Mexican food chain heading to Douglas 3FM Isle of Man",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Manchester United sack Michael Carrick as head coach - 3FM Isle of Man",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHd3aHRfdWdLMGpDTmp4LVZqSTA4VF95VDNPVkZCODFCakJjYzRaQTd3a2NIay11TUNkWlVZcnd5aUF5Qnc5SFZKbU5mNkJBSzMtYTlRN1hwN0dObVE0dHlUTEtfVnlvTURDbmhpajVtaVRqaTdiWVBJM0lDbGpMdjk3NGRmenVFREFKN1dmajk?oc=5",
+      "published": "2026-11-12T12:12:00+00:00",
+      "summary": "Manchester United sack Michael Carrick as head coach 3FM Isle of Man",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Diabetes awareness event to be held at Sea Terminal - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd0Q1NV9HbVFCZXpxSGlqM1hwUlg3RDJrdUZoYkgtX2tqc2p0Y1lTMXZMMlVSY20zU3ZmS1J5Nm1IelZIYUNxQUF1Z0NsdGprTG45eFZ6Z01iWTNxNllqVDdDaEMtZlB3VFFzYnliY0d6M2c4NDZTM3JYWXo3eldOMDNTb0E0SHlabmRVWG1NRVBZODdsZ01NWXo5NnBzek80UTNSOA?oc=5",
+      "published": "2026-11-12T12:02:16+00:00",
+      "summary": "Diabetes awareness event to be held at Sea Terminal Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Government reveals new-look website",
+      "link": "https://www.three.fm/news/isle-of-man-news/government-reveals-new-look-website/",
+      "published": "2026-11-12T11:56:50+00:00",
+      "summary": "The government has unveiled a new-look website today.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6af5a96be9a4d705d6b.jpg"
+    },
+    {
+      "title": "Government reveals new-look website - 3FM Isle of Man",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZTFfLVZyejlpMWtYcm96c3RzQVlhMzFKOWlNTE9tNzhPOU9DMnJwWi1ob0hZcEJ0bTczWjhBcWIwTlNTaFhHMVdqVkpfVGl3ZGxxRUJXelpRcE1qWmtocmUxclZENTVTVjNkWXBLbndjNlRIdjBDZlVsRlBEcjVSc2szU1IwZw?oc=5",
+      "published": "2026-11-12T11:56:00+00:00",
+      "summary": "Government reveals new-look website 3FM Isle of Man",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Poundland secures extended deadline for possible rescue - 3FM Isle of Man",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbFh6bm11NlBwUWNySmtBYkhsMm5feUNuVE9MUVlfODZRMV9OUFAtQkNIYmEzcXlseURma1NQcmQ0aVg4WEZLWkU2SXNSMVQ3Q0NtWVBxS2g1WWJESHIzYlJiVU54OUxiVzd4S1FIZE92TkU3M2JjNGFfTzhULXJGS2xnQW96ZldyTUl1Q2g2OW10MkNV?oc=5",
+      "published": "2026-11-12T11:45:00+00:00",
+      "summary": "Poundland secures extended deadline for possible rescue 3FM Isle of Man",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Plan for seven homes on edge of village",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/plan-for-seven-homes-on-edge-of-village/",
+      "published": "2026-11-12T11:44:01+00:00",
+      "summary": "Mixed of two-storey and bunaglows planned",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/353665-1.jpeg"
+    },
+    {
+      "title": "Applications now open for 2027 Step Programme - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV25PNnIzR1ZfVF9KTnoyOUpQdVJTUFVNeHBNbXRTeW1ZSGlzaF81eGhOQ3hraURveldNVFQ0VUNTV1pna2dmRGdaa3FWN0JiWTNpa0NRODRHNDZYMXBmX2M1cG42V1lkSDlWSEhmYjdXTjFJRmJGcHdmR3ZJa2ttc0VpLUkyRVFpdlNoNA?oc=5",
+      "published": "2026-11-12T11:25:57+00:00",
+      "summary": "Applications now open for 2027 Step Programme Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Brother and sister who lost three grandparents to perform on BBC Children in Need - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWFNGSXJjeU8zRjFVR1o5ejJsbkVOSGk0MVhvQXp4Wms3Nkk4LWh6Mkd3eVlZSW44UW8yaXFISl9ENk50VXVSOElSNmhpcDl0S3l0YlBMZHAtVk1JX1I3Z1pqUGhWNHU0bTZxRWlvZlBteGgzNGY0VXVzcU5uY1luMHpMNFhZbmZQNmNoTmF4dHNrU09kekZrbFlIamtjbldWUl9hRlR4RmhXM1BnbG9lWnAycEVhM3d2QmQ2VXNUT1VXei1LSDRuT2pjMGE?oc=5",
+      "published": "2026-11-12T11:15:00+00:00",
+      "summary": "Brother and sister who lost three grandparents to perform on BBC Children in Need Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "TT privateer says new sidecar regs make racing unaffordable",
+      "link": "https://www.three.fm/news/isle-of-man-news/tt-privateer-says-new-sidecar-regs-make-racing-unaffordable/",
+      "published": "2026-11-12T11:10:53+00:00",
+      "summary": "A privateer sidecar racer says he can't afford to return to the TT class after new regulations were published this week.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6af59e710942bd42310.jpg"
+    },
+    {
+      "title": "Ard-Shirveishagh wants less talk, more action",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/ard-shirveishagh-wants-less-talk-more-action/",
+      "published": "2026-11-12T10:44:36+00:00",
+      "summary": "Chris Thomas defends lack of detail in his 'Charter for Change'",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/353624-1.jpg"
+    },
+    {
+      "title": "Ard-Shirveishagh wants less talk, more action - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSVptb3lxdThIWVNNWjY3VjVSa0tjRkowQ2pxY25jNC1pYXNYYkhJNUtIZ1F1S1pZWnpKZHBrS1V4eUZVc2Z6T1YxVzlBeWRBX0R1aHdtSnpydkxfRlg5N3llZlJ5eFRXY0Y4YWtGN2hrcXZFVi1NWEhhZ3RJVUxHZTJpczJIVndpTjBzU2FuTHV5MFdrSzNXVQ?oc=5",
+      "published": "2026-11-12T10:44:00+00:00",
+      "summary": "Ard-Shirveishagh wants less talk, more action Manx Radio",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Manx Care pauses recruitment and tightens staffing controls amid £19.2m overspend - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZGNqZjBrN2xkR3NVYVZaUjVHTzViZ3ZieHJMVW1Kc1l2V2hiNVFERVcxUjJJNjMzdXhaUnZndVJYRHlKdkxDazl4UUlZUzl6NHRxYm1hQW5iQmx2R0VpVWtzNGM0bTJfSDNNV3M0RGRtZnU5dGR4bVZKRVRxcUpmNFdndHpQSExoc0Z2MTgyMU1obmxCT3RwRVpVenZMRDBQQ1B1dndrX0I4UVluSWZiQzlJTFZsUGFhdExjbg?oc=5",
+      "published": "2026-11-12T10:34:50+00:00",
+      "summary": "Manx Care pauses recruitment and tightens staffing controls amid £19.2m overspend Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Manchester United sack head coach Michael Carrick - 3FM Isle of Man",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ3lyeWhLSU9vRGh1REZSOTJ1MFhfamk1SURRdl93WnNmaDRyRUxYUHVudC1VaU9vYkhLdTVKYUh6TjNBdUlwQ0JkcGtYdmRRR0Vxbm85bTd3Tkc4cTlsNlIwaHdvYUVfaVdKNmt6SS1XT0xDcW5Wd0N2TkJMRzBJTG4taHBybno5dHRjdw?oc=5",
+      "published": "2026-11-12T10:28:00+00:00",
+      "summary": "Manchester United sack head coach Michael Carrick 3FM Isle of Man",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "TT team owner Carl Cox picks up OBE",
+      "link": "https://www.three.fm/news/isle-of-man-news/tt-team-owner-carl-cox-picks-up-obe/",
+      "published": "2026-11-12T10:27:54+00:00",
+      "summary": "TT race team owner Carl Cox has been awarded a prestigious honour from royalty.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6af5944461eefe6fb99.png"
+    },
+    {
+      "title": "TT team owner Carl Cox picks up OBE - 3FM Isle of Man",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeWRpWXRaUERPOXRsaU5tRThTUjVKYVgwR01iejBwVnVKUDdTWUJBZlZZaTBZYW9UaTlXSldta1c1MEV3MTN4cGtUTDJyRTRjNkE1VHlqYk1fZmtFWUZZLWF2Rm9BZE9rLV92R1FqN3dzRGlxX1Vfb0Y1NWt2QkZhSTlNMGJkZw?oc=5",
+      "published": "2026-11-12T10:27:00+00:00",
+      "summary": "TT team owner Carl Cox picks up OBE 3FM Isle of Man",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Golf: 2027 Isle of Man competition schedule announced - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXNGTS1jd2xNRXBNTVpZckIyNHlLZDFWbDNrLXE0cno1TTV0RTR1YXl4eUtWOEdYd01vaDVlUEJ3aDNMbEcyQXpvRFhOWjJjTFlad05HZGVvbU4tQWxUVjBLYm85NnV1eVhOeWZUTVFSQ0NHbldqa1JvVk1ZajVyS2hqUW1sNFhDNzhBZG8xV1QyZlJ5eW9GdnRPZTVhazVfVkpheg?oc=5",
+      "published": "2026-11-12T10:20:00+00:00",
+      "summary": "Golf: 2027 Isle of Man competition schedule announced Manx Radio",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Bomb alert at Calais train station affects Eurostar - 3FM Isle of Man",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdGlJYUIyRGtSeURFb2Y5bU9nSUVpWkhlc3dfQlVaWVc5b3k5dG1sRlIyUHQ4d21tNkUyR1ZBdGtJendKcWl1ZDM5OWJLcHpiaGxybHZPQUtrUXNHSG9nRDhOeVNGaGxIVXo1U1RzUm1fNXdZMUNyMVJyYVpLREtLX00wV25Od0ZaQ211b2Mzdw?oc=5",
+      "published": "2026-11-12T09:36:00+00:00",
+      "summary": "Bomb alert at Calais train station affects Eurostar 3FM Isle of Man",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Isle of Man GSC updates AML guidance with focus on B2B and group structures - European Gaming",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXBfdUQwdnRQU05YdTN1YUU5cFY3WjhXNFdBWUUtWjQtVDhjd0R1OWdUanJLck1vQVNfNzRMOXNXaElpYWNnVGJsUjV4YVFvbDNGTHFsSXBUMl9iVm9hR19Ma09YZDFud1pFUDkzMTVuRzc2Y1U2WEh5Q0tpZnotRE10eUNTTldGTk11MDlLOVNLNEIzOGwxZ2pLSGk?oc=5",
+      "published": "2026-11-12T09:28:25+00:00",
+      "summary": "Isle of Man GSC updates AML guidance with focus on B2B and group structures European Gaming",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Last chance of the year for garden waste collections",
+      "link": "https://www.three.fm/news/isle-of-man-news/last-chance-of-the-year-for-garden-waste/",
+      "published": "2026-11-12T09:12:15+00:00",
+      "summary": "If you've been trimming your bush to get it ready for winter, you're running out of time for the council to take the clippings away.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/69678fbb50aa8.jpg"
+    },
+    {
+      "title": "Impact of Employment and Skills 'must continue after the event has finished'",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/impact-of-employment-and-skills-must-continue-after-the-event-has-finished/",
+      "published": "2026-11-12T08:50:17+00:00",
+      "summary": "Event highlighting work and training opportunities takes place today",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/353617-1.jfif"
+    },
+    {
+      "title": "Impact of Employment and Skills 'must continue after the event has finished' - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRXpKSEV0VVRZYS0xM2JWSFZFd3plT0xBel9vOWhBWV9QbUhKeGdxb1l4QmlPTG14cmhIU0xVakVfNllBNjBCaldtVG1PNzQzYTQ4V2ZRUmpPd1hxX0RCRzJvVmVQTGpUNlhuSHd1NGIzbW0yNnB1X3JZaG9CR1N6MnZyWEdoU1NXSzRVN3FCSmtQV0tYLWR5Y1h4aFlfX3VlTzhMWnNhOUlSeFVCNUIxOTVDN1Z0T2cxMlZaSURSbjU?oc=5",
+      "published": "2026-11-12T08:50:00+00:00",
+      "summary": "Impact of Employment and Skills 'must continue after the event has finished' Manx Radio",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Manx Care aims to cut £19.2m forecast deficit",
+      "link": "https://www.three.fm/news/isle-of-man-news/manx-care-aims-to-cut-19-2m-forecast-deficit/",
+      "published": "2026-11-12T08:07:09+00:00",
+      "summary": "Manx Care says it's committed to reducing its £19.2 million forecast deficit before the end of the financial year.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6af5738dc8838d4a380.png"
+    },
+    {
+      "title": "Employment and Skills event today for Island's young people - 3FM Isle of Man",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYW1XVzBXaGh6LU1Ea2NUa0VMM21Ic2VFYmc1TEl6cF9odE8tVE5QSUtHVG4tb2V0d2pZbjNnSllHV1NvRWFnNmxybTRiS09HUEJGbEZLQ1g3czh3RzRYYk00YkxJVUhTTGNXNzQzMGtUdEE4WFZfaDRlalBLbGNKV3JYWjZ2SGNOVEpGRGZ1ZTdRT203bUxnMkl2di1mQWhRTnp6MF90aS1xdw?oc=5",
+      "published": "2026-11-12T07:25:00+00:00",
+      "summary": "Employment and Skills event today for Island's young people 3FM Isle of Man",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "New police dogs begin training as detection dogs",
+      "link": "https://www.three.fm/news/isle-of-man-news/new-police-dogs-begin-training-as-detection-dogs/",
+      "published": "2026-11-12T07:12:18+00:00",
+      "summary": "Several new four-legged friends have joined the police - but you're being warned not to distract them on duty!",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6af566c9ea41dc3df1a.png"
+    },
+    {
+      "title": "New police dogs begin training as detection dogs - 3FM Isle of Man",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTjl1Zzhjb2x6bGJESVN3eDhFLTA2dmJWLUt2YkNTaWc2Wi1jdTFBVXl2dnczekh6VW5WSWY2V2s2d0pWVDVhY2h4aFhhY3hkYTZIZVNpeC1KSy00M2IyV1kxVVpldzI4TlVQUW5Wc1lTR204R2wzQnZ2UWZpMy1jdHAtWGNPS09wd21BZ3VWcEJTeG40eVVz?oc=5",
+      "published": "2026-11-12T07:12:00+00:00",
+      "summary": "New police dogs begin training as detection dogs 3FM Isle of Man",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Peel Power Station repaired after storm damage",
+      "link": "https://www.three.fm/news/isle-of-man-news/peel-power-station-repaired-after-storm-damage/",
+      "published": "2026-11-12T07:05:58+00:00",
+      "summary": "Manx Utilities says it's finished repairing Peel Power Station, after it was damaged in a storm.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6af5654fa9a0d678339.jfif"
+    },
+    {
+      "title": "Peel Power Station repaired after storm damage - 3FM Isle of Man",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOck0zc2YwS3ZwN3NnS2hmUk5fOEpHVFctZ2N0RDFtblJ4TkU2X0UzeGJsLUV6dENMNnVERzVBempRR2FOVnUxTVNEMF96eXdSNUNJNllQLXVwekJaaHRSRXJibjk5WGZHNXQtbFhHcGtObGJPOGFXNWh5WGpWZVpwb1dfRU5jZDlXbnBGT2pzNWtZOGJB?oc=5",
+      "published": "2026-11-12T07:05:00+00:00",
+      "summary": "Peel Power Station repaired after storm damage 3FM Isle of Man",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "All-round sportsman Dave Wilkinson was an absolute gentleman - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTW52RFdMRm9Da0VpQU82bEVHUC1HSkczWFZSaW9LV2cwNzJPZDJxX1J5V2hRdDVJR29GaUVTYlUwWFNXaXZaeHVmajhWN2gwQ3dMYkRjVm1hQlJmLW9VaXZrX29oX1ctZ0IzeUozb19XTEFPbjJuSnBBOFpzQWtveWRiM3ViZ282NGg2RndJbUpCRXdQSjlnalk5VzJVcm1KOF83WDRtRnBXdVVYX1E?oc=5",
+      "published": "2026-11-12T07:02:01+00:00",
+      "summary": "All-round sportsman Dave Wilkinson was an absolute gentleman Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "One person taken to hospital after Douglas flat fire",
+      "link": "https://www.three.fm/news/isle-of-man-news/one-person-taken-to-hospital-after-douglas-flat-fire/",
+      "published": "2026-11-12T06:43:41+00:00",
+      "summary": "One person has been taken to hospital after a kitchen fire in a block of flats in Douglas in the early hours of this morning.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6af56018e2ccc8ab027.jpeg"
+    },
+    {
+      "title": "One person taken to hospital after Douglas flat fire - 3FM Isle of Man",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUGxKMXB0VlR0RmlncmFjWS1sczFiRm4ycFZ6X0xsdndtNWpOWXNROWZQREh0V1VLYURpVlE4S0c3NldKZFpJNkk1VXFEbjQ3Q1dZMVJFNkdPR0M5Ql96VEZ4TENYdjhfcGJ2QXpNQldEdHJuQkJTRnFabTROSFZQUGdlWEZ0eU9IX200dU9MWFIwRmtIUDVvQ2ltc1g?oc=5",
+      "published": "2026-11-12T06:43:00+00:00",
+      "summary": "One person taken to hospital after Douglas flat fire 3FM Isle of Man",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "\"It's important we have a policy that protects children's right to play\"",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/its-important-we-have-a-policy-that-protects-childrens-right-to-play/",
+      "published": "2026-11-12T06:40:31+00:00",
+      "summary": "Manx charity Isle of Play's view after concern over youngsters' screen time",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/353425-1.jpg"
+    },
+    {
+      "title": "Three people treated for smoke inhalation following flat fire",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/three-people-treated-for-smoke-inhalation-following-flat-fire/",
+      "published": "2026-11-12T06:40:17+00:00",
+      "summary": "Crews from Douglas Fire Station were called out in the early hours of this morning",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/353587-1.jpg"
+    },
+    {
+      "title": "Douglas Council designates eight parks for priority refurbishment",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/douglas-council-designates-eight-parks-for-priority-refurbishment/",
+      "published": "2026-11-12T06:40:06+00:00",
+      "summary": "Councillor says some need 'reinventing and rebuilding'",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/353490-1.jpg"
+    },
+    {
+      "title": "Three people treated for smoke inhalation following flat fire - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUl94N2RlYTNMX2k5VEppVW52eEZ3V2U3T3FjcUdOa1NQTVQ0N1BMbE1qc01sbmhEbmN1NUdtLTlybnpyQnBMN3BLVm5TM1QyT3hZdDVXN2xEeVZ4V082UFlZZ2xfa1BiWmdjbzQ3M250eTlyTGhGNWJjeWh2VE9GSnpuNzVPQmQ5bWxLY3dRM0RScDFMTVUwd0dFVTkzXzZUY3FqU2JDOWJBczh5ZnE4?oc=5",
+      "published": "2026-11-12T06:40:00+00:00",
+      "summary": "Three people treated for smoke inhalation following flat fire Manx Radio",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "\"It's important we have a policy that protects children's right to play\" - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa2Z3Wm1LOG9yckVDcXRDUzlHMEo5THlOdVB1QTdCWU93TlA3TFhwRjRZS1RnWVBqb3VuUGtzS2U4MkVqR0VkYUc1ZURPZGxKbHpIcm5oYTI4dTRDWTUtOXJEUXdQZGREVmZOUjJNcG5hUDJ1aFJzWm1JX3Jza2xBQjR1bURXRmJOb1pIWmFvY0F2R3J4aWRJUXVpbEFwLW9ubnJTcEduTTd5d3JLSG82b0RDU3hoS2N0?oc=5",
+      "published": "2026-11-12T06:40:00+00:00",
+      "summary": "\"It's important we have a policy that protects children's right to play\" Manx Radio",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Port St Mary: Candidate wants ratepayers to get best value for money",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/port-st-mary-candidate-wants-ratepayers-to-get-best-value-for-money/",
+      "published": "2026-11-12T06:39:54+00:00",
+      "summary": "Sarah Comish standing in upcoming by-election",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/353407-1.jpg"
+    },
+    {
+      "title": "'Dogs and Doodles': Life-drawing event with a difference",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/dogs-and-doodles-life-drawing-event-with-a-difference/",
+      "published": "2026-11-12T06:39:45+00:00",
+      "summary": "Pawfect models ready for their close-up",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/352561-1.JPG"
+    },
+    {
+      "title": "Autumn serenade at Peel Cathedral",
+      "link": "https://www.manxradio.com/news/isle-of-man-news/autumn-serenade-at-peel-cathedral/",
+      "published": "2026-11-12T06:39:30+00:00",
+      "summary": "KWC students performing as part of concert series",
+      "source": "Manx Radio",
+      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/353392-1.jpg"
+    },
+    {
+      "title": "Autumn serenade at Peel Cathedral - Manx Radio",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVFFvUWpnZTB5c0d6RDRob0otRHd3SmF2blVkcjkzTUZ2cmpVLXdGUWVjaEp1RnJrLXN4ckZpaXNxdTZtUHNRNXBCb3A3ZFdyTWZPbzZScktnWHpCdElrc2kxeGFPMDVrMHdPUlJrRk5KeXZMRGVkVGRKN2V5WkdhbUVPTElEenJydmc?oc=5",
+      "published": "2026-11-12T06:39:00+00:00",
+      "summary": "Autumn serenade at Peel Cathedral Manx Radio",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Treasury Minister says businesses sponsoring migrant workers are being monitored",
+      "link": "https://www.three.fm/news/isle-of-man-news/treasury-minister-says-businesses-sponsoring-migrant-workers-are-being-monitored/",
+      "published": "2026-11-12T06:30:13+00:00",
+      "summary": "Treasury Minister Michael Crowe says the government is monitoring companies who sponsor migrant workers through two immigration routes.",
+      "source": "Three FM",
+      "image": "https://mmo.aiircdn.com/5/6acce75dc3e0772b9c8.jpg"
+    },
+    {
+      "title": "Sidecar competitors welcome news of return to Southern 100 Races - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jLVM5Z0JkRmRiTTRrXy12LTlNMmItY3Z4MW4yLU40V1VmbzEzbVZEaGRVNzJPS04xWG9PYk5RMnFXcUpIOGR4RmZlZU1zTUdaUXFHS0JEV1BULUhEYnc?oc=5",
+      "published": "2026-11-12T06:20:09+00:00",
+      "summary": "Sidecar competitors welcome news of return to Southern 100 Races BBC",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Four people treated after two overnight fire incidents - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeE1WcExlby15R3FSWFB2WWhodjZxVGhrNkN5MUlmc2RrN0l0aHpkbUJqQXoyNDBoTVVwdUhucm04NFNEdTQySEFBS3VDajNzMldsOVRKVkRwT0dYN2xEdUdzcU9WVnZlRUtScTV5cmFBOXlBUWsxQllIX1ExQUdpb0NwZ3RjcW5HbzI4Vl9YZkJhdE1mOWRRTw?oc=5",
+      "published": "2026-11-12T06:09:55+00:00",
+      "summary": "Four people treated after two overnight fire incidents Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Man claims stranger handed him shortened shotgun while he was fishing - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOGNVZ2M0X3Q3dlNfelpRUHdtR0E3WW9PUGNvSDVoeUJ6SUQ4U0JrN21HdDlzVEVqLTR6QmpYNnllX3V3ZUJqZnBkRW9DdEpST3RJanhkOUxyWVk2MG9IcFVhb1Ftc1llUF9TbjhpTnA4eVd0UzBYWXRoeklLZF9Ea1NLTmVUMkRMbHJaVXZLQlM5dkM3VjBab0huR0Y4WnJ5ZTZNZXZqTHZiamtMaEVnVFphU0lZUQ?oc=5",
+      "published": "2026-11-12T05:05:42+00:00",
+      "summary": "Man claims stranger handed him shortened shotgun while he was fishing Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Confidential letter reveals 'fragile' finances at Isle of Man private school - Isle of Man Today",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOURhNWlad2l4ODY0X2hFS09FNDVMdEQxY1VlSEswRXl1ckJPUm9jVnFES3NIZUZOUDRWdmdJbjYyS1JNRVBuMERGSEhPVlZKRDY0UmFoZURITmtnLXRMdVZFMzNfVjdrQ0RmcHRfMXZEQWttRzVQVy1OUzU1eG5YZmFYay1nWVU3RTZ3MmxTYXpvaGg4MXNuM3o2d1V4dmx3Ty1sZzhLUlBtdGZnQ0FzRnFTaw?oc=5",
+      "published": "2026-11-12T05:01:43+00:00",
+      "summary": "Confidential letter reveals 'fragile' finances at Isle of Man private school Isle of Man Today",
+      "source": "Google News",
+      "image": ""
+    },
+    {
+      "title": "Sharp rise in life-threatening antibiotic-resistant infections - 3FM Isle of Man",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM29KZ0owVlFkX1ZGNnlHNHBka0todFYtMkR4V0psSEpkV0VTbUU3eGd1S2VObkhLVDVxY1V3dUJoMHhtVzRnbkxqdk1HYTV4QmJFNzI5eDdoOHB3TFJ2WE5NRnVsR0h6WF83bjBtNFhwcnlXQnpsUHdDcmRJWFYzSWRBU25zakNFbE5UZTRKRUtUdkUzeE44R3JNanl3dw?oc=5",
+      "published": "2026-11-12T03:37:00+00:00",
+      "summary": "Sharp rise in life-threatening antibiotic-resistant infections 3FM Isle of Man",
+      "source": "Google News",
+      "image": ""
+    },
     {
       "title": "Lloyd's Register Join Investigation as Repairs Continue With Isle of Man Flagship - Afloat",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNjV2YThlUHlMVkdMYmFrV0J3eW9rTGpRM0NWV0xkUEo3UEw0ZDc5c2ZYZWxpUzN6ekdwUWZjWERyanpTaVc5dV9jT3BBdUMzbFR0Y0dCYlhfMzRQRXF0c0F3X1FjemdocTAxSE5Mc0tuSEZReGRmZ05LUDdiT0RjM2NWUWRvRS1QZUF0TUF3bFJic085ZzQ2Mk53LVZjY2wybzNKTlp6cUd4ZS00XzlKaQ?oc=5",
@@ -76,14 +517,6 @@
       "summary": "Rushen MHK Mark Kemp has posed a series of questions to ministers over foreign workers.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6acce75a470b1a24b26.jpg"
-    },
-    {
-      "title": "MHK submits five queries about foreign workers - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaHZ6TlU5ODg3cmRhOFJYX2xPRkRiMlpFWUdTbGRYQVluZ1Q1LXM1aW1nYVRJME0zUnhVc1pSQlBjZ28xd3U1ZXVKMEpfMURjVm92TkZPbW9lcTNNN3RqRzUyWVhud2xrV2ptcnlJLTZnbWRHT09PbGI1aUpyM0Q1VlBuMzhkT1hYaWpqWW56eFhyZ194?oc=5",
-      "published": "2026-11-11T17:15:00+00:00",
-      "summary": "MHK submits five queries about foreign workers 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Lone cyclist involved in Peel Road collision",
@@ -142,14 +575,6 @@
       "image": ""
     },
     {
-      "title": "Passport applications to move online from Monday 16 November",
-      "link": "https://www.gov.im/news/2026/nov/11/passport-applications-to-move-online-from-monday-16-november/",
-      "published": "2026-11-11T15:30:55+00:00",
-      "summary": "Applications for Isle of Man variant British passports will move online from Monday 16 November 2026, making it quicker and easier for customers to apply. From that date, online applications will become the standard way to apply for a passport, with paper forms remaining available for those unable to use the online service. Treasury Minister Michael Crowe MHK said: ‘This is a positive step towards modernising public services and making them easier to access. Applying for a passport online will o...",
-      "source": "Isle of Man Government",
-      "image": "https://www.gov.im/media/1394934/onlinepassportapplication-monday16november-socialgraphics_350x438.jpg"
-    },
-    {
       "title": "Manx Care forecasting £19.2million overspend",
       "link": "https://www.manxradio.com/news/isle-of-man-news/manx-care-forecasting-19-2million-overspend/",
       "published": "2026-11-11T15:19:22+00:00",
@@ -198,14 +623,6 @@
       "image": "https://mmo.aiircdn.com/5/6af47aef7e103100e80.jpg"
     },
     {
-      "title": "Pub's new visitor is feline fine, say staff! - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUlBvSmVPQnM4NFFZcHZnanhvdmlWUTRWMW1uOFNGbmZjVUhLQnd2bmZCQUxpM2p2azg1UFdxZ1owdldfMGlzZzV4ekE3dlhjd2pDNjE1TkJmcmprUVZ4Ync5dUxOVzVSc0tZRktNeFAwb1BSdnJONktDOXJjcFF1VmFQOTIya01rN09KTXpR?oc=5",
-      "published": "2026-11-11T14:27:00+00:00",
-      "summary": "Pub's new visitor is feline fine, say staff! 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Laxey pub announces imminent closure",
       "link": "https://www.three.fm/news/isle-of-man-news/laxey-pub-announces-imminent-closure/",
       "published": "2026-11-11T14:09:08+00:00",
@@ -230,14 +647,6 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/353426-1.jpg"
     },
     {
-      "title": "Isle of Man pub to close its doors amid rising costs and mounting debts - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVmJvQ19ETElPamliUjdlX1FjWnZHejd4cEFwODg4d2N2NENWeG9hYmtYQ21LQXAtN2JEWU5rbkZZTzBsODVJR1RBODhPdDJsX1Q4WC1hUEc5Ykw5bTJDNUI2RURNU05WOHZPQUc4UElXTGIzemtGN2hDREJZNjVzSVVLR3NLdzZEQVEyRVB0M1B2VHh4VnlrSnJvVUJCMTlnVzJpakVrVWM0Y2xpMjBj?oc=5",
-      "published": "2026-11-11T13:44:39+00:00",
-      "summary": "Isle of Man pub to close its doors amid rising costs and mounting debts Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Work begins on horse tram line extension",
       "link": "https://www.manxradio.com/news/isle-of-man-news/work-begins-on-horse-tram-line-extension/",
       "published": "2026-11-11T13:39:24+00:00",
@@ -252,22 +661,6 @@
       "summary": "Part of a path in the west of the Island will be closed next week for work.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6af469d04c88a94293e.jfif"
-    },
-    {
-      "title": "In Pictures: Big Manx Day Out brings colour and culture to capital - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONTREY3RXWVlyTjNIcUpaaXdPRTd1akd2Ujg5SG9SUWZlWUwzTTFDTXlqV2k0RURyZ3ZycFpiWm9ZQWpZQi1Id1gzX19zR1c2cVRhTXNtSTU1ZWY5MThQSkxWY1p0WnRjSFI1R0Z6TEZBZjVLRm56elhKQnNLdTM2WTd2Wml1ZGZkd3VKSUJ4WG1PZDdzcXgxTmlROWdJZmkyZmw0c2ExbEpCNEd0Mm5tZEpxcy03a0NBelE?oc=5",
-      "published": "2026-11-11T12:39:54+00:00",
-      "summary": "In Pictures: Big Manx Day Out brings colour and culture to capital Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Drunk woman on mobility scooter forces car to make emergency stop - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2kwVDNocmNEQUFMTFZkeFltR0liV0JsZ3dOMDk2bGRaRnhSWlZOY3lhZUZpRkJuOHhZVC1CT3hRS3ptUkxpSzV0ZEhhV21FSGZUc3ZUVTdXLWJwYkRFQkFocDRYaXdnc1VKRTZ4S251MC1pRHpIYWRRX1lwZ3dydmNYWmg3UHBqNjFMcU9YazYzQ00xdkJEajdrS0JsanEyWkU3QTM0UENXUUdjZTFpdw?oc=5",
-      "published": "2026-11-11T12:39:54+00:00",
-      "summary": "Drunk woman on mobility scooter forces car to make emergency stop Isle of Man Today",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "1500 people waiting for cataract surgery on the IoM",
@@ -318,22 +711,6 @@
       "image": "https://mmo.aiircdn.com/5/6acce757cf0d1e90d84.jpg"
     },
     {
-      "title": "End of an era for much-loved Manx shop - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdUZJb01ObDNmdlB6TGFraEphVExYUVdwSmV2U0RqeDJCbzVvRGJqVzNTU0JmT3NlNFRYOVFIZURPSWthVjI5X2d4OFJ6cTFaRXJVaHhNdm8xdk1RTTBsR0gzdFZ6ZmFfUENxVnpwb1ExdnRkUk91TTVXWjc3SEVHQnZWVQ?oc=5",
-      "published": "2026-11-11T11:26:25+00:00",
-      "summary": "End of an era for much-loved Manx shop Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Major milestone at hospital as surgery performed on Isle of Man for first time - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGxNS3hKeG5FdE4zWDl4a0ZqTHdoYmVHWURiVXRGbU1hLU1waHo2M25qMUdfTTZmVFBOcHdFYVo2aUttSGNUT1lIU0FpTlg0YkJfb2VGMWlZZEU4eHlPNEVXMVRzMjQxM1I5ZFdrYmF5aEp3MUZzV2gzTVlaTmdQT3VLS0p3NGZ5MlVSalF4SThPRkxoLWFrUk5FNGhKSExFUXBsTWg5RG1LMlpBNmx1UDJIODZmbUlJ?oc=5",
-      "published": "2026-11-11T11:25:30+00:00",
-      "summary": "Major milestone at hospital as surgery performed on Isle of Man for first time Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Dermatology services moved to refurbished RDCH suite",
       "link": "https://www.manxradio.com/news/isle-of-man-news/dermatology-services-moved-to-refurbished-rdch-suite/",
       "published": "2026-11-11T11:21:46+00:00",
@@ -366,14 +743,6 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/353352-1.jpeg"
     },
     {
-      "title": "First ever total shoulder replacement carried out on Island - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMS1wQ1ZVMDUtZjVrTnhDSmN0ZHhDRTZzU0xWYW9GYWR3UTE5NHR6Qk1xVnlEbEFmVEVaLVN4bVhXSXZMMFpmZnBBM0VhZzJwWERoTFVEZ0ZlTGRlblFJX18wSF9LYnN6T2RKd1FsVHJ5Z1JXcEgxTnVKR2JVVlNramhDV2diREIxdmJfNW5PZXNUTGdqQ1kwSzZqSE5CNVVlU1JRY3BiTG1zQklN?oc=5",
-      "published": "2026-11-11T10:25:00+00:00",
-      "summary": "First ever total shoulder replacement carried out on Island Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Father found the Isle of Man’s only pair of Viking women’s brooches in 2018. Now his son has found the second, with a 1,100-year-old sword probably broken in a burial rite, in what may be the island’s earliest known female Viking grave - British Heritage Travel",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSGtJcUZDZkVwQjF6eHpreHhZQ055RmdHVU5tLVFkbTQ0LTJFM0cxUHVOLTlwLVhtTnhOQTNBWHFOYWlOanNyNDJ1amwzTUZ5RlQwS0N4MWZWSS1XbWVFUUpVZkZETW9rdmdxUHhMMU9sbWRwSG5uQTY3LXY0WHBXTndkc1FHTms2d0ROY1Vralp5X2NsdlRKSkQyaFlKN3FIMHJCQw?oc=5",
       "published": "2026-11-11T09:50:19+00:00",
@@ -390,28 +759,12 @@
       "image": "https://mmo.aiircdn.com/5/68749fa871945.jpg"
     },
     {
-      "title": "Police issue update on fire in Anagh Coar - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaFBscmZVZi1MSndtRjJXeERiVGJzZUFQN0g1MThmdkxpdy1VS0dibFphbzR1RFdUbG9WZVhxMWdjNkluSXBSUDFZdGp1NGRkV1k3NkxHZjVpV2RIWGNuR2piU2w2bzZUQWVscWZIc3hBMGV0RVlORFVYbEc5SVNjc0N6SWlaYzdrLXp0S3dR?oc=5",
-      "published": "2026-11-11T09:10:00+00:00",
-      "summary": "Police issue update on fire in Anagh Coar 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "New Manx tartan woven in celebration of the Island’s rich heritage",
       "link": "https://www.three.fm/news/isle-of-man-news/new-manx-tartan-woven-in-celebration-of-the-islands-rich-heritage/",
       "published": "2026-11-11T08:54:04+00:00",
       "summary": "Manx National Heritage has released a brand new Isle of Man tartan.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6af42c7739428d242de.png"
-    },
-    {
-      "title": "New Manx tartan woven in celebration of the Island’s rich heritage - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbHEtY3d5aUR5VzQyaWlMbUhOeWNSSU9hVWRvM0VCM3M3T284SktQck0zdzZxaFJLSG0tendlMGJYMVloejlKMktHRTlnWl9EZ3YwNklFTU9CcTBLWkJDTllZeWdnUUZTTzd1Q0F3U1d2blZxYVJlS0wwLTlreEZfR1d1STlHRjZUdDZWRnB6dEpRdGRISlNLd2cyVy11NmdLT2xlNGlwSER4MjRYN0E?oc=5",
-      "published": "2026-11-11T08:54:00+00:00",
-      "summary": "New Manx tartan woven in celebration of the Island’s rich heritage 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Business Isle of Man to offer free hospitality training - 3FM Isle of Man",
@@ -478,28 +831,12 @@
       "image": "https://mmo.aiircdn.com/5/6acf2b3585236b9d838.jpeg"
     },
     {
-      "title": "Douglas Council monthly meeting today - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT1BiVHdXQUVEanRjcXdKVHFpcXlfUVJtZ0tfd05HdDktUTQ3RlR0ZUpHb0dVU3MtSHNUOWlZTGRNaWZLSGRSODhCQ2pTLWwtSDFiR3ZqMldSdUNqOWVIWDRkaVpQN3RselFjckdhMlVoeXFxenRxbjRzc21sNkJ2RGJuempjSnJV?oc=5",
-      "published": "2026-11-11T06:36:00+00:00",
-      "summary": "Douglas Council monthly meeting today 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Island to mark Armistice Day with two-minute silence",
       "link": "https://www.three.fm/news/isle-of-man-news/island-to-mark-armistice-day-with-two-minute-silence/",
       "published": "2026-11-11T06:28:45+00:00",
       "summary": "The Isle of Man will observe a two-minute silence later to mark Armistice Day.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6655776d4536e.jpg"
-    },
-    {
-      "title": "Island to mark Armistice Day with two-minute silence - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV1B4WWJMZ1BJVDVlbzh6bTlHOGs1LVYxbkVtbzYzRklyb1VMTGNTY1MtcEVXODA3YWVmTGIxX1VtdjQ5WXJQbXVrQTdFSWl6VmRPa2FhdktHVEZzVzRsdUtFVWlpQnNxc2IyNWYwRkJ1OFJWMzZCc1pRRWhIZl9kdmRhcFI1Z0xlUzdYNExvNmQxd0RNcmpEZ3A5UjM?oc=5",
-      "published": "2026-11-11T06:28:00+00:00",
-      "summary": "Island to mark Armistice Day with two-minute silence 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Shimmin seeking Steam Packet affordability answers",
@@ -550,14 +887,6 @@
       "image": ""
     },
     {
-      "title": "Suicide Prevention Strategy set to be 'refreshed' in 2027 - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSXJjZ2ZRQmM2N1JpVFlFRnBDOFBHbTljS3Z6NjBXdHozUDNyMHBfSi1Uai1mbDRlUGxhLUhDUlFQZHcwV05FTEktVmNneXNIVHpFVTFsWVdUcmR4UXlCbGVpNEFnNDhvM0FlaXhUMjJVeEQ3ZU9semgtUld1QVNYQzM5MzBpRXpTbGxYNDYtbFFBdllIcW9FRkFR?oc=5",
-      "published": "2026-11-11T06:05:27+00:00",
-      "summary": "Suicide Prevention Strategy set to be 'refreshed' in 2027 Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Isle of Man updates gambling guidance on financial crime risks - sigma.world",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Ka2tLWVlCdjRpV2ZoTGY2aENQV0JLZjBSell6RWcxLXZKZHJHVHAxN0hfSWZWT0IxLUd0S21iNGx6cHB5R0hVbUQzakpoVnRmcVRUaF9xWHY5Tm4wMXYzajh1djRLRzhBejF5N2hSY2ZiSWZQNk4xTEh1OA?oc=5",
       "published": "2026-11-11T05:08:11+00:00",
@@ -570,14 +899,6 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeV9qMzBMa2p4ekIzMlJmTGJELUQxOXNLNkE4UjJoYVVnUFg3bWlPbGVDTTJEcF8wNkU5dElFdzIzZmhQYnpVUWlsVnRoQ3Zudl9Sdk1SYzM4M2NYT2dvb01jQVUwMVBDNnJna1NVcFFBa1dyMlNFVnB0VGV3cGg2Um96ak93bmNfaE9SMjYzSFFqQzNmdGFxSk5nbzhJNHhKUlFFTnJqUk1PUkpCdGNSZlBqZXo0eFRLOGR3UWoyRW5uTGRBQmc?oc=5",
       "published": "2026-11-11T05:05:25+00:00",
       "summary": "Why the Isle of Man's Chief Minister prefers a Manx title to his official English one Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Man already paying court fines until 2031 handed another £950 bill - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS3AtVGZ6ZlRBRU9JWnJyRXpOQVJHNno5OGUwcENtdHJwYkxjNE1OejZpNk5QZVVGRU5GNUFQWGw1S3U2eUVBNFRZQnJPQkVsM0g1X1U5WExxd0toOEZGTTQwOXdWQVJsR2xzLVJrQmtBbTlwOGVJV3gyVUlUWXpJNVk2UVpLMFZsTTh6dl9VQXRGdldWNklpT0d4WU1qRXFYTGJCV3VrQnNWbHJmRk5NNWJabw?oc=5",
-      "published": "2026-11-11T05:05:25+00:00",
-      "summary": "Man already paying court fines until 2031 handed another £950 bill Isle of Man Today",
       "source": "Google News",
       "image": ""
     },
@@ -622,14 +943,6 @@
       "image": "https://mmo.aiircdn.com/5/66a8953744ed9.jpg"
     },
     {
-      "title": "Coal fund announces first distribution date - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdUJyZE1kR1p5VHlqbU5ZTEYtTlB4aWM1WkdUS3dYUEN6THVGMGFLSjhsUkZEWGVkUnZnQThKZml5X1NMY0xZc0hFM091eWJXYzBseVQxT1BDOVlHODVOQTRmOHh0VVNsSFF6R3I2UDZYQ0c5M2NTNmpSYmR6TjczZHcwaWRlalk0NTlnTDFodFA?oc=5",
-      "published": "2026-11-10T17:08:00+00:00",
-      "summary": "Coal fund announces first distribution date 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Just four officers carrying out initial immigration and sponsor checks on Isle of Man - Isle of Man Today",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSXI4U0I1SE5aVXRLMkdmYmhGVFBvLVlpOWRKamQtazhLYU05Tk42X0M2YXJYUFJ4ZE5Md3kxMkN6TG4wek9COTZpZXdqWEZUaGFDQnUwb21UU0VsZzJ1cHFUMDRkTTlrSWFaNUtTVlZjcTNoc1VCR3dxVTh5TUVQcFFIc0kzdDJGNmlUWWRWWF9SOGN4aERWUVE5V29zUGx4ME1rOGxacThIM2dRSlB0Z3pURVJnV2E5d3NncVVhX0JkZw?oc=5",
       "published": "2026-11-10T16:34:10+00:00",
@@ -652,14 +965,6 @@
       "summary": "A former MHK who asked a court for a recount in Onchan over claims of missing votes has come in third place again.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/671a204ca4166.jpg"
-    },
-    {
-      "title": "Sanctions Lists Update: Russia",
-      "link": "https://www.gov.im/news/2026/nov/10/sanctions-lists-update-russia/",
-      "published": "2026-11-10T16:04:35+00:00",
-      "summary": "This news release is issued to publicise the amendment of three entries on the UK sanctions list. On 10 November 2026, the Foreign, Commonwealth and Development Office updated the UK Sanctions List . Further information can be found in the Annex to this Notice . What you must do in relation to amendments If, through your sanctions compliance programme, you identify a possible match to a person or entity included in the Sanctions Lists, and you hold or otherwise deal with funds or economic resour...",
-      "source": "Isle of Man Government",
-      "image": ""
     },
     {
       "title": "Onchan election result stands but Edge loses votes",
@@ -686,22 +991,6 @@
       "image": "https://mmo.aiircdn.com/5/6220641271242.jpg"
     },
     {
-      "title": "Fake TV licensing tops fraud email reports - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSUxmdDk4UDJKYUR0WVZVSU9HcllCRmNlOVFVN1lJQXFtRUxHS01TeFd3YjUwWnM5OWFvSmU1a0t1cnViU1JqQUdYbWdpYmdfX3lJNkVaaUxOenRIY1hFbER0c05YSDZ2dlUzMHFob2tkVmNfcXBHTlprOXlUbjRmcTBQdUdTeC16NUkxdEtnWQ?oc=5",
-      "published": "2026-11-10T15:53:00+00:00",
-      "summary": "Fake TV licensing tops fraud email reports 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Dermatology services return to Ramsey and District Cottage Hospital from tomorrow",
-      "link": "https://www.gov.im/news/2026/nov/10/dermatology-services-return-to-ramsey-and-district-cottage-hospital-from-tomorrow/",
-      "published": "2026-11-10T15:45:48+00:00",
-      "summary": "Dermatology services return to their usual home at Ramsey and District Cottage Hospital (RDCH) from tomorrow, Wednesday 11 November. This includes phototherapy services. Patients attending Dermatology and Plastic Surgery appointments should enter the hospital through the main reception at RDCH. The move follows refurbishment of the new Theatre Suite, which will accommodate Dermatology and Plastics. The work has been made possible thanks to the generous support of the RDCH Welfare Trustees. The R...",
-      "source": "Isle of Man Government",
-      "image": "https://www.gov.im/media/1394918/rdch-main-entrance_350x262.jpg"
-    },
-    {
       "title": "'Not realistic' to say road fuel increases create a specific windfall in VAT",
       "link": "https://www.manxradio.com/news/isle-of-man-news/not-realistic-to-say-road-fuel-increases-create-a-specific-windfall-in-vat/",
       "published": "2026-11-10T15:42:46+00:00",
@@ -710,36 +999,12 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/353102-1.jpeg"
     },
     {
-      "title": "First total shoulder replacement takes place at Noble’s Hospital as new service brings procedures closer to home",
-      "link": "https://www.gov.im/news/2026/nov/10/first-total-shoulder-replacement-takes-place-at-nobles-hospital-as-new-service-brings-procedures-closer-to-home/",
-      "published": "2026-11-10T15:25:23+00:00",
-      "summary": "Manx Care is making it possible for more patients to receive their care closer to home, as the first ever total shoulder replacement takes place on the Isle of Man. This marks the first of a variety of orthopaedic treatments and procedures, previously undertaken off-Island, that will now take place at Noble’s Hospital. Over the last 18 months, a multidisciplinary team effort has helped develop and establish the Upper Limb Orthopaedic Service, to include both trauma and elective services. Colleag...",
-      "source": "Isle of Man Government",
-      "image": "https://www.gov.im/media/1394917/orthopaedic-service-team_498x255.jpg"
-    },
-    {
       "title": "DOI doesn't keep track of total staff overtime",
       "link": "https://www.three.fm/news/isle-of-man-news/doi-doesnt-keep-track-of-total-staff-overtime/",
       "published": "2026-11-10T15:04:01+00:00",
       "summary": "The Department of Infrastructure says it doesn't have an overall figure for the amount of overtime its staff worked last year.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/66a4a78df1bc7.jpg"
-    },
-    {
-      "title": "Meet the man who discovered Viking treasure while metal detecting on the Isle of Man - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFFfampmcDFWMndheklXY2JXRGxMdGhzYnB2X2ZBZnR4a0pmWWMwWkhZZnZ3eW5iS3hILXJ6SFdLVGRHWk5hQmVKN1lBYkRkSlhfYlJWNC0tNFJHVS1yc3lzMDduQmYtazRqczFvcFhPVXZ5SGNrVTU2Q2ZtUlEtNk1rVXhaNUN0V3NaZHVPOGFXVER3VTdXbjB2a1VHREhES0NSWDZ2bXJYdks0V25md3NyVWVqaXBGWU5DQ3A5ZHU?oc=5",
-      "published": "2026-11-10T14:54:10+00:00",
-      "summary": "Meet the man who discovered Viking treasure while metal detecting on the Isle of Man Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Douglas City Council chief executive to retire after 42 years in public service - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOblM3RWxJb0NiTm9hTHFXOGEzQjc4UHdCQjNjT3pIaWcyYVNBbWNxV2Y0Ymg3ZGxJczZ3WlhOdUY4Xy12SWlBdWs2ejJBd215NF83LVRwcnRKamR6LU9RNnFCNEVCdUFxSUpBVG1ub1c4NU9CQW9BS3ZLTFZyYmw1akZNRG9OUThUUmNTdWRaWGpkbFNHSGFGdjhzeFl4UlRoWEpzazhRdnlYYWVTQUJpTzNwT1F1ZkhSUFE?oc=5",
-      "published": "2026-11-10T14:19:10+00:00",
-      "summary": "Douglas City Council chief executive to retire after 42 years in public service Isle of Man Today",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "One person treated for smoke inhalation following Anagh Coar flat fire",
@@ -774,14 +1039,6 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/352840-1.jpg"
     },
     {
-      "title": "Former Morecambe MP meets new Isle of Man leader for talks - Beyond Radio",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ2VyQ28tSGhDY0pmc3p1S2hzQ1RvX2NBMkwyM1o3ZE5rd1ZGamlRMlVVdkFhUTdMcW04bWxzR1VDOFU5MlVETE9tQjZaMld3dldrMXVTbmpsRlRZXzEzQkppUXVGWHlKckRCYmcxTUhrVGhJOWhnM29HYjlBRXl3cTBIZFgzVjQydWtWWkwtMEpQaktKV3MzY2JYY2puYkpkYmc?oc=5",
-      "published": "2026-11-10T13:27:35+00:00",
-      "summary": "Former Morecambe MP meets new Isle of Man leader for talks Beyond Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Airport looking for new £112k a year air traffic control head",
       "link": "https://www.three.fm/news/isle-of-man-news/airport-looking-for-new-112k-a-year-air-traffic-control-head/",
       "published": "2026-11-10T13:01:25+00:00",
@@ -806,14 +1063,6 @@
       "image": "https://mmo.aiircdn.com/5/69e0a1b4a137a.jpg"
     },
     {
-      "title": "Archery: Isle of Man lineup announced for 2027 Island Games - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdjM5Slh0bmRFQW0ySkFCR2VrUVQ3WDVld1c2MHhPc1lkOWloTEk2QWpYYnBRaEtYYVlpQk9IampJTnAxSm54SGVkcVBVZm14SE1TbVRtcnFrV0xTYld6MXNGOU81VzNhWUtCVnJIWGR4VWZHUkZFUVp0WnhfMjFOZllKUUh3T3Y2M3lJcTQ3Ym80aDk3Q2tSTjUwRGs4Rm1pTjA5WTR1ZjV3Y2ZW?oc=5",
-      "published": "2026-11-10T12:00:00+00:00",
-      "summary": "Archery: Isle of Man lineup announced for 2027 Island Games Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Treasury minister hopes to eliminate structural deficit by end of this administration",
       "link": "https://www.manxradio.com/news/isle-of-man-news/treasury-minister-hopes-to-eliminate-structural-deficit-by-end-of-this-administration/",
       "published": "2026-11-10T11:13:41+00:00",
@@ -828,14 +1077,6 @@
       "summary": "Commissioners in Marown have cried fowl over people feeding birds in the parish.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6af2fac0e1c900274d4.jpg"
-    },
-    {
-      "title": "Commissioners cry fowl over total clucking menace - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd254dDMxeWdJVWpxb25qemZ1Z1Rjd3oybUk3UTBxRFFCR3A5ODJPTDJRSWJTWXRUYkkyZ2FHb1BrYlVnUjlfR3JqNkFQNmVZMGZ1VHZSVlBFTF96Tk1fX3B2V1VLSGtVeVhZZFVndTkzeXB4dDg3bk1Od0tMemttZURNQUpMbDBnRkgweXpROXBFV1dtTGFDbg?oc=5",
-      "published": "2026-11-10T11:08:00+00:00",
-      "summary": "Commissioners cry fowl over total clucking menace 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Prayer meeting on world's largest floating book fair tonight",
@@ -854,22 +1095,6 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/353077-1.jpg"
     },
     {
-      "title": "Opul House to close next month following recent inspections - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR1FtU3hzeGFzd2UwRXJVbGdLUEFVa0dTU2NfRkhTYmU5OVNQMHF2MWdkcHNZdUlCSUJNeVVVck9FRFlEUGd5REtXRVhDTnI1amdQSDBEdDdodE1IdXBBNjJHOFZXQXc1YUNZQll5a3lSYUo0djZuYVdFcVlfenRUMXk3b2JwNDM0SFU2NlpteXR3ZUVEcHJnYlBuWjNsQk9KT2ZGQUtSdlN3NEtK?oc=5",
-      "published": "2026-11-10T09:45:00+00:00",
-      "summary": "Opul House to close next month following recent inspections Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Second vehicle fire of the day closes Mountain Road - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNkRwX01jeWVTQTAySTQ4a25kWHJaWW54bjBpUkFOS19HVEFCb0F0Ry1MOXZkeTc2d0FmYjlWY3lPVDhrSFRzNjV1WVRObWQzUVJ2YnlwVm1BdUFRZTVFVVlLUjg5QmdxMUdfeTBQVFQyTUVLYXVaOGhXaXdUWVYyVGJMNzI0Ni1Hd3RxM0IyVjFDS09i?oc=5",
-      "published": "2026-11-10T09:21:30+00:00",
-      "summary": "Second vehicle fire of the day closes Mountain Road Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Vehicle fire closes the Mountain Road",
       "link": "https://www.manxradio.com/news/isle-of-man-news/vehicle-fire-closes-the-mountain-road/",
       "published": "2026-11-10T09:09:51+00:00",
@@ -884,14 +1109,6 @@
       "summary": "3FM has received reports of a vehicle fire on the Mountain Road this morning.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6af2dad07f801bebc89.jpeg"
-    },
-    {
-      "title": "Emergency crews attend another vehicle fire this morning - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV3dGZl9vYWVacFhYZTdCblJzTE9lN25JNm9CU2VBUHJCUnNpOWlVdFJ0SFBBWVJJR05BY0hBUnR6NEg3a3JBRzBxVUdKdTBqbjlXMnVXTVZObjl2Y1RyZy0wLWdUNmJwOV8wXzNlbUlsZmFxZmFBc3pYM21TRzFzR21hNXZpZEs4NHVIVlFxNmJ3OGdJTHJsdkhwZDBaSTFackE?oc=5",
-      "published": "2026-11-10T08:50:00+00:00",
-      "summary": "Emergency crews attend another vehicle fire this morning 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Border division issues warning following immigration conviction",
@@ -916,14 +1133,6 @@
       "summary": "Douglas City Council's Chief Executive is to retire next April after 19 years with the local authority.",
       "source": "Three FM",
       "image": "https://mm.aiircdn.com/3/412593.jpg"
-    },
-    {
-      "title": "Road reopens as emergency services dealt with early morning vehicle fire - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZFZ6NXBhYzY1Z3VqNHVic1JFdnptOThMcGtiRjg0V0pvRjFaYnVaMm5WNlVQd0JrRExJUnBzd3VCcDJEbUJlRzlObU01UVpsbzgxbTB6bE1Ic3paOXdIc1RtZ1pxdXFSS0VHd1B1d3d1YUdVY2tNZU00VUJJbTBHTXpZWUVWRWp6d001X2Rqc2ZwRXRvckw0c2RhMW8wYXBqLXNXMEFoQV9YSXFPazBVag?oc=5",
-      "published": "2026-11-10T07:47:29+00:00",
-      "summary": "Road reopens as emergency services dealt with early morning vehicle fire Isle of Man Today",
-      "source": "Google News",
-      "image": ""
     },
     {
       "title": "Opul guesthouse forced to close - Isle of Man Today",
@@ -982,14 +1191,6 @@
       "image": "https://mmo.aiircdn.com/5/6af2c2969ac3d2c990e.jpg"
     },
     {
-      "title": "World's largest floating book fair visits Isle of Man - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWnhSMXVPV01HYVJDTU9nYlZLelV4UU93WWFvS2wxS05BcFNqY1d2bFlrcU11Y1NYOXF0S25acExwVjBBcU4tcmRMN2pjejlGcU5oaU9KNkFOV1lIZWhJeWczNkZ6cTFiZW9RVURtNHhrLVVfSGxoNGozYnVGNzZ0M3Q4QV9pTURsYWtKSDhySkU1RkhUbS0tVnNBUFk?oc=5",
-      "published": "2026-11-10T07:10:00+00:00",
-      "summary": "World's largest floating book fair visits Isle of Man 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "Planners approve further redevelopment work on Castle Mona",
       "link": "https://www.manxradio.com/news/isle-of-man-news/planners-approve-further-redevelopment-work-on-castle-mona/",
       "published": "2026-11-10T06:53:30+00:00",
@@ -1022,212 +1223,12 @@
       "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/353051-1.jfif"
     },
     {
-      "title": "Multi-agency response to fire in Douglas - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV3JVQXd3MEZiNWkxajliVlhvdGYzSlFkXzI2bG01ajE0bEItWnJvWDI1ekV4UW9oUUNGQXM1WTZkLWxJQ0x0RE5TOUpHa2NBOEdUTGpGTFhJMGp6MWJFYlZ6ZldmRUU4TEZCSU51YkJVcDlRSVhyeXVRZkxJZjlkaExSWHVwZzBQMjl5MV9sNFNtSW8?oc=5",
-      "published": "2026-11-10T06:51:00+00:00",
-      "summary": "Multi-agency response to fire in Douglas Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
       "title": "House of Keys to face 11 questions this morning",
       "link": "https://www.three.fm/news/isle-of-man-news/house-of-keys-to-face-11-questions-this-morning/",
       "published": "2026-11-10T06:42:04+00:00",
       "summary": "The House of Keys sits later this morning - with 11 questions for ministers.",
       "source": "Three FM",
       "image": "https://mmo.aiircdn.com/5/6006c3cd5b4c5.jpg"
-    },
-    {
-      "title": "Police close Mount Rule Road following vehicle fire",
-      "link": "https://www.three.fm/news/isle-of-man-news/police-close-mount-rule-road-following-vehicle-fire/",
-      "published": "2026-11-10T06:33:07+00:00",
-      "summary": "Emergency services are dealing with a vehicle fire on Mount Rule Road in Douglas this morning (Tuesday, November 10).",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/69bbe8321149c.jpg"
-    },
-    {
-      "title": "Ballabriggs dies aged 25",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/ballabriggs-dies-aged-25/",
-      "published": "2026-11-10T06:27:04+00:00",
-      "summary": "Grand National winner was spending retirement near Andreas",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/353053-1.jpg"
-    },
-    {
-      "title": "Ballabriggs dies aged 25 - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3SlpySm9NVGI2ck5JdXFQcWZaa19FVmRHRzFHNlFRcjR1RnZmX2VRZ3RiOW9TNEMtLVllZzZsN1BQV0tRandBSUNoZnZwOENSbTFMTzhhdzhtZW80elFtb3ZuSlZoRUpnRk8wNTRNZW1LY2RESDJJemJ6SzFHdw?oc=5",
-      "published": "2026-11-10T06:27:00+00:00",
-      "summary": "Ballabriggs dies aged 25 Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "New chief outlines main issues facing Isle of Man - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SdFg2c1cxUWdTZ0JSek0tRTA2RG0yTVN6RXdEMkNIbmU4b2lFV3FMOXNjWXpCcGZEUVQ4RDJKWElUQk5ETnZUOVNTNFAxT1RxazhUeHdFRDZUYjBYaGc?oc=5",
-      "published": "2026-11-10T06:09:01+00:00",
-      "summary": "New chief outlines main issues facing Isle of Man BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Stark warning issued to island electric vehicle owners - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMFNITllmVldRdmVTWTA1LWR1X2syTktLMWV6Qm9NZE84ODgtYi1Ud1c0MFVvQ090NmJwbjJueFRJV0QwQWdmMVZZT0YwOF95eV84RWtzMVVuSlpqb04tRFdNM3pkWXJzN1V5Y0lqS1RBUlpYNFI3RnVmeWc2N21HQThxU0d1YzhHNUhsTDAxQ0NFNlRtZkozdW4wbDQ4cU0?oc=5",
-      "published": "2026-11-10T06:05:59+00:00",
-      "summary": "Stark warning issued to island electric vehicle owners Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Hundreds of parents back campaign to keep smartphones out of children's hands - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcmlJUV95eVUyeUZTbXM1elkzUjA0NDY2YVplNEt6eE1TeVR6bWNZc09uSHZOY1ZWNVBlY0MtdTRWc21ublV4cU9lRXJwRUI2cU5rUjNWWmQ2aFduS2IxTmJ5dFV3Wm9fZ0Jab3g1YWJZcnRoQkJMOHB4d0pqd3RCM2VkX0pFSkQyb0FfVUZOZDBiQWJNWEktYlVpbmpvaGplVVJENThpeG9vNS1qUjBDcWpvY0d3dw?oc=5",
-      "published": "2026-11-10T05:05:56+00:00",
-      "summary": "Hundreds of parents back campaign to keep smartphones out of children's hands Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Emergency services attend large fire at housing estate - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHBVdEZKVlF1OGlwQzJUc21XUnRnZUY1YXlGLTdRXy1SWHNiOTJ1VkZTWFIzN3RUeXV6XzhOZlJBV2VXT211NGl3Z21KSTF5RWlUSTJSNnFzS2hZRG1UaEVjSnR0SFlqbzNwakNLZkdDcWl5SWtiMTNRYURXQ2hvaFd2VkxlNnB5bi00R0dNN0EtdzJSbjJIaHZ4WDhZVjM5Z1lZSm9VZjM?oc=5",
-      "published": "2026-11-10T00:28:54+00:00",
-      "summary": "Emergency services attend large fire at housing estate Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Stay away from Anagh Coar incident, say police",
-      "link": "https://www.three.fm/news/isle-of-man-news/stay-away-from-anagh-coar-incident-say-police/",
-      "published": "2026-11-09T21:11:36+00:00",
-      "summary": "Police are asking people to steer clear of an incident in Douglas this evening.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/69d7b14985294.jpg"
-    },
-    {
-      "title": "Stay away from Anagh Coar incident, say police - 3FM Isle of Man",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ1lUT0xJSk1xekdoQkVlM09aZ19CYURCYlRsOEs2alFYNnFlaWdXYXVsWmZxbUVVeDZwYk9KRUc2TTF6dkVkaGx6bTFkSm45SE90Q2h1TWJpeklTdVNEdmd4anRZWW13ZDVlZ2pqcVY2Yk5JdlMxV3FVQWZ3S0NsZ0JUVUFzMjRCd0plMklzZVZ5cXM?oc=5",
-      "published": "2026-11-09T21:11:00+00:00",
-      "summary": "Stay away from Anagh Coar incident, say police 3FM Isle of Man",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Isle of Man pauses ferry replacement purchase pending Douglas harbour dredging - Baird Maritime",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQkswbHhJVm42MEZQUjZmSlVjcUVfdjNCRzdTQ2RQZ0tGcUFzNmhzRHh4RjFIYmpMZmF6SXJrVzYzNGU4bVRpcUtJZVV0bkVMeHB5UjVUdlFqaFNpRFM4eHcwRktEV3R5V3ZpWERpWDZFZExyYTU1LXdUVndVRUtTbFRhVUlDNDVxSXVsQW52QzRLM2410gGiAUFVX3lxTE1KTzlodHVzU1c3VG5RNXVTY2xIT3B6aXczdTlCRFJ5cC05aDBjazh2WTMwR2dUREVRZ3FTdjFBU3M4QWt6TXM0bk55V1h2OHIxVVRQdzRBd2RJbFk4c0FXaW4tOEpEMVJ2UDJzSVhrMm83andQM3hGdWpJdEtRMV9RNXJ3Z2trMlFfeHNIVGp2TG15bmcwLVV0YzU2aEFRcVYzQQ?oc=5",
-      "published": "2026-11-09T17:49:10+00:00",
-      "summary": "Isle of Man pauses ferry replacement purchase pending Douglas harbour dredging Baird Maritime",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "'Extraordinary' collection of Viking artefacts declared treasure - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sRlhkVjhoYUxNNnhyS3I0MHZ3eTJEVHpLRDJWa2s2WXhkSVU5UGh5VlhXVUdiZnV3VTBmTHpfZWtXMF9WY2pWVmVBZTFHRHlxZ29SMFRxYkJjekE?oc=5",
-      "published": "2026-11-09T17:29:18+00:00",
-      "summary": "'Extraordinary' collection of Viking artefacts declared treasure BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Cataract surgery waiting times under the spotlight in Keys this week",
-      "link": "https://www.three.fm/news/isle-of-man-news/cataract-surgery-waiting-times-under-the-spotlight-in-keys-this-week/",
-      "published": "2026-11-09T17:28:03+00:00",
-      "summary": "Questions about surgery waiting times will be raised by a Douglas MHK this week.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6acce75e3c6edd501a3.jpg"
-    },
-    {
-      "title": "Del Boy or Custard Cream? People asked to suggest capybara names - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUaWpEdy1uOU82SjcwbVo1UXltNFpCVE5hclhfUzlPRDlPdlBZc1lIeVlydWR1Rm5SUzNHM2NBeVF6a3ViaG1hekI4NWJOQmtoTFZKdmUxdEhicVpFLUE?oc=5",
-      "published": "2026-11-09T17:20:06+00:00",
-      "summary": "Del Boy or Custard Cream? People asked to suggest capybara names BBC",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Charity reflects on Island's role in World War 1",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/charity-reflects-on-islands-role-in-world-war-1/",
-      "published": "2026-11-09T17:05:31+00:00",
-      "summary": "Armistice Day takes place this week",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/352904-1.png"
-    },
-    {
-      "title": "Nominations open for 2026 Isle of Man Sports Awards",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/nominations-open-for-2026-isle-of-man-sports-awards/",
-      "published": "2026-11-09T16:52:07+00:00",
-      "summary": "Ceremony to be held in March next year",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/352902-1.jfif"
-    },
-    {
-      "title": "Chris McCausland announces 2028 Island gig",
-      "link": "https://www.three.fm/news/isle-of-man-news/chris-mccausland-announces-2028-island-gig/",
-      "published": "2026-11-09T16:26:15+00:00",
-      "summary": "Comedian Chris McCausland will be delivering comedy to the Island when he visits in early 2028.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/66fa83454abd2.jpg"
-    },
-    {
-      "title": "Amazing Viking treasure offers new clues about early settlers",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/amazing-viking-treasure-offers-new-clues-about-early-settlers/",
-      "published": "2026-11-09T16:15:14+00:00",
-      "summary": "Weights found are the first of their type on the Island",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/352880-1.JPG"
-    },
-    {
-      "title": "Amazing Viking treasure offers new clues about early settlers - Manx Radio",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORU9sLXZuZkNPeVhaVWtjTXp0c0VuV25fNkFlSDRBdDNQWHB5VXl4SnVTUHhqa1FHb216WWRVTmJtT0pfZ2laWW9GQ015WVRwQXBscDNHYlpxQk40eV9IS1dvSDZBQ1pubW4xMEdjNVFtQ3YzOFlIWnlwaUZZRUtxRnR0WjgzcTJuWG0tNjFEbVVLcUIwbGJWVlRMUDdpdFlHeHRjUm5tVmJ6NS1IZFJ3?oc=5",
-      "published": "2026-11-09T16:15:00+00:00",
-      "summary": "Amazing Viking treasure offers new clues about early settlers Manx Radio",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Castletown announces lights Xmas switch-on date",
-      "link": "https://www.three.fm/news/isle-of-man-news/castletown-announces-lights-xmas-switch-on-date/",
-      "published": "2026-11-09T15:49:56+00:00",
-      "summary": "With the festive season fast approaching, the date's been announced for Castletown's Christmas lights switch-on.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6af1eb96bf73a96ebef.jpg"
-    },
-    {
-      "title": "Road closure extended into third month",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/road-closure-extended-into-third-month/",
-      "published": "2026-11-09T15:41:57+00:00",
-      "summary": "Wall strengthening needed before it can reopen",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/352875-1.jpg"
-    },
-    {
-      "title": "Extraordinary Viking treasure discovered on Isle of Man reveals secrets of 1,100-year-old burial - Isle of Man Today",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR203RUZtdnU0UXFyUVFYUk1OVUZyWmZGbWh4RGN3ejNJbWNoQVVyaXhjMWVCdzd0UmRMQU5jS09kaHhmWWs4dDFzWkE5UENHX0RmVUpiZXVmWFMxbW40djhyY2JvQlhITlBiV3Y2ZG5GdW4tYVdoMXBjbmxtLS14bVIyR3ZiV1dYbHVWTG9YU3RqVWkyalB1cWlEUmRBakVKaUw4Z0RRM0FMZjRFTTctdDVTdlVKdnJpR0hCYVl4emtfdlNWdzFmZ2dIbGlNWmM?oc=5",
-      "published": "2026-11-09T15:28:27+00:00",
-      "summary": "Extraordinary Viking treasure discovered on Isle of Man reveals secrets of 1,100-year-old burial Isle of Man Today",
-      "source": "Google News",
-      "image": ""
-    },
-    {
-      "title": "Isle of Man Border Division secures conviction for immigration offences",
-      "link": "https://www.gov.im/news/2026/nov/09/isle-of-man-border-division-secures-conviction-for-immigration-offences/",
-      "published": "2026-11-09T15:10:08+00:00",
-      "summary": "Work undertaken by the Isle of Man Border Division has led to the conviction of a British national following an investigation into breaches of the Island’s immigration laws. Mohammed Enayet, 56, of Preston, was convicted on 3 November 2026 of two offences under section 25 of the Immigration Act 1971, as extended to the Isle of Man. The offences related to facilitating the arrival of two individuals in the Isle of Man and their subsequent breach of immigration conditions by undertaking work contr...",
-      "source": "Isle of Man Government",
-      "image": ""
-    },
-    {
-      "title": "Council blasts toilet vandals",
-      "link": "https://www.three.fm/news/isle-of-man-news/council-blasts-toilet-vandals/",
-      "published": "2026-11-09T14:56:00+00:00",
-      "summary": "Douglas Council says it's reported vandalism at toilets in Noble's Park to police.",
-      "source": "Three FM",
-      "image": "https://mmo.aiircdn.com/5/6af1de92286cc3aa2cc.jpg"
-    },
-    {
-      "title": "Council blast damage to public toilet",
-      "link": "https://www.manxradio.com/news/isle-of-man-news/council-blast-damage-to-public-toilet/",
-      "published": "2026-11-09T14:46:38+00:00",
-      "summary": "Damage reported to police as plea for information issued",
-      "source": "Manx Radio",
-      "image": "https://s3-eu-west-1.amazonaws.com/manxradionews/352863-1.jpg"
     }
   ]
 }
